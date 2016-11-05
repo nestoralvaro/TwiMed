@@ -1,0 +1,7 @@
+T1	Disease_Symptom 119 132	Schizophrenia
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Drug 55 66	Ziprasidone
+A2	Person T2 3rd
+N2	Reference T2 Concepts:60853	Ziprasidone
+R1	Benefit Arg1:T1 Arg2:T2

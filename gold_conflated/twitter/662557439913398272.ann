@@ -1,0 +1,9 @@
+T1	Disease_Symptom 32 44	see straight
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0344232 Vs. C3665386
+T2	Drug 17 24	vyvanse
+A3	Person T2 1st
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Outcome-negative Arg1:T2 Arg2:T1

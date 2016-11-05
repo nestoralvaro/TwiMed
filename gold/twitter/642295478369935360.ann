@@ -1,0 +1,10 @@
+T1	Disease 57 67	#arthritis
+A1	Person T1 1st
+A2	Duration T1 Regular
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:C0003864	Arthritis
+T2	Drug 23 33	#cortisone
+A4	Person T2 1st
+A5	Status T2 Complete
+N2	Reference T2 Concepts:222786	Cortisone
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Disease_Symptom 54 60	hungry
+A1	Person T1 2nd
+N1	Reference T1 Concepts:C0020175	Hunger
+T2	Drug 19 26	ritalin
+A2	Polarity T2 Polarity
+A3	Person T2 2nd
+N2	Reference T2 Concepts:4158	Methylphenidate

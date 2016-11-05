@@ -1,0 +1,7 @@
+T1	Disease_Symptom 90 96	asthma
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Drug 0 11	Montelukast
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T1	Disease_Symptom 77 82	pains
+N1	Reference T1 Concepts:C0030193	Pain
+T2	Disease_Symptom 26 31	#pain
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Disease_Symptom 68 73	aches
+N3	Reference T3 Concepts:C0030193	Pain
+T4	Drug 0 8	TEGRETOL
+N4	Reference T4 Concepts:2554	Carbamazepine

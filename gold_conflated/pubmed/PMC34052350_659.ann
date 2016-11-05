@@ -1,0 +1,10 @@
+T1	Disease_Symptom 220 267	metastatic castration-resistant prostate cancer
+N1	Reference T1 Concepts:C0936223	Prostate cancer metastatic
+T2	Disease_Symptom 269 274	mCRPC
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:C0936223	Prostate cancer metastatic
+T3	Drug 210 219	docetaxel
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:3143	Docetaxel
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

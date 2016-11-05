@@ -1,0 +1,20 @@
+T1	Symptom 112 126	pee really bad
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Status T1 Complete
+A4	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0042035 Vs. -1
+T2	Drug 10 18	Provigil
+N2	Reference T2 Concepts:4236	Modafinil
+T3	Symptom 59 65	energy
+A5	Person T3 1st
+A6	Status T3 Complete
+N3	Reference T3 Concepts:C0455769	Energy increased
+T4	Drug 0 8	Adderall
+N4	Reference T4 Concepts:3007	Amphetamine
+R1	Outcome-negative Arg1:T4 Arg2:T1
+R2	Outcome-negative Arg1:T4 Arg2:T1
+R3	Reason-to-use Arg1:T3 Arg2:T2
+R4	Reason-to-use Arg1:T3 Arg2:T4
+R5	Reason-to-use Arg1:T3 Arg2:T4

@@ -1,0 +1,6 @@
+T1	Drug 45 54	Tamoxifen
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease 156 169	breast cancer
+N2	Reference T2 Concepts:C3495917	Advanced breast cancer
+T3	Symptom 0 7	Anxiety
+N3	Reference T3 Concepts:C0003467	Anxiety

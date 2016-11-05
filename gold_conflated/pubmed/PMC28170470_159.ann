@@ -1,0 +1,25 @@
+T1	Disease_Symptom 221 231	depression
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1386135 Vs. C0011570
+T2	Disease_Symptom 235 242	anxiety
+N2	Reference T2 Concepts:C0003467	Anxiety
+T3	Drug 192 202	citalopram
+N3	Reference T3 Concepts:2771	Citalopram
+T4	Disease_Symptom 124 137	cardiac death
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T4	Disagreement in concept ID: C0085298 Vs. C0376297
+T5	Disease_Symptom 124 137	cardiac death
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T5	Disagreement in concept ID: C0085298 Vs. C0376297
+T6	Drug 166 176	fluoxetine
+N6	Reference T6 Concepts:3386	Fluoxetine
+T7	Drug 63 74	venlafaxine
+N7	Reference T7 Concepts:5656	Venlafaxine
+R1	Benefit Arg1:T2 Arg2:T7
+R2	Benefit Arg1:T1 Arg2:T7
+R3	Benefit Arg1:T2 Arg2:T6
+R4	Benefit Arg1:T1 Arg2:T6
+R5	Outcome-negative Arg1:T6 Arg2:T4
+R6	Outcome-negative Arg1:T3 Arg2:T4
+R7	Benefit Arg1:T2 Arg2:T3
+R8	Benefit Arg1:T1 Arg2:T3

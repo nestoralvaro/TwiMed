@@ -1,0 +1,6 @@
+T1	Disease_Symptom 96 116	diabetic nephropathy
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0011881	Diabetic Nephropathy
+T2	Drug 27 37	lisinopril
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3937	Lisinopril

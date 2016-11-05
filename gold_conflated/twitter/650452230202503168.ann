@@ -1,0 +1,12 @@
+T1	Disease_Symptom 24 35	#depression
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Disease_Symptom 5 19	feeling #guilt
+A3	Person T2 1st
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:C0018379	Guilt
+T3	Drug 69 77	seroquel
+A5	Person T3 1st
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Benefit Arg1:T1 Arg2:T3

@@ -1,0 +1,13 @@
+T1	Disease_Symptom 128 139	neuropathic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1963916 Vs. C0442874
+T2	Drug 54 65	venlafaxine
+N2	Reference T2 Concepts:5656	Venlafaxine
+T3	Disease_Symptom 77 89	hyperalgesia
+N3	Reference T3 Concepts:C0020429	Hyperalgesia
+T4	Drug 26 36	duloxetine
+N4	Reference T4 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T4
+R3	Benefit Arg1:T3 Arg2:T2
+R4	Benefit Arg1:T3 Arg2:T4

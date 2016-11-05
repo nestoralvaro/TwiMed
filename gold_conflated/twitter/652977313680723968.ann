@@ -1,0 +1,11 @@
+T1	Drug 48 58	olanzapine
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease_Symptom 122 139	suicidal ideation
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1760428 Vs. C0235196
+T3	Disease_Symptom 26 39	schizophrenia
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:C0036341	Schizophrenia
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T1 Arg2:T2

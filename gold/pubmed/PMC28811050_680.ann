@@ -1,0 +1,7 @@
+T1	Symptom 36 45	psychosis
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0281774	Acute psychosis
+T2	Drug 122 133	fluvoxamine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T1 Arg2:T2

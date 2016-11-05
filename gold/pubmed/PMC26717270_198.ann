@@ -1,0 +1,11 @@
+T1	Drug 15 18	CBZ
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Disease 59 75	bipolar disorder
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Drug 0 13	Carbamazepine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:2554	Carbamazepine
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

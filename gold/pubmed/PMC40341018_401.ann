@@ -1,0 +1,29 @@
+T1	Drug 382 393	venlafaxine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Drug 274 284	sertraline
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5203	Sertraline
+T3	Drug 326 336	citalopram
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:2771	Citalopram
+T4	Symptom 186 204	attempting suicide
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0038663	Suicide attempt
+T5	Drug 68 78	fluoxetine
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:3386	Fluoxetine
+T6	Symptom 165 182	suicidal ideation
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:C1760428	Suicidal behaviour
+T7	Symptom 45 62	suicidal behavior
+A7	Polarity T7 Polarity
+A8	Modality T7 Generic
+N7	Reference T7 Concepts:C1760428	Suicidal behaviour
+R1	Outcome-negative Arg1:T1 Arg2:T6
+R2	Outcome-negative Arg1:T1 Arg2:T4
+R3	Outcome-negative Arg1:T3 Arg2:T6
+R4	Outcome-negative Arg1:T3 Arg2:T4
+R5	Outcome-negative Arg1:T5 Arg2:T7
+R6	Outcome-negative Arg1:T2 Arg2:T6
+R7	Outcome-negative Arg1:T2 Arg2:T4

@@ -1,0 +1,14 @@
+T1	Symptom 31 36	happy
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0235146	Euphoric mood
+T2	Symptom 80 89	depressed
+A4	Person T2 1st
+A5	Severity T2 Severe
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0344315	Depressed mood
+T3	Drug 0 7	vyvanse
+A7	Person T3 1st
+N3	Reference T3 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Outcome-negative Arg1:T3 Arg2:T2

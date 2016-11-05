@@ -1,0 +1,17 @@
+T1	Drug 127 136	Singulair
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4248	Montelukast
+T2	Symptom 45 57	stomach pain
+A2	Person T2 3rd
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:C0221512	Stomach ache
+T3	Symptom 59 67	diarrhea
+A4	Person T3 3rd
+N3	Reference T3 Concepts:C0011991	Diarrhea
+T4	Disease 33 43	depression
+A5	Person T4 3rd
+A6	Duration T4 Regular
+N4	Reference T4 Concepts:C1386135	Acute depression
+R1	Outcome-negative Arg1:T1 Arg2:T4
+R2	Outcome-negative Arg1:T1 Arg2:T2
+R3	Outcome-negative Arg1:T1 Arg2:T3

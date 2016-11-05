@@ -1,0 +1,13 @@
+T1	Drug 93 102	#Cymbalta
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease_Symptom 32 39	Vertigo
+N2	Reference T2 Concepts:C0042571	Vertigo
+T3	Disease_Symptom 44 68	"light saber" type noise
+A1	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0087169 Vs. C0220870
+T4	Disease_Symptom 0 23	Withdrawal side effects
+N4	Reference T4 Concepts:C0087169	Withdrawal Symptoms
+R1	Outcome-negative Arg1:T1 Arg2:T4
+R2	Outcome-negative Arg1:T1 Arg2:T2
+R3	Outcome-negative Arg1:T1 Arg2:T3

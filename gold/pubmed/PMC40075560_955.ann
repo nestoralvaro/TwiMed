@@ -1,0 +1,6 @@
+T1	Disease 115 129	osteoarthritis
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0003864	Arthritis
+T2	Drug 58 68	duloxetine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:60834	Duloxetine

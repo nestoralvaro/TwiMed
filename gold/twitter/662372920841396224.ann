@@ -1,0 +1,9 @@
+T1	Symptom 25 59	removed my physical ability to cry
+A1	Person T1 1st
+A2	Modality T1 Hedged
+A3	Exemplification T1 Exemplification
+N1	Reference T1 Concepts:C0085632	Indifferent mood
+T2	Drug 0 10	Citalopram
+A4	Person T2 1st
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T2 Arg2:T1

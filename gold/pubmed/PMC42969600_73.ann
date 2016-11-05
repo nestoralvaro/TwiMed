@@ -1,0 +1,14 @@
+T1	Drug 198 208	paroxetine
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease 291 316	major depressive disorder
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+T3	Drug 112 122	duloxetine
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T2 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T1

@@ -1,0 +1,6 @@
+T1	Symptom 46 56	nightmares
+N1	Reference T1 Concepts:C0028084	Nightmares
+T2	Drug 24 34	citalopram
+A1	Person T2 3rd
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T2 Arg2:T1

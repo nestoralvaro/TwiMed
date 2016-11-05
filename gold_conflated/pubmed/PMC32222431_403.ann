@@ -1,0 +1,11 @@
+T1	Disease_Symptom 875 882	myeloma
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0026764	Multiple Myeloma
+T2	Drug 266 275	melphalan
+A2	Person T2 3rd
+N2	Reference T2 Concepts:4053	Melphalan
+T3	Drug 348 357	melphalan
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4053	Melphalan
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T3

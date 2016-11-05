@@ -1,0 +1,7 @@
+T1	Symptom 56 64	Seizures
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0036572	Seizures
+T2	Drug 13 24	Lamotrigine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Reason-to-use Arg1:T1 Arg2:T2

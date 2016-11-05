@@ -1,0 +1,8 @@
+T1	Disease_Symptom 71 78	obesity
+N1	Reference T1 Concepts:C0028754	Obesity
+T2	Disease_Symptom 259 279	behavioral disorders
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0596170 Vs. C0233514
+T3	Drug 39 49	topiramate
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Benefit Arg1:T1 Arg2:T3

@@ -1,0 +1,10 @@
+T1	Disease_Symptom 68 83	pain in OA knee
+A1	Modality T1 Generic
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:C0231749	Knee pain
+T2	Drug 0 10	duloxetine
+A3	Modality T2 Generic
+A4	Duration T2 Regular
+A5	Sentiment T2 Positive
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T2

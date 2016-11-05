@@ -1,0 +1,5 @@
+T1	Drug 40 48	seroquel
+A1	Person T1 1st
+A2	Status T1 Complete
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:5002	Quetiapine

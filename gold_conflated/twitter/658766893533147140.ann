@@ -1,0 +1,10 @@
+T1	Drug 53 62	trazodone
+A1	Person T1 1st
+A2	Status T1 Complete
+N1	Reference T1 Concepts:5533	Trazodone
+T2	Disease_Symptom 10 36	sleep for __number__ hours
+A3	Person T2 1st
+A4	Status T2 Complete
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C2830004 Vs. C0541854
+R1	Outcome-negative Arg1:T1 Arg2:T2

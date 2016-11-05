@@ -1,0 +1,11 @@
+T1	Disease_Symptom 87 108	best sleep of my life
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C2830004 Vs. C0541854
+T2	Disease_Symptom 64 73	knock out
+A3	Person T2 1st
+N2	Reference T2 Concepts:C2830004	Somnolence
+T3	Drug 10 19	trazodone
+A4	Modality T3 Hypothetical
+N3	Reference T3 Concepts:5533	Trazodone

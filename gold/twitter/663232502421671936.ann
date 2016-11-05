@@ -1,0 +1,7 @@
+T1	Drug 60 73	Carbamazepine
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Symptom 31 38	seizure
+A1	Person T2 3rd
+A2	Status T2 Continuing
+N2	Reference T2 Concepts:C0036572	Seizures
+R1	Reason-to-use Arg1:T2 Arg2:T1

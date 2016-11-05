@@ -1,0 +1,4 @@
+T1	Disease_Symptom 172 178	asthma
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Drug 138 148	montelukas
+N2	Reference T2 Concepts:4248	Montelukast

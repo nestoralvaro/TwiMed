@@ -1,0 +1,12 @@
+T1	Symptom 37 44	emotion
+A1	Person T1 2nd
+N1	Reference T1 Concepts:C0233459	Emotional disorder
+T2	Symptom 67 89	you just hate everyone
+A2	Person T2 2nd
+N2	Reference T2 Concepts:C0233459	Emotional disorder
+T3	Drug 0 7	Vyvanse
+A3	Person T3 2nd
+A4	Sentiment T3 Positive
+N3	Reference T3 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

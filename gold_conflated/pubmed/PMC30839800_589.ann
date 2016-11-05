@@ -1,0 +1,11 @@
+T1	Disease_Symptom 88 99	weight gain
+A1	Severity T1 Mild
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0043094 Vs. C0043096
+T2	Disease_Symptom 109 128	prolactin elevation
+A2	Severity T2 Mild
+N2	Reference T2 Concepts:C0747979	Increased prolactin level
+T3	Drug 33 44	ziprasidone
+N3	Reference T3 Concepts:60853	Ziprasidone
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

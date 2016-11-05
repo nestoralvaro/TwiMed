@@ -1,0 +1,12 @@
+T1	Symptom 145 155	#addiction
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1510472 Vs. C0524662
+T2	Drug 118 129	lamotrigine
+A1	Person T2 1st
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Symptom 27 31	pain
+A2	Person T3 1st
+A3	Duration T3 Regular
+A4	Severity T3 Severe
+N3	Reference T3 Concepts:C0030193	Pain
+R1	Reason-to-use Arg1:T3 Arg2:T2

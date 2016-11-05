@@ -1,0 +1,5 @@
+T1	Drug 59 72	ciprofloxacin
+N1	Reference T1 Concepts:2764	Ciprofloxacin
+T2	Disease_Symptom 0 8	Diarrhea
+A1	Status T2 Complete
+N2	Reference T2 Concepts:C0011991	Diarrhea

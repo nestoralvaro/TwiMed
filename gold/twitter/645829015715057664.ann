@@ -1,0 +1,9 @@
+T1	Drug 58 67	trazodone
+A1	Person T1 1st
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:5533	Trazodone
+T2	Symptom 18 23	sleep
+A3	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0917801 Vs. C0851578
+R1	Reason-to-use Arg1:T2 Arg2:T1

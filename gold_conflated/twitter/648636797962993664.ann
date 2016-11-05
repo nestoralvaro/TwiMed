@@ -1,0 +1,10 @@
+T1	Drug 25 33	seroquel
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 4 23	falling back asleep
+A3	Person T2 1st
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0013144 Vs. C2830004
+R1	Outcome-negative Arg1:T1 Arg2:T2

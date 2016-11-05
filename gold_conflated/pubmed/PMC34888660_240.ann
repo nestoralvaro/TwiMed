@@ -1,0 +1,21 @@
+T1	Disease_Symptom 119 123	ADHD
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Disease_Symptom 79 85	weight
+A3	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0041667 Vs. C0043096
+T3	Disease_Symptom 62 67	sleep
+A4	Person T3 3rd
+N3	Reference T3 Concepts:C0851578	Sleep Disorders
+T4	Disease_Symptom 69 77	appetite
+A5	Person T4 3rd
+N4	Reference T4 Concepts:C0232462	Decrease in appetite
+T5	Drug 33 40	ritalin
+A6	Person T5 3rd
+N5	Reference T5 Concepts:4158	Methylphenidate
+R1	Benefit Arg1:T1 Arg2:T5
+R2	Outcome-negative Arg1:T5 Arg2:T3
+R3	Outcome-negative Arg1:T5 Arg2:T4
+R4	Outcome-negative Arg1:T5 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Disease 163 173	anticancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0007097	Carcinoma
+T2	Drug 187 196	tamoxifen
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Reason-to-use Arg1:T1 Arg2:T2

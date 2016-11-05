@@ -1,0 +1,9 @@
+T1	Disease_Symptom 127 147	thromboembolic event
+A1	Modality T1 Hedged
+N1	Reference T1 Concepts:C0857496	Thromboembolic event
+T2	Disease_Symptom 160 178	hyperprolactinemia
+N2	Reference T2 Concepts:C0020514	Hyperprolactinemia
+T3	Drug 44 54	paroxetine
+A2	Modality T3 Hedged
+N3	Reference T3 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T3 Arg2:T1

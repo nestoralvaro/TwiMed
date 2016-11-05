@@ -1,0 +1,13 @@
+T1	Disease_Symptom 21 32	inattention
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0233414 Vs. C1263846
+T2	Drug 174 181	Ritalin
+A2	Person T2 3rd
+N2	Reference T2 Concepts:4158	Methylphenidate
+T3	Disease_Symptom 37 50	hyperactivity
+A3	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0424295 Vs. C1263846
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

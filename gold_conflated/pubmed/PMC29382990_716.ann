@@ -1,0 +1,20 @@
+T1	Disease_Symptom 117 133	bipolar disorder
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Disease_Symptom 45 70	alters sleep architecture
+A3	Person T2 3rd
+A4	Modality T2 Generic
+A5	Exemplification T2 Exemplification
+N2	Reference T2 Concepts:C0851578	Sleep Disorders
+T3	Disease_Symptom 88 113	major depressive disorder
+A6	Person T3 3rd
+A7	Modality T3 Generic
+N3	Reference T3 Concepts:C1269683	Major Depressive Disorder
+T4	Drug 24 34	quetiapine
+A8	Person T4 3rd
+A9	Modality T4 Generic
+N4	Reference T4 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

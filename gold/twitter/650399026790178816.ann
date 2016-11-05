@@ -1,0 +1,5 @@
+T1	Symptom 57 69	chronic pain
+N1	Reference T1 Concepts:C0150055	Chronic pain
+T2	Drug 41 54	buprenorphine
+N2	Reference T2 Concepts:2476	Buprenorphine
+R1	Reason-to-use Arg1:T1 Arg2:T2

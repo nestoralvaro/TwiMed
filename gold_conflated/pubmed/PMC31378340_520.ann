@@ -1,0 +1,15 @@
+T1	Disease_Symptom 295 319	epidural spinal hematoma
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0018944	Hematoma
+T2	Disease_Symptom 268 290	mucocutaneous bleeding
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C1458140	Bleeding tendency
+T3	Drug 119 129	quetiapine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5002	Quetiapine
+T4	Drug 201 211	citalopram
+A4	Person T4 3rd
+N4	Reference T4 Concepts:2771	Citalopram
+T5	Disease_Symptom 65 85	deep vein thrombosis
+A5	Person T5 3rd
+N5	Reference T5 Concepts:C0149871	Deep Vein Thrombosis

@@ -1,0 +1,16 @@
+T1	Disease_Symptom 31 42	withdrawals
+A1	Person T1 3rd
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Disease_Symptom 120 133	feeling worse
+A3	Person T2 1st
+A4	Exemplification T2 Exemplification
+A5	Status T2 Continuing
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0087169	Withdrawal Symptoms
+T3	Drug 20 30	citalopram
+A7	Person T3 3rd
+A8	Modality T3 Hypothetical
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

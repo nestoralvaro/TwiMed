@@ -1,0 +1,15 @@
+T1	Drug 17 25	cymbalta
+A1	Modality T1 Generic
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease_Symptom 61 69	allergic
+A3	Person T2 2nd
+A4	Severity T2 Severe
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0149526 Vs. C0851444
+T3	Disease_Symptom 0 10	Depression
+A5	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C1386135 Vs. C0086132
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T1 Arg2:T2

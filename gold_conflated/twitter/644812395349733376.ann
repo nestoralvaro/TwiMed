@@ -1,0 +1,9 @@
+T1	Disease_Symptom 76 81	awake
+A1	Person T1 1st
+A2	Status T1 Continuing
+A3	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 91 98	Ritalin
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:4158	Methylphenidate
+R1	Benefit Arg1:T1 Arg2:T2

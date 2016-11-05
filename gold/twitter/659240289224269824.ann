@@ -1,0 +1,15 @@
+T1	Drug 30 40	Prednisone
+A1	Person T1 1st
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Drug 60 70	prednisone
+A2	Person T2 1st
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:4900	Prednisone
+T3	Symptom 15 20	awake
+A4	Person T3 1st
+A5	Status T3 Continuing
+A6	Sentiment T3 Negative
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0043012 Vs. C0917801
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T2 Arg2:T3

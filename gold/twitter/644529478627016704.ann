@@ -1,0 +1,15 @@
+T1	Symptom 122 132	aggression
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0001807 Vs. C1457883
+T2	Disease 59 79	childhood depression
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0005587
+T3	Symptom 104 111	suicide
+A1	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T3	Disagreement in concept ID: C0038661 Vs. C0235196
+T4	Drug 0 10	Paroxetine
+A2	Modality T4 Generic
+N4	Reference T4 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T4 Arg2:T3
+R2	Outcome-negative Arg1:T4 Arg2:T1

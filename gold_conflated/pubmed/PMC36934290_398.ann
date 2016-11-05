@@ -1,0 +1,17 @@
+T1	Disease_Symptom 158 173	sleep disorders
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0851578	Sleep Disorders
+T2	Disease_Symptom 191 194	MDD
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+T3	Disease_Symptom 52 62	depression
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:C1386135	Acute depression
+T4	Drug 102 111	trazodone
+A3	Person T4 3rd
+N4	Reference T4 Concepts:5533	Trazodone
+T5	Drug 9 18	trazodone
+A4	Modality T5 Generic
+N5	Reference T5 Concepts:5533	Trazodone
+R1	Benefit Arg1:T3 Arg2:T5
+R2	Benefit Arg1:T2 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

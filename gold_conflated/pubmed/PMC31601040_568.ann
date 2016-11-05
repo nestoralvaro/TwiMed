@@ -1,0 +1,11 @@
+T1	Disease_Symptom 59 71	galactorrhea
+N1	Reference T1 Concepts:C0235660	Galactorrhea not associated with childbirth
+T2	Disease_Symptom 7 16	mydriasis
+N2	Reference T2 Concepts:C0026961	Mydriasis
+T3	Disease_Symptom 21 42	neuritis nervi optici
+N3	Reference T3 Concepts:C0029134	Optic Neuritis
+T4	Drug 82 92	citalopram
+N4	Reference T4 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T4 Arg2:T1
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T2

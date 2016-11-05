@@ -1,0 +1,13 @@
+T1	Drug 108 119	Bevacizumab
+A1	Person T1 3rd
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease_Symptom 25 53	Metastatic Colorectal Cancer
+A2	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0034882 Vs. C0007097
+T3	Disease_Symptom 25 53	Metastatic Colorectal Cancer
+A3	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C1384494 Vs. C0007097
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T1

@@ -1,0 +1,7 @@
+T1	Disease_Symptom 114 124	depression
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 49 59	citalopram
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Benefit Arg1:T1 Arg2:T2

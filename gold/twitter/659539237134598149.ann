@@ -1,0 +1,9 @@
+T1	Symptom 66 71	anger
+A1	Severity T1 Severe
+N1	Reference T1 Concepts:C0002957	Anger
+T2	Symptom 76 80	rage
+N2	Reference T2 Concepts:C0034634	Rage
+T3	Drug 5 12	ritalin
+N3	Reference T3 Concepts:4158	Methylphenidate
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

@@ -1,0 +1,12 @@
+T1	Disease_Symptom 30 35	awake
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Disease_Symptom 90 105	#BipolarDisorde
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Drug 68 76	Seroquel
+A3	Person T3 1st
+A4	Sentiment T3 Negative
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

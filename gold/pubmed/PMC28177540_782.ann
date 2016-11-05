@@ -1,0 +1,20 @@
+T1	Drug 199 208	tamoxifen
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease 223 236	breast cancer
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C3495917	Advanced breast cancer
+T3	Drug 34 43	tamoxifen
+A5	Modality T3 Generic
+N3	Reference T3 Concepts:5376	Tamoxifen
+T4	Disease 76 118	increased risk of death from breast cancer
+A6	Modality T4 Generic
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T4	Disagreement in concept ID: C1306577 Vs. C3495917
+T5	Drug 12 22	Paroxetine
+A7	Modality T5 Generic
+N5	Reference T5 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T5 Arg2:T4
+R2	Reason-to-use Arg1:T2 Arg2:T1

@@ -1,0 +1,11 @@
+T1	Drug 59 70	lamotrigine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 99 115	neuropathic pain
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1963916	Diabetic peripheral neuropathic pain
+T3	Drug 33 46	carbamazepine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:2554	Carbamazepine
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

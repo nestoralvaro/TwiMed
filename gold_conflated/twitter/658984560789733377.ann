@@ -1,0 +1,9 @@
+T1	Disease_Symptom 106 122	major depressive
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1269683 Vs. C0024517
+T2	Drug 46 56	quetiapine
+A3	Person T2 1st
+A4	Status T2 Complete
+N2	Reference T2 Concepts:5002	Quetiapine

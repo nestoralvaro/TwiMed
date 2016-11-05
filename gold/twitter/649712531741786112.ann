@@ -1,0 +1,6 @@
+T1	Drug 58 66	lamictal
+A1	Polarity T1 Polarity
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 25 41	mood instability
+A2	Severity T2 Severe
+N2	Reference T2 Concepts:C0085633	Mood swings

@@ -1,0 +1,9 @@
+T1	Drug 43 54	venlafaxine
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Drug 85 94	tamoxifen
+N2	Reference T2 Concepts:5376	Tamoxifen
+T3	Drug 66 76	fluoxetine
+N3	Reference T3 Concepts:3386	Fluoxetine
+T4	Symptom 105 116	hot flushes
+N4	Reference T4 Concepts:C0600142	Hot flushes
+R1	Reason-to-use Arg1:T4 Arg2:T1

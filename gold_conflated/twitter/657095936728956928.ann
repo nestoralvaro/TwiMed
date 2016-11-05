@@ -1,0 +1,10 @@
+T1	Disease_Symptom 26 57	an exam which I haven't studied
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Duration T1 Irregular
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 104 114	#modafinil
+A4	Person T2 1st
+A5	Duration T2 Irregular
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Benefit Arg1:T1 Arg2:T2

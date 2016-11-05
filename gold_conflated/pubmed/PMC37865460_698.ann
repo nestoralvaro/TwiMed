@@ -1,0 +1,15 @@
+T1	Disease_Symptom 181 191	overweight
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0028754 Vs. C0043094
+T2	Disease_Symptom 196 201	obese
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C0028754	Obesity
+T3	Drug 95 105	topiramate
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

@@ -1,0 +1,9 @@
+T1	Drug 0 11	Ziprasidone
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Disease 44 51	bipolar
+A3	Person T2 3rd
+A4	Severity T2 Severe
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

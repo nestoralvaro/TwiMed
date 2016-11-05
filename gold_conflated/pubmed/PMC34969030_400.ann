@@ -1,0 +1,12 @@
+T1	Disease_Symptom 77 91	mood disorders
+N1	Reference T1 Concepts:C0525045	Mood Disorders
+T2	Drug 140 150	Duloxetine
+A1	Person T2 3rd
+A2	Duration T2 Regular
+N2	Reference T2 Concepts:60834	Duloxetine
+T3	Disease_Symptom 62 69	anxiety
+A3	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0003469 Vs. C0003467
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T1	Drug 32 40	seroquel
+A1	Person T1 1st
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 9 17	to sleep
+A2	Person T2 1st
+N2	Reference T2 Concepts:C2830004	Somnolence

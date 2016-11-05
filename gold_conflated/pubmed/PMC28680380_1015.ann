@@ -1,0 +1,7 @@
+T1	Disease_Symptom 96 105	akathisia
+A1	Modality T1 Hedged
+N1	Reference T1 Concepts:C0392156	Akathisia
+T2	Drug 41 52	fluvoxamine
+A2	Modality T2 Hedged
+N2	Reference T2 Concepts:3404	Fluvoxamine
+R1	Benefit Arg1:T1 Arg2:T2

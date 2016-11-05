@@ -1,0 +1,13 @@
+T1	Symptom 67 77	brain zaps
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0262405
+T2	Symptom 80 95	muscle twitches
+N2	Reference T2 Concepts:C0231530	Muscle twitch
+T3	Drug 35 40	Paxil
+A1	Person T3 1st
+A2	Sentiment T3 Negative
+N3	Reference T3 Concepts:4691	Paroxetine
+T4	Symptom 9 22	panic attacks
+A3	Person T4 1st
+N4	Reference T4 Concepts:C0086769	Panic Attacks
+R1	Reason-to-use Arg1:T4 Arg2:T3

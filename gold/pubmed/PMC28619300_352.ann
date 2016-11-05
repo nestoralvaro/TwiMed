@@ -1,0 +1,7 @@
+T1	Disease 146 154	glaucoma
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0017601	Glaucoma
+T2	Drug 90 103	triamcinolone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Reason-to-use Arg1:T1 Arg2:T2

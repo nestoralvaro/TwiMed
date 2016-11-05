@@ -1,0 +1,11 @@
+T1	Symptom 84 100	tiredness blinds
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C2830004 Vs. C0013144
+T2	Symptom 40 45	sleep
+N2	Reference T2 Concepts:C2830004	Somnolence
+T3	Symptom 62 79	stop making sense
+A1	Exemplification T3 Exemplification
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C2830004 Vs. C0344315
+T4	Drug 29 39	olanzapine
+N4	Reference T4 Concepts:4585	Olanzapine

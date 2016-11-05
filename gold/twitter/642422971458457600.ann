@@ -1,0 +1,6 @@
+T1	Symptom 86 96	head hurts
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0018681	Headache
+T2	Drug 69 77	ProVigil
+N2	Reference T2 Concepts:4236	Modafinil

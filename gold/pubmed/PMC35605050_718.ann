@@ -1,0 +1,26 @@
+T1	Disease 238 253	atherosclerosis
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0003850	Arteriosclerosis
+T2	Disease 205 215	depression
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Symptom 217 236	platelet activation
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0151854 Vs. -1
+T4	Drug 53 63	citalopram
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:2771	Citalopram
+T5	Drug 26 36	paroxetine
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:4691	Paroxetine
+T6	Drug 38 48	sertraline
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:5203	Sertraline
+T7	Drug 14 24	fluoxetine
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:3386	Fluoxetine
+R1	Reason-to-use Arg1:T2 Arg2:T7
+R2	Reason-to-use Arg1:T2 Arg2:T4
+R3	Reason-to-use Arg1:T2 Arg2:T6
+R4	Reason-to-use Arg1:T2 Arg2:T5

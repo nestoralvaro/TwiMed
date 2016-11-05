@@ -1,0 +1,5 @@
+T1	Symptom 77 89	suicide risk
+N1	Reference T1 Concepts:C0235196	Suicidal tendency
+T2	Drug 59 64	Paxil
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

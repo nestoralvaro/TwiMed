@@ -1,0 +1,11 @@
+T1	Disease_Symptom 62 72	depression
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Disease_Symptom 112 115	TBI
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0270611	Brain Injuries
+T3	Drug 0 10	Sertraline
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:5203	Sertraline
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

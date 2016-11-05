@@ -1,0 +1,12 @@
+T1	Drug 192 204	levofloxacin
+A1	Person T1 3rd
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease_Symptom 87 103	MAC lung disease
+A2	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0024115 Vs. C0876973
+T3	Disease_Symptom 91 103	lung disease
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0024115	Lung diseases
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T1

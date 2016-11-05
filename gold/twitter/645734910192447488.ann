@@ -1,0 +1,6 @@
+T1	Drug 85 93	Lamictal
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 61 74	#migraineaura
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0149931 Vs. C0236018
+R1	Reason-to-use Arg1:T2 Arg2:T1

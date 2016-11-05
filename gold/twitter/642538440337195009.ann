@@ -1,0 +1,5 @@
+T1	Disease 29 38	pneumonia
+N1	Reference T1 Concepts:C0032285	Pneumonia
+T2	Drug 16 24	levaquin
+N2	Reference T2 Concepts:4583	ofloxacin
+R1	Reason-to-use Arg1:T1 Arg2:T2

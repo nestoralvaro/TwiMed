@@ -1,0 +1,7 @@
+T1	Disease_Symptom 20 25	manic
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0338831	Manic
+T2	Drug 0 10	Olanzapine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T2

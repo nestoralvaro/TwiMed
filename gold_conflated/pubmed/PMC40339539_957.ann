@@ -1,0 +1,16 @@
+T1	Drug 298 309	montelukast
+A1	Person T1 3rd
+A2	Status T1 Complete
+N1	Reference T1 Concepts:4248	Montelukast
+T2	Drug 138 149	montelukast
+A3	Person T2 3rd
+N2	Reference T2 Concepts:4248	Montelukast
+T3	Drug 212 223	montelukast
+A4	Person T3 3rd
+N3	Reference T3 Concepts:4248	Montelukast
+T4	Disease_Symptom 60 66	asthma
+A5	Person T4 3rd
+N4	Reference T4 Concepts:C0004096	Asthma
+R1	Benefit Arg1:T4 Arg2:T1
+R2	Benefit Arg1:T4 Arg2:T2
+R3	Benefit Arg1:T4 Arg2:T3

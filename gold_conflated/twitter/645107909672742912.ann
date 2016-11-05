@@ -1,0 +1,4 @@
+T1	Disease_Symptom 21 31	drowsiness
+N1	Reference T1 Concepts:C0013144	Drowsiness
+T2	Drug 95 105	citalopram
+N2	Reference T2 Concepts:2771	Citalopram

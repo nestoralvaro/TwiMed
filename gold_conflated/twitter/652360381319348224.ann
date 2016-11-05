@@ -1,0 +1,8 @@
+T1	Drug 37 43	Avelox
+N1	Reference T1 Concepts:4259	moxifloxacin
+T2	Disease_Symptom 102 125	#peripheral #neuropathy
+N2	Reference T2 Concepts:C0031117	Peripheral Neuropathy
+T3	Drug 27 35	Levaquin
+N3	Reference T3 Concepts:4583	ofloxacin
+R1	Outcome-negative Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T2

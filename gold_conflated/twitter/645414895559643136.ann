@@ -1,0 +1,5 @@
+T1	Disease_Symptom 73 77	rash
+N1	Reference T1 Concepts:C0497364	Localized rash
+T2	Drug 64 72	lamictal
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T2 Arg2:T1

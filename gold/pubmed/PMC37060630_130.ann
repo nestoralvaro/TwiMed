@@ -1,0 +1,7 @@
+T1	Disease 116 120	ADHD
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 126 134	Adderall
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3007	Amphetamine
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Drug 37 43	Celexa
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Symptom 89 108	withdrawal symptoms
+N2	Reference T2 Concepts:C0087169	Withdrawal Symptoms
+T3	Drug 20 28	cymbalta
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T1 Arg2:T2

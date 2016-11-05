@@ -1,0 +1,25 @@
+T1	Symptom 217 226	dizziness
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0012833	Dizziness
+T2	Symptom 189 201	constipation
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0009806	Constipation
+T3	Symptom 203 211	insomnia
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0393761 Vs. C0393760
+T4	Symptom 170 176	nausea
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0027497	Nausea
+T5	Symptom 178 187	dry mouth
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T5	Disagreement in concept ID: C1579838 Vs. -1
+T6	Drug 0 10	Duloxetine
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T6 Arg2:T2
+R2	Outcome-negative Arg1:T6 Arg2:T3
+R3	Outcome-negative Arg1:T6 Arg2:T1
+R4	Outcome-negative Arg1:T6 Arg2:T4
+R5	Outcome-negative Arg1:T6 Arg2:T5

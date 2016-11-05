@@ -1,0 +1,10 @@
+T1	Disease_Symptom 52 60	headache
+A1	Person T1 1st
+A2	Status T1 Continuing
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0018681	Headache
+T2	Drug 32 38	Zoloft
+A4	Person T2 1st
+A5	Status T2 Complete
+N2	Reference T2 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T2 Arg2:T1

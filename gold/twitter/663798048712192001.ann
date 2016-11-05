@@ -1,0 +1,9 @@
+T1	Symptom 3 9	sleepy
+A1	Severity T1 Severe
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Disease 26 40	#schizophrenia
+N2	Reference T2 Concepts:C0036341	Schizophrenia
+T3	Drug 16 24	#Zyprexa
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

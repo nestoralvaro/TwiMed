@@ -1,0 +1,10 @@
+T1	Disease_Symptom 380 403	ventricular arrhythmias
+N1	Reference T1 Concepts:C0085612	Ventricular arrhythmia
+T2	Disease_Symptom 317 328	arrhythmias
+N2	Reference T2 Concepts:C0003811	Cardiac Arrhythmia
+T3	Drug 334 345	montelukast
+N3	Reference T3 Concepts:4248	Montelukast
+T4	Disease_Symptom 268 291	ventricular tachycardia
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T4	Disagreement in concept ID: C0750197 Vs. C0039240
+R1	Benefit Arg1:T1 Arg2:T3

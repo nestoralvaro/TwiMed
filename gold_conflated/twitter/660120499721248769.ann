@@ -1,0 +1,15 @@
+T1	Disease_Symptom 80 92	affect sleep
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C0851578	Sleep Disorders
+T2	Disease_Symptom 126 156	my sleep was worse than normal
+A2	Person T2 1st
+A3	Exemplification T2 Exemplification
+A4	Duration T2 Irregular
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0917801 Vs. C0851578
+T3	Drug 26 36	sertraline
+A6	Modality T3 Hypothetical
+N3	Reference T3 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

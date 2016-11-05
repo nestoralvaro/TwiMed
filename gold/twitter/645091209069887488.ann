@@ -1,0 +1,7 @@
+T1	Symptom 32 37	sleep
+A1	Polarity T1 Polarity
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C2830004 Vs. C0917801
+T2	Drug 18 28	Prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

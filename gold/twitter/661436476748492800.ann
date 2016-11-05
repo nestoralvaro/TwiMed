@@ -1,0 +1,8 @@
+T1	Symptom 168 184	#anxietyproblems
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0003467 Vs. C0003469
+T2	Drug 59 64	Paxil
+A2	Person T2 1st
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

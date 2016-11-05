@@ -1,0 +1,8 @@
+T1	Disease_Symptom 96 105	psychosis
+A1	Modality T1 Hedged
+N1	Reference T1 Concepts:C0281774	Acute psychosis
+T2	Drug 35 44	modafinil
+A2	Duration T2 Regular
+A3	Status T2 Continuing
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Outcome-negative Arg1:T2 Arg2:T1

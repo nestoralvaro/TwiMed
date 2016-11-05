@@ -1,0 +1,9 @@
+T1	Drug 238 247	#cymbalta
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Symptom 248 260	#withdrawals
+N2	Reference T2 Concepts:C0087169	Withdrawal Symptoms
+T3	Drug 0 8	Cymbalta
+A1	Person T3 1st
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T1 Arg2:T2

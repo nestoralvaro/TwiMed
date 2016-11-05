@@ -1,0 +1,1 @@
+It illustrates the application of MA models with the open-source software R using publicly available data from five studies on lamotrigine to treat bipolar depression and finds that meta-analysis identifies a statistically significant advantage of lamotrigine over placebo that was not evident in the individual studies.

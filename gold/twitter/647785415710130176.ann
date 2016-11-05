@@ -1,0 +1,12 @@
+T1	Symptom 16 26	joint pain
+A1	Person T1 2nd
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C0030193	Pain
+T2	Drug 32 42	#Tamoxifen
+A3	Person T2 2nd
+A4	Modality T2 Hypothetical
+N2	Reference T2 Concepts:5376	Tamoxifen
+T3	Disease 80 93	#breastcancer
+N3	Reference T3 Concepts:C3495917	Advanced breast cancer
+R1	Reason-to-use Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T2 Arg2:T1

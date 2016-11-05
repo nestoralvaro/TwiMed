@@ -1,0 +1,7 @@
+T1	Disease_Symptom 27 34	anxiety
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Drug 17 22	Paxil
+A2	Modality T2 Hypothetical
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Benefit Arg1:T1 Arg2:T2

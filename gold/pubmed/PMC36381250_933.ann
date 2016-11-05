@@ -1,0 +1,11 @@
+T1	Disease 84 97	breast cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C3495917 Vs. C0678222
+T2	Disease 256 274	endometrial cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0476089	Endometrial Carcinoma
+T3	Drug 53 62	tamoxifen
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:5376	Tamoxifen
+R1	Reason-to-use Arg1:T1 Arg2:T3

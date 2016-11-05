@@ -1,0 +1,10 @@
+T1	Disease_Symptom 133 154	anticonvulsant action
+N1	Reference T1 Concepts:C0751494	Convulsive Seizures
+T2	Disease_Symptom 173 186	antiepileptic
+N2	Reference T2 Concepts:C0014544	Epilepsy
+T3	Drug 200 213	carbamazepine
+N3	Reference T3 Concepts:2554	Carbamazepine
+T4	Drug 66 75	modafinil
+N4	Reference T4 Concepts:4236	Modafinil
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3

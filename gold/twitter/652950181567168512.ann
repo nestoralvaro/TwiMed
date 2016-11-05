@@ -1,0 +1,7 @@
+T1	Drug 121 131	LISINOPRIL
+A1	Person T1 1st
+N1	Reference T1 Concepts:3937	Lisinopril
+T2	Symptom 81 100	High Blood Pressure
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0497247	Increase in blood pressure
+R1	Reason-to-use Arg1:T2 Arg2:T1

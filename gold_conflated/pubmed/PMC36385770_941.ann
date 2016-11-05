@@ -1,0 +1,9 @@
+T1	Disease_Symptom 91 109	nephrotic syndrome
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0027726	Nephrotic Syndrome
+T2	Drug 124 134	prednisone
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T2

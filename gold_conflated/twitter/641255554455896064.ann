@@ -1,0 +1,10 @@
+T1	Disease_Symptom 21 28	happier
+A1	Person T1 1st
+A2	Status T1 Continuing
+A3	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0233479	Elevated mood
+T2	Drug 54 65	Lamotrigine
+A4	Person T2 1st
+A5	Status T2 Complete
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:3878	Lamotrigine

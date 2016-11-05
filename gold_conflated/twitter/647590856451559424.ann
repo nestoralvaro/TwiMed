@@ -1,0 +1,17 @@
+T1	Disease_Symptom 71 95	joint pain in my fingers
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0409497 Vs. C0003873
+T2	Disease_Symptom 118 124	#rheum
+N2	Reference T2 Concepts:C0003873	Rheumatoid Arthritis
+T3	Disease_Symptom 14 24	withdrawal
+A3	Person T3 1st
+A4	Status T3 Complete
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0087169 Vs. C0152128
+T4	Drug 3 13	prednisone
+A5	Person T4 1st
+N4	Reference T4 Concepts:4900	Prednisone
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Outcome-negative Arg1:T4 Arg2:T3

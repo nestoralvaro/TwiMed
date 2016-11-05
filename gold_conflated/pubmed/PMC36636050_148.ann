@@ -1,0 +1,29 @@
+T1	Drug 273 284	lamotrigine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Drug 204 214	olanzapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine
+T3	Drug 215 225	fluoxetine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3386	Fluoxetine
+T4	Drug 179 190	lamotrigine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:3878	Lamotrigine
+T5	Drug 192 202	quetiapine
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:5002	Quetiapine
+T6	Drug 110 123	carbamazepine
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:2554	Carbamazepine
+T7	Disease_Symptom 159 177	bipolar depression
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:C0005587	Depression, Bipolar
+T8	Disease_Symptom 76 87	acute mania
+A8	Modality T8 Generic
+N8	Reference T8 Concepts:C0235165	Mania acute
+R1	Benefit Arg1:T7 Arg2:T2
+R2	Benefit Arg1:T7 Arg2:T3
+R3	Benefit Arg1:T8 Arg2:T6
+R4	Benefit Arg1:T7 Arg2:T4
+R5	Benefit Arg1:T7 Arg2:T5

@@ -1,0 +1,11 @@
+T1	Drug 104 113	#lamictal
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Disease_Symptom 78 94	absence seizures
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0014553 Vs. C0036572
+T3	Disease_Symptom 39 48	#epilepsy
+N3	Reference T3 Concepts:C0014544	Epilepsy
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T1

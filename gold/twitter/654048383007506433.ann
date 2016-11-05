@@ -1,0 +1,10 @@
+T1	Symptom 109 114	cough
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0010200	Coughing
+T2	Drug 50 59	Singulair
+A3	Person T2 1st
+A4	Status T2 Continuing
+A5	Sentiment T2 Positive
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Outcome-negative Arg1:T2 Arg2:T1

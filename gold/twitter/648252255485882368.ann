@@ -1,0 +1,7 @@
+T1	Drug 36 44	#Topamax
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Symptom 4 18	face twitching
+A1	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0278151 Vs. C0040822
+R1	Outcome-negative Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Disease 61 77	ANXIETY DISORDER
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0003469	Anxiety Disorders
+T2	Drug 24 34	CITALOPRAM
+A2	Person T2 1st
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Reason-to-use Arg1:T1 Arg2:T2

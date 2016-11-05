@@ -1,0 +1,6 @@
+T1	Disease 144 159	prostate cancer
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0600139 Vs. C0936223
+T2	Drug 47 56	docetaxel
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Reason-to-use Arg1:T1 Arg2:T2

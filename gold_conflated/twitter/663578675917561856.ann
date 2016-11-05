@@ -1,0 +1,8 @@
+T1	Disease_Symptom 51 59	migraine
+N1	Reference T1 Concepts:C0149931	Migraine Disorders
+T2	Disease_Symptom 64 69	sleep
+N2	Reference T2 Concepts:C2830004	Somnolence
+T3	Drug 23 30	Zyprexa
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

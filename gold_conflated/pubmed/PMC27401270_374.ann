@@ -1,0 +1,12 @@
+T1	Disease_Symptom 122 151	obsessive-compulsive symptoms
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0600104 Vs. C0028768
+T2	Disease_Symptom 157 172	eating disorder
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0596170	Binge eating disorder
+T3	Drug 38 48	topiramate
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

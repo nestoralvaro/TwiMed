@@ -1,0 +1,14 @@
+T1	Symptom 23 33	swollen up
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0038999 Vs. C1291077
+T2	Symptom 41 55	helium balloon
+A2	Person T2 1st
+A3	Exemplification T2 Exemplification
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0038999 Vs. C1291077
+T3	Drug 5 15	prednisone
+A4	Person T3 1st
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

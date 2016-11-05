@@ -1,0 +1,26 @@
+T1	Drug 122 132	Fluoxetine
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:3386	Fluoxetine
+T2	Disease_Symptom 13 29	anti-depressants
+A3	Person T2 1st
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Drug 84 90	Zoloft
+A4	Person T3 1st
+A5	Duration T3 Regular
+A6	Status T3 Complete
+N3	Reference T3 Concepts:5203	Sertraline
+T4	Drug 92 100	Cymbalta
+A7	Person T4 1st
+A8	Duration T4 Regular
+A9	Status T4 Complete
+N4	Reference T4 Concepts:60834	Duloxetine
+T5	Drug 60 70	citalopram
+A10	Person T5 1st
+A11	Duration T5 Regular
+A12	Status T5 Complete
+N5	Reference T5 Concepts:2771	Citalopram
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T5
+R3	Benefit Arg1:T2 Arg2:T3
+R4	Benefit Arg1:T2 Arg2:T4

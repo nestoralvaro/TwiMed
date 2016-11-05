@@ -1,0 +1,9 @@
+T1	Drug 64 72	suboxone
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:2476	Buprenorphine
+T2	Disease_Symptom 33 43	heart burn
+A3	Polarity T2 Polarity
+A4	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0018834 Vs. C0038354

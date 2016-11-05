@@ -1,0 +1,10 @@
+T1	Disease_Symptom 84 93	headaches
+A1	Person T1 1st
+A2	Duration T1 Regular
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:C0018681	Headache
+T2	Drug 31 39	lamictal
+A4	Person T2 1st
+A5	Modality T2 Hedged
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T2 Arg2:T1

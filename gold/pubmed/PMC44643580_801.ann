@@ -1,0 +1,11 @@
+T1	Drug 211 221	olanzapine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Symptom 105 116	weight gain
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0043094	Weight Gain
+T3	Drug 11 22	ziprasidone
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:60853	Ziprasidone
+R1	Outcome-negative Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T2

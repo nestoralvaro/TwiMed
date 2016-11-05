@@ -1,0 +1,8 @@
+T1	Disease_Symptom 232 235	BPD
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0005586 Vs. C0031212
+T2	Drug 98 109	lamotrigine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T2

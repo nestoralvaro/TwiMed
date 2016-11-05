@@ -1,0 +1,10 @@
+T1	Disease_Symptom 46 52	asleep
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0917801 Vs. C1262141
+T2	Drug 24 33	trazodone
+A3	Person T2 1st
+A4	Status T2 Complete
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,9 @@
+T1	Disease_Symptom 59 70	parasitosis
+N1	Reference T1 Concepts:C0747256	Parasitic infection
+T2	Disease_Symptom 59 70	parasitosis
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0011206 Vs. C0747256
+T3	Drug 11 22	ziprasidone
+N3	Reference T3 Concepts:60853	Ziprasidone
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

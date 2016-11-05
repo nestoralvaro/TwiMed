@@ -1,0 +1,12 @@
+T1	Symptom 186 196	depression
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0086132 Vs. C1386135
+T2	Disease 223 249	major depressive disorders
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+T3	Drug 136 146	paroxetine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4691	Paroxetine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

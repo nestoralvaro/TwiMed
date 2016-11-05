@@ -1,0 +1,9 @@
+T1	Disease 86 92	cancer
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C3495917 Vs. C0007097
+T2	Drug 47 56	Tamoxifen
+A2	Person T2 3rd
+A3	Status T2 Complete
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Reason-to-use Arg1:T1 Arg2:T2

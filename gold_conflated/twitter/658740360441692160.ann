@@ -1,0 +1,10 @@
+T1	Disease_Symptom 61 98	infection between the cornea and lens
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0015403	Eye Infections
+T2	Drug 36 46	prednisone
+A3	Person T2 1st
+A4	Duration T2 Intermitent
+A5	Status T2 Continuing
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T2

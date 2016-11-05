@@ -1,0 +1,5 @@
+T1	Drug 45 58	Ciprofloxacin
+N1	Reference T1 Concepts:2764	Ciprofloxacin
+T2	Disease_Symptom 17 29	typhoid feve
+N2	Reference T2 Concepts:C0041466	Typhoid Fever
+R1	Benefit Arg1:T2 Arg2:T1

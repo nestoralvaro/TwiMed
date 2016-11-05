@@ -1,0 +1,4 @@
+T1	Disease_Symptom 91 107	pleural effusion
+N1	Reference T1 Concepts:C0032227	Pleural effusion disorder
+T2	Drug 43 53	olanzapine
+N2	Reference T2 Concepts:4585	Olanzapine

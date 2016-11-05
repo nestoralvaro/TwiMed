@@ -1,0 +1,10 @@
+T1	Symptom 11 21	withdrawal
+A1	Duration T1 Regular
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Symptom 39 52	crying spells
+N2	Reference T2 Concepts:C0235939	Crying abnormal
+T3	Drug 0 10	olanzapine
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

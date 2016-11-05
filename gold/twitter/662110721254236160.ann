@@ -1,0 +1,7 @@
+T1	Symptom 109 117	seizures
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0036572 Vs. C0235097
+T2	Drug 18 26	lamictal
+A1	Polarity T2 Polarity
+A2	Person T2 1st
+N2	Reference T2 Concepts:3878	Lamotrigine

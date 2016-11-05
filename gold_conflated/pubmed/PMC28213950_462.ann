@@ -1,0 +1,15 @@
+T1	Disease_Symptom 190 194	pain
+N1	Reference T1 Concepts:C0030193	Pain
+T2	Disease_Symptom 199 209	depression
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Disease_Symptom 110 119	arthritis
+N3	Reference T3 Concepts:C0003864	Arthritis
+T4	Disease_Symptom 133 149	major depression
+N4	Reference T4 Concepts:C1269683	Major Depressive Disorder
+T5	Drug 61 71	quetiapine
+A1	Modality T5 Hedged
+N5	Reference T5 Concepts:5002	Quetiapine
+R1	Benefit Arg1:T2 Arg2:T5
+R2	Benefit Arg1:T3 Arg2:T5
+R3	Benefit Arg1:T4 Arg2:T5
+R4	Benefit Arg1:T1 Arg2:T5

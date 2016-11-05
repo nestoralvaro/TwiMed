@@ -1,0 +1,11 @@
+T1	Drug 22 33	bevacizumab
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease_Symptom 85 109	advanced cervical cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Drug 13 20	Avastin
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T1

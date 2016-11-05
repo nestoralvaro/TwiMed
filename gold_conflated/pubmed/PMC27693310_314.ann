@@ -1,0 +1,14 @@
+T1	Disease_Symptom 24 51	autoimmune hemolytic anemia
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0002880	Autoimmune hemolytic anemia
+T2	Disease_Symptom 138 144	anemia
+N2	Reference T2 Concepts:C0002871	Anemia
+T3	Disease_Symptom 149 157	jaundice
+A2	Person T3 3rd
+N3	Reference T3 Concepts:C1262535	Jaundice hepatocellular
+T4	Drug 80 90	prednisone
+A3	Person T4 3rd
+N4	Reference T4 Concepts:4900	Prednisone
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

@@ -1,0 +1,15 @@
+T1	Disease_Symptom 166 169	GAD
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0270549	Generalized Anxiety Disorder
+T2	Drug 89 102	quetiapine XR
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Disease_Symptom 136 164	generalized anxiety disorder
+A2	Person T3 3rd
+N3	Reference T3 Concepts:C0270549	Generalized Anxiety Disorder
+T4	Drug 68 78	quetiapine
+A3	Person T4 3rd
+N4	Reference T4 Concepts:5002	Quetiapine
+R1	Benefit Arg1:T1 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T3 Arg2:T4
+R4	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,9 @@
+T1	Drug 71 79	Tegretol
+A1	Person T1 1st
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Symptom 56 70	cold-turkeying
+A2	Person T2 1st
+A3	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0087169 Vs. C0152128
+R1	Outcome-negative Arg1:T1 Arg2:T2

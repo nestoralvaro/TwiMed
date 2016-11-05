@@ -1,0 +1,7 @@
+T1	Disease_Symptom 8 25	night of no sleep
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 134 144	#Trazodone
+A2	Sentiment T2 Positive
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Benefit Arg1:T1 Arg2:T2

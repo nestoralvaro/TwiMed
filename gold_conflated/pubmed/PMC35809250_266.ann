@@ -1,0 +1,9 @@
+T1	Disease_Symptom 78 89	neutropenia
+N1	Reference T1 Concepts:C0027947	Neutropenia
+T2	Disease_Symptom 119 131	skin lesions
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0178298 Vs. C0037299
+T3	Drug 38 48	prednisone
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

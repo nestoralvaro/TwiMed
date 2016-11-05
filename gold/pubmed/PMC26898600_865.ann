@@ -1,0 +1,12 @@
+T1	Drug 134 144	duloxetine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease 198 208	depression
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0011581
+T3	Disease 82 94	fibromyalgia
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0016053	Fibromyalgia
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T3 Arg2:T1

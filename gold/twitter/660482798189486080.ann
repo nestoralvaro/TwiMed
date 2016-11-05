@@ -1,0 +1,4 @@
+T1	Drug 59 67	#avastin
+A1	Person T1 1st
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:-1	Unknown Concept ID

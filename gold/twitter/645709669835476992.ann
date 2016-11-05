@@ -1,0 +1,14 @@
+T1	Symptom 76 85	feel shit
+A1	Person T1 1st
+A2	Duration T1 Regular
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Symptom 90 95	drunk
+A4	Person T2 1st
+A5	Duration T2 Regular
+N2	Reference T2 Concepts:C0522172	Feeling drunk
+T3	Drug 18 28	citalopram
+A6	Person T3 1st
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Drug 11 21	citalopram
+A1	Person T1 3rd
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Symptom 78 98	ventricular bigeminy
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0262662	Ventricular bigeminy
+R1	Outcome-negative Arg1:T1 Arg2:T2

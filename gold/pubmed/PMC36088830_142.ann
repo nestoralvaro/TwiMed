@@ -1,0 +1,5 @@
+T1	Disease 138 163	major depressive disorder
+N1	Reference T1 Concepts:C1269683	Major Depressive Disorder
+T2	Drug 12 39	Lisdexamfetamine dimesylate
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,12 @@
+T1	Disease_Symptom 113 117	rash
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0497364	Localized rash
+T2	Disease_Symptom 9 25	bump on my chest
+A2	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0497364 Vs. C0008031
+T3	Drug 128 136	lamictal
+A3	Person T3 1st
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

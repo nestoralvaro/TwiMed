@@ -1,0 +1,19 @@
+T1	Drug 98 105	Ritalin
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Disease_Symptom 46 50	ADHD
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+T3	Drug 81 96	methylphenidate
+A4	Person T3 3rd
+A5	Modality T3 Generic
+N3	Reference T3 Concepts:4158	Methylphenidate
+T4	Disease_Symptom 17 29	pancreatitis
+A6	Person T4 3rd
+A7	Modality T4 Generic
+N4	Reference T4 Concepts:C0030305	Pancreatitis
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T2 Arg2:T3
+R4	Outcome-negative Arg1:T1 Arg2:T4

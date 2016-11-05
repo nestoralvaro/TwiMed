@@ -1,0 +1,3 @@
+T1	Disease_Symptom 171 186	prostate cancer
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0936223	Prostate cancer metastatic

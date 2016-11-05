@@ -1,0 +1,5 @@
+T1	Disease_Symptom 7 12	#acne
+N1	Reference T1 Concepts:C0702166	Acne
+T2	Drug 32 39	kenalog
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

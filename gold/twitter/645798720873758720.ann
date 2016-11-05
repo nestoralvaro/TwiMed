@@ -1,0 +1,8 @@
+T1	Drug 74 81	Avastin
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease 13 23	#lungcance
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0684249 Vs. -1
+R1	Reason-to-use Arg1:T2 Arg2:T1

@@ -1,0 +1,11 @@
+T1	Disease_Symptom 42 63	eosinophilic cystitis
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0010692	Cystitis
+T2	Disease_Symptom 70 79	asthmatic
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0004096	Asthma
+T3	Drug 0 11	Montelukast
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4248	Montelukast
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

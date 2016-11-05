@@ -1,0 +1,3 @@
+T1	Drug 110 123	ciprofloxacin
+A1	Person T1 3rd
+N1	Reference T1 Concepts:2764	Ciprofloxacin

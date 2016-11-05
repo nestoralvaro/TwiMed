@@ -1,0 +1,8 @@
+T1	Symptom 106 134	mild inflammatory conditions
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0021368 Vs. -1
+T2	Drug 35 45	prednisone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T1 Arg2:T2

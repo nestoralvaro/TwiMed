@@ -1,0 +1,15 @@
+T1	Disease_Symptom 119 132	leep disorder
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0851578	Sleep Disorders
+T2	Disease_Symptom 65 76	wakefulness
+N2	Reference T2 Concepts:C0043012	Wakefulness
+T3	Disease_Symptom 93 103	narcolepsy
+A2	Person T3 3rd
+N3	Reference T3 Concepts:C0027404	Narcolepsy
+T4	Drug 46 55	Modafinil
+A3	Person T4 3rd
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:4236	Modafinil
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

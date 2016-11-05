@@ -1,0 +1,8 @@
+T1	Drug 21 30	tamoxifen
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease 0 13	Breast cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C3495917 Vs. C0678222
+R1	Reason-to-use Arg1:T2 Arg2:T1

@@ -1,0 +1,7 @@
+T1	Symptom 61 66	sleep
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0393760 Vs. C0851578
+T2	Drug 27 37	Olanzapine
+A1	Modality T2 Hypothetical
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

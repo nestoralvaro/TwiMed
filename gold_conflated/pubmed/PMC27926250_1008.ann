@@ -1,0 +1,7 @@
+T1	Drug 134 144	olanzapine
+A1	Person T1 3rd
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease_Symptom 61 74	schizophrenia
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C0036341	Schizophrenia

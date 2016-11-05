@@ -1,0 +1,7 @@
+T1	Disease 110 121	#fuckasthma
+A1	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Drug 53 64	Montelukast
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Reason-to-use Arg1:T1 Arg2:T2

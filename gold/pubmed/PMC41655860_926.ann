@@ -1,0 +1,8 @@
+T1	Disease 187 194	anthrax
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0003175 Vs. C0155866
+T2	Drug 103 115	levofloxacin
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T1 Arg2:T2

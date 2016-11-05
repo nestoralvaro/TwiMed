@@ -1,0 +1,11 @@
+T1	Disease 163 211	metastatic castration refractory prostate cancer
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1328504 Vs. C0936223
+T2	Drug 68 77	docetaxel
+A3	Person T2 3rd
+A4	Modality T2 Generic
+A5	Duration T2 Regular
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Reason-to-use Arg1:T1 Arg2:T2

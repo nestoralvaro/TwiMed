@@ -1,0 +1,14 @@
+T1	Disease_Symptom 114 127	#palpitations
+N1	Reference T1 Concepts:C0030252	Palpitations
+T2	Disease_Symptom 0 51	Got a paper to finish in less than # __number__ hrs
+A1	Person T2 1st
+A2	Exemplification T2 Exemplification
+A3	Duration T2 Irregular
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:C0917801	Sleeplessness
+T3	Drug 58 66	concerta
+A5	Person T3 1st
+A6	Status T3 Complete
+N3	Reference T3 Concepts:4158	Methylphenidate
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

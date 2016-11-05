@@ -1,0 +1,15 @@
+T1	Disease_Symptom 263 272	dysentery
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0013369	Dysentery
+T2	Disease_Symptom 180 189	dysentery
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0013369	Dysentery
+T3	Disease_Symptom 227 236	diarrhoea
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0151594	Diarrhoea haemorrhagic
+T4	Drug 53 66	ciprofloxacin
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:2764	Ciprofloxacin
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

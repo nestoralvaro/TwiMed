@@ -1,0 +1,49 @@
+T1	Symptom 5 49	rash with eosinophilia and systemic symptoms
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0497365 Vs. -1
+T2	Symptom 5 9	rash
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0497365	Rash generalised
+T3	Symptom 15 27	eosinophilia
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0014457 Vs. -1
+T4	Symptom 15 27	eosinophilia
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0014457	Eosinophilia
+T5	Symptom 50 66	(DRESS) syndrome
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T5	Disagreement in concept ID: C0497365 Vs. C0014457
+T6	Symptom 50 66	(DRESS) syndrome
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:C0497365	Rash generalised
+T7	Symptom 50 66	(DRESS) syndrome
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T7	Disagreement in concept ID: C0497365 Vs. -1
+T8	Symptom 50 66	(DRESS) syndrome
+A8	Modality T8 Generic
+N8	Reference T8 Concepts:C0014457	Eosinophilia
+T9	Symptom 50 66	(DRESS) syndrome
+A9	Modality T9 Generic
+N9	Reference T9 Concepts:0	Disagreement in Concept ID
+#5	AnnotatorNotes T9	Disagreement in concept ID: C0014457 Vs. C0497365
+T10	Symptom 50 66	(DRESS) syndrome
+A10	Modality T10 Generic
+N10	Reference T10 Concepts:0	Disagreement in Concept ID
+#6	AnnotatorNotes T10	Disagreement in concept ID: C0014457 Vs. -1
+T11	Drug 241 254	carbamazepine
+A11	Modality T11 Generic
+N11	Reference T11 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T11 Arg2:T10
+R2	Outcome-negative Arg1:T11 Arg2:T10
+R3	Outcome-negative Arg1:T11 Arg2:T10
+R4	Outcome-negative Arg1:T11 Arg2:T2
+R5	Outcome-negative Arg1:T11 Arg2:T2
+R6	Outcome-negative Arg1:T11 Arg2:T4
+R7	Outcome-negative Arg1:T11 Arg2:T4
+R8	Outcome-negative Arg1:T11 Arg2:T7
+R9	Outcome-negative Arg1:T11 Arg2:T7
+R10	Outcome-negative Arg1:T11 Arg2:T7

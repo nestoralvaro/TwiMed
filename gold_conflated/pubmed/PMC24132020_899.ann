@@ -1,0 +1,5 @@
+T1	Drug 366 377	ziprasidone
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Disease_Symptom 251 264	schizophrenia
+N2	Reference T2 Concepts:C0036341	Schizophrenia
+R1	Benefit Arg1:T2 Arg2:T1

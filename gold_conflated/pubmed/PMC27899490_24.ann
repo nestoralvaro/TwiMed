@@ -1,0 +1,16 @@
+T1	Disease_Symptom 333 355	retinal vein occlusion
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0035309	Retinal Diseases
+T2	Drug 198 211	triamcinolone
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5544	Triamcinolone
+T3	Disease_Symptom 299 312	macular edema
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0024440	Macular Edema, Cystoid
+T4	Drug 130 141	bevacizumab
+A4	Person T4 3rd
+N4	Reference T4 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T2
+R4	Benefit Arg1:T3 Arg2:T4

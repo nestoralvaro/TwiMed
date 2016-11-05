@@ -1,0 +1,15 @@
+T1	Disease_Symptom 91 111	multiple myeloma (MM
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0026764	Multiple Myeloma
+T2	Drug 14 24	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+T3	Disease_Symptom 91 107	multiple myeloma
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:C0026764	Multiple Myeloma
+T4	Drug 4 13	melphalan
+A3	Modality T4 Generic
+N4	Reference T4 Concepts:4053	Melphalan
+R1	Benefit Arg1:T1 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T3 Arg2:T4
+R4	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,9 @@
+T1	Disease_Symptom 203 222	acute schizophrenia
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0036341 Vs. C0857501
+T2	Drug 0 10	Olanzapine
+A2	Person T2 3rd
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T2

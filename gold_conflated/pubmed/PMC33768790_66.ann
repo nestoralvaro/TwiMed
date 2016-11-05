@@ -1,0 +1,7 @@
+T1	Drug 196 205	olanzapin
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease_Symptom 214 234	hypertriglyceridemia
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0020557	Hypertriglyceridemia
+R1	Outcome-negative Arg1:T1 Arg2:T2

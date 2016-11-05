@@ -1,0 +1,11 @@
+T1	Drug 144 154	fluoxetine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3386	Fluoxetine
+T2	Disease 223 233	depression
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Drug 115 125	olanzapine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T2 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T1

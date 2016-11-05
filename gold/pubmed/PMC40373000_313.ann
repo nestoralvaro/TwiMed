@@ -1,0 +1,15 @@
+T1	Drug 201 211	olanzapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease 254 267	schizophrenia
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0036341	Schizophrenia
+T3	Disease 138 145	bipolar
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+T4	Disease 121 134	schizophrenia
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0036341	Schizophrenia
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T3 Arg2:T1
+R3	Reason-to-use Arg1:T4 Arg2:T1

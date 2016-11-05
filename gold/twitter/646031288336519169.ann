@@ -1,0 +1,15 @@
+T1	Drug 59 69	prednisone
+A1	Person T1 1st
+A2	Modality T1 Hedged
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Symptom 89 94	crazy
+A3	Person T2 1st
+A4	Modality T2 Hedged
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1443060 Vs. C0525045
+T3	Symptom 23 32	bee sting
+A5	Person T3 1st
+A6	Sentiment T3 Negative
+N3	Reference T3 Concepts:C0852932	Arthropod sting
+R1	Reason-to-use Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T1 Arg2:T2

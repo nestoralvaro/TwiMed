@@ -1,0 +1,11 @@
+T1	Disease_Symptom 59 76	mental breakdowns
+A1	Person T1 2nd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0011570 Vs. C0027769
+T2	Disease_Symptom 81 96	temper tantrums
+A2	Person T2 2nd
+N2	Reference T2 Concepts:C0233558	Temper tantrum
+T3	Drug 128 136	cymbalta
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

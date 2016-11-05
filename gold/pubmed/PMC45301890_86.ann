@@ -1,0 +1,9 @@
+T1	Drug 296 306	olanzapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease 101 110	psychosis
+A2	Person T2 3rd
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0151772 Vs. C0281774
+R1	Reason-to-use Arg1:T2 Arg2:T1

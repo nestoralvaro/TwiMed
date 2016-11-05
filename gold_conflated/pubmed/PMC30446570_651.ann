@@ -1,0 +1,11 @@
+T1	Drug 44 54	duloxetine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Drug 143 154	venlafaxine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5656	Venlafaxine
+T3	Disease_Symptom 27 30	MDD
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C1269683	Major Depressive Disorder
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T2

@@ -1,0 +1,6 @@
+T1	Drug 19 25	zoloft
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Disease_Symptom 10 15	sleep
+A1	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0917801	Sleeplessness
+R1	Outcome-negative Arg1:T1 Arg2:T2

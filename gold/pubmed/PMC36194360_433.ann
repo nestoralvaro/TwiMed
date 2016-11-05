@@ -1,0 +1,6 @@
+T1	Symptom 34 47	sleep latency
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0037317 Vs. C0851578
+T2	Drug 99 108	trazodone
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Reason-to-use Arg1:T1 Arg2:T2

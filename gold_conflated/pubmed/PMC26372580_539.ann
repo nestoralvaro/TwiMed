@@ -1,0 +1,14 @@
+T1	Disease_Symptom 149 157	glaucoma
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0017601	Glaucoma
+T2	Disease_Symptom 59 90	increase of the ocular pressure
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0234708	Intraocular pressure increased
+T3	Drug 130 140	topiramate
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5514	Topiramate
+T4	Drug 38 48	citalopram
+A4	Person T4 3rd
+N4	Reference T4 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

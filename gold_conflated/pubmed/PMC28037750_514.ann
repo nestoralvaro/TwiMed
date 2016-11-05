@@ -1,0 +1,5 @@
+T1	Drug 173 184	fluvoxamine
+N1	Reference T1 Concepts:3404	Fluvoxamine
+T2	Disease_Symptom 133 153	psychotic depression
+N2	Reference T2 Concepts:C0270458	Psychotic depression
+R1	Benefit Arg1:T2 Arg2:T1

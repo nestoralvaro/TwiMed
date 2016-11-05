@@ -1,0 +1,14 @@
+T1	Symptom 84 97	upset stomach
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0235309	Upset stomach
+T2	Drug 35 45	quetiapine
+A2	Person T2 1st
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Symptom 68 76	headache
+A4	Person T3 1st
+A5	Duration T3 Regular
+A6	Status T3 Continuing
+N3	Reference T3 Concepts:C0018681	Headache
+R1	Outcome-negative Arg1:T2 Arg2:T3
+R2	Outcome-negative Arg1:T2 Arg2:T1

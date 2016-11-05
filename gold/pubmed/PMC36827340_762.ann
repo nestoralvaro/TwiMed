@@ -1,0 +1,8 @@
+T1	Disease 33 45	glioblastoma
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085136 Vs. C0027651
+T2	Drug 0 11	Bevacizumab
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,18 @@
+T1	Drug 231 242	ziprasidone
+A1	Person T1 3rd
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Drug 168 178	olanzapine
+A3	Person T2 3rd
+A4	Duration T2 Regular
+N2	Reference T2 Concepts:4585	Olanzapine
+T3	Drug 198 208	quetiapine
+A5	Person T3 3rd
+A6	Duration T3 Regular
+N3	Reference T3 Concepts:5002	Quetiapine
+T4	Disease_Symptom 94 103	psychosis
+A7	Person T4 3rd
+N4	Reference T4 Concepts:C0281774	Acute psychosis
+R1	Benefit Arg1:T4 Arg2:T2
+R2	Benefit Arg1:T4 Arg2:T3
+R3	Benefit Arg1:T4 Arg2:T1

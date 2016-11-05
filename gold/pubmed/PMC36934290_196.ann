@@ -1,0 +1,5 @@
+T1	Disease 45 70	major depressive disorder
+N1	Reference T1 Concepts:C1269683	Major Depressive Disorder
+T2	Drug 14 23	trazodone
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Reason-to-use Arg1:T1 Arg2:T2

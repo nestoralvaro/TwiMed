@@ -1,0 +1,7 @@
+T1	Symptom 85 109	generalized discoid rash
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0497365	Rash generalised
+T2	Drug 125 135	lisinopril
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3937	Lisinopril
+R1	Outcome-negative Arg1:T2 Arg2:T1

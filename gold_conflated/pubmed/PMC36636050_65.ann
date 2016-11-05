@@ -1,0 +1,18 @@
+T1	Drug 128 137	modafinil
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4236	Modafinil
+T2	Drug 202 219	lisedexamfetamine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+T3	Disease_Symptom 102 113	acute mania
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0235165	Mania acute
+T4	Disease_Symptom 317 335	bipolar depression
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0005587	Depression, Bipolar
+T5	Drug 72 81	tamoxifen
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:5376	Tamoxifen
+R1	Benefit Arg1:T3 Arg2:T5
+R2	Benefit Arg1:T4 Arg2:T1
+R3	Benefit Arg1:T4 Arg2:T2

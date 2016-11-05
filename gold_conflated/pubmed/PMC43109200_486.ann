@@ -1,0 +1,11 @@
+T1	Disease_Symptom 145 156	weight gain
+N1	Reference T1 Concepts:C0043094	Weight Gain
+T2	Disease_Symptom 51 60	akathisia
+N2	Reference T2 Concepts:C0392156	Akathisia
+T3	Disease_Symptom 65 87	extrapyramidal symptom
+N3	Reference T3 Concepts:C0234133	Extrapyramidal symptoms
+T4	Drug 14 24	olanzapine
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

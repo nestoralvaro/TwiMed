@@ -1,0 +1,8 @@
+T1	Symptom 128 141	kidney stones
+N1	Reference T1 Concepts:C0022650	Kidney Calculi
+T2	Symptom 114 126	met acidosis
+N2	Reference T2 Concepts:C0220981	Metabolic acidosis
+T3	Drug 63 73	Topiramate
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

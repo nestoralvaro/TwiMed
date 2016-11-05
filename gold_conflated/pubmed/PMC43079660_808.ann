@@ -1,0 +1,9 @@
+T1	Drug 45 55	topiramate
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Disease_Symptom 0 8	Diarrhea
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C0011991	Diarrhea
+R1	Outcome-negative Arg1:T1 Arg2:T2

@@ -1,0 +1,11 @@
+T1	Disease 39 47	epilepsy
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0014544	Epilepsy
+T2	Disease 51 67	bipolar disorder
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Drug 22 32	topiramate
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

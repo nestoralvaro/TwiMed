@@ -1,0 +1,9 @@
+T1	Symptom 73 83	nightmares
+A1	Person T1 1st
+A2	Duration T1 Irregular
+A3	Status T1 Complete
+N1	Reference T1 Concepts:C0028084	Nightmares
+T2	Drug 18 28	duloxetine
+A4	Person T2 1st
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

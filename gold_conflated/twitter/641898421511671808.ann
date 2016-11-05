@@ -1,0 +1,9 @@
+T1	Disease_Symptom 104 111;85 123	swollen feet. They've been swollen and painful
+A1	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0574002 Vs. C0520962
+T2	Drug 29 36	Kenalog
+A2	Person T2 3rd
+A3	Modality T2 Hypothetical
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

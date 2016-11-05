@@ -1,0 +1,4 @@
+T1	Drug 42 50	Levaquin
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:4583	ofloxacin

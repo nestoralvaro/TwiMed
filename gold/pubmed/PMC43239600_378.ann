@@ -1,0 +1,7 @@
+T1	Disease 62 72	depression
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 0 10	Sertraline
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5203	Sertraline
+R1	Reason-to-use Arg1:T1 Arg2:T2

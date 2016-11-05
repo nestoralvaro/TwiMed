@@ -1,0 +1,4 @@
+T1	Drug 112 120	SUBOXONE
+N1	Reference T1 Concepts:2476	Buprenorphine
+T2	Disease_Symptom 3 11	DIARRHEA
+N2	Reference T2 Concepts:C0011991	Diarrhea

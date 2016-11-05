@@ -1,0 +1,10 @@
+T1	Disease_Symptom 103 109	calmed
+A1	Person T1 1st
+A2	Modality T1 Hedged
+A3	Status T1 Complete
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085632 Vs. C0235194
+T2	Drug 40 50	olanzapine
+A4	Person T2 1st
+A5	Status T2 Complete
+N2	Reference T2 Concepts:4585	Olanzapine

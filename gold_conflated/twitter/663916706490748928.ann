@@ -1,0 +1,6 @@
+T1	Drug 35 43	#Zyprexa
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease_Symptom 0 8	#Bipolar
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder

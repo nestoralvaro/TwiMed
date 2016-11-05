@@ -1,0 +1,5 @@
+T1	Symptom 139 151	allergic rxn
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0851444 Vs. C2607914
+T2	Drug 51 60	Singulair
+N2	Reference T2 Concepts:4248	Montelukast

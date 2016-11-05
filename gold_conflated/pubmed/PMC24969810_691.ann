@@ -1,0 +1,19 @@
+T1	Disease_Symptom 223 231	dyspnoea
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0013404	Dyspnea
+T2	Disease_Symptom 211 218	hypoxia
+A2	Person T2 3rd
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Drug 146 161	methylphenidate
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4158	Methylphenidate
+T4	Drug 163 171	Concerta
+A4	Person T4 3rd
+N4	Reference T4 Concepts:4158	Methylphenidate
+T5	Disease_Symptom 88 128	attention-deficit hyperactivity disorder
+A5	Person T5 3rd
+N5	Reference T5 Concepts:C1263846	Attention deficit hyperactivity disorder
+R1	Benefit Arg1:T5 Arg2:T4
+R2	Outcome-negative Arg1:T4 Arg2:T1
+R3	Outcome-negative Arg1:T3 Arg2:T1
+R4	Benefit Arg1:T5 Arg2:T3

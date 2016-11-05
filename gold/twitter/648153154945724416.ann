@@ -1,0 +1,16 @@
+T1	Disease 110 121	#depression
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1386135 Vs. C0005587
+T2	Symptom 55 65	withdrawal
+A1	Severity T2 Severe
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0087169 Vs. C0152128
+T3	Disease 122 129	#bipola
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T3	Disagreement in concept ID: C0005587 Vs. C0005586
+T4	Drug 12 19	Effexor
+N4	Reference T4 Concepts:5656	Venlafaxine
+R1	Reason-to-use Arg1:T1 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4
+R3	Outcome-negative Arg1:T4 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Disease_Symptom 131 152	opiate detoxification
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0524662	Opiate Addiction
+T2	Drug 99 112	buprenorphine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2476	Buprenorphine
+R1	Benefit Arg1:T1 Arg2:T2

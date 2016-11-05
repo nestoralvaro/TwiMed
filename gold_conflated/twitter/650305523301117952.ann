@@ -1,0 +1,5 @@
+T1	Drug 57 68	montelukast
+N1	Reference T1 Concepts:4248	Montelukast
+T2	Disease_Symptom 0 13	Bronchiolitis
+N2	Reference T2 Concepts:C0006277	Bronchitis
+R1	Benefit Arg1:T2 Arg2:T1

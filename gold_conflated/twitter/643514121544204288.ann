@@ -1,0 +1,14 @@
+T1	Disease_Symptom 126 135	Gastritis
+A1	Severity T1 Severe
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0017152	Gastritis
+T2	Disease_Symptom 140 148	headache
+A3	Severity T2 Severe
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0018681	Headache
+T3	Drug 47 57	duloxetine
+A5	Duration T3 Irregular
+A6	Status T3 Complete
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

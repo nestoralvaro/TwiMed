@@ -1,0 +1,6 @@
+T1	Symptom 93 108	aphthous ulcers
+N1	Reference T1 Concepts:C0149745	Oral Ulcer
+T2	Drug 33 46	triamcinolone
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Reason-to-use Arg1:T1 Arg2:T2

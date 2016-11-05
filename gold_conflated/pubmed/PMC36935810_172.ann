@@ -1,0 +1,7 @@
+T1	Drug 99 108	melphalan
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4053	Melphalan
+T2	Disease_Symptom 47 61	retinoblastoma
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0035309	Retinal Diseases
+R1	Benefit Arg1:T2 Arg2:T1

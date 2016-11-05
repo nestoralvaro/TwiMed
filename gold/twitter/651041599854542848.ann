@@ -1,0 +1,8 @@
+T1	Symptom 63 83	#withdrawal symptoms
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Drug 22 30	Lamictal
+A3	Person T2 1st
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T2 Arg2:T1

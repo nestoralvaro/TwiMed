@@ -1,0 +1,8 @@
+T1	Drug 100 111	lamotrigine
+A1	Person T1 1st
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Disease_Symptom 24 40	noise in my head
+A2	Person T2 1st
+A3	Exemplification T2 Exemplification
+N2	Reference T2 Concepts:C0018681	Headache
+R1	Benefit Arg1:T2 Arg2:T1

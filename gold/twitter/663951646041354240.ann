@@ -1,0 +1,7 @@
+T1	Drug 23 30	Vyvanse
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:11597697	lisdexamfetamine dimesylate
+T2	Disease 13 17	ADHD
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

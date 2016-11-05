@@ -1,0 +1,7 @@
+T1	Disease_Symptom 68 87	withdrawal syndrome
+A1	Person T1 3rd
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0152128	Drug withdrawal syndrome
+T2	Drug 30 43	buprenorphine
+A3	Person T2 3rd
+N2	Reference T2 Concepts:2476	Buprenorphine

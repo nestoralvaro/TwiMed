@@ -1,0 +1,11 @@
+T1	Disease_Symptom 0 16	HBV reactivation
+N1	Reference T1 Concepts:C0019158	Hepatitis
+T2	Drug 65 75	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+T3	Disease_Symptom 30 33	HBV
+N3	Reference T3 Concepts:C0019158	Hepatitis
+T4	Disease_Symptom 80 98	nephrotic syndrome
+N4	Reference T4 Concepts:C0027726	Nephrotic Syndrome
+R1	Benefit Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T2 Arg2:T3
+R3	Outcome-negative Arg1:T2 Arg2:T1

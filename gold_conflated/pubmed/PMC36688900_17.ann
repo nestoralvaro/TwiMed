@@ -1,0 +1,15 @@
+T1	Disease_Symptom 115 132	opioid dependence
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1510472 Vs. C0524662
+T2	Drug 383 396	buprenorphine
+N2	Reference T2 Concepts:2476	Buprenorphine
+T3	Drug 268 276	Suboxone
+N3	Reference T3 Concepts:2476	Buprenorphine
+T4	Drug 322 335	buprenorphine
+N4	Reference T4 Concepts:2476	Buprenorphine
+T5	Drug 239 252	buprenorphine
+N5	Reference T5 Concepts:2476	Buprenorphine
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T5
+R3	Benefit Arg1:T1 Arg2:T3
+R4	Benefit Arg1:T1 Arg2:T4

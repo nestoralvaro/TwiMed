@@ -1,0 +1,12 @@
+T1	Drug 270 285	methylphenidate
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Disease 192 232	attention-deficit hyperactivity disorder
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+T3	Drug 64 91	lisdexamfetamine dimesylate
+A4	Person T3 3rd
+A5	Modality T3 Generic
+N3	Reference T3 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Reason-to-use Arg1:T2 Arg2:T3

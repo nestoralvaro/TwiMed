@@ -1,0 +1,6 @@
+T1	Disease_Symptom 66 84	antiulcer activity
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0041582 Vs. -1
+T2	Drug 115 126	fluvoxamine
+N2	Reference T2 Concepts:3404	Fluvoxamine
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	Symptom 19 42	Orthostatic Hypotension
+N1	Reference T1 Concepts:C0544618	Orthostatic hypertension
+T2	Drug 0 10	Olanzapine
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

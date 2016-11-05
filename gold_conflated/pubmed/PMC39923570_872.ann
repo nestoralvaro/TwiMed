@@ -1,0 +1,12 @@
+T1	Drug 47 55	Suboxone
+A1	Person T1 3rd
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:2476	Buprenorphine
+T2	Disease_Symptom 90 106	heroin addiction
+A3	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0524662 Vs. C1510472
+T3	Drug 0 13	Buprenorphine
+N3	Reference T3 Concepts:2476	Buprenorphine
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

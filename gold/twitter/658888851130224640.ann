@@ -1,0 +1,8 @@
+T1	Symptom 79 119	awake more than __number__ hrs at a time
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0043012	Wakefulness
+T2	Drug 57 64	Topamax
+N2	Reference T2 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T2 Arg2:T1

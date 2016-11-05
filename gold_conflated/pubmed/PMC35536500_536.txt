@@ -1,0 +1,1 @@
+OBJECTIVE: To compare total medical costs and utilization over a __number__ -month period in commercially insured patients receiving FDA-approved adjunctive atypical antipsychotics (aripiprazole, olanzapine, or quetiapine) for depression.

@@ -1,0 +1,7 @@
+T1	Disease 140 154	ovarian cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0029925	Ovarian Carcinoma
+T2	Drug 0 9	Docetaxel
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,10 @@
+T1	Disease_Symptom 51 61	depression
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 3 9	prozac
+A4	Person T2 1st
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:3386	Fluoxetine
+R1	Benefit Arg1:T1 Arg2:T2

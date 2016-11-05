@@ -1,0 +1,6 @@
+T1	Drug 165 175	duloxetine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Drug 245 255	duloxetine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:60834	Duloxetine

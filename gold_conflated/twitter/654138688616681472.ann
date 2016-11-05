@@ -1,0 +1,9 @@
+T1	Disease_Symptom 50 63	#breastcancer
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C3495917 Vs. C0678222
+T2	Drug 0 9	Tamoxifen
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Benefit Arg1:T1 Arg2:T2

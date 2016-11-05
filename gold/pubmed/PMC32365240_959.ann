@@ -1,0 +1,4 @@
+T1	Drug 191 201	topiramate
+A1	Person T1 3rd
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:5514	Topiramate

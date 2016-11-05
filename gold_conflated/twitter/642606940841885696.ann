@@ -1,0 +1,8 @@
+T1	Disease_Symptom 69 74	sleep
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0393760 Vs. C1262141
+T2	Drug 14 23	trazodone
+A2	Person T2 1st
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Benefit Arg1:T1 Arg2:T2

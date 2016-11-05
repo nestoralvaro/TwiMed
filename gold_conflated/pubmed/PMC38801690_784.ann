@@ -1,0 +1,6 @@
+T1	Drug 144 153	tamoxifen
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease_Symptom 98 109	hot flashes
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0600142 Vs. C0677500
+R1	Outcome-negative Arg1:T1 Arg2:T2

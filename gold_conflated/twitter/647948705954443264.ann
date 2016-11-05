@@ -1,0 +1,5 @@
+T1	Disease_Symptom 22 40	overactive bladder
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0232841 Vs. C0549391
+T2	Drug 0 7	Ritalin
+N2	Reference T2 Concepts:4158	Methylphenidate

@@ -1,0 +1,1 @@
+OBJECTIVE: This analysis of data from __number__ double-blind, placebo-controlled clinical studies of venlafaxine in adult patients with major depressive disorder was aimed at assessing correlations among these __number__ scales.

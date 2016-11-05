@@ -1,0 +1,7 @@
+T1	Disease_Symptom 102 126	Urinary Tract Infections
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0042029	Urinary tract infection
+T2	Drug 56 69	Ciprofloxacin
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2764	Ciprofloxacin
+R1	Benefit Arg1:T1 Arg2:T2

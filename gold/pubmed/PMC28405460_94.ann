@@ -1,0 +1,8 @@
+T1	Symptom 156 168	hyponatremia
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0020625	Hyponatremia
+T2	Drug 49 62	carbamazepine
+A2	Person T2 3rd
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,14 @@
+T1	Disease 105 130	major depressive disorder
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C1269683	Major Depressive Disorder
+T2	Symptom 43 47	pain
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Drug 0 10	Duloxetine
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

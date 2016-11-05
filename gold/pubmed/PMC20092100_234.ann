@@ -1,0 +1,6 @@
+T1	Drug 764 774	prednisone
+A1	Status T1 Complete
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Drug 147 157	prednisone
+N2	Reference T2 Concepts:4900	Prednisone

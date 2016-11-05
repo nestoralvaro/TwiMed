@@ -1,0 +1,11 @@
+T1	Drug 105 115	quetiapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 54 63	agitation
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0085631	Agitation
+T3	Disease_Symptom 0 18	Daytime sleepiness
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0541854	Daytime sleepiness
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T1 Arg2:T3

@@ -1,0 +1,15 @@
+T1	Symptom 132 137	mania
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0235165	Mania acute
+T2	Disease 141 157	bipolar disorder
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Disease 114 127	schizophrenia
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0036341	Schizophrenia
+T4	Drug 11 22	ziprasidone
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:60853	Ziprasidone
+R1	Reason-to-use Arg1:T2 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4
+R3	Reason-to-use Arg1:T1 Arg2:T4

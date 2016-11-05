@@ -1,0 +1,14 @@
+T1	Disease_Symptom 4 8	rash
+A1	Person T1 3rd
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0497365	Rash generalised
+T2	Disease_Symptom 123 135	parkinsonism
+A3	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0030567 Vs. C0242422
+T3	Drug 46 56	lisinopril
+A4	Person T3 3rd
+A5	Status T3 Complete
+N3	Reference T3 Concepts:3937	Lisinopril
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

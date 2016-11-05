@@ -1,0 +1,6 @@
+T1	Disease_Symptom 60 68	bad mood
+A1	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0022107	Irritable Mood
+T2	Drug 8 19	Lamotrigine
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T2 Arg2:T1

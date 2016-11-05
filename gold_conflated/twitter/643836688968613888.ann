@@ -1,0 +1,12 @@
+T1	Disease_Symptom 59 64	slept
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Disease_Symptom 96 101	manic
+A3	Person T2 1st
+N2	Reference T2 Concepts:C0338831	Manic
+T3	Drug 33 40	zyprexa
+A4	Person T3 1st
+A5	Status T3 Complete
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T3

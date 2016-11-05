@@ -1,0 +1,6 @@
+T1	Drug 78 101	triamcinolone acetonide
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5544	Triamcinolone
+T2	Drug 43 54	bevacizumab
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID

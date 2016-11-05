@@ -1,0 +1,8 @@
+T1	Disease 235 249	cardiovascular
+N1	Reference T1 Concepts:C0007222	Cardiovascular Diseases
+T2	Symptom 167 181	reducing weigh
+A1	Person T2 3rd
+N2	Reference T2 Concepts:C0043096	Body Weight decreased
+T3	Drug 69 79	topiramate
+A2	Person T3 3rd
+N3	Reference T3 Concepts:5514	Topiramate

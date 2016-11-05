@@ -1,0 +1,14 @@
+T1	Disease 355 361	asthma
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Drug 164 175	montelukast
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:4248	Montelukast
+T3	Disease 73 79	asthma
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:C0004096	Asthma
+R1	Reason-to-use Arg1:T1 Arg2:T2
+R2	Reason-to-use Arg1:T3 Arg2:T2

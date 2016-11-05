@@ -1,0 +1,10 @@
+T1	Disease_Symptom 125 132	cancers
+N1	Reference T1 Concepts:C0007097	Carcinoma
+T2	Drug 38 48	Citalopram
+A1	Person T2 1st
+A2	Modality T2 Hedged
+N2	Reference T2 Concepts:2771	Citalopram
+T3	Drug 15 21	Prozac
+A3	Person T3 1st
+A4	Modality T3 Hedged
+N3	Reference T3 Concepts:3386	Fluoxetine

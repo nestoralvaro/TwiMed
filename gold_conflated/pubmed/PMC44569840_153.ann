@@ -1,0 +1,5 @@
+T1	Drug 107 116	trazodone
+N1	Reference T1 Concepts:5533	Trazodone
+T2	Disease_Symptom 48 62	cardiovascular
+N2	Reference T2 Concepts:C0007222	Cardiovascular Diseases
+R1	Outcome-negative Arg1:T1 Arg2:T2

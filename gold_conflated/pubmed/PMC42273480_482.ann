@@ -1,0 +1,11 @@
+T1	Disease_Symptom 78 97	behavioral disorder
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0233514	Abnormal behavior
+T2	Drug 122 132	sertraline
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5203	Sertraline
+T3	Disease_Symptom 54 73	depressive disorder
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0011581	Depressive disorder
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T2

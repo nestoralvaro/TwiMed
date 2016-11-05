@@ -1,0 +1,13 @@
+T1	Disease 40 46	Atonic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0270846 Vs. C0014549
+T2	Disease 40 37;47 55	 epilepsy
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0270846 Vs. C0014550
+T3	Drug 60 73	Carbamazepine
+N3	Reference T3 Concepts:2554	Carbamazepine
+T4	Disease 28 37;47 55	myoclonic epilepsy
+N4	Reference T4 Concepts:C0014550	Epilepsies, Myoclonic
+R1	Reason-to-use Arg1:T4 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3
+R3	Reason-to-use Arg1:T2 Arg2:T3

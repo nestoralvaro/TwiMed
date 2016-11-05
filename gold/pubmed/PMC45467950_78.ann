@@ -1,0 +1,5 @@
+T1	Symptom 47 59	skin lesions
+N1	Reference T1 Concepts:C0037299	Skin Ulcer
+T2	Drug 0 10	Prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T1 Arg2:T2

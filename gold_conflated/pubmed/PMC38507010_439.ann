@@ -1,0 +1,21 @@
+T1	Drug 106 116	quetiapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Drug 122 133	ziprasidone
+A2	Person T2 3rd
+N2	Reference T2 Concepts:60853	Ziprasidone
+T3	Disease_Symptom 49 58	psychosis
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0281774	Acute psychosis
+T4	Drug 94 104	olanzapine
+A4	Person T4 3rd
+N4	Reference T4 Concepts:4585	Olanzapine
+T5	Disease_Symptom 0 14	Hallucinations
+A5	Person T5 3rd
+N5	Reference T5 Concepts:C0018524	Hallucinations
+R1	Benefit Arg1:T5 Arg2:T4
+R2	Benefit Arg1:T5 Arg2:T1
+R3	Benefit Arg1:T5 Arg2:T2
+R4	Benefit Arg1:T3 Arg2:T4
+R5	Benefit Arg1:T3 Arg2:T1
+R6	Benefit Arg1:T3 Arg2:T2

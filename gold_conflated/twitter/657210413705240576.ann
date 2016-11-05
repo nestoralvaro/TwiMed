@@ -1,0 +1,10 @@
+T1	Disease_Symptom 44 63	neonatal abstinence
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C0027609	Neonatal Abstinence Syndrome
+T2	Disease_Symptom 67 83	withdrawal state
+A2	Modality T2 Hypothetical
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0087169 Vs. C0152128
+T3	Drug 22 35	buprenorphine
+A3	Modality T3 Hypothetical
+N3	Reference T3 Concepts:2476	Buprenorphine

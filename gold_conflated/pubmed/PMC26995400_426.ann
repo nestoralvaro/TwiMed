@@ -1,0 +1,8 @@
+T1	Drug 100 109	trazodone
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5533	Trazodone
+T2	Disease_Symptom 90 98	insomnia
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0393761 Vs. C0393760
+R1	Benefit Arg1:T2 Arg2:T1

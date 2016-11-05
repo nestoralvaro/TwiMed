@@ -1,0 +1,6 @@
+T1	Disease_Symptom 35 52	Pancreatic Cancer
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0346647 Vs. C0007097
+T2	Drug 21 30	Docetaxel
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Benefit Arg1:T1 Arg2:T2

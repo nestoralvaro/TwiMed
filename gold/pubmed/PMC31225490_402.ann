@@ -1,0 +1,8 @@
+T1	Drug 99 110	fluvoxamine
+N1	Reference T1 Concepts:3404	Fluvoxamine
+T2	Symptom 74 80	nausea
+N2	Reference T2 Concepts:C0027497	Nausea
+T3	Symptom 85 93	headache
+N3	Reference T3 Concepts:C0018681	Headache
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T1	Disease_Symptom 91 110	depressive symptoms
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0086132	Depressive Symptoms
+T2	Drug 33 44	venlafaxine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5656	Venlafaxine

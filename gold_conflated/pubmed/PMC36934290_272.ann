@@ -1,0 +1,29 @@
+T1	Disease_Symptom 104 113	dizziness
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0012833	Dizziness
+T2	Disease_Symptom 118 127	dry mouth
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1579838 Vs. C0272426
+T3	Disease_Symptom 83 91	sedation
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0013144 Vs. C2830004
+T4	Disease_Symptom 94 102	headache
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0018681	Headache
+T5	Disease_Symptom 60 70	drowsiness
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:C0013144	Drowsiness
+T6	Disease_Symptom 72 82	somnolence
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:C2830004	Somnolence
+T7	Drug 46 55	trazodone
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:5533	Trazodone
+R1	Outcome-negative Arg1:T7 Arg2:T4
+R2	Outcome-negative Arg1:T7 Arg2:T1
+R3	Outcome-negative Arg1:T7 Arg2:T2
+R4	Outcome-negative Arg1:T7 Arg2:T5
+R5	Outcome-negative Arg1:T7 Arg2:T6
+R6	Outcome-negative Arg1:T7 Arg2:T3

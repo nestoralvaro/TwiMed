@@ -1,0 +1,10 @@
+T1	Drug 106 112	Kenalo
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:5544	Triamcinolone
+T2	Disease_Symptom 57 67	#Migraines
+A3	Person T2 1st
+A4	Duration T2 Regular
+A5	Status T2 Continuing
+N2	Reference T2 Concepts:C0149931	Migraine Disorders
+R1	Benefit Arg1:T2 Arg2:T1

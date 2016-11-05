@@ -1,0 +1,9 @@
+T1	Symptom 40 46	memory
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Symptom 51 61	creativity
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0917801	Sleeplessness
+T3	Drug 12 21	MODAFINIL
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4236	Modafinil

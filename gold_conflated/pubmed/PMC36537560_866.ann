@@ -1,0 +1,11 @@
+T1	Disease_Symptom 93 111	bipolar I disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0853193	Bipolar I disorder
+T2	Disease_Symptom 137 145	epilepsy
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0014544	Epilepsy
+T3	Drug 12 23	Lamotrigine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

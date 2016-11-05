@@ -1,0 +1,9 @@
+T1	Drug 65 72	topamax
+A1	Person T1 1st
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Disease_Symptom 43 52	migraines
+A3	Person T2 1st
+A4	Duration T2 Regular
+N2	Reference T2 Concepts:C0149931	Migraine Disorders
+R1	Benefit Arg1:T2 Arg2:T1

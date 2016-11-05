@@ -1,0 +1,5 @@
+T1	Drug 218 229	bevacizumab
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease_Symptom 133 146	breast cancer
+N2	Reference T2 Concepts:C3495917	Advanced breast cancer
+R1	Benefit Arg1:T2 Arg2:T1

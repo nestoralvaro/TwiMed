@@ -1,0 +1,11 @@
+T1	Disease_Symptom 19 28	akathisia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0392156	Akathisia
+T2	Disease_Symptom 33 43	suicidally
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0235196	Suicidal tendency
+T3	Drug 0 10	Fluoxetine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3386	Fluoxetine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

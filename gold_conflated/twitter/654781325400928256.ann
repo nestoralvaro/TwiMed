@@ -1,0 +1,8 @@
+T1	Drug 54 64	Prednisone
+A1	Person T1 1st
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Disease_Symptom 18 29	mood swings
+A2	Person T2 1st
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0085633	Mood swings
+R1	Outcome-negative Arg1:T1 Arg2:T2

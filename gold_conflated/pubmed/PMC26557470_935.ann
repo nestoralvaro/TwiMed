@@ -1,0 +1,5 @@
+T1	Disease_Symptom 74 121	nonarteritic anterior ischemic optic neuropathy
+N1	Reference T1 Concepts:C0238309	Ischaemic neuropathy
+T2	Drug 30 43	triamcinolone
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

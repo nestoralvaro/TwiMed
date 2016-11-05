@@ -1,0 +1,14 @@
+T1	Disease_Symptom 190 208	metabolic syndrome
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0025517	Metabolic Diseases
+T2	Disease_Symptom 81 88	bipolar
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Disease_Symptom 170 180	overweight
+A3	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0028754 Vs. C0043094
+T4	Drug 44 55	ziprasidone
+A4	Person T4 3rd
+N4	Reference T4 Concepts:60853	Ziprasidone
+R1	Benefit Arg1:T2 Arg2:T4

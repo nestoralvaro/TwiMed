@@ -1,0 +1,7 @@
+T1	Disease_Symptom 40 57	increasing libido
+A1	Sentiment T1 Positive
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0021177 Vs. C0854382
+T2	Drug 10 18	Lamictal
+A2	Sentiment T2 Positive
+N2	Reference T2 Concepts:3878	Lamotrigine

@@ -1,0 +1,6 @@
+T1	Drug 0 11	Bevacizumab
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease_Symptom 47 73	Non-Small-Cell-Lung-Cancer
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0007131 Vs. -1
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,7 @@
+T1	Disease 112 138	psychotic major depression
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0270458	Psychotic depression
+T2	Drug 49 60	fluvoxamine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T1 Arg2:T2

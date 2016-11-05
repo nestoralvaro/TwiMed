@@ -1,0 +1,8 @@
+T1	Drug 65 68	MPH
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Drug 82 89	Equasym
+N2	Reference T2 Concepts:4158	Methylphenidate
+T3	Disease_Symptom 36 40	ADHD
+N3	Reference T3 Concepts:C1263846	Attention deficit hyperactivity disorder
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T2

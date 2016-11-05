@@ -1,0 +1,10 @@
+T1	Symptom 127 134	Nervous
+N1	Reference T1 Concepts:C0027769	Nervousness
+T2	Symptom 22 33	Weight Loss
+N2	Reference T2 Concepts:C0043096	Body Weight decreased
+T3	Symptom 47 63	Reduced Appetite
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C1971624 Vs. C0232462
+T4	Drug 10 20	Topiramate
+N4	Reference T4 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T4 Arg2:T1

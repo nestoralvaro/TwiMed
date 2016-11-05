@@ -1,0 +1,22 @@
+T1	Disease_Symptom 79 86	anxiety
+A1	Severity T1 Severe
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0003467 Vs. C0549259
+T2	Disease_Symptom 29 34	manic
+A2	Status T2 Continuing
+N2	Reference T2 Concepts:C0338831	Manic
+T3	Disease_Symptom 57 72	racing thoughts
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+T4	Disease_Symptom 112 128	#BipolarDisorder
+N4	Reference T4 Concepts:C0005586	Bipolar Disorder
+T5	Disease_Symptom 129 134	#mani
+N5	Reference T5 Concepts:C0235165	Mania acute
+T6	Drug 92 100	Lamictal
+A3	Status T6 Continuing
+A4	Sentiment T6 Positive
+N6	Reference T6 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T3 Arg2:T6
+R2	Benefit Arg1:T1 Arg2:T6
+R3	Benefit Arg1:T4 Arg2:T6
+R4	Benefit Arg1:T5 Arg2:T6
+R5	Benefit Arg1:T2 Arg2:T6

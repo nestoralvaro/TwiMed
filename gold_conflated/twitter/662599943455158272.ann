@@ -1,0 +1,6 @@
+T1	Disease_Symptom 69 75;89 93	weight gain
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0043094	Weight Gain
+T2	Drug 58 68	prednisone
+A2	Person T2 1st
+N2	Reference T2 Concepts:4900	Prednisone

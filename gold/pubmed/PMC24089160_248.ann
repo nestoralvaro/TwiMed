@@ -1,0 +1,8 @@
+T1	Drug 89 98	docetaxel
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease 39 51	breast cance
+A2	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0853879 Vs. C3495917
+R1	Reason-to-use Arg1:T2 Arg2:T1

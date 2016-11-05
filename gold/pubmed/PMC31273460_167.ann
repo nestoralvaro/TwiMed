@@ -1,0 +1,9 @@
+T1	Drug 144 154	sertraline
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Drug 105 115	duloxetine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:60834	Duloxetine
+T3	Drug 130 139	trazodone
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5533	Trazodone

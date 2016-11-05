@@ -1,0 +1,7 @@
+T1	Drug 49 59	prednisone
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Disease_Symptom 10 18	coughing
+A1	Status T2 Continuing
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0010200	Coughing
+R1	Benefit Arg1:T2 Arg2:T1

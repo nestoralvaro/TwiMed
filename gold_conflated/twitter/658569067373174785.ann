@@ -1,0 +1,7 @@
+T1	Disease_Symptom 56 61	awake
+A1	Person T1 2nd
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 33 43	Sertraline
+A2	Person T2 2nd
+N2	Reference T2 Concepts:5203	Sertraline
+R1	Benefit Arg1:T1 Arg2:T2

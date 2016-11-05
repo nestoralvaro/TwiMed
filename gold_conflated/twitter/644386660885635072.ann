@@ -1,0 +1,13 @@
+T1	Disease_Symptom 7 24	ruins my appetite
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1971624 Vs. C0232462
+T2	Disease_Symptom 34 42	nauseous
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0027497	Nausea
+T3	Drug 0 6	Zoloft
+A3	Person T3 1st
+A4	Sentiment T3 Negative
+N3	Reference T3 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

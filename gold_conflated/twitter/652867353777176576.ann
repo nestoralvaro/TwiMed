@@ -1,0 +1,8 @@
+T1	Disease_Symptom 89 102	manic episode
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:C0349208	Manic episode
+T2	Drug 31 37	Celexa
+A3	Person T2 1st
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:2771	Citalopram

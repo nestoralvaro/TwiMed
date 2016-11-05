@@ -1,0 +1,5 @@
+T1	Drug 84 94	Lisinopril
+N1	Reference T1 Concepts:3937	Lisinopril
+T2	Disease_Symptom 60 70	angioedema
+N2	Reference T2 Concepts:C0002994	Angioedema
+R1	Outcome-negative Arg1:T1 Arg2:T2

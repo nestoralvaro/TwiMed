@@ -1,0 +1,7 @@
+T1	Drug 96 109	triamcinolone
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5544	Triamcinolone
+T2	Disease_Symptom 134 147	lichen planus
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0023646	Lichen Planus
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,1263 @@
+👵	Older Woman
+👴	Older Man
+👷	Construction Worker
+👶	Baby
+👱	Person With Blond Hair
+👰	Bride With Veil
+👳	Man With Turban
+👲	Man With Gua Pi Mao
+👽	Extraterrestrial Alien
+👼	Baby Angel
+👿	Imp
+✊	Raised Fist
+👹	Japanese Ogre
+👸	Princess
+👻	Ghost
+👺	Japanese Goblin
+👥	Busts in Silhouette
+👤	Bust in Silhouette
+👧	Girl
+👦	Boy
+👡	Womans Sandal
+👠	High-Heeled Shoe
+👣	Footprints
+👢	Womans Boots
+👭	Two Women Holding Hands
+👬	Two Men Holding Hands
+👯	Woman With Bunny Ears
+👮	Police Officer
+👩	Woman
+👨	Man
+👫	Man and Woman Holding Hands
+👪	Family
+👕	T-Shirt
+👔	Necktie
+👗	Dress
+👖	Jeans
+👑	Crown
+👐	Open Hands Sign
+👓	Eyeglasses
+👒	Womans Hat
+👝	Pouch
+👜	Handbag
+👟	Athletic Shoe
+👞	Mans Shoe
+👙	Bikini
+👘	Kimono
+👛	Purse
+👚	Womans Clothes
+👅	Tongue
+👄	Mouth
+👇	White Down Pointing Backhand Index
+👆	White Up Pointing Backhand Index
+👁	Eye
+👀	Eyes
+👃	Nose
+👂	Ear
+👍	Thumbs Up Sign
+👌	OK Hand Sign
+👏	Clapping Hands Sign
+👎	Thumbs Down Sign
+👉	White Right Pointing Backhand Index
+👈	White Left Pointing Backhand Index
+👋	Waving Hand Sign
+👊	Fisted Hand Sign
+🐵	Monkey Face
+🐴	Horse Face
+🐷	Pig Face
+🐶	Dog Face
+🐱	Cat Face
+🐰	Rabbit Face
+🐳	Spouting Whale
+🐲	Dragon Face
+🐽	Pig Nose
+🐼	Panda Face
+🐿	Chipmunk
+🐾	Paw Prints
+🐹	Hamster Face
+🐸	Frog Face
+🐻	Bear Face
+🐺	Wolf Face
+🐥	Front-Facing Baby Chick
+🐤	Baby Chick
+🐧	Penguin
+🐦	Bird
+🐡	Blowfish
+🐠	Tropical Fish
+🐣	Hatching Chick
+🐢	Turtle
+🐭	Mouse Face
+🐬	Dolphin
+🐯	Tiger Face
+🐮	Cow Face
+🐩	Poodle
+🐨	Koala
+🐫	Bactrian Camel
+🐪	Dromedary Camel
+🐕	Dog
+🐔	Chicken
+🐗	Boar
+🐖	Pig
+🐑	Sheep
+🐐	Goat
+🐓	Rooster
+🐒	Monkey
+🐝	Honeybee
+🐜	Ant
+🐟	Fish
+🐞	Lady Beetle
+🐙	Octopus
+🐘	Elephant
+🐛	Bug
+🐚	Spiral Shell
+🐅	Tiger
+🐄	Cow
+🐇	Rabbit
+🐆	Leopard
+🐁	Mouse
+🐀	Rat
+🐃	Water Buffalo
+🐂	Ox
+🐍	Snake
+🐌	Snail
+🐏	Ram
+🐎	Horse
+🐉	Dragon
+🐈	Cat
+🐋	Whale
+🐊	Crocodile
+🚵	Mountain Bicyclist
+📷	Camera
+📶	Antenna With Bars
+📱	Mobile Phone
+📰	Newspaper
+📳	Vibration Mode
+🚴	Bicyclist
+📽	Film Projector
+📼	Videocassette
+📿	Prayer Beads
+🇯🇵	Flag for Japan
+📹	Video Camera
+📸	Camera With Flash
+📻	Radio
+📺	Television
+📥	Inbox Tray
+📤	Outbox Tray
+📧	E-Mail Symbol
+🍵	Teacup Without Handle
+📡	Satellite Antenna
+📠	Fax Machine
+📣	Cheering Megaphone
+📢	Public Address Loudspeaker
+📭	Open Mailbox With Lowered Flag
+📬	Open Mailbox With Raised Flag
+📯	Postal Horn
+📮	Postbox
+📩	Envelope With Downwards Arrow Above
+📨	Incoming Envelope
+📫	Closed Mailbox With Raised Flag
+📪	Closed Mailbox With Lowered Flag
+📕	Closed Book
+📔	Notebook With Decorative Cover
+📗	Green Book
+👨‍❤️‍👨	Couple With Heart (Man, Man)
+📑	Bookmark Tabs
+📐	Triangular Ruler
+📓	Notebook
+🔄	Anticlockwise Downwards and Upwards Open Circle Arrows
+📝	Memo
+📜	Scroll
+📟	Pager
+🚲	Bicycle
+📙	Orange Book
+📘	Blue Book
+☯	Yin Yang
+📚	Books
+📅	Calendar
+🚽	Toilet
+📇	Card Index
+📆	Tear-Off Calendar
+📁	File Folder
+📀	DVD
+📃	Page With Curl
+🍿	Popcorn
+📍	Round Pushpin
+📌	Pushpin
+📏	Straight Ruler
+📎	Paperclip
+📉	Chart With Downwards Trend
+🚿	Shower
+📋	Clipboard
+📊	Bar Chart
+💵	Banknote With Dollar Sign
+💴	Banknote With Yen Sign
+💷	Banknote With Pound Sign
+💶	Banknote With Euro Sign
+💰	Money Bag
+💳	Credit Card
+🅱	Negative Squared Latin Capital Letter B
+💽	Minidisc
+💼	Briefcase
+💿	Optical Disc
+💾	Floppy Disk
+💸	Money With Wings
+💻	Personal Computer
+💺	Seat
+💤	Sleeping Symbol
+💧	Droplet
+💦	Splashing Sweat Symbol
+💡	Electric Light Bulb
+🚻	Restroom
+💣	Bomb
+💢	Anger Symbol
+💭	Thought Balloon
+💬	Speech Balloon
+💯	Hundred Points Symbol
+💮	White Flower
+💩	Pile of Poo
+💨	Dash Symbol
+👩‍👩‍👦‍👦	Family (Woman, Woman, Boy, Boy)
+💪	Flexed Biceps
+💕	Two Hearts
+🚥	Horizontal Traffic Light
+💗	Growing Heart
+💖	Sparkling Heart
+💑	Couple With Heart
+💐	Bouquet
+💓	Beating Heart
+💒	Wedding
+💝	Heart With Ribbon
+💜	Purple Heart
+💟	Heart Decoration
+💞	Revolving Hearts
+💙	Blue Heart
+🚧	Construction Sign
+💛	Yellow Heart
+💚	Green Heart
+💅	Nail Polish
+💄	Lipstick
+💇	Haircut
+💆	Face Massage
+💁	Information Desk Person
+💀	Skull
+💃	Dancer
+💂	Guardsman
+💍	Ring
+🚡	Aerial Tramway
+💏	Kiss
+💎	Gem Stone
+💉	Syringe
+💈	Barber Pole
+💋	Kiss Mark
+🚠	Mountain Cableway
+🕵	Sleuth or Spy
+🕴	Man in Business Suit Levitating
+🕷	Spider
+🕶	Dark Sunglasses
+🚣	Rowboat
+🕳	Hole
+🆚	Squared Vs
+🚢	Ship
+🕹	Joystick
+🕸	Spider Web
+🇧🇦	Flag for Bosnia & Herzegovina
+🕥	Clock Face Ten-Thirty
+🚭	No Smoking Symbol
+🕧	Clock Face Twelve-Thirty
+🕦	Clock Face Eleven-Thirty
+🕡	Clock Face Six-Thirty
+🕠	Clock Face Five-Thirty
+🕣	Clock Face Eight-Thirty
+🚬	Smoking Symbol
+🚷	No Pedestrians
+🇮🇪	Flag for Ireland
+🕯	Candle
+🆙	Squared Up With Exclamation Mark
+🚯	Do Not Litter Symbol
+➕	Heavy Plus Sign
+🕕	Clock Face Six O'Clock
+🕔	Clock Face Five O'Clock
+🕗	Clock Face Eight O'Clock
+🚮	Put Litter in Its Place Symbol
+🕑	Clock Face Two O'Clock
+🕐	Clock Face One O'Clock
+🕓	Clock Face Four O'Clock
+🕒	Clock Face Three O'Clock
+🕝	Clock Face Two-Thirty
+🚩	Triangular Flag on Post
+🕟	Clock Face Four-Thirty
+🕞	Clock Face Three-Thirty
+🕙	Clock Face Ten O'Clock
+🕘	Clock Face Nine O'Clock
+🕛	Clock Face Twelve O'Clock
+🚨	Police Cars Revolving Light
+🆒	Squared Cool
+🇧🇸	Flag for Bahamas
+🚤	Speedboat
+🕍	Synagogue
+🕌	Mosque
+☺	White Smiling Face
+🕉	Om Symbol
+9⃣	9 Keycap Digit Nine
+🕋	Kaaba
+🕊	Dove of Peace
+🔵	Large Blue Circle
+🚕	Taxi
+🔷	Large Blue Diamond
+🔶	Large Orange Diamond
+⛅	Sun Behind Cloud
+❄	Snowflake
+🔳	White Square Button
+🚔	Oncoming Police Car
+🔽	Down-Pointing Small Red Triangle
+🔼	Up-Pointing Small Red Triangle
+♊	Gemini
+🔹	Small Blue Diamond
+🚗	Automobile
+🔻	Down-Pointing Red Triangle
+🔺	Up-Pointing Red Triangle
+🔥	Fire
+3⃣	3 Keycap Digit Three
+🔧	Wrench
+🚖	Oncoming Taxi
+🚱	Non-Potable Water Symbol
+✏	Pencil
+🔣	Input Symbol for Symbols
+🔢	Input Symbol for Numbers
+🔭	Telescope
+🚑	Ambulance
+🔯	Six Pointed Star With Middle Dot
+🗺	World Map
+🔩	Nut and Bolt
+🔨	Hammer
+🔫	Pistol
+🚐	Minibus
+🔕	Bell With Cancellation Stroke
+🔔	Bell
+🔗	Link Symbol
+🔖	Bookmark
+🔑	Key
+🚓	Police Car
+🔓	Open Lock
+🔒	Lock
+🔝	Top With Upwards Arrow Above
+🔜	Soon With Rightwards Arrow Above
+🔟	Keycap Ten
+🚒	Fire Engine
+🔙	Back With Leftwards Arrow Above
+🔛	On With Exclamation Mark With Left Right Arrow Above
+🔚	End With Leftwards Arrow Above
+🔅	Low Brightness Symbol
+🚝	Monorail
+🚰	Potable Water Symbol
+⚒	Hammer and Pick
+⛵	Sailboat
+🔀	Twisted Rightwards Arrows
+🔃	Clockwise Downwards and Upwards Open Circle Arrows
+🚜	Tractor
+🔍	Left-Pointing Magnifying Glass
+🔌	Electric Plug
+🔏	Lock With Ink Pen
+🔎	Right-Pointing Magnifying Glass
+🔉	Speaker With One Sound Wave
+🚟	Suspension Railway
+🔋	Battery
+🔊	Speaker With Three Sound Waves
+🚞	Mountain Railway
+🗳	Ballot Box With Ballot
+🇱🇷	Flag for Liberia
+🗽	Statue of Liberty
+🗼	Tokyo Tower
+🗿	Moyai
+🗻	Mount Fuji
+🚘	Oncoming Automobile
+🚳	No Bicycles
+☕	Hot Beverage
+🚛	Articulated Lorry
+🗣	Speaking Head in Silhouette
+↘	South East Arrow
+🗯	Right Anger Bubble
+🚚	Delivery Truck
+🚅	High-Speed Train With Bullet Nose
+🗑	Wastebasket
+🗓	Spiral Calendar Pad
+🚄	High-Speed Train
+🗝	Old Key
+🗜	Compression
+👨‍👩‍👧‍👦	Family (Man, Woman, Girl, Boy)
+👨‍👩‍👧‍👧	Family (Man, Woman, Girl, Girl)
+🚇	Metro
+🗄	File Cabinet
+🀄	Mahjong Tile Red Dragon
+🚆	Train
+🗃	Card File Box
+🗂	Card Index Dividers
+🚁	Helicopter
+🚀	Rocket
+🇮🇹	Flag for Italy
+🖱	Three Button Mouse
+🚃	Railway Car
+🔈	Speaker
+🖲	Trackball
+🖼	Frame With Picture
+👨‍👩‍👧	Family (Man, Woman, Girl)
+🖥	Desktop Computer
+🚍	Oncoming Bus
+🇪🇹	Flag for Ethiopia
+🇳🇷	Flag for Nauru
+⛏	Pick
+🇹🇹	Flag for Trinidad & Tobago
+⛸	Ice Skate
+❎	Negative Squared Cross Mark
+🚏	Bus Stop
+🇲🇩	Flag for Moldova
+🖕	Reversed Hand With Middle Finger Extended
+🇱🇰	Flag for Sri Lanka
+🖖	Raised Hand With Part Between Middle and Ring Fingers
+♥	Black Heart Suit
+🖐	Raised Hand With Fingers Splayed
+🚉	Station
+🚼	Baby Symbol
+⛪	Church
+📖	Open Book
+⏬	Black Down-Pointing Double Triangle
+🚈	Light Rail
+🖇	Linked Paperclips
+🚋	Tram Car
+🅿	Negative Squared Latin Capital Letter P
+🖍	Lower Left Crayon
+🖌	Lower Left Paintbrush
+🚊	Tram
+🖋	Lower Left Fountain Pen
+🖊	Lower Left Ballpoint Pen
+🎷	Saxophone
+🎴	Flower Playing Cards
+🗞	Rolled-Up Newspaper
+🎲	Game Die
+🎳	Bowling
+🎰	Slot Machine
+🎱	Billiards
+🎾	Tennis Racquet and Ball
+🎿	Ski and Ski Boot
+🎽	Running Shirt With Sash
+🎺	Trumpet
+🎻	Violin
+🎸	Guitar
+🎦	Cinema
+⚓	Anchor
+🎥	Movie Camera
+🎢	Roller Coaster
+🎣	Fishing Pole and Fish
+🎠	Carousel Horse
+🎡	Ferris Wheel
+🎮	Video Game
+☘	Shamrock
+🎬	Clapper Board
+🎭	Performing Arts
+🎪	Circus Tent
+🎫	Ticket
+🎨	Artist Palette
+🎩	Top Hat
+🎖	Military Medal
+🎗	Reminder Ribbon
+🔪	Hocho
+™	Trade Mark Sign
+🎒	School Satchel
+🎓	Graduation Cap
+🎐	Wind Chime
+🎞	Film Frames
+🎟	Admission Tickets
+🎚	Level Slider
+🎛	Control Knobs
+🎙	Studio Microphone
+🙅	Face With No Good Gesture
+🙄	Face With Rolling Eyes
+🙇	Person Bowing Deeply
+🎅	Father Christmas
+🙁	Slightly Frowning Face
+🙀	Weary Cat Face
+🙃	Upside-Down Face
+🙂	Slightly Smiling Face
+🙍	Person Frowning
+🙌	Person Raising Both Hands in Celebration
+🙏	Person With Folded Hands
+🙎	Person With Pouting Face
+🙉	Hear-No-Evil Monkey
+🙈	See-No-Evil Monkey
+🙋	Happy Person Raising One Hand
+🙊	Speak-No-Evil Monkey
+😵	Dizzy Face
+😴	Sleeping Face
+😷	Face With Medical Mask
+😶	Face Without Mouth
+😱	Face Screaming in Fear
+😰	Face With Open Mouth and Cold Sweat
+😳	Flushed Face
+😲	Astonished Face
+😽	Kissing Cat Face With Closed Eyes
+😼	Cat Face With Wry Smile
+😿	Crying Cat Face
+😾	Pouting Cat Face
+😹	Cat Face With Tears of Joy
+😸	Grinning Cat Face With Smiling Eyes
+😻	Smiling Cat Face With Heart-Shaped Eyes
+😺	Smiling Cat Face With Open Mouth
+😥	Disappointed but Relieved Face
+😤	Face With Look of Triumph
+😧	Anguished Face
+😦	Frowning Face With Open Mouth
+😡	Pouting Face
+😠	Angry Face
+😣	Persevering Face
+😢	Crying Face
+😭	Loudly Crying Face
+😬	Grimacing Face
+😯	Hushed Face
+😮	Face With Open Mouth
+😩	Weary Face
+😨	Fearful Face
+😫	Tired Face
+😪	Sleepy Face
+😕	Confused Face
+😔	Pensive Face
+😗	Kissing Face
+😖	Confounded Face
+😑	Expressionless Face
+😐	Neutral Face
+😓	Face With Cold Sweat
+😒	Unamused Face
+😝	Face With Stuck-Out Tongue and Tightly-Closed Eyes
+😜	Face With Stuck-Out Tongue and Winking Eye
+😟	Worried Face
+😞	Disappointed Face
+😙	Kissing Face With Smiling Eyes
+😘	Face Throwing a Kiss
+😛	Face With Stuck-Out Tongue
+😚	Kissing Face With Closed Eyes
+😅	Smiling Face With Open Mouth and Cold Sweat
+😄	Smiling Face With Open Mouth and Smiling Eyes
+😇	Smiling Face With Halo
+😆	Smiling Face With Open Mouth and Tightly-Closed Eyes
+😁	Grinning Face With Smiling Eyes
+😀	Grinning Face
+😃	Smiling Face With Open Mouth
+😂	Face With Tears of Joy
+😍	Smiling Face With Heart-Shaped Eyes
+😌	Relieved Face
+😏	Smirking Face
+😎	Smiling Face With Sunglasses
+😉	Winking Face
+😈	Smiling Face With Horns
+😋	Face Savouring Delicious Food
+😊	Smiling Face With Smiling Eyes
+🌶	Hot Pepper
+🌷	Tulip
+☃	Snowman
+🌵	Cactus
+🌲	Evergreen Tree
+🌳	Deciduous Tree
+🌰	Chestnut
+🌱	Seedling
+🌾	Ear of Rice
+🌿	Herb
+🌼	Blossom
+🌽	Ear of Maize
+🌺	Hibiscus
+🌻	Sunflower
+🌸	Cherry Blossom
+👩‍❤️‍💋‍👩	Kiss (Woman, Woman)
+🌦	White Sun Behind Cloud With Rain
+🌧	Cloud With Rain
+🌤	White Sun With Small Cloud
+🌥	White Sun Behind Cloud
+🛡	Shield
+🛠	Hammer and Wrench
+🌠	Shooting Star
+🛢	Oil Drum
+🌮	Taco
+🌯	Burrito
+🌬	Wind Blowing Face
+🌭	Hot Dog
+🌪	Cloud With Tornado
+🌫	Fog
+🌨	Cloud With Snow
+🌩	Cloud With Lightning
+🌖	Waning Gibbous Moon Symbol
+🌗	Last Quarter Moon Symbol
+🌔	Waxing Gibbous Moon Symbol
+🌕	Full Moon Symbol
+🌒	Waxing Crescent Moon Symbol
+🌓	First Quarter Moon Symbol
+🌐	Globe With Meridians
+🌑	New Moon Symbol
+🌞	Sun With Face
+🌟	Glowing Star
+👩‍👩‍👧	Family (Woman, Woman, Girl)
+👩‍👩‍👦	Family (Woman, Woman, Boy)
+🌚	New Moon With Face
+🌛	First Quarter Moon With Face
+🌘	Waning Crescent Moon Symbol
+🌙	Crescent Moon
+🌆	Cityscape at Dusk
+🌇	Sunset Over Buildings
+🇱🇮	Flag for Liechtenstein
+🌂	Closed Umbrella
+🛀	Bath
+🛃	Customs
+🌁	Foggy
+🌎	Earth Globe Americas
+🌏	Earth Globe Asia-Australia
+🌌	Milky Way
+🌍	Earth Globe Europe-Africa
+🌊	Water Wave
+🌋	Volcano
+🛋	Couch and Lamp
+🌉	Bridge at Night
+🍶	Sake Bottle and Cup
+🍷	Wine Glass
+🍴	Fork and Knife
+🚶	Pedestrian
+🍲	Pot of Food
+🍳	Cooking
+🍰	Shortcake
+🍱	Bento Box
+🍾	Bottle With Popping Cork
+⛈	Thunder Cloud and Rain
+🍼	Baby Bottle
+🍽	Fork and Knife With Plate
+🍺	Beer Mug
+🍻	Clinking Beer Mugs
+🍸	Cocktail Glass
+🍹	Tropical Drink
+🍦	Soft Ice Cream
+🍧	Shaved Ice
+🍤	Fried Shrimp
+🍥	Fish Cake With Swirl Design
+🍢	Oden
+🍣	Sushi
+🍠	Roasted Sweet Potato
+🍡	Dango
+🍮	Custard
+🍯	Honey Pot
+🍬	Candy
+🍭	Lollipop
+🍪	Cookie
+🍫	Chocolate Bar
+🍨	Ice Cream
+🍩	Doughnut
+🍖	Meat on Bone
+🍗	Poultry Leg
+🍔	Hamburger
+🍕	Slice of Pizza
+🍒	Cherries
+🍓	Strawberry
+🍐	Pear
+🍑	Peach
+🍞	Bread
+🍟	French Fries
+🍜	Steaming Bowl
+🍝	Spaghetti
+🍚	Cooked Rice
+🍛	Curry and Rice
+🍘	Rice Cracker
+🍙	Rice Ball
+🍆	Aubergine
+🍇	Grapes
+🍄	Mushroom
+🍅	Tomato
+🍂	Fallen Leaf
+🍃	Leaf Fluttering in Wind
+🍀	Four Leaf Clover
+🍁	Maple Leaf
+🍎	Red Apple
+🍏	Green Apple
+🍌	Banana
+🍍	Pineapple
+🍊	Tangerine
+🍋	Lemon
+🍈	Melon
+🍉	Watermelon
+🇯🇴	Flag for Jordan
+7⃣	7 Keycap Digit Seven
+🇭🇷	Flag for Croatia
+📴	Mobile Phone Off
+🇫🇯	Flag for Fiji
+✈	Airplane
+☎	Black Telephone
+🇫🇷	Flag for France
+🇭🇹	Flag for Haiti
+◾	Black Medium Small Square
+🇫🇴	Flag for Faroe Islands
+🇫🇲	Flag for Micronesia
+🚦	Vertical Traffic Light
+🇫🇰	Flag for Falkland Islands
+⚙	Gear
+✅	White Heavy Check Mark
+☮	Peace Symbol
+🛌	Sleeping Accommodation
+🇲🇾	Flag for Malaysia
+🇭🇺	Flag for Hungary
+🔐	Closed Lock With Key
+🇲🇿	Flag for Mozambique
+📲	Mobile Phone With Rightwards Arrow at Left
+🖨	Printer
+🇹🇲	Flag for Turkmenistan
+🇰🇼	Flag for Kuwait
+🇲🇺	Flag for Mauritius
+🇪🇨	Flag for Ecuador
+🆕	Squared New
+🇮🇷	Flag for Iran
+🇸🇳	Flag for Senegal
+🇹🇨	Flag for Turks & Caicos Islands
+♻	Black Universal Recycling Symbol
+🇧🇻	Flag for Bouvet Island
+♎	Libra
+⭐	White Medium Star
+🔇	Speaker With Cancellation Stroke
+🇹🇻	Flag for Tuvalu
+🇲🇷	Flag for Mauritania
+🇲🇴	Flag for Macau
+🇱🇧	Flag for Lebanon
+⛩	Shinto Shrine
+⏫	Black Up-Pointing Double Triangle
+🇹🇷	Flag for Turkey
+📦	Package
+⛓	Chains
+☄	Comet
+⛹	Person With Ball
+🇲🇱	Flag for Mali
+㊗	Circled Ideograph Congratulation
+⚔	Crossed Swords
+🈶	Squared CJK Unified Ideograph-6709
+🈷	Squared CJK Unified Ideograph-6708
+🈴	Squared CJK Unified Ideograph-5408
+🈵	Squared CJK Unified Ideograph-6e80
+🈲	Squared CJK Unified Ideograph-7981
+🈳	Squared CJK Unified Ideograph-7a7a
+↖	North West Arrow
+🈺	Squared CJK Unified Ideograph-55b6
+🈸	Squared CJK Unified Ideograph-7533
+🈹	Squared CJK Unified Ideograph-5272
+🇲🇻	Flag for Maldives
+🈯	Squared CJK Unified Ideograph-6307
+⌛	Hourglass
+🇩🇪	Flag for Germany
+🇷🇺	Flag for Russia
+🇷🇸	Flag for Serbia
+🇷🇼	Flag for Rwanda
+🇵🇰	Flag for Pakistan
+🈚	Squared CJK Unified Ideograph-7121
+🇷🇴	Flag for Romania
+🇵🇼	Flag for Palau
+🇷🇪	Flag for Runion
+1⃣	1 Keycap Digit One
+⛲	Fountain
+🈂	Squared Katakana Sa
+🛏	Bed
+🈁	Squared Katakana Koko
+☹	White Frowning Face
+🇽🇰	Flag for Kosovo
+〽	Part Alternation Mark
+🇻🇳	Flag for Vietnam
+⚾	Baseball
+🇳🇿	Flag for New Zealand
+🇱🇻	Flag for Latvia
+♉	Taurus
+🇳🇵	Flag for Nepal
+🇳🇴	Flag for Norway
+🇳🇱	Flag for Netherlands
+⛎	Ophiuchus
+🇳🇮	Flag for Nicaragua
+👨‍👨‍👧‍👧	Family (Man, Man, Girl, Girl)
+👨‍👨‍👧‍👦	Family (Man, Man, Girl, Boy)
+🇳🇫	Flag for Norfolk Island
+🇳🇪	Flag for Niger
+🇲🇫	Flag for St. Martin
+🇳🇨	Flag for New Caledonia
+🇳🇦	Flag for Namibia
+🇹🇫	Flag for French Southern Territories
+🇿🇲	Flag for Zambia
+❣	Heavy Heart Exclamation Mark Ornament
+🉐	Circled Ideograph Advantage
+🉑	Circled Ideograph Accept
+🇸🇽	Flag for Sint Maarten
+🔆	High Brightness Symbol
+🆘	Squared SOS
+🇿🇼	Flag for Zimbabwe
+⏰	Alarm Clock
+🇿🇦	Flag for South Africa
+🇧🇪	Flag for Belgium
+🆔	Squared ID
+🇴🇲	Flag for Oman
+📞	Telephone Receiver
+🇨🇫	Flag for Central African Republic
+🇵🇱	Flag for Poland
+🇸🇲	Flag for San Marino
+✒	Black Nib
+🇧🇴	Flag for Bolivia
+⚗	Alembic
+↙	South West Arrow
+⌚	Watch
+🇦🇫	Flag for Afghanistan
+🇰🇵	Flag for North Korea
+🇾🇹	Flag for Mayotte
+🇰🇲	Flag for Comoros
+📄	Page Facing Up
+↩	Leftwards Arrow With Hook
+🇰🇾	Flag for Cayman Islands
+⬆	Upwards Black Arrow
+🇱🇺	Flag for Luxembourg
+🇰🇬	Flag for Kyrgyzstan
+🇰🇭	Flag for Cambodia
+🇰🇮	Flag for Kiribati
+🇰🇪	Flag for Kenya
+🇺🇦	Flag for Ukraine
+🇧🇯	Flag for Benin
+🇼🇫	Flag for Wallis & Futuna
+🇵🇳	Flag for Pitcairn Islands
+🇬🇹	Flag for Guatemala
+#⃣	# Keycap Number Sign
+📂	Open File Folder
+🛎	Bellhop Bell
+♌	Leo
+🇼🇸	Flag for Samoa
+🚫	No Entry Sign
+🇸🇭	Flag for St. Helena
+🇸🇮	Flag for Slovenia
+🇸🇯	Flag for Svalbard & Jan Mayen
+🇸🇨	Flag for Seychelles
+🇬🇾	Flag for Guyana
+🇸🇪	Flag for Sweden
+🏂	Snowboarder
+♦	Black Diamond Suit
+📈	Chart With Upwards Trend
+0⃣	0 Keycap Digit Zero
+🇸🇾	Flag for Syria
+🇸🇿	Flag for Swaziland
+🇸🇧	Flag for Solomon Islands
+🇸🇹	Flag for So Tom & Prncipe
+⛷	Skier
+🇸🇻	Flag for El Salvador
+♓	Pisces
+🇸🇷	Flag for Suriname
+🇸🇰	Flag for Slovakia
+🇸🇱	Flag for Sierra Leone
+🚪	Door
+5⃣	5 Keycap Digit Five
+🔁	Clockwise Rightwards and Leftwards Open Circle Arrows
+🇰🇷	Flag for South Korea
+⬅	Leftwards Black Arrow
+🇧🇫	Flag for Burkina Faso
+✖	Heavy Multiplication X
+✍	Writing Hand
+2⃣	2 Keycap Digit Two
+🌡	Thermometer
+🇬🇶	Flag for Equatorial Guinea
+🎯	Direct Hit
+⚪	Medium White Circle
+✝	Latin Cross
+🅰	Negative Squared Latin Capital Letter A
+🇸🇬	Flag for Singapore
+🇯🇲	Flag for Jamaica
+🇬🇪	Flag for Georgia
+🅾	Negative Squared Latin Capital Letter O
+🇬🇫	Flag for French Guiana
+🇦🇨	Flag for Ascension Island
+▶	Black Right-Pointing Triangle
+ℹ	Information Source
+🇺🇲	Flag for U.S. Outlying Islands
+✂	Black Scissors
+🇬🇭	Flag for Ghana
+➡	Black Rightwards Arrow
+🇧🇩	Flag for Bangladesh
+🇻🇺	Flag for Vanuatu
+🇸🇸	Flag for South Sudan
+⭕	Heavy Large Circle
+♏	Scorpius
+🇺🇿	Flag for Uzbekistan
+▪	Black Small Square
+⏪	Black Left-Pointing Double Triangle
+🇺🇸	Flag for United States
+❕	White Exclamation Mark Ornament
+🇹🇴	Flag for Tonga
+⚫	Medium Black Circle
+🇹🇭	Flag for Thailand
+⛔	No Entry
+🇨🇼	Flag for Curaao
+☂	Umbrella
+✌	Victory Hand
+🇪🇭	Flag for Western Sahara
+◼	Black Medium Square
+➗	Heavy Division Sign
+🆎	Negative Squared AB
+♣	Black Club Suit
+☔	Umbrella With Rain Drops
+🇧🇮	Flag for Burundi
+☢	Radioactive Sign
+👨‍👩‍👦‍👦	Family (Man, Woman, Boy, Boy)
+©	Copyright Sign
+▫	White Small Square
+🇨🇻	Flag for Cape Verde
+🙆	Face With OK Gesture
+🎂	Birthday Cake
+🇧🇭	Flag for Bahrain
+⚽	Soccer Ball
+🇮🇳	Flag for India
+🇸🇩	Flag for Sudan
+🇱🇸	Flag for Lesotho
+🇨🇷	Flag for Costa Rica
+🇻🇦	Flag for Vatican City
+🎀	Ribbon
+💔	Broken Heart
+🎁	Wrapped Present
+❌	Cross Mark
+🎎	Japanese Dolls
+♒	Aquarius
+🇵🇪	Flag for Peru
+🇹🇱	Flag for Timor-Leste
+🎏	Carp Streamer
+🇧🇬	Flag for Bulgaria
+🎌	Crossed Flags
+🏪	Convenience Store
+☑	Ballot Box With Check
+🎊	Confetti Ball
+‼	Double Exclamation Mark
+🇰🇿	Flag for Kazakhstan
+🇵🇭	Flag for Philippines
+🇹🇰	Flag for Tokelau
+🎈	Balloon
+◻	White Medium Square
+🎉	Party Popper
+⛽	Fuel Pump
+🏫	School
+🇨🇩	Flag for Congo - Kinshasa
+🏷	Label
+⚖	Scales
+🏴	Waving Black Flag
+💘	Heart With Arrow
+🇵🇬	Flag for Papua New Guinea
+🇹🇳	Flag for Tunisia
+🏵	Rosette
+⚠	Warning Sign
+☝	White Up Pointing Index
+⬛	Black Large Square
+🏳	Waving White Flag
+🏰	European Castle
+🇯🇪	Flag for Jersey
+⏱	Stopwatch
+🗡	Dagger Knife
+®	Registered Sign
+🚾	Water Closet
+⏲	Timer Clock
+♈	Aries
+🆓	Squared Free
+⛴	Ferry
+◀	Black Left-Pointing Triangle
+6⃣	6 Keycap Digit Six
+❇	Sparkle
+🇬🇵	Flag for Guadeloupe
+⁉	Exclamation Question Mark
+🏺	Amphora
+♍	Virgo
+🇦🇸	Flag for American Samoa
+🇭🇰	Flag for Hong Kong
+🇭🇳	Flag for Honduras
+🇭🇲	Flag for Heard & McDonald Islands
+🏸	Badminton Racquet and Shuttlecock
+❗	Heavy Exclamation Mark Symbol
+💌	Love Letter
+👩‍👩‍👧‍👧	Family (Woman, Woman, Girl, Girl)
+👩‍👩‍👧‍👦	Family (Woman, Woman, Girl, Boy)
+🛅	Left Luggage
+🏹	Bow and Arrow
+🏦	Bank
+🏧	Automated Teller Machine
+🇩🇬	Flag for Diego Garcia
+🇩🇯	Flag for Djibouti
+🇹🇼	Flag for Taiwan
+🏤	European Post Office
+🇧🇧	Flag for Barbados
+🇩🇴	Flag for Dominican Republic
+🏥	Hospital
+♿	Wheelchair Symbol
+🇩🇲	Flag for Dominica
+🏢	Office Building
+🇩🇿	Flag for Algeria
+💊	Pill
+🏣	Japanese Post Office
+☀	Black Sun With Rays
+🇦🇱	Flag for Albania
+🏠	House Building
+🇹🇿	Flag for Tanzania
+🏡	House With Garden
+🇧🇲	Flag for Bermuda
+🏮	Izakaya Lantern
+↕	Up Down Arrow
+🏯	Japanese Castle
+⚛	Atom Symbol
+🏬	Department Store
+🕰	Mantelpiece Clock
+🤘	Sign of the Horns
+☠	Skull and Crossbones
+🏭	Factory
+♨	Hot Springs
+🤐	Zipper-Mouth Face
+🤑	Money-Mouth Face
+🤒	Face With Thermometer
+🤓	Nerd Face
+🤔	Thinking Face
+🤕	Face With Head-Bandage
+🤖	Robot Face
+🤗	Hugging Face
+🇻🇮	Flag for U.S. Virgin Islands
+🏨	Hotel
+🏩	Love Hotel
+🏖	Beach With Umbrella
+🔂	Clockwise Rightwards and Leftwards Open Circle Arrows With Circled One Overlay
+☸	Wheel of Dharma
+🔠	Input Symbol for Latin Capital Letters
+🏗	Building Construction
+🏔	Snow Capped Mountain
+♐	Sagittarius
+🏕	Camping
+🇸🇦	Flag for Saudi Arabia
+🏒	Ice Hockey Stick and Puck
+🇺🇾	Flag for Uruguay
+🏓	Table Tennis Paddle and Ball
+🇮🇲	Flag for Isle of Man
+♠	Black Spade Suit
+🇮🇱	Flag for Israel
+🇮🇶	Flag for Iraq
+🏐	Volleyball
+🇮🇴	Flag for British Indian Ocean Territory
+🕤	Clock Face Nine-Thirty
+⏩	Black Right-Pointing Double Triangle
+🇮🇸	Flag for Iceland
+🏑	Field Hockey Stick and Ball
+🇻🇬	Flag for British Virgin Islands
+🏞	National Park
+🏟	Stadium
+⏹	Black Square for Stop
+🇮🇨	Flag for Canary Islands
+🇮🇩	Flag for Indonesia
+◽	White Medium Small Square
+🏜	Desert
+✔	Heavy Check Mark
+🇪🇷	Flag for Eritrea
+🏝	Desert Island
+🏚	Derelict House Building
+🕢	Clock Face Seven-Thirty
+👁‍🗨	Eye in Speech Bubble
+🇪🇸	Flag for Spain
+🏛	Classical Building
+🇪🇦	Flag for Ceuta & Melilla
+🏘	House Buildings
+🆑	Squared CL
+➖	Heavy Minus Sign
+🇪🇬	Flag for Egypt
+🏙	Cityscape
+🇪🇪	Flag for Estonia
+🚺	Womens Symbol
+🇳🇺	Flag for Niue
+✡	Star of David
+🏆	Trophy
+🇧🇹	Flag for Bhutan
+🌝	Full Moon With Face
+🏇	Horse Racing
+↪	Rightwards Arrow With Hook
+🇻🇪	Flag for Venezuela
+⛳	Flag in Hole
+⬜	White Large Square
+⚰	Coffin
+🏅	Sports Medal
+⤵	Arrow Pointing Rightwards Then Curving Downwards
+🦀	Crab
+🦁	Lion Face
+🦂	Scorpion
+🦃	Turkey
+🦄	Unicorn Face
+🔬	Microscope
+🏃	Runner
+🏀	Basketball and Hoop
+♋	Cancer
+🚸	Children Crossing
+🏎	Racing Car
+🕖	Clock Face Seven O'Clock
+🏏	Cricket Bat and Ball
+🆖	Squared NG
+🏌	Golfer
+🇧🇿	Flag for Belize
+🏍	Racing Motorcycle
+🇻🇨	Flag for St. Vincent & Grenadines
+🏊	Swimmer
+❓	Black Question Mark Ornament
+🏋	Weight Lifter
+⛰	Mountain
+🇳🇬	Flag for Nigeria
+🇰🇳	Flag for St. Kitts & Nevis
+🏈	American Football
+🕜	Clock Face One-Thirty
+🧀	Cheese Wedge
+🔮	Crystal Ball
+🏉	Rugby Football
+🇧🇾	Flag for Belarus
+🇵🇹	Flag for Portugal
+☪	Star and Crescent
+🇵🇸	Flag for Palestinian Territories
+🇶🇦	Flag for Qatar
+🌴	Palm Tree
+🇹🇦	Flag for Tristan Da Cunha
+㊙	Circled Ideograph Secret
+🛄	Baggage Claim
+🕚	Clock Face Eleven O'Clock
+🛰	Satellite
+⚡	High Voltage Sign
+🇲🇬	Flag for Madagascar
+🇲🇭	Flag for Marshall Islands
+🇲🇪	Flag for Montenegro
+🛳	Passenger Ship
+🇲🇨	Flag for Monaco
+☦	Orthodox Cross
+🇲🇦	Flag for Morocco
+⌨	Keyboard
+🇵🇾	Flag for Paraguay
+⚱	Funeral Urn
+✉	Envelope
+🇲🇼	Flag for Malawi
+🇲🇽	Flag for Mexico
+🇹🇩	Flag for Chad
+⤴	Arrow Pointing Rightwards Then Curving Upwards
+🇲🇸	Flag for Montserrat
+🇲🇹	Flag for Malta
+🇲🇶	Flag for Martinique
+🇧🇼	Flag for Botswana
+🔞	No One Under Eighteen Symbol
+🇲🇵	Flag for Northern Mariana Islands
+🇲🇲	Flag for Myanmar
+🇲🇳	Flag for Mongolia
+🇲🇰	Flag for Macedonia
+✳	Eight Spoked Asterisk
+💠	Diamond Shape With a Dot Inside
+🇵🇲	Flag for St. Pierre & Miquelon
+🇾🇪	Flag for Yemen
+🇪🇺	Flag for European Union
+🚂	Steam Locomotive
+⛑	Helmet With White Cross
+🇵🇷	Flag for Puerto Rico
+🇧🇳	Flag for Brunei
+🌹	Rose
+🇸🇴	Flag for Somalia
+🇬🇸	Flag for South Georgia & South Sandwich Islands
+🛥	Motor Boat
+🇬🇺	Flag for Guam
+🕎	Menorah With Nine Branches
+🇬🇼	Flag for Guinea-Bissau
+👨‍❤️‍💋‍👨	Kiss (Man, Man)
+8⃣	8 Keycap Digit Eight
+🛤	Railway Track
+🇬🇱	Flag for Greenland
+🇬🇲	Flag for Gambia
+🇬🇳	Flag for Guinea
+🇫🇮	Flag for Finland
+🇵🇫	Flag for French Polynesia
+🆗	Squared OK
+🇬🇷	Flag for Greece
+⛱	Umbrella on Ground
+🇬🇩	Flag for Grenada
+⏳	Hourglass With Flowing Sand
+🛁	Bathtub
+🇬🇬	Flag for Guernsey
+➿	Double Curly Loop
+🇬🇮	Flag for Gibraltar
+👨‍👨‍👧	Family (Man, Man, Girl)
+👨‍👨‍👦	Family (Man, Man, Boy)
+4⃣	4 Keycap Digit Four
+🇬🇦	Flag for Gabon
+🇩🇰	Flag for Denmark
+☁	Cloud
+🇨🇽	Flag for Christmas Island
+🇨🇾	Flag for Cyprus
+🇨🇿	Flag for Czech Republic
+🇱🇦	Flag for Laos
+✴	Eight Pointed Black Star
+🇨🇺	Flag for Cuba
+🔴	Large Red Circle
+🇨🇴	Flag for Colombia
+🇨🇵	Flag for Clipperton Island
+✋	Raised Hand
+🚌	Bus
+🇨🇰	Flag for Cook Islands
+🇨🇱	Flag for Chile
+🇨🇲	Flag for Cameroon
+🇨🇳	Flag for China
+👾	Alien Monster
+🇨🇭	Flag for Switzerland
+🇨🇮	Flag for Cte DIvoire
+🇧🇱	Flag for St. Barthlemy
+🇨🇨	Flag for Cocos Islands
+↔	Left Right Arrow
+🛬	Airplane Arriving
+👨‍👨‍👦‍👦	Family (Man, Man, Boy, Boy)
+🔱	Trident Emblem
+🇨🇦	Flag for Canada
+🔰	Japanese Symbol for Beginner
+🇦🇺	Flag for Australia
+☣	Biohazard Sign
+🇦🇹	Flag for Austria
+🇦🇿	Flag for Azerbaijan
+🇦🇼	Flag for Aruba
+🇦🇽	Flag for land Islands
+🇦🇲	Flag for Armenia
+🛩	Small Airplane
+🔲	Black Square Button
+🇦🇶	Flag for Antarctica
+🇦🇷	Flag for Argentina
+🇦🇴	Flag for Angola
+🇦🇪	Flag for United Arab Emirates
+➰	Curly Loop
+↗	North East Arrow
+🇦🇩	Flag for Andorra
+🇦🇮	Flag for Anguilla
+🛫	Airplane Departure
+🇦🇬	Flag for Antigua & Barbuda
+🇱🇨	Flag for St. Lucia
+🇵🇦	Flag for Panama
+Ⓜ	Circled Latin Capital Letter M
+⬇	Downwards Black Arrow
+🚎	Trolleybus
+🇹🇬	Flag for Togo
+🛂	Passport Control
+🔸	Small Orange Diamond
+♑	Capricorn
+🌃	Night With Stars
+👩‍❤️‍👩	Couple With Heart (Woman, Woman)
+🇱🇹	Flag for Lithuania
+🛐	Place of Worship
+🇬🇧	Flag for United Kingdom
+🗒	Spiral Note Pad
+🔤	Input Symbol for Latin Letters
+🇹🇯	Flag for Tajikistan
+🇨🇬	Flag for Congo - Brazzaville
+🛍	Shopping Bags
+🇺🇬	Flag for Uganda
+🇧🇶	Flag for Caribbean Netherlands
+🇧🇷	Flag for Brazil
+🌀	Cyclone
+❤	Heavy Black Heart
+🔦	Electric Torch
+🇱🇾	Flag for Libya
+🏄	Surfer
+🔡	Input Symbol for Latin Small Letters
+🚹	Mens Symbol
+🌜	Last Quarter Moon With Face
+❔	White Question Mark Ornament
+🎹	Musical Keyboard
+🎵	Musical Note
+💫	Dizzy Symbol
+🎃	Jack-O-Lantern
+🏻	Emoji Modifier Fitzpatrick Type-1-2
+🏼	Emoji Modifier Fitzpatrick Type-3
+🏽	Emoji Modifier Fitzpatrick Type-4
+🏾	Emoji Modifier Fitzpatrick Type-5
+🏿	Emoji Modifier Fitzpatrick Type-6
+🎶	Multiple Musical Notes

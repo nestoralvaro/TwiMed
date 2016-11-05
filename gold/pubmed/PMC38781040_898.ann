@@ -1,0 +1,13 @@
+T1	Symptom 167 176	hypomania
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0241934	Hypomania
+T2	Drug 96 106	quetiapine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Drug 111 122	venlafaxine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5656	Venlafaxine
+T4	Disease 61 79	dysthymic disorder
+A4	Person T4 3rd
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T4	Disagreement in concept ID: C0011581 Vs. C0011570

@@ -1,0 +1,8 @@
+T1	Symptom 83 94	weight gain
+A1	Severity T1 Mild
+N1	Reference T1 Concepts:C0043094	Weight Gain
+T2	Drug 116 126	paroxetine
+N2	Reference T2 Concepts:4691	Paroxetine
+T3	Symptom 45 56	weight loss
+N3	Reference T3 Concepts:C0043096	Body Weight decreased
+R1	Outcome-negative Arg1:T2 Arg2:T1

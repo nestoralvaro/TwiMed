@@ -1,0 +1,4 @@
+T1	Drug 39 45	prozac
+N1	Reference T1 Concepts:3386	Fluoxetine
+T2	Disease_Symptom 2 20	feel like a zombie
+N2	Reference T2 Concepts:C0013144	Drowsiness

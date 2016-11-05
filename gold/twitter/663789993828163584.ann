@@ -1,0 +1,6 @@
+T1	Disease 92 107	anti depressant
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 19 27	suboxone
+A1	Person T2 2nd
+N2	Reference T2 Concepts:2476	Buprenorphine
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,9 @@
+T1	Symptom 113 118	awake
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Symptom 79 84	sleep
+A2	Person T2 1st
+N2	Reference T2 Concepts:C2830004	Somnolence
+T3	Drug 21 32	montelukast
+N3	Reference T3 Concepts:4248	Montelukast
+R1	Outcome-negative Arg1:T3 Arg2:T2

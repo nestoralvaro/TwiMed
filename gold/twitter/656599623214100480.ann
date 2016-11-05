@@ -1,0 +1,7 @@
+T1	Symptom 51 61	back hurts
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0004604	Back Pain
+T2	Drug 13 19	prozac
+A2	Person T2 1st
+N2	Reference T2 Concepts:3386	Fluoxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	Symptom 36 48	scar removal
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Drug 13 20	Kenalog
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Reason-to-use Arg1:T1 Arg2:T2

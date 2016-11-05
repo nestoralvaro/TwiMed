@@ -1,0 +1,14 @@
+T1	Disease_Symptom 149 159	depression
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Disease_Symptom 177 183	cancer
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0007097	Carcinoma
+T3	Disease_Symptom 115 126	ototoxicity
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0235280	Ototoxicity
+T4	Drug 12 22	Sertraline
+N4	Reference T4 Concepts:5203	Sertraline
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

@@ -1,0 +1,8 @@
+T1	Disease 58 70	fibromyalgia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0016053	Fibromyalgia
+T2	Drug 0 9	Trazodone
+A2	Modality T2 Generic
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Reason-to-use Arg1:T1 Arg2:T2

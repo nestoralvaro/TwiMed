@@ -1,0 +1,9 @@
+T1	Disease_Symptom 122 128	hungry
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0232461 Vs. C0020175
+T2	Drug 13 20	zyprexa
+A3	Person T2 1st
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

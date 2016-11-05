@@ -1,0 +1,11 @@
+T1	Symptom 43 61	puts on the pounds
+A1	Exemplification T1 Exemplification
+N1	Reference T1 Concepts:C0043094	Weight Gain
+T2	Symptom 14 24	lost weigh
+A2	Polarity T2 Polarity
+A3	Person T2 1st
+N2	Reference T2 Concepts:C0043096	Body Weight decreased
+T3	Drug 35 42	Zyprexa
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

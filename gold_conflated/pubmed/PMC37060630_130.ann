@@ -1,0 +1,12 @@
+T1	Disease_Symptom 116 120	ADHD
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 126 134	Adderall
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3007	Amphetamine
+T3	Disease_Symptom 78 91	liver failure
+A3	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0085605 Vs. C2242583
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T2 Arg2:T3

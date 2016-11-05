@@ -1,0 +1,11 @@
+T1	Disease_Symptom 96 110	Anti-Psychotic
+N1	Reference T1 Concepts:C0033975	Psychotic Disorders
+T2	Disease_Symptom 112 127	Mood Suppressor
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0525045 Vs. C0344315
+T3	Drug 81 91	Olanzapine
+A1	Person T3 1st
+A2	Status T3 Continuing
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

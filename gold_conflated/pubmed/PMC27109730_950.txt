@@ -1,0 +1,1 @@
+RESULTS: After __number__ weeks, systolic blood pressure (SBP) decreased from  __number__  +/-  __number__  to  __number__  +/-  __number__  with irbesartan and to  __number__  +/- __number__ mmHg with lisinopril.

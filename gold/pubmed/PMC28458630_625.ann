@@ -1,0 +1,7 @@
+T1	Symptom 227 236	diarrhoea
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0151594	Diarrhoea haemorrhagic
+T2	Drug 53 66	ciprofloxacin
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2764	Ciprofloxacin
+R1	Reason-to-use Arg1:T1 Arg2:T2

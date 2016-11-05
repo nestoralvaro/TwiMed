@@ -1,0 +1,13 @@
+T1	Symptom 130 137	wake up
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:C0043012	Wakefulness
+T2	Symptom 55 61	asleep
+A3	Person T2 1st
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:C2830004	Somnolence
+T3	Drug 15 24	Modafinil
+A5	Person T3 1st
+N3	Reference T3 Concepts:4236	Modafinil
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

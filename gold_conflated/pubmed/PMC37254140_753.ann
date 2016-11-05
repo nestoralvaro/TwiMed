@@ -1,0 +1,14 @@
+T1	Disease_Symptom 104 112	epilepsy
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0014544	Epilepsy
+T2	Disease_Symptom 44 63	language impairment
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C0236826	Expressive language disorder
+T3	Drug 9 19	Topiramate
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T3

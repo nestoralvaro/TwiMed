@@ -1,0 +1,8 @@
+T1	Drug 95 105	Lisinopril
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3937	Lisinopril
+T2	Disease_Symptom 45 54	dry cough
+A2	Status T2 Continuing
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0850149	Dry cough
+R1	Outcome-negative Arg1:T1 Arg2:T2

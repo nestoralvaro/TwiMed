@@ -1,0 +1,11 @@
+T1	Drug 30 40	quetiapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease 69 87	bipolar depression
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0005587	Depression, Bipolar
+T3	Symptom 18 26	headache
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0018681	Headache
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T1

@@ -1,0 +1,11 @@
+T1	Drug 318 329	ziprasidone
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Drug 162 172	quetiapine
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Drug 142 152	olanzapine
+N3	Reference T3 Concepts:4585	Olanzapine
+T4	Disease_Symptom 70 83	schizophrenia
+N4	Reference T4 Concepts:C0036341	Schizophrenia
+R1	Benefit Arg1:T4 Arg2:T2
+R2	Benefit Arg1:T4 Arg2:T1
+R3	Benefit Arg1:T4 Arg2:T3

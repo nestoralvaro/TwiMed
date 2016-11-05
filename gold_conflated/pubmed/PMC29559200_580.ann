@@ -1,0 +1,6 @@
+T1	Disease_Symptom 92 126	esophageal squamous cell carcinoma
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0007137 Vs. C1332166
+T2	Drug 9 18	docetaxel
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Benefit Arg1:T1 Arg2:T2

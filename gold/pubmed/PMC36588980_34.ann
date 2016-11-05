@@ -1,0 +1,7 @@
+T1	Drug 172 182	sertraline
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Disease 51 81	post-traumatic stress disorder
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0038436	Post-Traumatic Stress Disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

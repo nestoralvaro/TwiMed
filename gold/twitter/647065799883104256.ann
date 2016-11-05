@@ -1,0 +1,14 @@
+T1	Symptom 61 68	anxiety
+A1	Person T1 3rd
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Symptom 72 80	insomnia
+A3	Person T2 3rd
+A4	Modality T2 Hypothetical
+N2	Reference T2 Concepts:C0393761	Middle insomnia
+T3	Drug 47 56	trazodone
+A5	Person T3 3rd
+A6	Modality T3 Hypothetical
+N3	Reference T3 Concepts:5533	Trazodone
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

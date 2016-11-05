@@ -1,0 +1,21 @@
+T1	Symptom 247 255	swelling
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0853619 Vs. C0038999
+T2	Symptom 261 265	pain
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Symptom 215 220	fever
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0015967	Fever
+T4	Symptom 237 245	erythema
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0041834	Erythema
+T5	Drug 117 127	prednisone
+A5	Person T5 3rd
+A6	Status T5 Continuing
+N5	Reference T5 Concepts:4900	Prednisone
+T6	Symptom 165 181	leprosy reaction
+A7	Person T6 3rd
+N6	Reference T6 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T6 Arg2:T5

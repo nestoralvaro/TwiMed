@@ -1,0 +1,6 @@
+T1	Drug 170 180	citalopram
+A1	Person T1 3rd
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Drug 155 165	sertraline
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5203	Sertraline

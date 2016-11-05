@@ -1,0 +1,6 @@
+T1	Drug 130 136	Zoloft
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Disease_Symptom 13 22	depressed
+A1	Person T2 3rd
+N2	Reference T2 Concepts:C1386135	Acute depression
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,7 @@
+T1	Drug 149 159	paroxetine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease 34 48	panic disorder
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0030319	Panic Disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

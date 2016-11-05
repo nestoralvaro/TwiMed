@@ -1,0 +1,11 @@
+T1	Disease_Symptom 92 101	migraines
+A1	Modality T1 Hedged
+N1	Reference T1 Concepts:C0149931	Migraine Disorders
+T2	Disease_Symptom 106 110	PTSD
+A2	Modality T2 Hedged
+N2	Reference T2 Concepts:C0038436	Post-Traumatic Stress Disorder
+T3	Drug 62 73	Lamotrigine
+A3	Modality T3 Hedged
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

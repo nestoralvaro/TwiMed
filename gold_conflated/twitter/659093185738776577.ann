@@ -1,0 +1,12 @@
+T1	Disease_Symptom 79 94	QT prolongation
+N1	Reference T1 Concepts:C0600125	Electrocardiogram PR prolongation
+T2	Drug 12 18	Celexa
+N2	Reference T2 Concepts:2771	Citalopram
+T3	Disease_Symptom 66 74	seizures
+N3	Reference T3 Concepts:C0036572	Seizures
+T4	Drug 0 10	Citalopram
+N4	Reference T4 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1
+R4	Outcome-negative Arg1:T2 Arg2:T3

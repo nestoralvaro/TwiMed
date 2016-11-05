@@ -1,0 +1,7 @@
+T1	Disease_Symptom 12 17	awake
+A1	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0043012 Vs. C0917801
+T2	Drug 33 41	Provigil
+A2	Sentiment T2 Positive
+N2	Reference T2 Concepts:4236	Modafinil

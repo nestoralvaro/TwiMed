@@ -1,0 +1,5 @@
+T1	Disease_Symptom 86 92	vision
+N1	Reference T1 Concepts:C0042790	Vision Disorders
+T2	Drug 27 37	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T2

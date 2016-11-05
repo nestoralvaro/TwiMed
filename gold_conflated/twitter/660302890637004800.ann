@@ -1,0 +1,7 @@
+T1	Disease_Symptom 30 40	sleepiness
+A1	Sentiment T1 Positive
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0541854 Vs. C2830004
+T2	Drug 13 21	Seroquel
+A2	Sentiment T2 Positive
+N2	Reference T2 Concepts:5002	Quetiapine

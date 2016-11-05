@@ -1,0 +1,5 @@
+T1	Drug 88 98	olanzapine
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease_Symptom 38 60	deep venous Thrombosis
+N2	Reference T2 Concepts:C0149871	Deep Vein Thrombosis
+R1	Outcome-negative Arg1:T1 Arg2:T2

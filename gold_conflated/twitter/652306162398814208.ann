@@ -1,0 +1,10 @@
+T1	Disease_Symptom 100 109	headaches
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0018681	Headache
+T2	Drug 5 12	topamax
+A2	Person T2 1st
+A3	Duration T2 Irregular
+A4	Status T2 Complete
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:5514	Topiramate
+R1	Benefit Arg1:T1 Arg2:T2

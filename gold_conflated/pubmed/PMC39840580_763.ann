@@ -1,0 +1,7 @@
+T1	Disease_Symptom 95 115	opioid-use disorders
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1510472	Drug Dependence
+T2	Drug 42 55	buprenorphine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2476	Buprenorphine
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,14 @@
+T1	Disease_Symptom 50 58	delirium
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0011206	Delirium
+T2	Disease_Symptom 76 95	Alzheimer's disease
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C0002395	Alzheimer's Disease
+T3	Drug 34 45	fluvoxamine
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:3404	Fluvoxamine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

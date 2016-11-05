@@ -1,0 +1,11 @@
+T1	Disease_Symptom 40 48	tinnitus
+N1	Reference T1 Concepts:C0040264	Tinnitus
+T2	Disease_Symptom 14 18;30 34	Neck pain
+N2	Reference T2 Concepts:C0007859	Neck Pain
+T3	Disease_Symptom 21 34	Shoulder pain
+N3	Reference T3 Concepts:C0037011	Shoulder Pain
+T4	Drug 0 9	Tamoxifen
+N4	Reference T4 Concepts:5376	Tamoxifen
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

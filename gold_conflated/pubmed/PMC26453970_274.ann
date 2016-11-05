@@ -1,0 +1,6 @@
+T1	Disease_Symptom 143 162	depressive disorder
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1269683 Vs. C0011581
+T2	Drug 102 113	venlafaxine
+N2	Reference T2 Concepts:5656	Venlafaxine
+R1	Benefit Arg1:T1 Arg2:T2

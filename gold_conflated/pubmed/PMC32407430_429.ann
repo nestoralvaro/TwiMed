@@ -1,0 +1,5 @@
+T1	Disease_Symptom 170 186	absence seizures
+N1	Reference T1 Concepts:C0014553	Absence Epilepsy
+T2	Drug 105 116	lamotrigine
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T2

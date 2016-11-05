@@ -1,0 +1,6 @@
+T1	Disease 39 52	osteonecrosis
+N1	Reference T1 Concepts:C0029445	Bone necrosis
+T2	Drug 111 119	Temgesic
+A1	Person T2 3rd
+N2	Reference T2 Concepts:2476	Buprenorphine
+R1	Outcome-negative Arg1:T2 Arg2:T1

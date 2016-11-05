@@ -1,0 +1,15 @@
+T1	Symptom 231 240	psychosis
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0281774	Acute psychosis
+T2	Drug 100 110	quetiapine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Drug 127 138	ziprasidone
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:60853	Ziprasidone
+T4	Drug 88 98	olanzapine
+A4	Person T4 3rd
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T4
+R2	Reason-to-use Arg1:T1 Arg2:T2
+R3	Reason-to-use Arg1:T1 Arg2:T3

@@ -1,0 +1,7 @@
+T1	Drug 37 47	duloxetine
+A1	Person T1 3rd
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease_Symptom 0 3	MDD
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+R1	Benefit Arg1:T2 Arg2:T1

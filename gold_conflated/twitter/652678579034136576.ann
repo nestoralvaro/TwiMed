@@ -1,0 +1,12 @@
+T1	Disease_Symptom 113 122	depressed
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0344315	Depressed mood
+T2	Disease_Symptom 27 42	effect my moods
+A3	Polarity T2 Polarity
+A4	Person T2 1st
+N2	Reference T2 Concepts:C2939186	Disturbance in mood
+T3	Drug 9 18	singulair
+A5	Person T3 1st
+N3	Reference T3 Concepts:4248	Montelukast
+R1	Outcome-negative Arg1:T3 Arg2:T1

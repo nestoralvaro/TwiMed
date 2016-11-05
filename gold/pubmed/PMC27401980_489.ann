@@ -1,0 +1,8 @@
+T1	Drug 143 153	topiramate
+A1	Person T1 3rd
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Symptom 79 93	blurred vision
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C0344232	Blurred vision
+R1	Outcome-negative Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	Disease 100 116	#TreatmentofADHD
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 14 22	#Ritalin
+N2	Reference T2 Concepts:4158	Methylphenidate
+R1	Reason-to-use Arg1:T1 Arg2:T2

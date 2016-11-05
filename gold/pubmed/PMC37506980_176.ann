@@ -1,0 +1,11 @@
+T1	Disease 258 275	diabetes mellitus
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0860160 Vs. C0011849
+T2	Drug 191 201	sertraline
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5203	Sertraline
+T3	Disease 219 235	major depression
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C1269683	Major Depressive Disorder
+R1	Reason-to-use Arg1:T3 Arg2:T2

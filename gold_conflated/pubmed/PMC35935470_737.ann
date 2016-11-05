@@ -1,0 +1,7 @@
+T1	Disease_Symptom 183 205	esophagogastric cancer
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C1332166	Adenocarcinoma of the gastroesophageal junction
+T2	Drug 131 140	docetaxel
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,13 @@
+T1	Disease_Symptom 47 87	brief feelings similar to electric shock
+A1	Exemplification T1 Exemplification
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0013781 Vs. C0036572
+T2	Disease_Symptom 17 26	tiredness
+N2	Reference T2 Concepts:C0392674	Exhaustion
+T3	Disease_Symptom 28 41	sleep changes
+N3	Reference T3 Concepts:C0851578	Sleep Disorders
+T4	Drug 2 12	Citalopram
+N4	Reference T4 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

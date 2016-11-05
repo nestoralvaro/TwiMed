@@ -1,0 +1,12 @@
+T1	Disease_Symptom 399 407	H pylori
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0151521 Vs. C0004623
+T2	Disease_Symptom 63 71	H pylori
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0151521 Vs. C0004623
+T3	Drug 215 227	levofloxacin
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

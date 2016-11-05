@@ -1,0 +1,11 @@
+T1	Disease_Symptom 27 47	deep vein thrombosis
+A1	Modality T1 Hedged
+N1	Reference T1 Concepts:C0149871	Deep Vein Thrombosis
+T2	Drug 76 85	tamoxifen
+A2	Modality T2 Hedged
+N2	Reference T2 Concepts:5376	Tamoxifen
+T3	Disease_Symptom 89 100	#lymphedema
+A3	Modality T3 Hedged
+N3	Reference T3 Concepts:C0024236	Lymphedema
+R1	Outcome-negative Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T2 Arg2:T3

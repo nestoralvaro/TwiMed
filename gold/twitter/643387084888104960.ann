@@ -1,0 +1,9 @@
+T1	Symptom 73 91	fall back to sleep
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+A3	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 10 19	Tamoxifen
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Outcome-positive Arg1:T2 Arg2:T1

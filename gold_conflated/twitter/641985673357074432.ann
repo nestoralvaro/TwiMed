@@ -1,0 +1,7 @@
+T1	Drug 92 101	docetaxel
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease_Symptom 35 61	Metastatic Prostate Cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0936223	Prostate cancer metastatic
+R1	Benefit Arg1:T2 Arg2:T1

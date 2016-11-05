@@ -1,0 +1,8 @@
+T1	Drug 57 67	citalopram
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Disease_Symptom 71 99	generalized anxiety disorder
+N2	Reference T2 Concepts:C0270549	Generalized Anxiety Disorder
+T3	Drug 31 42	venlafaxine
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

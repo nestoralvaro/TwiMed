@@ -1,0 +1,8 @@
+T1	Drug 145 156	lamotrigine
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Disease_Symptom 68 73	manic
+N2	Reference T2 Concepts:C0338831	Manic
+T3	Disease_Symptom 13 23	depression
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C1386135 Vs. C0011570
+R1	Benefit Arg1:T3 Arg2:T1

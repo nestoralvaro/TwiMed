@@ -1,0 +1,9 @@
+T1	Symptom 45 50	study
+A1	Person T1 1st
+A2	Duration T1 Irregular
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 34 41	vyvanse
+A3	Person T2 1st
+A4	Duration T2 Irregular
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Reason-to-use Arg1:T1 Arg2:T2

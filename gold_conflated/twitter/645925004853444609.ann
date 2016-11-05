@@ -1,0 +1,13 @@
+T1	Disease_Symptom 88 96	wheezing
+A1	Person T1 1st
+A2	Status T1 Complete
+N1	Reference T1 Concepts:C0043144	Wheezing
+T2	Disease_Symptom 60 68	insomnia
+A3	Person T2 1st
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0393761 Vs. C0393760
+T3	Drug 23 33	prednisone
+A5	Person T3 1st
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T3

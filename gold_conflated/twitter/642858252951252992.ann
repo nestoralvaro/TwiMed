@@ -1,0 +1,6 @@
+T1	Disease_Symptom 87 99	#NasalPolyps
+N1	Reference T1 Concepts:C0027430	Nasal Polyps
+T2	Drug 58 68	prednisone
+A1	Modality T2 Hedged
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T2

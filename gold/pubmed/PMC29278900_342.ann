@@ -1,0 +1,7 @@
+T1	Drug 25 35	fluoxetine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3386	Fluoxetine
+T2	Disease 3 18	bulimia nervosa
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C2267227	Bulimia Nervosa
+R1	Reason-to-use Arg1:T2 Arg2:T1

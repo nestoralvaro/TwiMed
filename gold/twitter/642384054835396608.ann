@@ -1,0 +1,7 @@
+T1	Symptom 64 82	my mind stays woke
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 90 98	concerta
+A3	Person T2 1st
+N2	Reference T2 Concepts:4158	Methylphenidate

@@ -1,0 +1,17 @@
+T1	Disease_Symptom 95 117	retinal vein occlusion
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0035309	Retinal Diseases
+T2	Disease_Symptom 63 83	diabetic retinopathy
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0241863 Vs. C0011882
+T3	Disease_Symptom 63 83	diabetic retinopathy
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0035309 Vs. C0011882
+T4	Drug 27 38	bevacizumab
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

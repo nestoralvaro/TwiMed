@@ -1,0 +1,23 @@
+T1	Symptom 241 256	nasopharyngitis
+N1	Reference T1 Concepts:C0027441	Nasopharyngitis
+T2	Disease 113 121	anorexia
+N2	Reference T2 Concepts:C0003123	Anorexia
+T3	Symptom 228 236	headache
+N3	Reference T3 Concepts:C0018681	Headache
+T4	Symptom 84 100	decreased weight
+N4	Reference T4 Concepts:C0043096	Body Weight decreased
+T5	Symptom 102 108	nausea
+N5	Reference T5 Concepts:C0027497	Nausea
+T6	Symptom 54 72	decreased appetite
+N6	Reference T6 Concepts:C0232462	Decrease in appetite
+T7	Symptom 74 82	insomnia
+N7	Reference T7 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T7	Disagreement in concept ID: C0393761 Vs. C0393760
+T8	Drug 166 182	lisdexamfetamine
+A1	Person T8 3rd
+N8	Reference T8 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Outcome-negative Arg1:T8 Arg2:T7
+R2	Outcome-negative Arg1:T8 Arg2:T6
+R3	Outcome-negative Arg1:T8 Arg2:T2
+R4	Outcome-negative Arg1:T8 Arg2:T5
+R5	Outcome-negative Arg1:T8 Arg2:T4

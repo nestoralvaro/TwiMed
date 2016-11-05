@@ -1,0 +1,5 @@
+T1	Drug 111 118	#prozac
+N1	Reference T1 Concepts:3386	Fluoxetine
+T2	Disease 0 11	#depression
+N2	Reference T2 Concepts:C1386135	Acute depression
+R1	Reason-to-use Arg1:T2 Arg2:T1

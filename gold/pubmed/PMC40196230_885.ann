@@ -1,0 +1,9 @@
+T1	Drug 48 58	olanzapine
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Symptom 91 109	psychotic symptoms
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0600104 Vs. C0338614
+T3	Drug 33 43	quetiapine
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

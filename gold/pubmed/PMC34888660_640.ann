@@ -1,0 +1,15 @@
+T1	Symptom 68 74	height
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C2732728	Body height decreased
+T2	Symptom 79 85	weight
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0231246 Vs. C0043096
+T3	Drug 51 58	ritalin
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:4158	Methylphenidate
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

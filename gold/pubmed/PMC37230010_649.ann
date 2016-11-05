@@ -1,0 +1,33 @@
+T1	Drug 189 202	carbamazepine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Drug 224 234	lisinopril
+N2	Reference T2 Concepts:3937	Lisinopril
+T3	Symptom 26 40	DRESS syndrome
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0497365 Vs. C0014457
+T4	Symptom 26 40	DRESS syndrome
+N4	Reference T4 Concepts:C0497365	Rash generalised
+T5	Symptom 26 40	DRESS syndrome
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T5	Disagreement in concept ID: C0497365 Vs. -1
+T6	Symptom 26 40	DRESS syndrome
+N6	Reference T6 Concepts:C0014457	Eosinophilia
+T7	Symptom 26 40	DRESS syndrome
+N7	Reference T7 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T7	Disagreement in concept ID: C0014457 Vs. C0497365
+T8	Symptom 26 40	DRESS syndrome
+N8	Reference T8 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T8	Disagreement in concept ID: C0014457 Vs. -1
+R1	Outcome-negative Arg1:T1 Arg2:T8
+R2	Outcome-negative Arg1:T1 Arg2:T8
+R3	Outcome-negative Arg1:T1 Arg2:T8
+R4	Outcome-negative Arg1:T1 Arg2:T5
+R5	Outcome-negative Arg1:T1 Arg2:T5
+R6	Outcome-negative Arg1:T1 Arg2:T5
+R7	Outcome-negative Arg1:T2 Arg2:T5
+R8	Outcome-negative Arg1:T2 Arg2:T5
+R9	Outcome-negative Arg1:T2 Arg2:T5
+R10	Outcome-negative Arg1:T2 Arg2:T8
+R11	Outcome-negative Arg1:T2 Arg2:T8
+R12	Outcome-negative Arg1:T2 Arg2:T8

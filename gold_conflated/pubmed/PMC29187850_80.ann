@@ -1,0 +1,4 @@
+T1	Disease_Symptom 13 25	irritability
+N1	Reference T1 Concepts:C0022107	Irritable Mood
+T2	Drug 186 196	sertraline
+N2	Reference T2 Concepts:5203	Sertraline

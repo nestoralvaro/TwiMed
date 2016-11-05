@@ -1,0 +1,6 @@
+T1	Disease_Symptom 98 110	osteoporosis
+N1	Reference T1 Concepts:C0029456	Osteoporosis
+T2	Drug 73 80	Kenalog
+A1	Person T2 2nd
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:5544	Triamcinolone

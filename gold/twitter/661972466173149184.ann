@@ -1,0 +1,7 @@
+T1	Symptom 48 59	withdrawals
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Drug 95 105	duloxetine
+N2	Reference T2 Concepts:60834	Duloxetine
+T3	Drug 65 75	citalopram
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T3 Arg2:T1

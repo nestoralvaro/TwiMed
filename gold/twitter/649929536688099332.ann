@@ -1,0 +1,8 @@
+T1	Disease 112 136	stevens-johnson syndrome
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0038325	Stevens-Johnson Syndrome
+T2	Drug 66 74	lamictal
+A2	Person T2 1st
+A3	Status T2 Continuing
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T2 Arg2:T1

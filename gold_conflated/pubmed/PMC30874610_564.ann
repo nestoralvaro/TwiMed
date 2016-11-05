@@ -1,0 +1,11 @@
+T1	Drug 223 234	venlafaxine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Drug 239 249	olanzapine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:4585	Olanzapine
+T3	Disease_Symptom 91 126	psychotic unipolar major depression
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C1269683	Major Depressive Disorder
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T1

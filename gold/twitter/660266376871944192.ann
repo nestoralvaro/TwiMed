@@ -1,0 +1,6 @@
+T1	Symptom 9 23	mask-like face
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0542571 Vs. C0424448
+T2	Drug 0 7	Zyprexa
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

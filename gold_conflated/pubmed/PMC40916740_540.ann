@@ -1,0 +1,7 @@
+T1	Drug 165 174	docetaxel
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease_Symptom 123 145	advanced breast cancer
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C3495917	Advanced breast cancer
+R1	Benefit Arg1:T2 Arg2:T1

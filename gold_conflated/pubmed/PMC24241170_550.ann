@@ -1,0 +1,25 @@
+T1	Disease_Symptom 134 154	withdrawal reactions
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Disease_Symptom 97 115	sexual dysfunction
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0549622	Sexual Dysfunction
+T3	Disease_Symptom 117 128	suicidality
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0235196	Suicidal tendency
+T4	Disease_Symptom 27 35	sedation
+A4	Polarity T4 Polarity
+A5	Modality T4 Generic
+N4	Reference T4 Concepts:C2830004	Somnolence
+T5	Disease_Symptom 39 59	cognitive impairment
+A6	Polarity T5 Polarity
+A7	Modality T5 Generic
+N5	Reference T5 Concepts:C0338656	Impaired cognition
+T6	Drug 0 11	Fluvoxamine
+A8	Modality T6 Generic
+N6	Reference T6 Concepts:3404	Fluvoxamine
+R1	Outcome-negative Arg1:T6 Arg2:T3
+R2	Outcome-negative Arg1:T6 Arg2:T1
+R3	Benefit Arg1:T6 Arg2:T4
+R4	Benefit Arg1:T6 Arg2:T5
+R5	Outcome-negative Arg1:T6 Arg2:T2

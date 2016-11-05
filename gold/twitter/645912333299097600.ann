@@ -1,0 +1,12 @@
+T1	Symptom 128 133	tired
+A1	Severity T1 Severe
+A2	Status T1 Continuing
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C2830004 Vs. C0015672
+T2	Drug 68 76	seroquel
+A4	Person T2 1st
+A5	Status T2 Continuing
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

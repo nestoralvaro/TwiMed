@@ -1,0 +1,10 @@
+T1	Disease 59 68	bipolar I
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0853193	Bipolar I disorder
+T2	Disease 73 95	bipolar II depressions
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0236788	Bipolar II disorder
+T3	Drug 25 35	quetiapine
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

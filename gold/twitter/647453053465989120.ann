@@ -1,0 +1,16 @@
+T1	Symptom 99 104	sleep
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Symptom 130 136	puking
+A2	Person T2 1st
+A3	Duration T2 Regular
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0027497 Vs. C0042963
+T3	Drug 0 8	Cymbalta
+A5	Person T3 1st
+A6	Status T3 Continuing
+A7	Sentiment T3 Negative
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

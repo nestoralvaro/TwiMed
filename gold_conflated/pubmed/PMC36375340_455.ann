@@ -1,0 +1,5 @@
+T1	Disease_Symptom 102 117	endophthalmitis
+N1	Reference T1 Concepts:C0014236	Endophthalmitis
+T2	Drug 22 35	ciprofloxacin
+N2	Reference T2 Concepts:2764	Ciprofloxacin
+R1	Benefit Arg1:T1 Arg2:T2

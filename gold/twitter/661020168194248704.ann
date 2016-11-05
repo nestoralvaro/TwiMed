@@ -1,0 +1,7 @@
+T1	Symptom 37 42	sleep
+A1	Person T1 1st
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Drug 0 8	provigil
+A2	Person T2 1st
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Outcome-negative Arg1:T2 Arg2:T1

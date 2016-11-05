@@ -1,0 +1,9 @@
+T1	Symptom 38 42	rash
+A1	Person T1 1st
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C0497364	Localized rash
+T2	Drug 13 24	Lamotrigine
+A3	Person T2 1st
+A4	Modality T2 Hypothetical
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T2 Arg2:T1

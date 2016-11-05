@@ -1,0 +1,9 @@
+T1	Disease_Symptom 32 45	zero emotions
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085632 Vs. C0233459
+T2	Drug 13 24	venlafaxine
+A3	Person T2 1st
+N2	Reference T2 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T2 Arg2:T1

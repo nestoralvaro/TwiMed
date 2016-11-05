@@ -1,0 +1,7 @@
+T1	Disease_Symptom 30 44	blood pressure
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0497247	Increase in blood pressure
+T2	Drug 12 22	lisinopril
+A2	Person T2 1st
+N2	Reference T2 Concepts:3937	Lisinopril
+R1	Benefit Arg1:T1 Arg2:T2

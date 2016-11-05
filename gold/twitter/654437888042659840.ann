@@ -1,0 +1,6 @@
+T1	Drug 111 125	#Ciprofloxacin
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:2764	Ciprofloxacin
+T2	Disease 21 34	#Fibromyalgia
+N2	Reference T2 Concepts:C0016053	Fibromyalgia
+R1	Outcome-negative Arg1:T1 Arg2:T2

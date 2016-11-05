@@ -1,0 +1,10 @@
+T1	Drug 25 35	citalopram
+A1	Person T1 1st
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Disease_Symptom 7 19	sweaty palms
+A2	Person T2 1st
+A3	Status T2 Continuing
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0038990 Vs. C0700590
+R1	Outcome-negative Arg1:T1 Arg2:T2

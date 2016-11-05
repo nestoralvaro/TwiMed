@@ -1,0 +1,8 @@
+T1	Drug 42 53	ziprasidone
+A1	Person T1 3rd
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Symptom 17 22	mania
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C0235165	Mania acute
+R1	Outcome-negative Arg1:T1 Arg2:T2

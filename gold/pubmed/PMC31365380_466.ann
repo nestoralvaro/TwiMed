@@ -1,0 +1,10 @@
+T1	Disease 61 69;80 90	Moderate Depression
+A1	Severity T1 Mild
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Disease 73 90	Severe Depression
+A2	Severity T2 Severe
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Drug 46 56	Fluoxetine
+N3	Reference T3 Concepts:3386	Fluoxetine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

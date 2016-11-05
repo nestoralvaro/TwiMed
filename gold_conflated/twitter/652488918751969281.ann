@@ -1,0 +1,12 @@
+T1	Disease_Symptom 19 24	sleep
+A1	Person T1 1st
+A2	Duration T1 Irregular
+A3	Status T1 Complete
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0013144 Vs. C2830004
+T2	Drug 5 15	quetiapine
+A4	Person T2 1st
+A5	Duration T2 Irregular
+A6	Status T2 Complete
+N2	Reference T2 Concepts:5002	Quetiapine
+R1	Benefit Arg1:T1 Arg2:T2

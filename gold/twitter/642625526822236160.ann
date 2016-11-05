@@ -1,0 +1,7 @@
+T1	Symptom 34 44	slept good
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0393761	Middle insomnia
+T2	Drug 82 92	prednisone
+N2	Reference T2 Concepts:4900	Prednisone

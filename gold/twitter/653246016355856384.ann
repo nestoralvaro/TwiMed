@@ -1,0 +1,6 @@
+T1	Drug 81 91	quetiapine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Drug 28 38	olanzapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine

@@ -1,0 +1,14 @@
+T1	Symptom 28 36	confused
+N1	Reference T1 Concepts:C0009676	Confusion
+T2	Symptom 0 6	Sleepy
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0013144 Vs. C2830004
+T3	Symptom 11 17	shakey
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0085631 Vs. C0234369
+T4	Drug 43 49	Celexa
+A1	Sentiment T4 Negative
+N4	Reference T4 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

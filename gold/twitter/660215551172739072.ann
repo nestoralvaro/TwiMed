@@ -1,0 +1,9 @@
+T1	Symptom 19 30	weight gain
+A1	Person T1 1st
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0043094	Weight Gain
+T2	Drug 32 42	olanzapine
+A3	Person T2 1st
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

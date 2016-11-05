@@ -1,0 +1,14 @@
+T1	Drug 67 72	Paxil
+A1	Person T1 1st
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Symptom 81 113	make me feel better about myself
+A2	Polarity T2 Polarity
+A3	Person T2 1st
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0086132 Vs. C3536794
+T3	Symptom 16 27	weight gain
+A5	Person T3 1st
+N3	Reference T3 Concepts:C0043094	Weight Gain
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T1 Arg2:T2

@@ -1,0 +1,21 @@
+T1	Symptom 103 119	partial seizures
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0234974	Simple Partial Seizures
+T2	Symptom 111 119	seizures
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0234974 Vs. C0234533
+T3	Symptom 111 119	seizures
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0234533 Vs. C0234974
+T4	Symptom 111 119;87 98	seizures generalized
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0234533	Generalized seizures
+T5	Drug 0 11	Lamotrigine
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:3878	Lamotrigine
+R1	Reason-to-use Arg1:T2 Arg2:T5
+R2	Reason-to-use Arg1:T2 Arg2:T5
+R3	Reason-to-use Arg1:T4 Arg2:T5
+R4	Reason-to-use Arg1:T4 Arg2:T5

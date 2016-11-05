@@ -1,0 +1,16 @@
+T1	Symptom 144 161	suicidal ideation
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1760428 Vs. C0235196
+T2	Drug 171 181	fluoxetine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3386	Fluoxetine
+T3	Symptom 94 117	extrapyramidal symptoms
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0234133	Extrapyramidal symptoms
+T4	Disease 69 79	depression
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C1386135	Acute depression
+R1	Reason-to-use Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T2 Arg2:T1
+R3	Outcome-negative Arg1:T2 Arg2:T3

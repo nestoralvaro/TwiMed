@@ -1,0 +1,8 @@
+T1	Drug 35 44	TRAZODONE
+N1	Reference T1 Concepts:5533	Trazodone
+T2	Symptom 8 13	SLEEP
+A1	Person T2 1st
+A2	Status T2 Continuing
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0917801 Vs. C0851578

@@ -1,0 +1,18 @@
+T1	Drug 174 183	docetaxel
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease 132 147	metastatic CRPC
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1384494 Vs. C0936223
+T3	Disease 132 147	metastatic CRPC
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0600139 Vs. C0936223
+T4	Drug 20 30	prednisone
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T3 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T4
+R3	Reason-to-use Arg1:T3 Arg2:T4
+R4	Reason-to-use Arg1:T2 Arg2:T1

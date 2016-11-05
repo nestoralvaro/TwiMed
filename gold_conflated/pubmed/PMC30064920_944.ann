@@ -1,0 +1,6 @@
+T1	Disease_Symptom 130 141	weight loss
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0043096	Body Weight decreased
+T2	Drug 59 69	topiramate
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5514	Topiramate

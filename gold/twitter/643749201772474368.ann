@@ -1,0 +1,8 @@
+T1	Drug 94 104	#modafinil
+N1	Reference T1 Concepts:4236	Modafinil
+T2	Symptom 47 60	concentration
+A1	Person T2 3rd
+N2	Reference T2 Concepts:C0917801	Sleeplessness
+T3	Drug 84 93	#provigil
+N3	Reference T3 Concepts:4236	Modafinil
+R1	Reason-to-use Arg1:T2 Arg2:T1

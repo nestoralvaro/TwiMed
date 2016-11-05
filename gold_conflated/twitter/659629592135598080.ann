@@ -1,0 +1,41 @@
+T1	Disease_Symptom 108 118	#arthritis
+N1	Reference T1 Concepts:C0003864	Arthritis
+T2	Drug 86 93	#Avelox
+N2	Reference T2 Concepts:4259	moxifloxacin
+T3	Disease_Symptom 94 107	#inflammation
+N3	Reference T3 Concepts:C0021368	Inflammation
+T4	Disease_Symptom 41 47	elbows
+N4	Reference T4 Concepts:C0021368	Inflammation
+T5	Disease_Symptom 41 47;59 56	elbows 
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T5	Disagreement in concept ID: C0021368 Vs. C0030193
+T6	Disease_Symptom 41 39;48 56	 #swollen
+N6	Reference T6 Concepts:C0021368	Inflammation
+T7	Drug 76 85	#Levaquin
+N7	Reference T7 Concepts:4583	ofloxacin
+T8	Disease_Symptom 33 39;48 56	Wrists #swollen
+N8	Reference T8 Concepts:C0021368	Inflammation
+T9	Disease_Symptom 33 39;59 56	Wrists 
+N9	Reference T9 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T9	Disagreement in concept ID: C0021368 Vs. C0221785
+T10	Disease_Symptom 41 47	elbows
+N10	Reference T10 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T10	Disagreement in concept ID: C0239377 Vs. C0021368
+T11	Disease_Symptom 41 47;59 67	elbows #painful
+N11	Reference T11 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T11	Disagreement in concept ID: C0239377 Vs. C0030193
+T12	Disease_Symptom 41 39;59 67	 #painful
+N12	Reference T12 Concepts:0	Disagreement in Concept ID
+#5	AnnotatorNotes T12	Disagreement in concept ID: C0239377 Vs. C0221785
+T13	Disease_Symptom 41 39;59 67	 #painful
+N13	Reference T13 Concepts:0	Disagreement in Concept ID
+#6	AnnotatorNotes T13	Disagreement in concept ID: C0221785 Vs. C0030193
+T14	Disease_Symptom 33 39;59 56	Wrists 
+N14	Reference T14 Concepts:0	Disagreement in Concept ID
+#7	AnnotatorNotes T14	Disagreement in concept ID: C0221785 Vs. C0021368
+T15	Disease_Symptom 33 39;59 67	Wrists #painful
+N15	Reference T15 Concepts:C0221785	Ache wrists
+R1	Benefit Arg1:T1 Arg2:T7
+R2	Benefit Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T3 Arg2:T7
+R4	Benefit Arg1:T1 Arg2:T2

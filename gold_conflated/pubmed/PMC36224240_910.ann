@@ -1,0 +1,19 @@
+T1	Drug 70 81	ziprasidone
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Disease_Symptom 102 120	bipolar depression
+N2	Reference T2 Concepts:C0005587	Depression, Bipolar
+T3	Disease_Symptom 37 45	agitated
+N3	Reference T3 Concepts:C0085631	Agitation
+T4	Disease_Symptom 37 45	agitated
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T4	Disagreement in concept ID: C0085631 Vs. C1386135
+T5	Disease_Symptom 37 56	agitated depression
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T5	Disagreement in concept ID: C0338908 Vs. C0085631
+T6	Disease_Symptom 37 56	agitated depression
+N6	Reference T6 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T6	Disagreement in concept ID: C0338908 Vs. C1386135
+T7	Disease_Symptom 11 20	akathisia
+N7	Reference T7 Concepts:C0392156	Akathisia
+R1	Outcome-negative Arg1:T1 Arg2:T7
+R2	Benefit Arg1:T2 Arg2:T1

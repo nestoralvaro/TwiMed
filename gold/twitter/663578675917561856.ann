@@ -1,0 +1,5 @@
+T1	Symptom 64 69	sleep
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Drug 23 30	Zyprexa
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

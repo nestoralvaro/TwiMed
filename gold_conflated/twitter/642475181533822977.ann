@@ -1,0 +1,6 @@
+T1	Drug 74 83	tamoxifen
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease_Symptom 25 36	#lymphedema
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0024236	Lymphedema

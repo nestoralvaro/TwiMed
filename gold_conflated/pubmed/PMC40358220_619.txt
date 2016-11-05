@@ -1,0 +1,1 @@
+METHODS: Patients with bipolar disorder in a euthymic state (Young's Mania Rating Scale (YMRS) score < __number__ , and __number__ -item Hamilton Depression Rating Scale (HAM-D) score < __number__ ) for at least two months, having already received either olanzapine or lamotrigine as the maintenance treatment were recruited.

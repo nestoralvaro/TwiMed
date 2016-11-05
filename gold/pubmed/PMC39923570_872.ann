@@ -1,0 +1,6 @@
+T1	Drug 47 55	Suboxone
+A1	Person T1 3rd
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:2476	Buprenorphine
+T2	Drug 0 13	Buprenorphine
+N2	Reference T2 Concepts:2476	Buprenorphine

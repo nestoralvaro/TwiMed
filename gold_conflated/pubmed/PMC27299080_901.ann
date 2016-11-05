@@ -1,0 +1,90 @@
+T1	Disease_Symptom 218 223	DRESS
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0497365	Rash generalised
+T2	Disease_Symptom 218 223	DRESS
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0497365 Vs. -1
+T3	Disease_Symptom 218 223	DRESS
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0497365 Vs. C0014457
+T4	Disease_Symptom 218 223	DRESS
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T4	Disagreement in concept ID: C0014457 Vs. C0497365
+T5	Disease_Symptom 218 223	DRESS
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T5	Disagreement in concept ID: C0014457 Vs. -1
+T6	Disease_Symptom 218 223	DRESS
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:C0014457	Eosinophilia
+T7	Disease_Symptom 218 223	DRESS
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:0	Disagreement in Concept ID
+#5	AnnotatorNotes T7	Disagreement in concept ID: -1 Vs. C0497365
+T8	Disease_Symptom 218 223	DRESS
+A8	Modality T8 Generic
+N8	Reference T8 Concepts:-1	Unknown Concept ID
+T9	Disease_Symptom 218 223	DRESS
+A9	Modality T9 Generic
+N9	Reference T9 Concepts:0	Disagreement in Concept ID
+#6	AnnotatorNotes T9	Disagreement in concept ID: -1 Vs. C0014457
+T10	Drug 227 240	carbamazepine
+A10	Modality T10 Generic
+N10	Reference T10 Concepts:2554	Carbamazepine
+T11	Disease_Symptom 63 77	DRESS syndrome
+A11	Modality T11 Generic
+N11	Reference T11 Concepts:C0014457	Eosinophilia
+T12	Disease_Symptom 63 77	DRESS syndrome
+A12	Modality T12 Generic
+N12	Reference T12 Concepts:0	Disagreement in Concept ID
+#7	AnnotatorNotes T12	Disagreement in concept ID: C0014457 Vs. C0497365
+T13	Disease_Symptom 63 77	DRESS syndrome
+A13	Modality T13 Generic
+N13	Reference T13 Concepts:0	Disagreement in Concept ID
+#8	AnnotatorNotes T13	Disagreement in concept ID: C0014457 Vs. -1
+T14	Drug 149 162	carbamazepine
+A14	Modality T14 Generic
+N14	Reference T14 Concepts:2554	Carbamazepine
+T15	Disease_Symptom 63 77	DRESS syndrome
+A15	Modality T15 Generic
+N15	Reference T15 Concepts:0	Disagreement in Concept ID
+#9	AnnotatorNotes T15	Disagreement in concept ID: C0497365 Vs. C0014457
+T16	Disease_Symptom 63 77	DRESS syndrome
+A16	Modality T16 Generic
+N16	Reference T16 Concepts:C0497365	Rash generalised
+T17	Disease_Symptom 63 77	DRESS syndrome
+A17	Modality T17 Generic
+N17	Reference T17 Concepts:0	Disagreement in Concept ID
+#10	AnnotatorNotes T17	Disagreement in concept ID: C0497365 Vs. -1
+T18	Disease_Symptom 63 77	DRESS syndrome
+A18	Modality T18 Generic
+N18	Reference T18 Concepts:0	Disagreement in Concept ID
+#11	AnnotatorNotes T18	Disagreement in concept ID: -1 Vs. C0014457
+T19	Disease_Symptom 63 77	DRESS syndrome
+A19	Modality T19 Generic
+N19	Reference T19 Concepts:0	Disagreement in Concept ID
+#12	AnnotatorNotes T19	Disagreement in concept ID: -1 Vs. C0497365
+T20	Disease_Symptom 63 77	DRESS syndrome
+A20	Modality T20 Generic
+N20	Reference T20 Concepts:-1	Unknown Concept ID
+R1	Outcome-negative Arg1:T10 Arg2:T9
+R2	Outcome-negative Arg1:T10 Arg2:T9
+R3	Outcome-negative Arg1:T10 Arg2:T9
+R4	Outcome-negative Arg1:T10 Arg2:T3
+R5	Outcome-negative Arg1:T10 Arg2:T3
+R6	Outcome-negative Arg1:T10 Arg2:T3
+R7	Outcome-negative Arg1:T10 Arg2:T6
+R8	Outcome-negative Arg1:T10 Arg2:T6
+R9	Outcome-negative Arg1:T10 Arg2:T6
+R10	Outcome-negative Arg1:T14 Arg2:T20
+R11	Outcome-negative Arg1:T14 Arg2:T20
+R12	Outcome-negative Arg1:T14 Arg2:T20
+R13	Outcome-negative Arg1:T14 Arg2:T17
+R14	Outcome-negative Arg1:T14 Arg2:T17
+R15	Outcome-negative Arg1:T14 Arg2:T17
+R16	Outcome-negative Arg1:T14 Arg2:T13
+R17	Outcome-negative Arg1:T14 Arg2:T13
+R18	Outcome-negative Arg1:T14 Arg2:T13

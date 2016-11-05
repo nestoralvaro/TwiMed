@@ -1,0 +1,10 @@
+T1	Disease_Symptom 75 88	tendon damage
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0151936 Vs. C0151937
+T2	Disease_Symptom 82 88	damage
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0151936 Vs. C0151937
+T3	Drug 46 54	Levaquin
+N3	Reference T3 Concepts:4583	ofloxacin
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

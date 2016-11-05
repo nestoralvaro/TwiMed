@@ -1,0 +1,9 @@
+T1	Symptom 26 40;61 67	thromboembolic events
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0857496	Thromboembolic event
+T2	Symptom 45 67	cerebrovascular events
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0038454	Cerebrovascular accident
+T3	Drug 82 91	tamoxifen
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:5376	Tamoxifen

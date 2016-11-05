@@ -1,0 +1,6 @@
+T1	Disease_Symptom 108 114	nausea
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0027497	Nausea
+T2	Drug 65 75	olanzapine
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T2

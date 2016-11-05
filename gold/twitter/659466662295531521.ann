@@ -1,0 +1,13 @@
+T1	Symptom 28 34	drowsy
+A1	Person T1 1st
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0013144	Drowsiness
+T2	Symptom 70 93	my eyes won't stay open
+A3	Person T2 1st
+A4	Exemplification T2 Exemplification
+N2	Reference T2 Concepts:C0013144	Drowsiness
+T3	Drug 5 15	citalopram
+A5	Person T3 1st
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

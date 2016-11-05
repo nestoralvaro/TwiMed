@@ -1,0 +1,14 @@
+T1	Drug 147 154	Ritalin
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Disease 187 191	ADHD
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+T3	Drug 116 131	methylphenidate
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:4158	Methylphenidate
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

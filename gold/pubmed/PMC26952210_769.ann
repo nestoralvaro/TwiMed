@@ -1,0 +1,12 @@
+T1	Disease 139 163	schizoaffective disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0036337	Schizoaffective Disorder
+T2	Disease 165 174	depressed
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0270458 Vs. C0011581
+T3	Drug 89 99	sertraline
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:5203	Sertraline
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

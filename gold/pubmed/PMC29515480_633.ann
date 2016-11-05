@@ -1,0 +1,8 @@
+T1	Symptom 106 134	photo-allergic skin reaction
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0349506 Vs. C0149526
+T2	Drug 0 11	Ziprasidone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:60853	Ziprasidone
+R1	Outcome-negative Arg1:T2 Arg2:T1

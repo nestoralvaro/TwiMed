@@ -1,0 +1,17 @@
+T1	Disease_Symptom 0 17	Heart is pounding
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0235240 Vs. C0039231
+T2	Disease_Symptom 98 105	painful
+A4	Person T2 1st
+A5	Status T2 Continuing
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0030193 Vs. C0008031
+T3	Drug 41 49	#effexor
+A7	Person T3 1st
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

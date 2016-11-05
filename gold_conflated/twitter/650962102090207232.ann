@@ -1,0 +1,5 @@
+T1	Disease_Symptom 34 48	sleep disorder
+N1	Reference T1 Concepts:C0851578	Sleep Disorders
+T2	Drug 11 21	#modafinil
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Benefit Arg1:T1 Arg2:T2

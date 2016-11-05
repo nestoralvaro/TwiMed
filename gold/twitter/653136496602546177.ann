@@ -1,0 +1,8 @@
+T1	Drug 60 73	carbamazepine
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Symptom 13 25	panic attack
+A3	Person T2 1st
+N2	Reference T2 Concepts:C0086769	Panic Attacks
+R1	Reason-to-use Arg1:T2 Arg2:T1

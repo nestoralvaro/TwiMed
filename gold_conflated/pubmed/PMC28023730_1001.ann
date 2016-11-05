@@ -1,0 +1,18 @@
+T1	Disease_Symptom 162 175	schizophrenia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Drug 96 106	olanzapine
+A2	Person T2 3rd
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine
+T3	Drug 112 122	quetiapine
+A4	Person T3 3rd
+A5	Modality T3 Generic
+N3	Reference T3 Concepts:5002	Quetiapine
+T4	Disease_Symptom 48 66	sexual dysfunction
+A6	Person T4 3rd
+N4	Reference T4 Concepts:C0549622	Sexual Dysfunction
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T2 Arg2:T4
+R3	Outcome-negative Arg1:T3 Arg2:T4
+R4	Benefit Arg1:T1 Arg2:T3

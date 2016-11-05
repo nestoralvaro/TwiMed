@@ -1,0 +1,19 @@
+T1	Symptom 58 68	withdrawal
+A1	Person T1 1st
+A2	Status T1 Continuing
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Symptom 72 100	hitting me like a severe flu
+A4	Person T2 1st
+A5	Exemplification T2 Exemplification
+A6	Severity T2 Severe
+A7	Status T2 Continuing
+A8	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0087169 Vs. C0016382
+T3	Drug 52 57	Paxil
+A9	Person T3 1st
+N3	Reference T3 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

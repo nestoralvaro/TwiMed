@@ -1,0 +1,17 @@
+T1	Disease_Symptom 45 51	energy
+A1	Person T1 1st
+A2	Duration T1 Regular
+A3	Severity T1 Severe
+A4	Status T1 Continuing
+A5	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0455769	Energy increased
+T2	Disease_Symptom 71 111	feel so happy at times it's almost manic
+A6	Person T2 1st
+A7	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0235146 Vs. C0338831
+T3	Drug 16 22	zoloft
+A8	Person T3 1st
+A9	Status T3 Continuing
+A10	Sentiment T3 Positive
+N3	Reference T3 Concepts:5203	Sertraline

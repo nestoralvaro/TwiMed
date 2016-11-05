@@ -1,0 +1,17 @@
+T1	Disease_Symptom 63 70	anxiety
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Disease_Symptom 72 77	anger
+N2	Reference T2 Concepts:C0002957	Anger
+T3	Disease_Symptom 50 61	impulsivity
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0031212 Vs. C0027769
+T4	Disease_Symptom 26 48	interpersonal problems
+N4	Reference T4 Concepts:C0031212	Personality Disorders
+T5	Drug 0 10	topiramate
+A1	Sentiment T5 Positive
+N5	Reference T5 Concepts:5514	Topiramate
+R1	Benefit Arg1:T2 Arg2:T5
+R2	Benefit Arg1:T4 Arg2:T5
+R3	Benefit Arg1:T3 Arg2:T5
+R4	Benefit Arg1:T3 Arg2:T5
+R5	Benefit Arg1:T1 Arg2:T5

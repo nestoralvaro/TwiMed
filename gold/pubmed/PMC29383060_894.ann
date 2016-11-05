@@ -1,0 +1,7 @@
+T1	Disease 84 97	schizophrenia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Drug 62 72	olanzapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

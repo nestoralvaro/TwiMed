@@ -1,0 +1,10 @@
+T1	Disease_Symptom 424 437	schizophrenia
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Drug 239 249	quetiapine
+A1	Duration T2 Regular
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Drug 288 299	ziprasidone
+A2	Duration T3 Regular
+N3	Reference T3 Concepts:60853	Ziprasidone
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T2

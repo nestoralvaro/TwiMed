@@ -1,0 +1,7 @@
+T1	Symptom 36 40	MRSA
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0038160 Vs. C0004623
+T2	Drug 55 64	Tamoxifen
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Reason-to-use Arg1:T1 Arg2:T2

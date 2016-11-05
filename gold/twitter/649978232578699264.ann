@@ -1,0 +1,11 @@
+T1	Symptom 65 76	wakefulness
+N1	Reference T1 Concepts:C0043012	Wakefulness
+T2	Disease 93 103	narcolepsy
+A1	Person T2 3rd
+N2	Reference T2 Concepts:C0027404	Narcolepsy
+T3	Drug 46 55	Modafinil
+A2	Person T3 3rd
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4236	Modafinil
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

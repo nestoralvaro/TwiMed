@@ -1,0 +1,10 @@
+T1	Disease_Symptom 58 74	anxiety disorder
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0270549 Vs. C0003469
+T2	Drug 32 42	fluoxetine
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:3386	Fluoxetine
+R1	Benefit Arg1:T1 Arg2:T2

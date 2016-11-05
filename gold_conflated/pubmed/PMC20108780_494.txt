@@ -1,0 +1,1 @@
+We measured the effect of __number__ standard (Adriamycin, BCNU, DTIC, melphalan, vinblastine, actinomycin D) and __number__ Phase II agents (cis-platinum, vindesine, AMSA) on melanoma colony-forming units (CFU) in soft agar from biopsies of __number__ patients with metastatic melanoma.

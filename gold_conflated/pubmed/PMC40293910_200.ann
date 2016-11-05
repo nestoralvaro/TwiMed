@@ -1,0 +1,7 @@
+T1	Disease_Symptom 107 120	breast cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C3495917	Advanced breast cancer
+T2	Drug 27 36	docetaxel
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Benefit Arg1:T1 Arg2:T2

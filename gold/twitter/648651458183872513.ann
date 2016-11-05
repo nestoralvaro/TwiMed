@@ -1,0 +1,9 @@
+T1	Symptom 92 99	sedated
+A1	Person T1 1st
+A2	Duration T1 Regular
+A3	Status T1 Complete
+N1	Reference T1 Concepts:C0235195	Sedated state
+T2	Drug 17 24	zyprexa
+A4	Person T2 1st
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

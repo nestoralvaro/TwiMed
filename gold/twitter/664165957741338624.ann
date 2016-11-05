@@ -1,0 +1,7 @@
+T1	Symptom 107 121	gaining weight
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0043094	Weight Gain
+T2	Drug 85 95	prednisone
+A2	Person T2 1st
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

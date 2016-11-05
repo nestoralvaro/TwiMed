@@ -1,0 +1,10 @@
+T1	Disease_Symptom 89 106	suicidal behaviou
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1760428	Suicidal behaviour
+T2	Drug 32 37	Luvox
+N2	Reference T2 Concepts:3404	Fluvoxamine
+T3	Disease_Symptom 70 84	Hallucinations
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:C0018524	Hallucinations
+R1	Outcome-negative Arg1:T2 Arg2:T3
+R2	Outcome-negative Arg1:T2 Arg2:T1

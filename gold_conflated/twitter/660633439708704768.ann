@@ -1,0 +1,8 @@
+T1	Drug 36 43	zyprexa
+A1	Person T1 1st
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease_Symptom 8 13	tired
+A2	Person T2 1st
+A3	Severity T2 Severe
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:C0392674	Exhaustion

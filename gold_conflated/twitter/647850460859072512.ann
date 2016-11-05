@@ -1,0 +1,12 @@
+T1	Disease_Symptom 108 130	Polymyalgia Rheumatica
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0231528 Vs. C0003873
+T2	Disease_Symptom 27 45	Temporal Arteritis
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1956391	Temporal Arteritis
+T3	Drug 77 87	prednisone
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

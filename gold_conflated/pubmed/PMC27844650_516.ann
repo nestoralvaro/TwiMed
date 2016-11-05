@@ -1,0 +1,12 @@
+T1	Disease_Symptom 87 99	hypertension
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085580 Vs. C0020538
+T2	Disease_Symptom 110 130	cognitive impairment
+N2	Reference T2 Concepts:C0338656	Impaired cognition
+T3	Drug 198 208	lisinopril
+A2	Person T3 3rd
+A3	Duration T3 Regular
+N3	Reference T3 Concepts:3937	Lisinopril
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3

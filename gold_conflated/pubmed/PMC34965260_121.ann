@@ -1,0 +1,16 @@
+T1	Disease_Symptom 234 238;244 248	back pain
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0004604	Back Pain
+T2	Disease_Symptom 239 248	neck pain
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0007859	Neck Pain
+T3	Disease_Symptom 108 136	intervertebral disc disorder
+A3	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0004601 Vs. -1
+T4	Disease_Symptom 140 165	major depressive disorder
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C1269683	Major Depressive Disorder
+T5	Drug 42 52	duloxetine
+A5	Person T5 3rd
+N5	Reference T5 Concepts:60834	Duloxetine

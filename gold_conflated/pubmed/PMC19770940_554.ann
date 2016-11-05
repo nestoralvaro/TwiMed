@@ -1,0 +1,7 @@
+T1	Drug 37 46	tamoxifen
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease_Symptom 165 182	breast carcinomas
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0678222	Breast Carcinoma
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,8 @@
+T1	Drug 79 86	subutex
+A1	Person T1 1st
+N1	Reference T1 Concepts:2476	Buprenorphine
+T2	Symptom 0 7	Anxiety
+A2	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0003467 Vs. C0700031
+R1	Reason-to-use Arg1:T2 Arg2:T1

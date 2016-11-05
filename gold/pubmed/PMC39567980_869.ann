@@ -1,0 +1,7 @@
+T1	Drug 108 119	montelukast
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4248	Montelukast
+T2	Symptom 72 81	urticaria
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0042109	Urticaria
+R1	Reason-to-use Arg1:T2 Arg2:T1

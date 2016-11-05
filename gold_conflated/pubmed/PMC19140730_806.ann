@@ -1,0 +1,11 @@
+T1	Disease_Symptom 110 118	diabetic
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0011849 Vs. C0241863
+T2	Disease_Symptom 147 157	depression
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Drug 96 106	paroxetine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4691	Paroxetine
+R1	Benefit Arg1:T2 Arg2:T3

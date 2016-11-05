@@ -1,0 +1,12 @@
+T1	Disease_Symptom 95 102	uveitis
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0042164	Uveitis
+T2	Disease_Symptom 107 129	uveitic macular oedema
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0024440 Vs. C0042164
+T3	Drug 0 13	Triamcinolone
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

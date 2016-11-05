@@ -1,0 +1,11 @@
+T1	Disease_Symptom 63 66	DHS
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0543698	Hypersensitive syndrome
+T2	Drug 71 82	lamotrigine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease_Symptom 36 61	hypersensitivity syndrome
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0543698	Hypersensitive syndrome
+R1	Outcome-negative Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T2 Arg2:T3

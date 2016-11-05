@@ -1,0 +1,8 @@
+T1	Drug 40 50	sertraline
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Drug 24 35	fluvoxamine
+N2	Reference T2 Concepts:3404	Fluvoxamine
+T3	Disease_Symptom 71 97	psychotic major depression
+N3	Reference T3 Concepts:C0270458	Psychotic depression
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T2

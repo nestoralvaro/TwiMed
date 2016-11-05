@@ -1,0 +1,1 @@
+We processed and analysed CSF samples from a total of __number__ patients with SPMS, __number__ patients with SPMS treated with lamotrigine, __number__ patients with non-inflammatory neurological disorders (NIND) and __number__ healthy controls (HC) for the levels of these __number__ selected potential protein biomarkers.

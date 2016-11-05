@@ -1,0 +1,8 @@
+T1	Drug 383 396	buprenorphine
+N1	Reference T1 Concepts:2476	Buprenorphine
+T2	Drug 268 276	Suboxone
+N2	Reference T2 Concepts:2476	Buprenorphine
+T3	Drug 322 335	buprenorphine
+N3	Reference T3 Concepts:2476	Buprenorphine
+T4	Drug 239 252	buprenorphine
+N4	Reference T4 Concepts:2476	Buprenorphine

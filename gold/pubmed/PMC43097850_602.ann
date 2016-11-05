@@ -1,0 +1,11 @@
+T1	Disease 155 165	depression
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Disease 115 125	depression
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Symptom 134 138	pain
+N3	Reference T3 Concepts:C0030193	Pain
+T4	Drug 67 77	duloxetine
+N4	Reference T4 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T2 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4
+R3	Reason-to-use Arg1:T1 Arg2:T4

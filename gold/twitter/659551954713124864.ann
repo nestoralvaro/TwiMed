@@ -1,0 +1,19 @@
+T1	Symptom 73 77	pain
+A1	Person T1 3rd
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C0030193	Pain
+T2	Disease 51 61	depression
+A3	Person T2 3rd
+A4	Modality T2 Hypothetical
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0338908 Vs. C1386135
+T3	Symptom 62 69	anxiety
+A5	Modality T3 Hypothetical
+N3	Reference T3 Concepts:C0003467	Anxiety
+T4	Drug 30 38	Cymbalta
+A6	Person T4 3rd
+A7	Modality T4 Hypothetical
+N4	Reference T4 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T2 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4
+R3	Reason-to-use Arg1:T1 Arg2:T4

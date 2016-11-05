@@ -1,0 +1,14 @@
+T1	Symptom 73 84	slept on/of
+A1	Person T1 1st
+A2	Status T1 Complete
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0851578 Vs. C0037317
+T2	Symptom 114 119	awake
+A3	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0917801 Vs. C0851578
+T3	Drug 17 25	lamictal
+A4	Person T3 1st
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

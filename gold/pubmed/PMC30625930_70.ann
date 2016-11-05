@@ -1,0 +1,17 @@
+T1	Symptom 122 137	alcohol craving
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085762 Vs. C0236663
+T2	Symptom 150 158	symptoms
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0086132 Vs. C0003469
+T3	Symptom 150 172	symptoms of depression
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0086132	Depressive Symptoms
+T4	Drug 22 32	topiramate
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:5514	Topiramate
+R1	Reason-to-use Arg1:T1 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4
+R3	Reason-to-use Arg1:T3 Arg2:T4

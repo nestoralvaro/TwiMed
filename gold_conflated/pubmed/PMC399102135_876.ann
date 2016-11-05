@@ -1,0 +1,6 @@
+T1	Disease_Symptom 118 130	hypertension
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085580 Vs. C0020538
+T2	Drug 45 55	lisinopril
+N2	Reference T2 Concepts:3937	Lisinopril
+R1	Benefit Arg1:T1 Arg2:T2

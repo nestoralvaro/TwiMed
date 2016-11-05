@@ -1,0 +1,12 @@
+T1	Drug 159 169	olanzapine
+A1	Person T1 3rd
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Symptom 116 129	panic attacks
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C0086769	Panic Attacks
+T3	Symptom 53 84	obsessive-compulsive behaviours
+A4	Person T3 3rd
+N3	Reference T3 Concepts:C0600104	Obsessive compulsive behavior
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T3 Arg2:T1

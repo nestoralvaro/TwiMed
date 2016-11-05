@@ -1,0 +1,10 @@
+T1	Disease_Symptom 112 130	psychotic disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0033975	Psychotic Disorders
+T2	Disease_Symptom 145 154	psychosis
+N2	Reference T2 Concepts:C0281774	Acute psychosis
+T3	Drug 12 23	Fluvoxamine
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:3404	Fluvoxamine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

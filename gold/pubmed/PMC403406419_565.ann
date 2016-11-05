@@ -1,0 +1,15 @@
+T1	Symptom 157 160	EPS
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0234133	Extrapyramidal symptoms
+T2	Symptom 109 120	weight gain
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0043094	Weight Gain
+T3	Symptom 135 151	prolactin levels
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0747979	Increased prolactin level
+T4	Drug 73 84	ziprasidone
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:60853	Ziprasidone
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

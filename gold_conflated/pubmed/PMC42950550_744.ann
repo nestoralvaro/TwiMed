@@ -1,0 +1,5 @@
+T1	Disease_Symptom 165 172	seizure
+N1	Reference T1 Concepts:C0036572	Seizures
+T2	Drug 61 71	topiramate
+N2	Reference T2 Concepts:5514	Topiramate
+R1	Benefit Arg1:T1 Arg2:T2

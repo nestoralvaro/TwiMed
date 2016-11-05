@@ -1,0 +1,19 @@
+T1	Drug 73 81	lamictal
+A1	Person T1 1st
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Drug 83 89	Zoloft
+A2	Person T2 1st
+N2	Reference T2 Concepts:5203	Sertraline
+T3	Disease_Symptom 25 29	#bpd
+A3	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0005586 Vs. -1
+T4	Drug 65 71	geodon
+A4	Person T4 1st
+N4	Reference T4 Concepts:60853	Ziprasidone
+T5	Disease_Symptom 14 22	#bipolar
+A5	Person T5 1st
+N5	Reference T5 Concepts:C0005586	Bipolar Disorder
+R1	Benefit Arg1:T5 Arg2:T4
+R2	Benefit Arg1:T5 Arg2:T1
+R3	Benefit Arg1:T5 Arg2:T2

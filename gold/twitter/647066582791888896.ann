@@ -1,0 +1,4 @@
+T1	Drug 93 102	tamoxifen
+A1	Person T1 3rd
+A2	Status T1 Complete
+N1	Reference T1 Concepts:5376	Tamoxifen

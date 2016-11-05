@@ -1,0 +1,8 @@
+T1	Disease_Symptom 36 45	energetic
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0455769	Energy increased
+T2	Drug 0 10	Prednisone
+A2	Person T2 3rd
+A3	Duration T2 Regular
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:4900	Prednisone

@@ -1,0 +1,6 @@
+T1	Drug 83 94	lamotrigine
+A1	Duration T1 Regular
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 13 19	rashes
+N2	Reference T2 Concepts:C0497364	Localized rash
+R1	Outcome-negative Arg1:T1 Arg2:T2

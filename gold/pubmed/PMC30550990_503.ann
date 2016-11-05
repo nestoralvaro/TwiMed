@@ -1,0 +1,7 @@
+T1	Disease 141 157	multiple myeloma
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0026764	Multiple Myeloma
+T2	Drug 62 71	melphalan
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4053	Melphalan
+R1	Reason-to-use Arg1:T1 Arg2:T2

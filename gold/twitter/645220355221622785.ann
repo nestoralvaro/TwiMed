@@ -1,0 +1,10 @@
+T1	Symptom 35 47	bad memories
+A1	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0751295 Vs. C0525045
+T2	Symptom 52 71	compulsive behavior
+N2	Reference T2 Concepts:C0600104	Obsessive compulsive behavior
+T3	Drug 25 33	Cymbalta
+A2	Polarity T3 Polarity
+A3	Sentiment T3 Negative
+N3	Reference T3 Concepts:60834	Duloxetine

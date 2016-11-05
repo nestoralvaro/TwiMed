@@ -1,0 +1,7 @@
+T1	Disease_Symptom 37 50	sleep quality
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1262141 Vs. C0877792
+T2	Drug 9 18	Trazodone
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	Disease_Symptom 73 84	visual snow
+N1	Reference T1 Concepts:C0547030	Visual disturbance
+T2	Drug 48 59	lamotrigine
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,11 @@
+T1	Disease 167 183	bipolar disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Drug 97 108	lamotrigine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Drug 63 73	olanzapine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T1 Arg2:T2

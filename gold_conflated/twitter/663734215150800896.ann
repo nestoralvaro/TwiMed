@@ -1,0 +1,8 @@
+T1	Drug 51 64	Carbamazepine
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Drug 89 99	topiramate
+N2	Reference T2 Concepts:5514	Topiramate
+T3	Disease_Symptom 36 42	tremor
+N3	Reference T3 Concepts:C0040822	Tremor
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T2

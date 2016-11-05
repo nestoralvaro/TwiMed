@@ -1,0 +1,11 @@
+T1	Disease_Symptom 258 287	obsessive-compulsive disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0028768	Obsessive-Compulsive Disorder
+T2	Disease_Symptom 289 292	OCD
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0028768	Obsessive-Compulsive Disorder
+T3	Drug 34 45	fluvoxamine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3404	Fluvoxamine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

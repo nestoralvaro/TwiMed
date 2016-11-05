@@ -1,0 +1,5 @@
+T1	Drug 24 37	ciprofloxacin
+N1	Reference T1 Concepts:2764	Ciprofloxacin
+T2	Disease_Symptom 0 19	Pseudotumor cerebri
+N2	Reference T2 Concepts:C0033845	Pseudotumor Cerebri
+R1	Outcome-negative Arg1:T1 Arg2:T2

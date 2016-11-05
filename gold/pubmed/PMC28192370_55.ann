@@ -1,0 +1,11 @@
+T1	Symptom 183 191	delirium
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0011206	Delirium
+T2	Disease 209 228	Alzheimer's disease
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0002395	Alzheimer's Disease
+T3	Drug 137 148	fluvoxamine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

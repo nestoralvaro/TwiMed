@@ -1,0 +1,8 @@
+T1	Disease_Symptom 128 135	fatigue
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0015672	Fatigue
+T2	Drug 40 49	Modafinil
+A2	Person T2 1st
+A3	Sentiment T2 Positive
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Benefit Arg1:T1 Arg2:T2

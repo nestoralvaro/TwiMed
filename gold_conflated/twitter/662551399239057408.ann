@@ -1,0 +1,16 @@
+T1	Disease_Symptom 41 49	Insomnia
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0393761 Vs. C0393760
+T2	Drug 58 67	Trazodone
+N2	Reference T2 Concepts:5533	Trazodone
+T3	Disease_Symptom 22 30	Headache
+N3	Reference T3 Concepts:C0018681	Headache
+T4	Disease_Symptom 32 39	Anxiety
+N4	Reference T4 Concepts:C0003467	Anxiety
+T5	Disease_Symptom 0 20	Knock on my shoulder
+A1	Person T5 1st
+N5	Reference T5 Concepts:C0037011	Shoulder Pain
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T5 Arg2:T2
+R3	Benefit Arg1:T3 Arg2:T2
+R4	Benefit Arg1:T4 Arg2:T2

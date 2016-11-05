@@ -1,0 +1,6 @@
+T1	Disease_Symptom 32 52	erectile dysfunction
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0242350	Erectile dysfunction
+T2	Drug 0 9	Trazodone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5533	Trazodone

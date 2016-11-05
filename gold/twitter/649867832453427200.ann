@@ -1,0 +1,5 @@
+T1	Symptom 57 68	cold turkey
+A1	Severity T1 Severe
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128

@@ -1,0 +1,12 @@
+T1	Drug 255 265	olanzapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Drug 269 280	lamotrigine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease_Symptom 23 39	bipolar disorder
+A3	Person T3 3rd
+A4	Duration T3 Regular
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T1

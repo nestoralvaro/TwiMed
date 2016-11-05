@@ -1,0 +1,7 @@
+T1	Disease_Symptom 32 42	productive
+A1	Person T1 1st
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 15 23	adderall
+A3	Person T2 1st
+N2	Reference T2 Concepts:3007	Amphetamine

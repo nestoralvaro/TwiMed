@@ -1,0 +1,10 @@
+T1	Drug 107 113	Avelox
+N1	Reference T1 Concepts:4259	moxifloxacin
+T2	Disease_Symptom 81 90	infection
+A1	Person T2 2nd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: -1 Vs. C0004623
+T3	Drug 115 123	Levaquin
+N3	Reference T3 Concepts:4583	ofloxacin
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,7 @@
+T1	Symptom 67 83	withdrawal state
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Drug 22 35	buprenorphine
+A2	Modality T2 Hypothetical
+N2	Reference T2 Concepts:2476	Buprenorphine

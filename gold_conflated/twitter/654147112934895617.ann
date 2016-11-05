@@ -1,0 +1,9 @@
+T1	Drug 42 49	vyvanse
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:11597697	lisdexamfetamine dimesylate
+T2	Disease_Symptom 16 24	sleeping
+A3	Polarity T2 Polarity
+A4	Person T2 1st
+A5	Duration T2 Irregular
+N2	Reference T2 Concepts:C2830004	Somnolence

@@ -1,0 +1,7 @@
+T1	Disease_Symptom 77 101	post-operative analgesia
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0030193 Vs. C0030201
+T2	Drug 59 72	buprenorphine
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:2476	Buprenorphine
+R1	Benefit Arg1:T1 Arg2:T2

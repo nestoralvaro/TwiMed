@@ -1,0 +1,20 @@
+T1	Disease_Symptom 50 57	anxiety
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Status T1 Continuing
+A4	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0549259 Vs. C0003467
+T2	Disease_Symptom 119 140	I can do is stay home
+A5	Person T2 1st
+A6	Exemplification T2 Exemplification
+A7	Severity T2 Severe
+A8	Status T2 Continuing
+A9	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0549259 Vs. C3536794
+T3	Drug 0 5	Paxil
+A10	Status T3 Continuing
+A11	Sentiment T3 Negative
+N3	Reference T3 Concepts:4691	Paroxetine
+R1	Benefit Arg1:T1 Arg2:T3

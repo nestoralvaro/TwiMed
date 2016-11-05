@@ -1,0 +1,7 @@
+T1	Drug 90 98	Cymbalta
+A1	Person T1 1st
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Symptom 63 66	SAD
+A2	Person T2 1st
+A3	Status T2 Continuing
+N2	Reference T2 Concepts:C3536794	Sad mood

@@ -1,0 +1,17 @@
+T1	Disease_Symptom 84 89	awake
+A1	Person T1 1st
+A2	Status T1 Continuing
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0043012 Vs. C0917801
+T2	Disease_Symptom 94 103	exhausted
+A4	Person T2 1st
+A5	Status T2 Continuing
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0392674	Exhaustion
+T3	Drug 65 73	adderall
+A7	Person T3 1st
+A8	Sentiment T3 Negative
+N3	Reference T3 Concepts:3007	Amphetamine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

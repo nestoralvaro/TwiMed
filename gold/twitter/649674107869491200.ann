@@ -1,0 +1,4 @@
+T1	Drug 41 50	Tamoxifen
+A1	Person T1 3rd
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:5376	Tamoxifen

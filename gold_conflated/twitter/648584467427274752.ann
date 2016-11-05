@@ -1,0 +1,10 @@
+T1	Disease_Symptom 45 68	crystalline retinopathy
+A1	Person T1 3rd
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0015408 Vs. C0035309
+T2	Drug 27 36	tamoxifen
+A3	Person T2 3rd
+A4	Modality T2 Hypothetical
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Outcome-negative Arg1:T2 Arg2:T1

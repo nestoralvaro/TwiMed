@@ -1,0 +1,18 @@
+T1	Drug 107 112	Paxil
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Drug 127 133	Celexa
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:2771	Citalopram
+T3	Drug 91 97	Prozac
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:3386	Fluoxetine
+T4	Drug 99 105	Zoloft
+A3	Modality T4 Generic
+N4	Reference T4 Concepts:5203	Sertraline
+T5	Disease_Symptom 60 88	generalized anxiety disorder
+A4	Modality T5 Generic
+N5	Reference T5 Concepts:C0270549	Generalized Anxiety Disorder
+R1	Benefit Arg1:T5 Arg2:T2
+R2	Benefit Arg1:T5 Arg2:T3
+R3	Benefit Arg1:T5 Arg2:T4
+R4	Benefit Arg1:T5 Arg2:T1

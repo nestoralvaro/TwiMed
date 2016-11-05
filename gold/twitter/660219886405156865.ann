@@ -1,0 +1,5 @@
+T1	Drug 111 119	tegretol
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Disease 68 84	bipolar disorder
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

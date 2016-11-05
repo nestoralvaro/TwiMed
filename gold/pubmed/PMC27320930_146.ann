@@ -1,0 +1,8 @@
+T1	Disease 0 6	Asthma
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Drug 110 121	Montelukast
+A2	Person T2 3rd
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Reason-to-use Arg1:T1 Arg2:T2

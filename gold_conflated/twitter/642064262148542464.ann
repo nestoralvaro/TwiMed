@@ -1,0 +1,6 @@
+T1	Disease_Symptom 23 41	degenerating sight
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: -1 Vs. C0042790
+T2	Drug 11 18	Avastin
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

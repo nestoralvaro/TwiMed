@@ -1,0 +1,14 @@
+T1	Disease 38 42	ADHD
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 8 16	Adderall
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:3007	Amphetamine
+T3	Drug 17 24	Vyvanse
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:11597697	lisdexamfetamine dimesylate
+T4	Drug 0 7	Ritalin
+A3	Modality T4 Generic
+N4	Reference T4 Concepts:4158	Methylphenidate
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T1 Arg2:T2
+R3	Reason-to-use Arg1:T1 Arg2:T4

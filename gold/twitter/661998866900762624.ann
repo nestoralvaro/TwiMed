@@ -1,0 +1,7 @@
+T1	Symptom 42 61	forget about eating
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1971624 Vs. C0542476
+T2	Drug 12 21	modafinil
+A1	Sentiment T2 Negative
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Outcome-negative Arg1:T2 Arg2:T1

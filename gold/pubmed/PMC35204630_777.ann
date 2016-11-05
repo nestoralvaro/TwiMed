@@ -1,0 +1,19 @@
+T1	Disease 220 242	diabetic macular edema
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0024440	Macular Edema, Cystoid
+T2	Disease 244 247	DME
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0024440	Macular Edema, Cystoid
+T3	Disease 189 209	macular degeneration
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0024437	Macular degeneration
+T4	Disease 211 214	AMD
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0024437	Macular degeneration
+T5	Drug 117 128	bevacizumab
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T2 Arg2:T5
+R2	Reason-to-use Arg1:T3 Arg2:T5
+R3	Reason-to-use Arg1:T4 Arg2:T5
+R4	Reason-to-use Arg1:T1 Arg2:T5

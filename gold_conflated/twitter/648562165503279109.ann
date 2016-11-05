@@ -1,0 +1,6 @@
+T1	Disease_Symptom 141 154	GI ulceration
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0237938 Vs. C0541936
+T2	Drug 84 94	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

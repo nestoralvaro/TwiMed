@@ -1,0 +1,8 @@
+T1	Disease 108 126	bipolar depression
+N1	Reference T1 Concepts:C0005587	Depression, Bipolar
+T2	Symptom 153 158	mania
+N2	Reference T2 Concepts:C0235165	Mania acute
+T3	Drug 76 87	ziprasidone
+N3	Reference T3 Concepts:60853	Ziprasidone
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

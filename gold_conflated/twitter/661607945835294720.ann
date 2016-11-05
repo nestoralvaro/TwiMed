@@ -1,0 +1,9 @@
+T1	Disease_Symptom 79 94	prostate cancer
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0936223 Vs. C0600139
+T2	Drug 12 21	Docetaxel
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Benefit Arg1:T1 Arg2:T2

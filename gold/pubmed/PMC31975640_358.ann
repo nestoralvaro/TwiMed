@@ -1,0 +1,6 @@
+T1	Symptom 99 132	psychotic-like prodromal symptoms
+N1	Reference T1 Concepts:C0033975	Psychotic Disorders
+T2	Drug 53 64	fluvoxamine
+A1	Modality T2 Hedged
+N2	Reference T2 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T1 Arg2:T2

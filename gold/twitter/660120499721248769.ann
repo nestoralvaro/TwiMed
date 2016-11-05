@@ -1,0 +1,11 @@
+T1	Symptom 126 156	my sleep was worse than normal
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Duration T1 Irregular
+A4	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0917801 Vs. C0851578
+T2	Drug 26 36	sertraline
+A5	Modality T2 Hypothetical
+N2	Reference T2 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,5 @@
+T1	Disease_Symptom 77 95	pulmonary fibrosis
+N1	Reference T1 Concepts:C0034069	Pulmonary Fibrosis
+T2	Drug 0 10	Rupatadine
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

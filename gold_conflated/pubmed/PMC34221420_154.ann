@@ -1,0 +1,5 @@
+T1	Drug 78 101	triamcinolone acetonide
+N1	Reference T1 Concepts:5544	Triamcinolone
+T2	Disease_Symptom 12 25	Visual acuity
+N2	Reference T2 Concepts:C0234632	Visual acuity reduced
+R1	Benefit Arg1:T2 Arg2:T1

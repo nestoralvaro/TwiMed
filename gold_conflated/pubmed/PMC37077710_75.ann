@@ -1,0 +1,7 @@
+T1	Disease_Symptom 107 112	tumor
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0007095	Carcinoid Tumor
+T2	Drug 55 64	melphalan
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4053	Melphalan
+R1	Benefit Arg1:T1 Arg2:T2

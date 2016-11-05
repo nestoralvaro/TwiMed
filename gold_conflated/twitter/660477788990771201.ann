@@ -1,0 +1,10 @@
+T1	Disease_Symptom 117 123	hungry
+A1	Person T1 1st
+A2	Status T1 Continuing
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0020175	Hunger
+T2	Drug 80 90	prednisone
+A4	Person T2 1st
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

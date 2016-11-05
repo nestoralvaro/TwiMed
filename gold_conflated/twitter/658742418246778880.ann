@@ -1,0 +1,8 @@
+T1	Drug 12 21	Singulair
+N1	Reference T1 Concepts:4248	Montelukast
+T2	Disease_Symptom 0 6	Asthma
+N2	Reference T2 Concepts:C0004096	Asthma
+T3	Disease_Symptom 40 51	Alzheimer's
+N3	Reference T3 Concepts:C0002395	Alzheimer's Disease
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T1

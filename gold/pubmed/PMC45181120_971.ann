@@ -1,0 +1,6 @@
+T1	Drug 204 215	venlafaxine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Drug 59 70	venlafaxine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5656	Venlafaxine

@@ -1,0 +1,5 @@
+T1	Symptom 102 120	tardive dyskinesia
+N1	Reference T1 Concepts:C0686347	Tardive Dyskinesia
+T2	Drug 66 76	olanzapine
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,5 @@
+T1	Symptom 102 119	**sleeping_face**
+N1	Reference T1 Concepts:C0541854	Daytime sleepiness
+T2	Drug 48 57	trazodone
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,4 @@
+T1	Drug 69 80	lamotrigine
+A1	Person T1 3rd
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:3878	Lamotrigine

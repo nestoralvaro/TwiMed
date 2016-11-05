@@ -1,0 +1,7 @@
+T1	Symptom 40 54	disassociation
+A1	Severity T1 Severe
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. 1
+T2	Drug 17 24	Effexor
+N2	Reference T2 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T2 Arg2:T1

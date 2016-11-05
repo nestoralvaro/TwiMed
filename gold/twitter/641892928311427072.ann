@@ -1,0 +1,9 @@
+T1	Symptom 77 95	respiratory arrest
+A1	Person T1 1st
+A2	Status T1 Complete
+N1	Reference T1 Concepts:C0162297	Respiratory arrest
+T2	Drug 55 64	trazodone
+A3	Person T2 1st
+A4	Status T2 Complete
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Outcome-negative Arg1:T2 Arg2:T1

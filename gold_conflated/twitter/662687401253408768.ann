@@ -1,0 +1,12 @@
+T1	Disease_Symptom 21 28	anxiety
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Disease_Symptom 0 11	Unhappiness
+N2	Reference T2 Concepts:C3536794	Sad mood
+T3	Disease_Symptom 13 19	stress
+N3	Reference T3 Concepts:C0038435	Stress
+T4	Drug 133 138	Paxil
+A1	Person T4 2nd
+N4	Reference T4 Concepts:4691	Paroxetine
+R1	Benefit Arg1:T1 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T2 Arg2:T4

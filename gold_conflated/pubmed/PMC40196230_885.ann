@@ -1,0 +1,14 @@
+T1	Disease_Symptom 91 109	psychotic symptoms
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0033975 Vs. C0338614
+T2	Drug 48 58	olanzapine
+N2	Reference T2 Concepts:4585	Olanzapine
+T3	Disease_Symptom 91 109	psychotic symptoms
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0600104 Vs. C0338614
+T4	Drug 33 43	quetiapine
+N4	Reference T4 Concepts:5002	Quetiapine
+R1	Benefit Arg1:T1 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T3 Arg2:T4
+R4	Benefit Arg1:T1 Arg2:T2

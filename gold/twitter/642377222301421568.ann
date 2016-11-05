@@ -1,0 +1,13 @@
+T1	Symptom 115 126	cold turkey
+A1	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Drug 94 105	Venlafaxine
+A2	Duration T2 Regular
+A3	Status T2 Complete
+N2	Reference T2 Concepts:5656	Venlafaxine
+T3	Disease 10 17	Bipolar
+A4	Status T3 Continuing
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0005587 Vs. C0005586
+R1	Outcome-negative Arg1:T2 Arg2:T1

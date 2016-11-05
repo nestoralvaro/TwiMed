@@ -1,0 +1,16 @@
+T1	Symptom 99 105	zombie
+A1	Person T1 1st
+A2	Duration T1 Irregular
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0694563 Vs. C0013144
+T2	Symptom 28 36	#anxiety
+A3	Person T2 1st
+N2	Reference T2 Concepts:C0003467	Anxiety
+T3	Disease 56 72	#bipolardisorder
+A4	Person T3 1st
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+T4	Drug 41 48	zyprexa
+A5	Person T4 1st
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T3 Arg2:T4
+R2	Outcome-negative Arg1:T4 Arg2:T1

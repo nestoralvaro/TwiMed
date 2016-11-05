@@ -1,0 +1,17 @@
+T1	Drug 123 131	lamictal
+A1	Person T1 1st
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 32 44	bad reaction
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0853813	Local reaction
+T3	Drug 89 97	Lamictal
+N3	Reference T3 Concepts:3878	Lamotrigine
+T4	Symptom 115 119	rash
+A3	Person T4 1st
+A4	Severity T4 Mild
+N4	Reference T4 Concepts:C0497364	Localized rash
+T5	Drug 48 61	carbamazepine
+A5	Person T5 1st
+N5	Reference T5 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T5 Arg2:T2
+R2	Outcome-negative Arg1:T1 Arg2:T4

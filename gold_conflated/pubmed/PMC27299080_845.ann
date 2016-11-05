@@ -1,0 +1,77 @@
+T1	Disease_Symptom 5 49	rash with eosinophilia and systemic symptoms
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0497365 Vs. -1
+T2	Disease_Symptom 5 9	rash
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0497365	Rash generalised
+T3	Disease_Symptom 15 27	eosinophilia
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0014457 Vs. -1
+T4	Disease_Symptom 15 27	eosinophilia
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0014457	Eosinophilia
+T5	Disease_Symptom 50 66	(DRESS) syndrome
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T5	Disagreement in concept ID: C0497365 Vs. C0014457
+T6	Disease_Symptom 50 66	(DRESS) syndrome
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:C0497365	Rash generalised
+T7	Disease_Symptom 50 66	(DRESS) syndrome
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T7	Disagreement in concept ID: C0497365 Vs. -1
+T8	Disease_Symptom 50 66	(DRESS) syndrome
+A8	Modality T8 Generic
+N8	Reference T8 Concepts:C0014457	Eosinophilia
+T9	Disease_Symptom 50 66	(DRESS) syndrome
+A9	Modality T9 Generic
+N9	Reference T9 Concepts:0	Disagreement in Concept ID
+#5	AnnotatorNotes T9	Disagreement in concept ID: C0014457 Vs. C0497365
+T10	Disease_Symptom 50 66	(DRESS) syndrome
+A10	Modality T10 Generic
+N10	Reference T10 Concepts:0	Disagreement in Concept ID
+#6	AnnotatorNotes T10	Disagreement in concept ID: C0014457 Vs. -1
+T11	Disease_Symptom 50 66	(DRESS) syndrome
+A11	Modality T11 Generic
+N11	Reference T11 Concepts:0	Disagreement in Concept ID
+#7	AnnotatorNotes T11	Disagreement in concept ID: -1 Vs. C0014457
+T12	Disease_Symptom 50 66	(DRESS) syndrome
+A12	Modality T12 Generic
+N12	Reference T12 Concepts:0	Disagreement in Concept ID
+#8	AnnotatorNotes T12	Disagreement in concept ID: -1 Vs. C0497365
+T13	Disease_Symptom 50 66	(DRESS) syndrome
+A13	Modality T13 Generic
+N13	Reference T13 Concepts:-1	Unknown Concept ID
+T14	Disease_Symptom 0 49	Drug rash with eosinophilia and systemic symptoms
+A14	Modality T14 Generic
+N14	Reference T14 Concepts:-1	Unknown Concept ID
+T15	Disease_Symptom 15 27	eosinophilia
+A15	Modality T15 Generic
+N15	Reference T15 Concepts:0	Disagreement in Concept ID
+#9	AnnotatorNotes T15	Disagreement in concept ID: -1 Vs. C0014457
+T16	Disease_Symptom 5 49	rash with eosinophilia and systemic symptoms
+A16	Modality T16 Generic
+N16	Reference T16 Concepts:0	Disagreement in Concept ID
+#10	AnnotatorNotes T16	Disagreement in concept ID: -1 Vs. C0497365
+T17	Drug 241 254	carbamazepine
+A17	Modality T17 Generic
+N17	Reference T17 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T17 Arg2:T10
+R2	Outcome-negative Arg1:T17 Arg2:T10
+R3	Outcome-negative Arg1:T17 Arg2:T10
+R4	Outcome-negative Arg1:T17 Arg2:T2
+R5	Outcome-negative Arg1:T17 Arg2:T2
+R6	Outcome-negative Arg1:T17 Arg2:T4
+R7	Outcome-negative Arg1:T17 Arg2:T4
+R8	Outcome-negative Arg1:T17 Arg2:T16
+R9	Outcome-negative Arg1:T17 Arg2:T16
+R10	Outcome-negative Arg1:T17 Arg2:T16
+R11	Outcome-negative Arg1:T17 Arg2:T13
+R12	Outcome-negative Arg1:T17 Arg2:T13
+R13	Outcome-negative Arg1:T17 Arg2:T13
+R14	Outcome-negative Arg1:T17 Arg2:T7
+R15	Outcome-negative Arg1:T17 Arg2:T7
+R16	Outcome-negative Arg1:T17 Arg2:T7

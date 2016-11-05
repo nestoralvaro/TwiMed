@@ -1,0 +1,6 @@
+T1	Drug 145 156	lamotrigine
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Disease 13 23	depression
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0011570
+R1	Reason-to-use Arg1:T2 Arg2:T1

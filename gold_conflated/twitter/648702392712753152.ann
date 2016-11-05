@@ -1,0 +1,18 @@
+T1	Disease_Symptom 113 121	over eat
+A1	Person T1 2nd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0232461 Vs. C0020175
+T2	Disease_Symptom 64 69	sleep
+A2	Person T2 2nd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0013144 Vs. C2830004
+T3	Disease_Symptom 95 108	wake up tired
+A3	Person T3 2nd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T3	Disagreement in concept ID: C0694563 Vs. C0392674
+T4	Drug 20 26	geodon
+A4	Person T4 2nd
+A5	Modality T4 Hedged
+N4	Reference T4 Concepts:60853	Ziprasidone
+R1	Outcome-negative Arg1:T4 Arg2:T1
+R2	Outcome-negative Arg1:T4 Arg2:T3

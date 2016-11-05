@@ -1,0 +1,7 @@
+T1	Symptom 70 88	hyperprolactinemia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0020514	Hyperprolactinemia
+T2	Drug 107 117	Olanzapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,5 @@
+T1	Drug 48 58	Quetiapine
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 0 14	Rhabdomyolysis
+N2	Reference T2 Concepts:C0035410	Rhabdomyolysis
+R1	Outcome-negative Arg1:T1 Arg2:T2

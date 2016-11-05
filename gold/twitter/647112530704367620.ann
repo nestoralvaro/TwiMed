@@ -1,0 +1,9 @@
+T1	Disease 118 128	depression
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 69 77	Lamictal
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease 39 55	bipolar disorder
+A1	Modality T3 Generic
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+R1	Reason-to-use Arg1:T3 Arg2:T2
+R2	Reason-to-use Arg1:T1 Arg2:T2

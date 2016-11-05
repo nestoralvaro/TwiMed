@@ -1,0 +1,10 @@
+T1	Symptom 81 100	airway inflammation
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0021368	Inflammation
+T2	Symptom 123 142	bronchoconstriction
+N2	Reference T2 Concepts:C0079043	Bronchoconstriction
+T3	Drug 44 55	montelukast
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:4248	Montelukast
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

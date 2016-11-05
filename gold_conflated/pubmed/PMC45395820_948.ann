@@ -1,0 +1,8 @@
+T1	Drug 70 81	venlafaxine
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Disease_Symptom 85 101	major depression
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+T3	Drug 55 65	citalopram
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

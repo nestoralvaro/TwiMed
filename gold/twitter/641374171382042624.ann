@@ -1,0 +1,14 @@
+T1	Symptom 37 45	insomnia
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0393761 Vs. C0393760
+T2	Disease 22 32	depression
+A2	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0011570 Vs. C0011581
+T3	Drug 8 17	trazodone
+A3	Person T3 1st
+A4	Status T3 Continuing
+N3	Reference T3 Concepts:5533	Trazodone
+R1	Reason-to-use Arg1:T2 Arg2:T3
+R2	Reason-to-use Arg1:T1 Arg2:T3

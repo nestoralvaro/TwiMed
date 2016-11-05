@@ -1,0 +1,6 @@
+T1	Disease_Symptom 64 74	withdrawal
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Drug 80 85	Paxil
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

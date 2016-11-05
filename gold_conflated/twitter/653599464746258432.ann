@@ -1,0 +1,12 @@
+T1	Drug 78 88	duloxetine
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+A3	Status T1 Complete
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease_Symptom 21 31	Nerve pain
+A4	Person T2 1st
+A5	Duration T2 Irregular
+A6	Status T2 Continuing
+A7	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0030193	Pain
+R1	Benefit Arg1:T2 Arg2:T1

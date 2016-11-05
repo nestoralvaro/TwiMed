@@ -1,0 +1,9 @@
+T1	Drug 94 103	docetaxel
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease_Symptom 164 174	amenorrhea
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0002453	Amenorrhea
+T3	Disease_Symptom 56 69	breast cancer
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C3495917	Advanced breast cancer

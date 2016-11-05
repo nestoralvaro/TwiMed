@@ -1,0 +1,5 @@
+T1	Drug 103 111	Lamictal
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Disease 62 72	bipolarity
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

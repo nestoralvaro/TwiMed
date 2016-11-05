@@ -1,0 +1,11 @@
+T1	Disease_Symptom 42 49	bipolar
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Disease_Symptom 73 83	alcoholism
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0085762	Alcohol abuse
+T3	Drug 0 10	Topiramate
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

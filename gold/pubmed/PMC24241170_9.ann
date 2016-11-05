@@ -1,0 +1,23 @@
+T1	Disease 238 252	panic disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0030319	Panic Disorder
+T2	Disease 228 231	OCD
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0028768	Obsessive-Compulsive Disorder
+T3	Disease 191 194	SAD
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0003469	Anxiety Disorders
+T4	Disease 173 189	anxiety disorder
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0003469	Anxiety Disorders
+T5	Disease 197 226	obsessive-compulsive disorder
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:C0028768	Obsessive-Compulsive Disorder
+T6	Drug 0 11	Fluvoxamine
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T2 Arg2:T6
+R2	Reason-to-use Arg1:T1 Arg2:T6
+R3	Reason-to-use Arg1:T4 Arg2:T6
+R4	Reason-to-use Arg1:T3 Arg2:T6
+R5	Reason-to-use Arg1:T5 Arg2:T6

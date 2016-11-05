@@ -1,0 +1,12 @@
+T1	Drug 307 320	carbamazepine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Symptom 329 338	cutaneous
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0011609 Vs. C0178298
+T3	Drug 160 173	carbamazepine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T1 Arg2:T2

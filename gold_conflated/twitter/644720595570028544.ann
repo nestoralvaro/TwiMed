@@ -1,0 +1,9 @@
+T1	Drug 77 87	Effexor XR
+A1	Person T1 1st
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Disease_Symptom 49 58	depressed
+A2	Person T2 1st
+A3	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0344315 Vs. C0011570
+R1	Benefit Arg1:T2 Arg2:T1

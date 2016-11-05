@@ -1,0 +1,8 @@
+T1	Drug 74 79	Paxil
+A1	Person T1 1st
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 27 35	wobbling
+A2	Person T2 2nd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0311394 Vs. C0234369
+R1	Outcome-negative Arg1:T1 Arg2:T2

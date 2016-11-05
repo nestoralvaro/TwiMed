@@ -1,0 +1,1 @@
+METHODS: Patients >or= __number__ years of age admitted to the emergency ward for symptoms of psychosis were consecutively randomized to risperidone (n = __number__ ), olanzapine (n = __number__ ), quetiapine (n = __number__ ), or ziprasidone (n = __number__ ), and followed for up to __number__ years.

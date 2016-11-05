@@ -1,0 +1,10 @@
+T1	Symptom 78 87	male tits
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1112442 Vs. C0017411
+T2	Drug 55 62	Zyprexa
+A3	Person T2 1st
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

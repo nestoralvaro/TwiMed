@@ -1,0 +1,12 @@
+T1	Drug 74 84	sertraline
+A1	Person T1 1st
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Disease_Symptom 85 107	was making me a zombie
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0013144	Drowsiness
+T3	Disease_Symptom 3 10	anxiety
+A3	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0003467 Vs. C0003469
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T1 Arg2:T2

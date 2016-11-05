@@ -1,0 +1,8 @@
+T1	Symptom 0 8	sleeping
+A1	Polarity T1 Polarity
+A2	Person T1 2nd
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Drug 38 45	focalin
+A3	Person T2 2nd
+A4	Modality T2 Hypothetical
+N2	Reference T2 Concepts:4158	Methylphenidate

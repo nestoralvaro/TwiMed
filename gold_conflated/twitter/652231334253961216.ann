@@ -1,0 +1,5 @@
+T1	Disease_Symptom 57 64	anxiety
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Drug 19 26	Effexor
+N2	Reference T2 Concepts:5656	Venlafaxine
+R1	Benefit Arg1:T1 Arg2:T2

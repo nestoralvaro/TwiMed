@@ -1,0 +1,18 @@
+T1	Disease_Symptom 81 128	feelin' super high all the time without smoking
+A1	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0233479 Vs. C0087169
+T2	Disease_Symptom 49 63	panic disorder
+N2	Reference T2 Concepts:C0030319	Panic Disorder
+T3	Disease_Symptom 15 20	tired
+A2	Duration T3 Regular
+A3	Severity T3 Severe
+N3	Reference T3 Concepts:C0392674	Exhaustion
+T4	Disease_Symptom 41 46	tired
+A4	Severity T4 Severe
+N4	Reference T4 Concepts:C0392674	Exhaustion
+T5	Drug 0 6	Zoloft
+N5	Reference T5 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T5 Arg2:T3
+R2	Outcome-negative Arg1:T5 Arg2:T4
+R3	Benefit Arg1:T2 Arg2:T5

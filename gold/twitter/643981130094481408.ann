@@ -1,0 +1,8 @@
+T1	Symptom 71 77	asleep
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0917801 Vs. C2830004
+T2	Drug 93 104	#Prednisone
+A3	Sentiment T2 Positive
+N2	Reference T2 Concepts:4900	Prednisone

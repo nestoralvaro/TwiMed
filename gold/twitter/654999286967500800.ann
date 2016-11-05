@@ -1,0 +1,13 @@
+T1	Symptom 67 78	urge to cry
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0235939 Vs. C3536794
+T2	Disease 115 123	#bipolar
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Drug 13 23	quetiapine
+A3	Person T3 1st
+A4	Status T3 Continuing
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

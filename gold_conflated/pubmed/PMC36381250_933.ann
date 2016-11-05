@@ -1,0 +1,14 @@
+T1	Disease_Symptom 279 292	breast cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0678222	Breast Carcinoma
+T2	Disease_Symptom 84 97	breast cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C3495917 Vs. C0678222
+T3	Disease_Symptom 256 274	endometrial cancer
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0476089	Endometrial Carcinoma
+T4	Drug 53 62	tamoxifen
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:5376	Tamoxifen
+R1	Benefit Arg1:T2 Arg2:T4

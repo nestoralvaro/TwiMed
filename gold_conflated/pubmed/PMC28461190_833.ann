@@ -1,0 +1,16 @@
+T1	Disease_Symptom 107 117	alcoholism
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0085762	Alcohol abuse
+T2	Drug 178 188	quetiapine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Disease_Symptom 207 226	depressive symptoms
+A3	Person T3 3rd
+A4	Modality T3 Generic
+N3	Reference T3 Concepts:C0086132	Depressive Symptoms
+T4	Disease_Symptom 76 83	bipolar
+A5	Person T4 3rd
+N4	Reference T4 Concepts:C0005586	Bipolar Disorder
+R1	Benefit Arg1:T4 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T1 Arg2:T2

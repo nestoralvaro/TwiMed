@@ -1,0 +1,24 @@
+T1	Disease_Symptom 383 394	Agoraphobia
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0001818	Agoraphobia
+T2	Disease_Symptom 344 358	Panic Disorder
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0030319	Panic Disorder
+T3	Disease_Symptom 363 377	Panic Disorder
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0030319	Panic Disorder
+T4	Drug 197 207	paroxetine
+A4	Person T4 3rd
+A5	Duration T4 Regular
+N4	Reference T4 Concepts:4691	Paroxetine
+T5	Drug 301 311	paroxetine
+A6	Person T5 3rd
+A7	Duration T5 Regular
+N5	Reference T5 Concepts:4691	Paroxetine
+T6	Disease_Symptom 128 142	Panic Disorder
+A8	Person T6 3rd
+N6	Reference T6 Concepts:C0030319	Panic Disorder
+R1	Benefit Arg1:T1 Arg2:T5
+R2	Benefit Arg1:T2 Arg2:T5
+R3	Benefit Arg1:T6 Arg2:T4
+R4	Benefit Arg1:T1 Arg2:T5

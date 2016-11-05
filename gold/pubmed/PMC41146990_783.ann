@@ -1,0 +1,7 @@
+T1	Disease 135 141	cancer
+A1	Modality T1 Hedged
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0596240 Vs. C0007097
+T2	Drug 19 29	sertraline
+A2	Modality T2 Hedged
+N2	Reference T2 Concepts:5203	Sertraline

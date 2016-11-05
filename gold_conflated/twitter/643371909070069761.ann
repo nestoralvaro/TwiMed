@@ -1,0 +1,13 @@
+T1	Disease_Symptom 21 25	face
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+N1	Reference T1 Concepts:C0151602	Swelling face
+T2	Disease_Symptom 30 34	feet
+A3	Person T2 1st
+A4	Exemplification T2 Exemplification
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0853619 Vs. C0151602
+T3	Drug 0 10	Prednisone
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

@@ -1,0 +1,8 @@
+T1	Disease_Symptom 116 136	#lifewithbreastcance
+N1	Reference T1 Concepts:C3495917	Advanced breast cancer
+T2	Drug 138 148	#Tamoxifen
+N2	Reference T2 Concepts:5376	Tamoxifen
+T3	Drug 0 9	Tamoxifen
+N3	Reference T3 Concepts:5376	Tamoxifen
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T3

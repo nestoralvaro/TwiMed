@@ -1,0 +1,11 @@
+T1	Disease_Symptom 23 42	killing my appetite
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Duration T1 Regular
+A4	Status T1 Continuing
+A5	Sentiment T1 Positive
+N1	Reference T1 Concepts:C1971624	Loss of appetite (finding)
+T2	Drug 10 18	Concerta
+A6	Sentiment T2 Positive
+N2	Reference T2 Concepts:4158	Methylphenidate
+R1	Outcome-negative Arg1:T2 Arg2:T1

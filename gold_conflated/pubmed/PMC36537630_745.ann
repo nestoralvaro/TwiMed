@@ -1,0 +1,13 @@
+T1	Disease_Symptom 160 184	high-density lipoprotein
+N1	Reference T1 Concepts:C0151691	High density lipoprotein decreased
+T2	Disease_Symptom 455 468	hyperglycemia
+N2	Reference T2 Concepts:C0020456	Hyperglycemia
+T3	Drug 484 495	ziprasidone
+N3	Reference T3 Concepts:60853	Ziprasidone
+T4	Drug 209 219	olanzapine
+N4	Reference T4 Concepts:4585	Olanzapine
+T5	Disease_Symptom 354 366	hypertension
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T5	Disagreement in concept ID: C0085580 Vs. C0020538
+T6	Disease_Symptom 0 20	Hypertriglyceridemia
+N6	Reference T6 Concepts:C0020557	Hypertriglyceridemia

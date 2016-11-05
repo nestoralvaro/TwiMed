@@ -1,0 +1,10 @@
+T1	Drug 41 51	citalopram
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Symptom 18 30	palpitations
+A3	Person T2 1st
+A4	Status T2 Continuing
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0030252	Palpitations
+R1	Outcome-negative Arg1:T1 Arg2:T2

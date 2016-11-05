@@ -1,0 +1,5 @@
+T1	Drug 197 208	venlafaxine
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Disease 105 133	generalized anxiety disorder
+N2	Reference T2 Concepts:C0270549	Generalized Anxiety Disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

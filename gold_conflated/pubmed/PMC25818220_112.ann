@@ -1,0 +1,8 @@
+T1	Drug 18 27	docetaxel
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease_Symptom 203 216	breast cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C3160887 Vs. C3495917
+R1	Benefit Arg1:T2 Arg2:T1

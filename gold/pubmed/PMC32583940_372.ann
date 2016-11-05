@@ -1,0 +1,6 @@
+T1	Disease 91 115	metastatic breast cancer
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0853879 Vs. C3495917
+T2	Drug 36 45	docetaxel
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Reason-to-use Arg1:T1 Arg2:T2

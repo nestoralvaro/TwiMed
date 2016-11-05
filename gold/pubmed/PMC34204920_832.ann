@@ -1,0 +1,11 @@
+T1	Disease 148 157	sinusitis
+A1	Person T1 3rd
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0037199	Sinusitis
+T2	Drug 111 121	prednisone
+A3	Person T2 3rd
+N2	Reference T2 Concepts:4900	Prednisone
+T3	Disease 21 28	bipolar
+A4	Person T3 3rd
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+R1	Reason-to-use Arg1:T1 Arg2:T2

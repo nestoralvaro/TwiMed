@@ -1,0 +1,7 @@
+T1	Disease_Symptom 57 66	cutaneous
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0011609 Vs. C0178298
+T2	Drug 19 32	carbamazepine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2554	Carbamazepine

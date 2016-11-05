@@ -1,0 +1,6 @@
+T1	Drug 0 9	Docetaxel
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Symptom 18 41	photolichenoid eruption
+N2	Reference T2 Concepts:C0162848	Lichenoid Eruptions
+R1	Outcome-negative Arg1:T1 Arg2:T2

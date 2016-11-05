@@ -1,0 +1,7 @@
+T1	Drug 76 86	citalopram
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Disease_Symptom 90 93	MDD
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+T3	Drug 32 42	citalopram
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Benefit Arg1:T2 Arg2:T1

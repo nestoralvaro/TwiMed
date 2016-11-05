@@ -1,0 +1,22 @@
+T1	Disease_Symptom 354 367	schizophrenic
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Disease_Symptom 174 192	psychotic symptoms
+A2	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0033975 Vs. C0338614
+T3	Drug 92 102	olanzapine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4585	Olanzapine
+T4	Disease_Symptom 129 149	aggressive behaviors
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0001807	Aggressive behavior
+T5	Drug 74 84	quetiapine
+A5	Person T5 3rd
+N5	Reference T5 Concepts:5002	Quetiapine
+R1	Benefit Arg1:T4 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3
+R3	Benefit Arg1:T2 Arg2:T5
+R4	Benefit Arg1:T1 Arg2:T3
+R5	Benefit Arg1:T4 Arg2:T5
+R6	Benefit Arg1:T1 Arg2:T5

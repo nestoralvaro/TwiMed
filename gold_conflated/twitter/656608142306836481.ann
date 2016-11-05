@@ -1,0 +1,7 @@
+T1	Disease_Symptom 37 55	alcohol dependency
+N1	Reference T1 Concepts:C0549393	Alcohol problem
+T2	Drug 16 22	Celexa
+A1	Person T2 1st
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Benefit Arg1:T1 Arg2:T2

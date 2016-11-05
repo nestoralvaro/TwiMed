@@ -1,0 +1,10 @@
+T1	Disease_Symptom 106 121	metastatic CRPC
+N1	Reference T1 Concepts:C0936223	Prostate cancer metastatic
+T2	Drug 48 58	prednisone
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:4900	Prednisone
+T3	Drug 34 43	docetaxel
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:3143	Docetaxel
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T3

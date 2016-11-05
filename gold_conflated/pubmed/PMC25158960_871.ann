@@ -1,0 +1,12 @@
+T1	Drug 119 130	lamotrogine
+A1	Duration T1 Regular
+A2	Status T1 Complete
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Drug 134 147	carbamazepine
+A3	Duration T2 Regular
+A4	Status T2 Complete
+N2	Reference T2 Concepts:2554	Carbamazepine
+T3	Disease_Symptom 47 62	dysphoric mania
+N3	Reference T3 Concepts:C0235165	Mania acute
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T2

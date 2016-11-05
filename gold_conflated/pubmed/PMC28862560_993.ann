@@ -1,0 +1,6 @@
+T1	Disease_Symptom 36 43	macular
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0024437 Vs. C0221201
+T2	Drug 9 22	triamcinolone
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

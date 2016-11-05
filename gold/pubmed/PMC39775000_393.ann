@@ -1,0 +1,5 @@
+T1	Disease 93 109	major depression
+N1	Reference T1 Concepts:C1269683	Major Depressive Disorder
+T2	Drug 69 79	sertraline
+N2	Reference T2 Concepts:5203	Sertraline
+R1	Reason-to-use Arg1:T1 Arg2:T2

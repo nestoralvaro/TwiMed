@@ -1,0 +1,24 @@
+T1	Disease_Symptom 110 113	sad
+A1	Person T1 1st
+A2	Severity T1 Mild
+A3	Status T1 Continuing
+A4	Sentiment T1 Negative
+N1	Reference T1 Concepts:C3536794	Sad mood
+T2	Disease_Symptom 83 89	sleepy
+A5	Person T2 1st
+A6	Severity T2 Severe
+A7	Status T2 Continuing
+A8	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0023380 Vs. C1262141
+T3	Disease_Symptom 91 96	dizzy
+A9	Person T3 1st
+A10	Status T3 Continuing
+A11	Sentiment T3 Negative
+N3	Reference T3 Concepts:C0012833	Dizziness
+T4	Drug 0 5	Paxil
+A12	Status T4 Continuing
+N4	Reference T4 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T1
+R3	Outcome-negative Arg1:T4 Arg2:T3

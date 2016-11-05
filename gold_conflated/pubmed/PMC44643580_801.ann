@@ -1,0 +1,16 @@
+T1	Drug 211 221	olanzapine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease_Symptom 105 116	weight gain
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0043094	Weight Gain
+T3	Disease_Symptom 121 144	metabolic abnormalities
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0025517	Metabolic Diseases
+T4	Drug 11 22	ziprasidone
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:60853	Ziprasidone
+R1	Outcome-negative Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T2
+R3	Outcome-negative Arg1:T4 Arg2:T3
+R4	Outcome-negative Arg1:T1 Arg2:T3

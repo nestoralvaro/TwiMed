@@ -1,0 +1,12 @@
+T1	Disease_Symptom 88 104	#ChronicMigraine
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0149931	Migraine Disorders
+T2	Disease_Symptom 118 127	#Migraine
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0149931	Migraine Disorders
+T3	Drug 41 49	Lamictal
+A3	Person T3 1st
+A4	Sentiment T3 Positive
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

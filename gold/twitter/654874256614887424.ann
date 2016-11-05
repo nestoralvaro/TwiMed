@@ -1,0 +1,17 @@
+T1	Symptom 88 135	sleepy enough to sleep or stay asleep once I am
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Symptom 47 53	sleepy
+A3	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0013144 Vs. C2830004
+T3	Symptom 88 110	sleepy enough to sleep
+A4	Polarity T3 Polarity
+A5	Person T3 1st
+N3	Reference T3 Concepts:C2830004	Somnolence
+T4	Drug 4 13	trazodone
+A6	Person T4 1st
+N4	Reference T4 Concepts:5533	Trazodone
+R1	Outcome-negative Arg1:T4 Arg2:T3
+R2	Outcome-negative Arg1:T4 Arg2:T1

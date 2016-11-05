@@ -1,0 +1,4 @@
+T1	Symptom 39 55	microalbuminuria
+N1	Reference T1 Concepts:C0001925	Albuminuria
+T2	Drug 25 35	lisinopril
+N2	Reference T2 Concepts:3937	Lisinopril

@@ -1,0 +1,12 @@
+T1	Drug 25 33	adderall
+A1	Person T1 2nd
+N1	Reference T1 Concepts:3007	Amphetamine
+T2	Disease_Symptom 67 72	sleep
+A2	Polarity T2 Polarity
+A3	Person T2 2nd
+N2	Reference T2 Concepts:C2830004	Somnolence
+T3	Drug 13 20	vyvanse
+A4	Person T3 2nd
+N3	Reference T3 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Outcome-negative Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T2

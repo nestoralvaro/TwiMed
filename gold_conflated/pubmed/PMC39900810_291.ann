@@ -1,0 +1,11 @@
+T1	Disease_Symptom 93 105	pancreatitis
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0030305	Pancreatitis
+T2	Drug 122 132	quetiapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Disease_Symptom 63 85	metabolic disturbances
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0025517	Metabolic Diseases
+R1	Outcome-negative Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T2 Arg2:T3

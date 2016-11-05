@@ -1,0 +1,9 @@
+T1	Disease_Symptom 99 115	nicotine craving
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0556446 Vs. -1
+T2	Disease_Symptom 30 50	appetite suppression
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C1971624 Vs. C0232462
+T3	Drug 17 26	Modafinil
+N3	Reference T3 Concepts:4236	Modafinil
+R1	Benefit Arg1:T1 Arg2:T3

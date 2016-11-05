@@ -1,0 +1,14 @@
+T1	Drug 211 221	quetiapine
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease 227 237	depression
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Drug 196 206	olanzapine
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

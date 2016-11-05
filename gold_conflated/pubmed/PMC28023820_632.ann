@@ -1,0 +1,13 @@
+T1	Disease_Symptom 195 205	withdrawal
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Drug 209 220	venlafaxine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5656	Venlafaxine
+T3	Drug 145 156	venlafaxine
+N3	Reference T3 Concepts:5656	Venlafaxine
+T4	Disease_Symptom 60 73	social phobia
+A3	Person T4 3rd
+N4	Reference T4 Concepts:C0031572	Phobia, Social
+R1	Outcome-negative Arg1:T2 Arg2:T1

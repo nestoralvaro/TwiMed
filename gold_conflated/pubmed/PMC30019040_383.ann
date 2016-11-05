@@ -1,0 +1,5 @@
+T1	Disease_Symptom 145 158	leptospirosis
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: -1 Vs. C0004623
+T2	Drug 51 61	lisinopril
+N2	Reference T2 Concepts:3937	Lisinopril

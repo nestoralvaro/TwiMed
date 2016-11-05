@@ -1,0 +1,21 @@
+T1	Disease_Symptom 145 171	partial epilepsy syndromes
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0014547	Epilepsies, Partial
+T2	Disease_Symptom 133 140;153 161	primary epilepsy
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0014544	Epilepsy
+T3	Drug 33 36	LMG
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3878	Lamotrigine
+T4	Disease_Symptom 102 110	seizures
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0036572	Seizures
+T5	Drug 20 31	lamotrigine
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T2 Arg2:T5
+R2	Benefit Arg1:T1 Arg2:T3
+R3	Benefit Arg1:T1 Arg2:T5
+R4	Benefit Arg1:T4 Arg2:T3
+R5	Benefit Arg1:T4 Arg2:T5
+R6	Benefit Arg1:T2 Arg2:T3

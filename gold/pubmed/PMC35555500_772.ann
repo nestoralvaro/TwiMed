@@ -1,0 +1,9 @@
+T1	Drug 398 411	buprenorphine
+N1	Reference T1 Concepts:2476	Buprenorphine
+T2	Symptom 11 27	antihyperalgesia
+A1	Polarity T2 Polarity
+N2	Reference T2 Concepts:C0020429	Hyperalgesia
+T3	Drug 320 333	buprenorphine
+N3	Reference T3 Concepts:2476	Buprenorphine
+R1	Outcome-positive Arg1:T3 Arg2:T2
+R2	Outcome-positive Arg1:T1 Arg2:T2

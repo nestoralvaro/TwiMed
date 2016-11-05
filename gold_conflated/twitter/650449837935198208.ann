@@ -1,0 +1,18 @@
+T1	Disease_Symptom 109 114	sleep
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0013144 Vs. C2830004
+T2	Disease_Symptom 67 73	stoned
+A2	Person T2 1st
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0085632 Vs. C0013144
+T3	Disease_Symptom 76 82	hungry
+A4	Person T3 1st
+A5	Sentiment T3 Negative
+N3	Reference T3 Concepts:C0020175	Hunger
+T4	Drug 48 56	Seroquel
+A6	Person T4 1st
+N4	Reference T4 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3

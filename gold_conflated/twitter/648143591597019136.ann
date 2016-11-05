@@ -1,0 +1,6 @@
+T1	Drug 43 49	Geodon
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Disease_Symptom 21 31	depression
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0011581
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,12 @@
+T1	Disease_Symptom 23 33	withdrawal
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Disease_Symptom 70 135	my brain felt like a raw pork shoulder inside a spinning fishbowl
+A2	Person T2 1st
+A3	Exemplification T2 Exemplification
+N2	Reference T2 Concepts:C0087169	Withdrawal Symptoms
+T3	Drug 12 19	Effexor
+A4	Person T3 1st
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

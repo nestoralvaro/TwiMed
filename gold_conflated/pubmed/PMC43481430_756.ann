@@ -1,0 +1,21 @@
+T1	Drug 278 281	LTG
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Drug 241 244	LTG
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease_Symptom 195 205	depression
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C1386135	Acute depression
+T4	Drug 210 221	lamotrigine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:3878	Lamotrigine
+T5	Disease_Symptom 56 66	depression
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:C1386135	Acute depression
+T6	Disease_Symptom 133 138	mania
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:C0235165	Mania acute
+T7	Disease_Symptom 47 52	mania
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:C0235165	Mania acute

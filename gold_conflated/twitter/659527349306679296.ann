@@ -1,0 +1,8 @@
+T1	Disease_Symptom 51 56	focus
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0917801 Vs. C0858899
+T2	Drug 20 28	adderall
+A2	Person T2 1st
+N2	Reference T2 Concepts:3007	Amphetamine
+R1	Benefit Arg1:T1 Arg2:T2

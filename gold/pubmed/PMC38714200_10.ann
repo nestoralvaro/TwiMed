@@ -1,0 +1,6 @@
+T1	Disease 81 95	cardiomyopathy
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0878544 Vs. C0007193
+T2	Drug 36 46	lisinopril
+N2	Reference T2 Concepts:3937	Lisinopril
+R1	Reason-to-use Arg1:T1 Arg2:T2

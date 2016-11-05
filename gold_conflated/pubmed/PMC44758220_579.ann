@@ -1,0 +1,9 @@
+T1	Disease_Symptom 87 97	neurotoxic
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0235032	Neurotoxicity Syndromes
+T2	Disease_Symptom 102 125	neuroprotective actions
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Drug 25 38	buprenorphine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:2476	Buprenorphine

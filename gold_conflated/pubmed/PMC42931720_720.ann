@@ -1,0 +1,6 @@
+T1	Disease_Symptom 130 134	PTSD
+N1	Reference T1 Concepts:C0038436	Post-Traumatic Stress Disorder
+T2	Drug 80 91	lamotrigine
+A1	Modality T2 Hedged
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T2

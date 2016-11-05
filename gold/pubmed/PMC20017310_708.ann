@@ -1,0 +1,12 @@
+T1	Disease 37 61	myelodysplastic syndrome
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0854467 Vs. -1
+T2	Drug 100 109	melphalan
+N2	Reference T2 Concepts:4053	Melphalan
+T3	Disease 72 89	myeloid leukaemia
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0023467 Vs. C0085669
+T4	Disease 145 157	myelomatosis
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T4	Disagreement in concept ID: C0026764 Vs. C0007097
+R1	Reason-to-use Arg1:T4 Arg2:T2

@@ -1,0 +1,8 @@
+T1	Drug 0 11	Fluvoxamine
+N1	Reference T1 Concepts:3404	Fluvoxamine
+T2	Disease 93 111	psychotic disorder
+N2	Reference T2 Concepts:C0033975	Psychotic Disorders
+T3	Disease 33 42	psychosis
+N3	Reference T3 Concepts:C0281774	Acute psychosis
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T3 Arg2:T1

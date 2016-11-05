@@ -1,0 +1,6 @@
+T1	Disease_Symptom 45 59	ear infections
+N1	Reference T1 Concepts:C0004623	Bacterial Infections
+T2	Drug 13 26	ciprofloxacin
+A1	Person T2 1st
+N2	Reference T2 Concepts:2764	Ciprofloxacin
+R1	Benefit Arg1:T1 Arg2:T2

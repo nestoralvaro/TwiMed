@@ -1,0 +1,14 @@
+T1	Drug 50 60	prednisone
+A1	Person T1 1st
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Symptom 76 101	sweat like I'm in a sauna
+A2	Person T2 1st
+A3	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0700590 Vs. C0038990
+T3	Symptom 7 24	allergic reaction
+A4	Person T3 1st
+A5	Status T3 Complete
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0162820 Vs. C0149526
+R1	Outcome-negative Arg1:T1 Arg2:T2

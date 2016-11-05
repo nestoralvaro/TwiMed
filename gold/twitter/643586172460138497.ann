@@ -1,0 +1,6 @@
+T1	Symptom 72 75	joy
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0233479 Vs. C0235146
+T2	Drug 41 48	lovetas
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Outcome-positive Arg1:T2 Arg2:T1

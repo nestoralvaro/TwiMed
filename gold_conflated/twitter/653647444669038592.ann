@@ -1,0 +1,11 @@
+T1	Drug 97 106	trazadone
+A1	Person T1 1st
+N1	Reference T1 Concepts:5533	Trazodone
+T2	Disease_Symptom 148 156	#BiPolar
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Drug 50 58	Lamictal
+A3	Person T3 1st
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T1

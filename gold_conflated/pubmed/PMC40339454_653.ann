@@ -1,0 +1,15 @@
+T1	Drug 158 168	olanzapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Drug 131 140	trazodone
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5533	Trazodone
+T3	Drug 142 152	quetiapine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5002	Quetiapine
+T4	Disease_Symptom 36 54	Alzheimers disease
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0002395	Alzheimer's Disease
+R1	Benefit Arg1:T4 Arg2:T2
+R2	Benefit Arg1:T4 Arg2:T3
+R3	Benefit Arg1:T4 Arg2:T1

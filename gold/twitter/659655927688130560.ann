@@ -1,0 +1,5 @@
+T1	Drug 51 57	Geodon
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Symptom 31 35	pain
+N2	Reference T2 Concepts:C0030193	Pain
+R1	Outcome-negative Arg1:T1 Arg2:T2

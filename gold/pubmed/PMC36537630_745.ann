@@ -1,0 +1,6 @@
+T1	Symptom 160 184	high-density lipoprotein
+N1	Reference T1 Concepts:C0151691	High density lipoprotein decreased
+T2	Drug 484 495	ziprasidone
+N2	Reference T2 Concepts:60853	Ziprasidone
+T3	Drug 209 219	olanzapine
+N3	Reference T3 Concepts:4585	Olanzapine

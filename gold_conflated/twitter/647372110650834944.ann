@@ -1,0 +1,10 @@
+T1	Disease_Symptom 51 58	bipolar
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Drug 18 31	carbamazepine
+A3	Person T2 1st
+A4	Status T2 Continuing
+A5	Sentiment T2 Positive
+N2	Reference T2 Concepts:2554	Carbamazepine
+R1	Benefit Arg1:T1 Arg2:T2

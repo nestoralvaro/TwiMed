@@ -1,0 +1,15 @@
+T1	Disease_Symptom 206 210	ADHD
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 114 130	lisdexamfetamine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+T3	Drug 164 179	methylphenidate
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4158	Methylphenidate
+T4	Drug 85 112	lisdexamfetamine dimesylate
+A4	Person T4 3rd
+N4	Reference T4 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T2
+R3	Benefit Arg1:T1 Arg2:T4

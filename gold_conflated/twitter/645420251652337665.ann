@@ -1,0 +1,9 @@
+T1	Drug 36 46	Citalopram
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Drug 85 91	Prozac
+A1	Sentiment T2 Positive
+N2	Reference T2 Concepts:3386	Fluoxetine
+T3	Disease_Symptom 8 15	anxiety
+N3	Reference T3 Concepts:C0003467	Anxiety
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T1

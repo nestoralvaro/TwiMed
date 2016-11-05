@@ -1,0 +1,6 @@
+T1	Symptom 82 85	FLU
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0021400 Vs. C0521839
+T2	Drug 14 21	avastin
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T1 Arg2:T2

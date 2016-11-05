@@ -1,0 +1,17 @@
+T1	Drug 32 37	Paxil
+A1	Person T1 1st
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Symptom 12 16	sore
+A2	Person T2 1st
+A3	Status T2 Continuing
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Symptom 18 24	cranky
+A4	Person T3 1st
+A5	Status T3 Continuing
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0338831 Vs. C0022107
+T4	Symptom 5 10	tired
+A6	Person T4 1st
+A7	Status T4 Continuing
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T4	Disagreement in concept ID: C0013144 Vs. C0392674

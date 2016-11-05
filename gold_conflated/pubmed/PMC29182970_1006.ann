@@ -1,0 +1,6 @@
+T1	Drug 166 176	citalopram
+A1	Person T1 3rd
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Disease_Symptom 58 71	hyponatraemia
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0020625	Hyponatremia

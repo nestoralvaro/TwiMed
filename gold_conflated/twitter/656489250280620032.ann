@@ -1,0 +1,9 @@
+T1	Disease_Symptom 84 90	groggy
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0012833 Vs. C0013144
+T2	Drug 29 36	topamax
+N2	Reference T2 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T2 Arg2:T1

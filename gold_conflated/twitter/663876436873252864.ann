@@ -1,0 +1,9 @@
+T1	Drug 72 79	topamax
+A1	Person T1 1st
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Disease_Symptom 0 13	Losing weight
+A2	Person T2 1st
+A3	Status T2 Continuing
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:C0043096	Body Weight decreased
+R1	Benefit Arg1:T1 Arg2:T2

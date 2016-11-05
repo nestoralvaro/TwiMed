@@ -1,0 +1,6 @@
+T1	Disease_Symptom 47 56	#insomnia
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0393760 Vs. C0393761
+T2	Drug 17 27	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

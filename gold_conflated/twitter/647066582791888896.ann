@@ -1,0 +1,9 @@
+T1	Drug 93 102	tamoxifen
+A1	Person T1 3rd
+A2	Status T1 Complete
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease_Symptom 25 38	breast cancer
+A3	Person T2 3rd
+A4	Status T2 Complete
+N2	Reference T2 Concepts:C3495917	Advanced breast cancer
+R1	Benefit Arg1:T2 Arg2:T1

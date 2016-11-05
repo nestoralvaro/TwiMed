@@ -1,0 +1,15 @@
+T1	Symptom 112 122	brain zaps
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0262405
+T2	Symptom 125 133	insomnia
+A3	Person T2 1st
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0393761 Vs. C0393760
+T3	Drug 88 98	Citalopram
+A5	Person T3 1st
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

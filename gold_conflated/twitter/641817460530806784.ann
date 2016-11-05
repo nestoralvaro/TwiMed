@@ -1,0 +1,16 @@
+T1	Disease_Symptom 59 76	want to do is eat
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Status T1 Continuing
+A4	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0020175	Hunger
+T2	Disease_Symptom 95 109	#Lupusproblems
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0409974 Vs. C0919715
+T3	Drug 19 29	prednisone
+A6	Person T3 1st
+A7	Sentiment T3 Positive
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

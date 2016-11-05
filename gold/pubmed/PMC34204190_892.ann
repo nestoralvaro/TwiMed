@@ -1,0 +1,4 @@
+T1	Symptom 75 87	inflammatory
+N1	Reference T1 Concepts:C0021368	Inflammation
+T2	Drug 48 58	lisinopril
+N2	Reference T2 Concepts:3937	Lisinopril

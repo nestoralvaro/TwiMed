@@ -1,0 +1,7 @@
+T1	Symptom 312 325	atopic eczema
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0013595	Eczema
+T2	Drug 174 185	montelukast
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Reason-to-use Arg1:T1 Arg2:T2

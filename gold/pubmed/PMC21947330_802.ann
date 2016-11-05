@@ -1,0 +1,12 @@
+T1	Drug 69 82	carbamazepine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Drug 102 113	lamotrigine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Symptom 30 52	partial onset seizures
+A3	Person T3 3rd
+A4	Modality T3 Generic
+N3	Reference T3 Concepts:C0234974	Simple Partial Seizures
+R1	Reason-to-use Arg1:T3 Arg2:T1
+R2	Reason-to-use Arg1:T3 Arg2:T2

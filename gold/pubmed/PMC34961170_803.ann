@@ -1,0 +1,31 @@
+T1	Disease 114 121	cancers
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0007097 Vs. C0678222
+T2	Disease 114 121	cancers
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0007097 Vs. C0029925
+T3	Disease 114 121;87 93	cancers breast
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0678222	Breast Carcinoma
+T4	Disease 114 121;95 102	cancers ovarian
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T4	Disagreement in concept ID: C0678222 Vs. C0029925
+T5	Disease 114 121;95 102	cancers ovarian
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T5	Disagreement in concept ID: C0029925 Vs. C0678222
+T6	Disease 114 121;95 102	cancers ovarian
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:C0029925	Ovarian Carcinoma
+T7	Drug 41 50	docetaxel
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:3143	Docetaxel
+R1	Reason-to-use Arg1:T4 Arg2:T7
+R2	Reason-to-use Arg1:T4 Arg2:T7
+R3	Reason-to-use Arg1:T6 Arg2:T7
+R4	Reason-to-use Arg1:T6 Arg2:T7
+R5	Reason-to-use Arg1:T2 Arg2:T7
+R6	Reason-to-use Arg1:T2 Arg2:T7

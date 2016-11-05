@@ -1,0 +1,1 @@
+Based on sample size estimation, __number__ patients aged __number__ years with psychosis, antipsychotic-nave or treated for a limited period are, __number__ : __number__ randomised to a __number__ - week, double-blind intervention with quetiapine versus aripiprazole.

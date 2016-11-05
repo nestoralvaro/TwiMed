@@ -1,0 +1,9 @@
+T1	Disease_Symptom 83 88	SLEEP
+A1	Person T1 1st
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 0 10	Prednisone
+A3	Person T2 1st
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,6 @@
+T1	Symptom 27 39	carcinogenic
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0858970	Carcinogenicity
+T2	Drug 0 10	#tamoxifen
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5376	Tamoxifen

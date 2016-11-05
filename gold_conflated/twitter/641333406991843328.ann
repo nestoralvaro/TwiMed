@@ -1,0 +1,14 @@
+T1	Disease_Symptom 129 137	nauseous
+A1	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0027497	Nausea
+T2	Disease_Symptom 122 128	stoned
+A2	Person T2 1st
+A3	Status T2 Continuing
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0522172 Vs. -1
+T3	Drug 9 20	venlafaxine
+A5	Person T3 1st
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

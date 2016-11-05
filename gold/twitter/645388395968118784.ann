@@ -1,0 +1,9 @@
+T1	Symptom 41 57	mental breakdown
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0278061 Vs. C0683278
+T2	Drug 25 32	vyvanse
+A2	Person T2 1st
+A3	Duration T2 Irregular
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Outcome-negative Arg1:T2 Arg2:T1

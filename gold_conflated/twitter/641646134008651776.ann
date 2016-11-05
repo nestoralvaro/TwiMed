@@ -1,0 +1,6 @@
+T1	Drug 39 49	citalopram
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Disease_Symptom 10 19	toothache
+A1	Status T2 Continuing
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0040460	Toothache

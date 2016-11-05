@@ -1,0 +1,10 @@
+T1	Disease_Symptom 46 77	looking like I have chicken pox
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Duration T1 Irregular
+N1	Reference T1 Concepts:C0497364	Localized rash
+T2	Drug 0 10	Prednisone
+A4	Person T2 1st
+A5	Status T2 Complete
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

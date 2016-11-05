@@ -1,0 +1,7 @@
+T1	Symptom 224 241	allergic reaction
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0851444 Vs. C0149526
+T2	Drug 165 175	prednisone
+A2	Polarity T2 Polarity
+N2	Reference T2 Concepts:4900	Prednisone

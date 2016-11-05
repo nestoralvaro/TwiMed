@@ -1,0 +1,5 @@
+T1	Disease_Symptom 54 71	renal dysfunction
+N1	Reference T1 Concepts:C1565489	Renal Insufficiency
+T2	Drug 119 127	Levaquin
+N2	Reference T2 Concepts:4583	ofloxacin
+R1	Benefit Arg1:T1 Arg2:T2

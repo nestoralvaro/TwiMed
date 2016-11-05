@@ -1,0 +1,11 @@
+T1	Disease 30 37	bipolar
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Drug 59 70	lamotrigine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease 0 24	Stevens johnson syndrome
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0038325	Stevens-Johnson Syndrome
+R1	Reason-to-use Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T2 Arg2:T3

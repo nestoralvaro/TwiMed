@@ -1,0 +1,7 @@
+T1	Disease_Symptom 78 114	diabetic peripheral neuropathic pain
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1963916	Diabetic peripheral neuropathic pain
+T2	Drug 17 27	duloxetine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T2

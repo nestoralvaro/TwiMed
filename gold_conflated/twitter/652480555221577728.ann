@@ -1,0 +1,49 @@
+T1	Disease_Symptom 87 99	cleft palate
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0000768 Vs. -1
+T2	Disease_Symptom 100 109	cleft lip
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0000768 Vs. -1
+T3	Disease_Symptom 67 66;73 86	 abnormalities
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T3	Disagreement in concept ID: C0024115 Vs. C0262405
+T4	Disease_Symptom 62 61;73 86	 abnormalities
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T4	Disagreement in concept ID: C0024115 Vs. C0919661
+T5	Disease_Symptom 62 66;73 86	lung abnormalities
+N5	Reference T5 Concepts:C0024115	Lung diseases
+T6	Disease_Symptom 67 72;73 86	brain abnormalities
+N6	Reference T6 Concepts:0	Disagreement in Concept ID
+#5	AnnotatorNotes T6	Disagreement in concept ID: C0270611 Vs. C0262405
+T7	Disease_Symptom 67 61;73 86	 abnormalities
+N7	Reference T7 Concepts:0	Disagreement in Concept ID
+#6	AnnotatorNotes T7	Disagreement in concept ID: C0270611 Vs. C0919661
+T8	Disease_Symptom 67 66;73 86	 abnormalities
+N8	Reference T8 Concepts:0	Disagreement in Concept ID
+#7	AnnotatorNotes T8	Disagreement in concept ID: C0270611 Vs. C0024115
+T9	Disease_Symptom 41 54	birth defects
+N9	Reference T9 Concepts:0	Disagreement in Concept ID
+#8	AnnotatorNotes T9	Disagreement in concept ID: C0000768 Vs. -1
+T10	Disease_Symptom 67 61;73 86	 abnormalities
+N10	Reference T10 Concepts:0	Disagreement in Concept ID
+#9	AnnotatorNotes T10	Disagreement in concept ID: C0018798 Vs. C0262405
+T11	Disease_Symptom 56 61;73 86	heart abnormalities
+N11	Reference T11 Concepts:0	Disagreement in Concept ID
+#10	AnnotatorNotes T11	Disagreement in concept ID: C0018798 Vs. C0919661
+T12	Disease_Symptom 62 61;73 86	 abnormalities
+N12	Reference T12 Concepts:0	Disagreement in Concept ID
+#11	AnnotatorNotes T12	Disagreement in concept ID: C0018798 Vs. C0024115
+T13	Drug 0 7	Topamax
+N13	Reference T13 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T13 Arg2:T8
+R2	Outcome-negative Arg1:T13 Arg2:T8
+R3	Outcome-negative Arg1:T13 Arg2:T8
+R4	Outcome-negative Arg1:T13 Arg2:T1
+R5	Outcome-negative Arg1:T13 Arg2:T2
+R6	Outcome-negative Arg1:T13 Arg2:T9
+R7	Outcome-negative Arg1:T13 Arg2:T12
+R8	Outcome-negative Arg1:T13 Arg2:T12
+R9	Outcome-negative Arg1:T13 Arg2:T12
+R10	Outcome-negative Arg1:T13 Arg2:T5
+R11	Outcome-negative Arg1:T13 Arg2:T5
+R12	Outcome-negative Arg1:T13 Arg2:T5

@@ -1,0 +1,10 @@
+T1	Drug 51 59	#topamax
+A1	Person T1 1st
+A2	Status T1 Continuing
+A3	Sentiment T1 Positive
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Disease_Symptom 5 14	#migraine
+A4	Person T2 1st
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0149931	Migraine Disorders
+R1	Benefit Arg1:T2 Arg2:T1

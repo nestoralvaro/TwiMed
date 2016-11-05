@@ -1,0 +1,7 @@
+T1	Symptom 89 105	neuropathic pain
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1963916	Diabetic peripheral neuropathic pain
+T2	Drug 16 26	duloxetine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

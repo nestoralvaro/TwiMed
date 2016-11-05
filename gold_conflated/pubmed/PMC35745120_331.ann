@@ -1,0 +1,8 @@
+T1	Drug 53 66	triamcinolone
+N1	Reference T1 Concepts:5544	Triamcinolone
+T2	Disease_Symptom 111 152	refractory diffuse diabetic macular edema
+N2	Reference T2 Concepts:C0024440	Macular Edema, Cystoid
+T3	Drug 27 38	bevacizumab
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

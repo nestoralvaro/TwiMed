@@ -1,0 +1,14 @@
+T1	Drug 68 78	paroxetine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 238 252	cardiovascular
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0007222	Cardiovascular Diseases
+T3	Disease_Symptom 229 237	diabetic
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0007222 Vs. C0241863
+T4	Disease_Symptom 123 136	hyperglycemic
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C0020456	Hyperglycemia
+R1	Benefit Arg1:T4 Arg2:T1

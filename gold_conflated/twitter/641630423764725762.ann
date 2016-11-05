@@ -1,0 +1,7 @@
+T1	Drug 129 138	docetaxel
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease_Symptom 63 68	NSCLC
+A1	Person T2 3rd
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0007131 Vs. -1

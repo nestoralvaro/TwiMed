@@ -1,0 +1,14 @@
+T1	Disease_Symptom 128 141	kidney stones
+N1	Reference T1 Concepts:C0022650	Kidney Calculi
+T2	Disease_Symptom 143 151	glaucoma
+N2	Reference T2 Concepts:C0017601	Glaucoma
+T3	Disease_Symptom 102 112	heatstroke
+N3	Reference T3 Concepts:C0018843	Heat Stroke
+T4	Disease_Symptom 114 126	met acidosis
+N4	Reference T4 Concepts:C0220981	Metabolic acidosis
+T5	Drug 63 73	Topiramate
+N5	Reference T5 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T5 Arg2:T2
+R2	Outcome-negative Arg1:T5 Arg2:T3
+R3	Outcome-negative Arg1:T5 Arg2:T4
+R4	Outcome-negative Arg1:T5 Arg2:T1

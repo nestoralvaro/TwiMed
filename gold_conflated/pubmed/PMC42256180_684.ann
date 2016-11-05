@@ -1,0 +1,15 @@
+T1	Drug 72 82	quetiapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 18 27	myoclonus
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0027066	Myoclonus
+T3	Disease_Symptom 33 41	akathisa
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0392156	Akathisia
+T4	Disease_Symptom 6 16	dyskinesia
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0686347	Tardive Dyskinesia
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T1 Arg2:T2
+R3	Outcome-negative Arg1:T1 Arg2:T4

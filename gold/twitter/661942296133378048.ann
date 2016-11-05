@@ -1,0 +1,14 @@
+T1	Disease 77 83;94 100	breast cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0678222	Breast Carcinoma
+T2	Disease 88 100	bowel cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0007097 Vs. -1
+T3	Disease 88 83;94 100	 cancer
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0007097 Vs. C0678222
+T4	Drug 57 64	Avastin
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:-1	Unknown Concept ID

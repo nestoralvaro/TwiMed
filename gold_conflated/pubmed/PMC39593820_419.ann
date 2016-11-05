@@ -1,0 +1,7 @@
+T1	Drug 78 91	ciprofloxacin
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:2764	Ciprofloxacin
+T2	Disease_Symptom 45 54	pouchitis
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: -1 Vs. C0021368
+R1	Benefit Arg1:T2 Arg2:T1

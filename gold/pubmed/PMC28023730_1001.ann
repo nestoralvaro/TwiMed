@@ -1,0 +1,13 @@
+T1	Disease 162 175	schizophrenia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Drug 96 106	olanzapine
+A2	Person T2 3rd
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine
+T3	Drug 112 122	quetiapine
+A4	Person T3 3rd
+A5	Modality T3 Generic
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T1 Arg2:T2
+R2	Reason-to-use Arg1:T1 Arg2:T3

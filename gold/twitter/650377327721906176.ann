@@ -1,0 +1,7 @@
+T1	Symptom 127 142	blood infection
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0004623	Bacterial Infections
+T2	Drug 3 16	ciprofloxacin
+A2	Person T2 1st
+N2	Reference T2 Concepts:2764	Ciprofloxacin
+R1	Reason-to-use Arg1:T1 Arg2:T2

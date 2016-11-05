@@ -1,0 +1,11 @@
+T1	Symptom 105 113	INSOMNIA
+A1	Person T1 1st
+A2	Status T1 Complete
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0393761 Vs. C0393760
+T2	Disease 122 137	#cysticfibrosis
+N2	Reference T2 Concepts:C0010674	Cystic Fibrosis
+T3	Drug 94 104	PREDNISONE
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

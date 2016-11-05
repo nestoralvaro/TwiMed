@@ -1,0 +1,11 @@
+T1	Disease_Symptom 88 104	bipolar disorder
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Disease_Symptom 58 65	anxiety
+N2	Reference T2 Concepts:C0003467	Anxiety
+T3	Disease_Symptom 66 75	addiction
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0013146 Vs. C0524662
+T4	Drug 8 16	adderall
+A1	Person T4 1st
+A2	Sentiment T4 Negative
+N4	Reference T4 Concepts:3007	Amphetamine

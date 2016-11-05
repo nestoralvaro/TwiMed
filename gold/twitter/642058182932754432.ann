@@ -1,0 +1,15 @@
+T1	Symptom 82 93	withdrawals
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Symptom 49 58	nauseated
+A1	Person T2 1st
+A2	Status T2 Continuing
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0027497	Nausea
+T3	Drug 73 81	Seroquel
+N3	Reference T3 Concepts:5002	Quetiapine
+T4	Symptom 24 35	throwing up
+A4	Status T4 Continuing
+A5	Sentiment T4 Negative
+N4	Reference T4 Concepts:C0042963	Vomiting
+R1	Outcome-negative Arg1:T3 Arg2:T4
+R2	Outcome-negative Arg1:T3 Arg2:T2

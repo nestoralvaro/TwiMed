@@ -1,0 +1,9 @@
+T1	Disease_Symptom 39 55	microalbuminuria
+N1	Reference T1 Concepts:C0001925	Albuminuria
+T2	Disease_Symptom 83 95	hypertension
+A1	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0085580 Vs. C0020538
+T3	Drug 25 35	lisinopril
+N3	Reference T3 Concepts:3937	Lisinopril
+R1	Benefit Arg1:T2 Arg2:T3

@@ -1,0 +1,7 @@
+T1	Disease 131 145	mood disorders
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0525045	Mood Disorders
+T2	Drug 100 110	quetiapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

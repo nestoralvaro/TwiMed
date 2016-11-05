@@ -1,0 +1,7 @@
+T1	Symptom 207 214	keloids
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0022548	Keloid
+T2	Drug 89 102	triamcinolone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Reason-to-use Arg1:T1 Arg2:T2

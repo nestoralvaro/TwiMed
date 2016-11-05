@@ -1,0 +1,8 @@
+T1	Disease_Symptom 66 73	tremors
+A1	Severity T1 Severe
+N1	Reference T1 Concepts:C0040822	Tremor
+T2	Drug 17 25	seroquel
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Disease_Symptom 27 52	__number__ hours of sleep
+N3	Reference T3 Concepts:C2830004	Somnolence
+R1	Outcome-negative Arg1:T2 Arg2:T1

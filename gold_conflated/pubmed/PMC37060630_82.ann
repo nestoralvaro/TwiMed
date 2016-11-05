@@ -1,0 +1,16 @@
+T1	Disease_Symptom 94 134	attention-deficit/hyperactivity disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Disease_Symptom 94 140	attention-deficit/hyperactivity disorder (ADHD
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+T3	Drug 28 39	amphetamine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3007	Amphetamine
+T4	Drug 0 8	Adderall
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:3007	Amphetamine
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T3
+R4	Benefit Arg1:T1 Arg2:T4

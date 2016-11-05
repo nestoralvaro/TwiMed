@@ -1,0 +1,7 @@
+T1	Disease 26 40	antidepressant
+A1	Person T1 2nd
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 14 19	Paxil
+A2	Person T2 2nd
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

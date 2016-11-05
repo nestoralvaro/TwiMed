@@ -1,0 +1,7 @@
+T1	Disease 185 187	MM
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0026764	Multiple Myeloma
+T2	Drug 96 106	prednisone
+A2	Person T2 3rd
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T1 Arg2:T2

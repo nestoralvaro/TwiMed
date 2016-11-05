@@ -1,0 +1,8 @@
+T1	Disease 92 120	Acute Lymphoblastic Leukemia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085669 Vs. C0023434
+T2	Drug 70 80	Prednisone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T1 Arg2:T2

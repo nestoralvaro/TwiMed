@@ -1,0 +1,11 @@
+T1	Drug 109 120	venlafaxine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Disease 155 169	panic disorder
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0030319	Panic Disorder
+T3	Drug 51 61	duloxetine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

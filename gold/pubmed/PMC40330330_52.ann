@@ -1,0 +1,11 @@
+T1	Drug 158 168	topiramate
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Disease 238 246	epilepsy
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0014544	Epilepsy
+T3	Drug 145 156	lamotrigine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Reason-to-use Arg1:T2 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T1

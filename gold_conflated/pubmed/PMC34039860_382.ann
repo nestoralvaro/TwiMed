@@ -1,0 +1,16 @@
+T1	Disease_Symptom 219 237	colorectal cancers
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0034882 Vs. -1
+T2	Disease_Symptom 86 109	gastrointestinal cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0151544	Gastrointestinal carcinoma
+T3	Disease_Symptom 207 214;230 237	gastric cancers
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0278701	Gastric Adenocarcinoma
+T4	Drug 32 41	docetaxel
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:3143	Docetaxel
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T1 Arg2:T4
+R3	Benefit Arg1:T3 Arg2:T4

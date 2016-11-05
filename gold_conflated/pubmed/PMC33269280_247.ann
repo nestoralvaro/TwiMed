@@ -1,0 +1,16 @@
+T1	Disease_Symptom 133 149	hepatic disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0086565 Vs. C0948807
+T2	Disease_Symptom 70 84	skin reactions
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0152030	Skin irritation
+T3	Disease_Symptom 102 115	hematological
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0018939	Hematological Disease
+T4	Drug 31 44	carbamazepine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

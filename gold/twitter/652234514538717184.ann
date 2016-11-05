@@ -1,0 +1,6 @@
+T1	Drug 57 70	Carbamazepine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Symptom 6 20	anticonvulsant
+N2	Reference T2 Concepts:C0751494	Convulsive Seizures
+R1	Reason-to-use Arg1:T2 Arg2:T1

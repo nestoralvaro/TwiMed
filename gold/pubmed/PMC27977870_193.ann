@@ -1,0 +1,9 @@
+T1	Drug 234 249	methylphenidate
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Drug 154 165	montelukast
+N2	Reference T2 Concepts:4248	Montelukast
+T3	Disease 187 219	attention-disorder hyperactivity
+A2	Person T3 3rd
+N3	Reference T3 Concepts:C1263846	Attention deficit hyperactivity disorder
+R1	Reason-to-use Arg1:T3 Arg2:T1

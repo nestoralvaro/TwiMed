@@ -1,0 +1,7 @@
+T1	Drug 184 195	lamotrigine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 111 115	rash
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0497364	Localized rash
+R1	Outcome-negative Arg1:T1 Arg2:T2

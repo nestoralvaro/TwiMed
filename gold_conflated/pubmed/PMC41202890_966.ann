@@ -1,0 +1,9 @@
+T1	Disease_Symptom 24 39	serum prolactin
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0857980 Vs. -1
+T2	Disease_Symptom 122 153	serum prolactin level increased
+N2	Reference T2 Concepts:C0857980	Serum prolactin increased
+T3	Drug 7 17	quetiapine
+A1	Duration T3 Regular
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Benefit Arg1:T3 Arg2:T1

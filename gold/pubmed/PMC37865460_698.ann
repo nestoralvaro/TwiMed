@@ -1,0 +1,9 @@
+T1	Disease 196 201	obese
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0028754	Obesity
+T2	Drug 95 105	topiramate
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:5514	Topiramate
+R1	Reason-to-use Arg1:T1 Arg2:T2

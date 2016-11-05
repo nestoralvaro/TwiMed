@@ -1,0 +1,14 @@
+T1	Drug 109 119	Paroxetine
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 25 35	depression
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0338908
+T3	Drug 123 134	Fluvoxamine
+N3	Reference T3 Concepts:3404	Fluvoxamine
+T4	Disease_Symptom 17 24	anxiety
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T4	Disagreement in concept ID: C0003467 Vs. C0338908
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T4 Arg2:T1
+R3	Benefit Arg1:T4 Arg2:T1
+R4	Benefit Arg1:T2 Arg2:T3

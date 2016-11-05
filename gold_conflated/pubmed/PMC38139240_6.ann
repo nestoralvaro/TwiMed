@@ -1,0 +1,14 @@
+T1	Disease_Symptom 103 107	ADHD
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 35 42	Ritalin
+A2	Person T2 3rd
+N2	Reference T2 Concepts:4158	Methylphenidate
+T3	Disease_Symptom 63 84	cognitive enhancement
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0338656	Impaired cognition
+T4	Drug 22 30	Adderall
+A4	Person T4 3rd
+N4	Reference T4 Concepts:3007	Amphetamine
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T4

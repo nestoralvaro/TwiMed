@@ -1,0 +1,13 @@
+T1	Disease_Symptom 85 100	sleep paralysis
+A1	Person T1 1st
+A2	Duration T1 Irregular
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0522224 Vs. C0851578
+T2	Disease_Symptom 101 114	hallucinating
+A3	Person T2 1st
+N2	Reference T2 Concepts:C0018524	Hallucinations
+T3	Drug 40 50	quetiapine
+A4	Person T3 1st
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

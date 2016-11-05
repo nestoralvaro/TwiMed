@@ -1,0 +1,8 @@
+T1	Disease_Symptom 188 204	anxiety disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0270549 Vs. C0003469
+T2	Drug 141 152	venlafaxine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5656	Venlafaxine
+R1	Benefit Arg1:T1 Arg2:T2

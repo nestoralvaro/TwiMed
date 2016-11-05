@@ -1,0 +1,8 @@
+T1	Disease_Symptom 66 75	depressed
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0344315	Depressed mood
+T2	Drug 5 12	vyvanse
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Outcome-negative Arg1:T2 Arg2:T1

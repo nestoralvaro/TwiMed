@@ -1,0 +1,13 @@
+T1	Symptom 380 387	anxiety
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Disease 392 413	personality disorders
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0031212	Personality Disorders
+T3	Disease 169 194	major depressive disorder
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C1269683	Major Depressive Disorder
+T4	Drug 140 151	fluvoxamine
+A4	Person T4 3rd
+N4	Reference T4 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T3 Arg2:T4

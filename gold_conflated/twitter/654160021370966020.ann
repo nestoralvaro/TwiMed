@@ -1,0 +1,17 @@
+T1	Disease_Symptom 81 88	anxiety
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Disease_Symptom 89 94	mania
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0235165	Mania acute
+T3	Disease_Symptom 37 48	withdrawals
+A3	Person T3 1st
+N3	Reference T3 Concepts:C0087169	Withdrawal Symptoms
+T4	Disease_Symptom 77 80	PPD
+A4	Person T4 1st
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T4	Disagreement in concept ID: -1 Vs. -
+T5	Drug 54 64	Citalopram
+A5	Person T5 1st
+N5	Reference T5 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T5 Arg2:T3

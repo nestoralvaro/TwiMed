@@ -1,0 +1,13 @@
+T1	Disease_Symptom 120 126	stroke
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0018801 Vs. C0018843
+T2	Disease_Symptom 131 143	hypertension
+A2	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0085580 Vs. C0020538
+T3	Drug 73 83	lisinopril
+A3	Person T3 3rd
+N3	Reference T3 Concepts:3937	Lisinopril
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3

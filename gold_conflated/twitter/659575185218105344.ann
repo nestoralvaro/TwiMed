@@ -1,0 +1,23 @@
+T1	Disease_Symptom 123 129	#shaky
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0027769 Vs. -1
+T2	Disease_Symptom 55 65	imbalanced
+A2	Person T2 1st
+A3	Status T2 Continuing
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Disease_Symptom 108 122	#CrohnsDisease
+A5	Person T3 1st
+N3	Reference T3 Concepts:C0010346	Crohn Disease
+T4	Disease_Symptom 130 139	#moonface
+A6	Person T4 1st
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T4	Disagreement in concept ID: C0038990 Vs. C0151602
+T5	Drug 15 25	prednisone
+A7	Person T5 1st
+N5	Reference T5 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T5 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T5
+R3	Outcome-negative Arg1:T5 Arg2:T1
+R4	Outcome-negative Arg1:T5 Arg2:T4

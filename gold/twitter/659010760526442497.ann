@@ -1,0 +1,10 @@
+T1	Symptom 79 89	withdrawal
+A1	Person T1 1st
+A2	Status T1 Continuing
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Drug 70 78	Suboxone
+A4	Person T2 1st
+N2	Reference T2 Concepts:2476	Buprenorphine
+R1	Outcome-negative Arg1:T2 Arg2:T1

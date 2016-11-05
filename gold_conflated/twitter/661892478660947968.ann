@@ -1,0 +1,16 @@
+T1	Disease_Symptom 92 107	impulse control
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0600104 Vs. C0085271
+T2	Disease_Symptom 32 36	adhd
+A2	Person T2 1st
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+T3	Disease_Symptom 75 87	binge eating
+A3	Person T3 1st
+N3	Reference T3 Concepts:C0596170	Binge eating disorder
+T4	Drug 0 8	Concerta
+A4	Person T4 1st
+N4	Reference T4 Concepts:4158	Methylphenidate
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

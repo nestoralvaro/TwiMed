@@ -1,0 +1,7 @@
+T1	Symptom 116 124	delirium
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0011206	Delirium
+T2	Drug 57 67	quetiapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

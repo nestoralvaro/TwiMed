@@ -1,0 +1,12 @@
+T1	Symptom 72 81	impotence
+N1	Reference T1 Concepts:C1112443	Male sexual dysfunction
+T2	Symptom 39 54	facial swelling
+N2	Reference T2 Concepts:C0151602	Swelling face
+T3	Symptom 56 67	weight gain
+N3	Reference T3 Concepts:C0043094	Weight Gain
+T4	Drug 20 28	Cymbalta
+A1	Modality T4 Generic
+N4	Reference T4 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

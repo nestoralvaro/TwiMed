@@ -1,0 +1,11 @@
+T1	Disease 91 117	non-small cell lung cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0007131	Non-Small Cell Lung Carcinoma
+T2	Disease 91 124	non-small cell lung cancer (NSCLC
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0007131	Non-Small Cell Lung Carcinoma
+T3	Drug 12 21	Docetaxel
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3143	Docetaxel
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

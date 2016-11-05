@@ -1,0 +1,7 @@
+T1	Disease_Symptom 74 79	vomit
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0042963	Vomiting
+T2	Drug 15 31	lisdexamfetamine
+A2	Person T2 1st
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Outcome-negative Arg1:T2 Arg2:T1

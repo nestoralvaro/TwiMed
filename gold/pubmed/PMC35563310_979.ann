@@ -1,0 +1,11 @@
+T1	Disease 89 102	schizophrenia
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Symptom 124 133	agitation
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0085631	Agitation
+T3	Drug 31 41	olanzapine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

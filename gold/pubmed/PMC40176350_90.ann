@@ -1,0 +1,7 @@
+T1	Symptom 95 102	uveitis
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0042164	Uveitis
+T2	Drug 0 13	Triamcinolone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Reason-to-use Arg1:T1 Arg2:T2

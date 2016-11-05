@@ -1,0 +1,4 @@
+T1	Disease_Symptom 39 46	slumber
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Drug 0 10	#Trazodone
+N2	Reference T2 Concepts:5533	Trazodone

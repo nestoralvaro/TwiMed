@@ -1,0 +1,7 @@
+T1	Drug 96 105	Modafinil
+N1	Reference T1 Concepts:4236	Modafinil
+T2	Disease_Symptom 45 52	fatigue
+A1	Duration T2 Regular
+A2	Status T2 Continuing
+N2	Reference T2 Concepts:C0015672	Fatigue
+R1	Benefit Arg1:T2 Arg2:T1

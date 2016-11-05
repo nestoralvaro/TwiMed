@@ -1,0 +1,17 @@
+T1	Disease_Symptom 144 156	heart attack
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0018801 Vs. C0018794
+T2	Disease_Symptom 100 112	hypertension
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0085580 Vs. C0020538
+T3	Disease_Symptom 114 138	congestive heart failure
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0018802	Congestive heart failure
+T4	Drug 0 10	Lisinopril
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:3937	Lisinopril
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

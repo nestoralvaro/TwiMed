@@ -1,0 +1,12 @@
+T1	Drug 90 95	Paxil
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 26 41	Acute psychosis
+N2	Reference T2 Concepts:C0281774	Acute psychosis
+T3	Disease_Symptom 43 58	Acute psychosis
+A2	Person T3 3rd
+N3	Reference T3 Concepts:C0281774	Acute psychosis
+T4	Drug 14 19	Paxil
+N4	Reference T4 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T1 Arg2:T3

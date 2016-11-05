@@ -1,0 +1,18 @@
+T1	Symptom 66 81	murder everyone
+A1	Person T1 1st
+A2	Duration T1 Regular
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0022107 Vs. C0001807
+T2	Symptom 86 105	eat the whole house
+A4	Person T2 1st
+A5	Duration T2 Regular
+A6	Status T2 Continuing
+N2	Reference T2 Concepts:C0020175	Hunger
+T3	Drug 20 30	prednisone
+A7	Person T3 1st
+A8	Duration T3 Regular
+A9	Status T3 Continuing
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

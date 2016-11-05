@@ -1,0 +1,8 @@
+T1	Symptom 7 38	has altered my ability to sleep
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0851578	Sleep Disorders
+T2	Drug 0 6	geodon
+A3	Person T2 1st
+N2	Reference T2 Concepts:60853	Ziprasidone
+R1	Outcome-negative Arg1:T2 Arg2:T1

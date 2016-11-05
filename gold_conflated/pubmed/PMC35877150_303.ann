@@ -1,0 +1,11 @@
+T1	Disease_Symptom 49 68	depressive symptoms
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0086132	Depressive Symptoms
+T2	Disease_Symptom 98 116	cognitive deficits
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0338656	Impaired cognition
+T3	Drug 0 10	Prednisone
+A3	Person T3 3rd
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

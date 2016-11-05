@@ -1,0 +1,9 @@
+T1	Symptom 11 57	got me doing homework that's not do for a week
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0917801 Vs. C0858899
+T2	Drug 0 8	Adderall
+A3	Person T2 1st
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:3007	Amphetamine

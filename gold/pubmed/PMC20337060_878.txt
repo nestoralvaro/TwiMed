@@ -1,0 +1,1 @@
+It is concluded that PS __number__ status may be used as a parameter, additional to ER and PgR, for better refinement of prediction of response to tamoxifen treatment in advanced breast cancer patients especially with intermediate ER/PgR levels in their primary tumour.

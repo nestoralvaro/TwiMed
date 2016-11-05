@@ -1,0 +1,5 @@
+T1	Symptom 136 154	depressive symptom
+N1	Reference T1 Concepts:C0086132	Depressive Symptoms
+T2	Drug 35 45	olanzapine
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

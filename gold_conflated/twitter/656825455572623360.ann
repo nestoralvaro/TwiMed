@@ -1,0 +1,6 @@
+T1	Drug 38 49	bevacizumab
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease_Symptom 65 70	HLRCC
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: -1 Vs. C0007097
+R1	Benefit Arg1:T2 Arg2:T1

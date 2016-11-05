@@ -1,0 +1,10 @@
+T1	Drug 146 155	melphalan
+N1	Reference T1 Concepts:4053	Melphalan
+T2	Drug 160 170	prednisone
+A1	Duration T2 Intermitent
+N2	Reference T2 Concepts:4900	Prednisone
+T3	Disease_Symptom 48 60	Myelomatosis
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0026764 Vs. C0007097
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T2

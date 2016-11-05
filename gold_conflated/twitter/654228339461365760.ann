@@ -1,0 +1,7 @@
+T1	Disease_Symptom 30 35	tired
+N1	Reference T1 Concepts:C0392674	Exhaustion
+T2	Drug 37 47	Sertraline
+N2	Reference T2 Concepts:5203	Sertraline
+T3	Disease_Symptom 0 10	Depression
+N3	Reference T3 Concepts:C1386135	Acute depression
+R1	Benefit Arg1:T3 Arg2:T2

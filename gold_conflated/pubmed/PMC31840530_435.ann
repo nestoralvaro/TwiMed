@@ -1,0 +1,7 @@
+T1	Drug 154 164	duloxetine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease_Symptom 107 125	depressive episode
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0349217	Depressive episode, unspecified
+R1	Benefit Arg1:T2 Arg2:T1

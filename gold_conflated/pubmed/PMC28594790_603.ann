@@ -1,0 +1,12 @@
+T1	Disease_Symptom 185 197	hypertension
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085580 Vs. C0235750
+T2	Disease_Symptom 208 219	hypotension
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0020649	Hypotension
+T3	Drug 94 104	lisinopril
+A3	Person T3 3rd
+N3	Reference T3 Concepts:3937	Lisinopril
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

@@ -1,0 +1,12 @@
+T1	Disease_Symptom 118 128	depression
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 69 77	Lamictal
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease_Symptom 108 113	mania
+N3	Reference T3 Concepts:C0235165	Mania acute
+T4	Disease_Symptom 39 55	bipolar disorder
+A1	Modality T4 Generic
+N4	Reference T4 Concepts:C0005586	Bipolar Disorder
+R1	Benefit Arg1:T4 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T1	Symptom 29 41	night sweats
+N1	Reference T1 Concepts:C0028081	Night sweats
+T2	Drug 0 11	Venlafaxine
+A1	Sentiment T2 Negative
+N2	Reference T2 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T2 Arg2:T1

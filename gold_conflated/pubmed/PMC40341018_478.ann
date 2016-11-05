@@ -1,0 +1,9 @@
+T1	Disease_Symptom 28 35	suicide
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0038661	Suicide
+T2	Drug 70 80	fluoxetine
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:3386	Fluoxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

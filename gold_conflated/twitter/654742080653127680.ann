@@ -1,0 +1,22 @@
+T1	Disease_Symptom 107 123	#BipolarDisorder
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Disease_Symptom 124 132	#bipolar
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Disease_Symptom 60 66	hungry
+A3	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C1971624 Vs. C0020175
+T4	Drug 68 77	#lamictal
+A4	Person T4 1st
+N4	Reference T4 Concepts:3878	Lamotrigine
+T5	Disease_Symptom 19 41	suppress your appetite
+A5	Person T5 2nd
+A6	Modality T5 Hypothetical
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T5	Disagreement in concept ID: C1971624 Vs. C0232462
+R1	Outcome-negative Arg1:T4 Arg2:T5
+R2	Benefit Arg1:T1 Arg2:T4
+R3	Benefit Arg1:T2 Arg2:T4
+R4	Outcome-negative Arg1:T4 Arg2:T3

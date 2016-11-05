@@ -1,0 +1,7 @@
+T1	Disease 77 91	mood disorders
+N1	Reference T1 Concepts:C0525045	Mood Disorders
+T2	Drug 140 150	Duloxetine
+A1	Person T2 3rd
+A2	Duration T2 Regular
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

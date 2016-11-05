@@ -1,0 +1,6 @@
+T1	Disease_Symptom 78 95	immunosuppression
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0021053 Vs. C0030201
+T2	Drug 39 49	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T2

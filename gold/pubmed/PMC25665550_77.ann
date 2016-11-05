@@ -1,0 +1,9 @@
+T1	Disease 108 124	schizophreniform
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0036341 Vs. -1
+T2	Disease 129 153	schizoaffective disorder
+N2	Reference T2 Concepts:C0036337	Schizoaffective Disorder
+T3	Drug 68 78	olanzapine
+N3	Reference T3 Concepts:4585	Olanzapine
+T4	Disease 93 106	schizophrenia
+N4	Reference T4 Concepts:C0036341	Schizophrenia

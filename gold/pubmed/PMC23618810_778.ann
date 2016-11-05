@@ -1,0 +1,5 @@
+T1	Disease 131 160	advanced urothelial carcinoma
+N1	Reference T1 Concepts:C0007097	Carcinoma
+T2	Drug 108 117	docetaxel
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Reason-to-use Arg1:T1 Arg2:T2

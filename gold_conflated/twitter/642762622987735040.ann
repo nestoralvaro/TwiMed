@@ -1,0 +1,6 @@
+T1	Disease_Symptom 24 31	thinner
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0043096	Body Weight decreased
+T2	Drug 0 7	Topamax
+N2	Reference T2 Concepts:5514	Topiramate

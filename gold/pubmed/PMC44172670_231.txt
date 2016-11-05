@@ -1,0 +1,1 @@
+MDD patients received treatment with duloxetine __number__ mg daily for __number__ weeks with an optional dose increase to __number__ mg daily after __number__ weeks.

@@ -1,0 +1,7 @@
+T1	Drug 24 33	docetaxel
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease 98 111	breast cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0678222	Breast Carcinoma
+R1	Reason-to-use Arg1:T2 Arg2:T1

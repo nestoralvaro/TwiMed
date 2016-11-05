@@ -1,0 +1,9 @@
+T1	Symptom 46 63	chronic urticaria
+A1	Person T1 3rd
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C0042109	Urticaria
+T2	Drug 18 27	Modafinil
+A3	Person T2 3rd
+A4	Modality T2 Hypothetical
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Outcome-negative Arg1:T2 Arg2:T1

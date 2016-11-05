@@ -1,0 +1,7 @@
+T1	Disease 51 60	breast ca
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0678222	Breast Carcinoma
+T2	Drug 43 50	AVASTIN
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T1 Arg2:T2

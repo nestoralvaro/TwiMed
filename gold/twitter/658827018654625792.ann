@@ -1,0 +1,6 @@
+T1	Drug 63 76	Carbamazepine
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Disease 15 24	epileptic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0014544 Vs. C0038220
+R1	Reason-to-use Arg1:T2 Arg2:T1

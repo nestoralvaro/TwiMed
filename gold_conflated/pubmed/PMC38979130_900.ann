@@ -1,0 +1,6 @@
+T1	Disease_Symptom 81 86	DLBCL
+N1	Reference T1 Concepts:C0024299	Lymphoma
+T2	Drug 33 44	bevacizumab
+A1	Modality T2 Hedged
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

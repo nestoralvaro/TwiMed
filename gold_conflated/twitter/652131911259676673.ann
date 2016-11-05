@@ -1,0 +1,15 @@
+T1	Disease_Symptom 86 94	Zeisures
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0036572	Seizures
+T2	Disease_Symptom 30 68	Cranial Nerve V (trigeminal) neuralgia
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0040997	Trigeminal Neuralgia
+T3	Disease_Symptom 69 85	Bipolar disorder
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+T4	Drug 0 13	Carbamazepine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:2554	Carbamazepine
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

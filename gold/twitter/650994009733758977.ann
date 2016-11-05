@@ -1,0 +1,4 @@
+T1	Drug 40 51	lamotrigine
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:3878	Lamotrigine

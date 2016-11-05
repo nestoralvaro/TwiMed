@@ -1,0 +1,1 @@
+RESULTS: Olanzapine had a significantly lower recurrence rate of depressive episodes than lamotrigine (  __number__  % vs.  __number__  %, __number__ =  __number__  , p=. __number__ ).

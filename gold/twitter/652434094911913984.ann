@@ -1,0 +1,20 @@
+T1	Symptom 41 50	nightmare
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0028084	Nightmares
+T2	Symptom 99 108	Nightmare
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0028084	Nightmares
+T3	Symptom 130 138	withdraw
+A3	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0087169 Vs. C0152128
+T4	Symptom 0 9	Nightmare
+A4	Person T4 1st
+N4	Reference T4 Concepts:C0028084	Nightmares
+T5	Drug 121 129	Cymbalta
+A5	Person T5 1st
+N5	Reference T5 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T5 Arg2:T4
+R2	Outcome-negative Arg1:T5 Arg2:T3
+R3	Outcome-negative Arg1:T5 Arg2:T2
+R4	Outcome-negative Arg1:T5 Arg2:T1

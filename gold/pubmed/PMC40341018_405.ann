@@ -1,0 +1,5 @@
+T1	Symptom 160 178	suicidal behaviors
+N1	Reference T1 Concepts:C1760428	Suicidal behaviour
+T2	Drug 23 33	paroxetine
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

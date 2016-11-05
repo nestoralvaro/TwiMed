@@ -1,0 +1,8 @@
+T1	Symptom 117 131	speech fluency
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0233715 Vs. C0233718
+T2	Drug 78 87	modafinil
+A2	Person T2 1st
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Reason-to-use Arg1:T1 Arg2:T2

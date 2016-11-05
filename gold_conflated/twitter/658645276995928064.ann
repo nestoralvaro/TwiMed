@@ -1,0 +1,12 @@
+T1	Disease_Symptom 52 60	sleeping
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Disease_Symptom 80 84	adhd
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+T3	Drug 10 17	Ritalin
+A3	Person T3 1st
+A4	Duration T3 Irregular
+N3	Reference T3 Concepts:4158	Methylphenidate
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

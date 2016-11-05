@@ -1,0 +1,7 @@
+T1	Symptom 95 104	withdrawl
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Drug 18 31	Carbamazepine
+A2	Person T2 1st
+N2	Reference T2 Concepts:2554	Carbamazepine

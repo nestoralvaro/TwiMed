@@ -1,0 +1,15 @@
+T1	Drug 190 200	Rupatadine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease 131 148	allergic rhinitis
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C2607914 Vs. C0035457
+T3	Symptom 180 189	urticaria
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0042109	Urticaria
+T4	Drug 0 10	Rupatadine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T2 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4

@@ -1,0 +1,5 @@
+T1	Disease_Symptom 29 42	galactorrhoea
+N1	Reference T1 Concepts:C0235660	Galactorrhea not associated with childbirth
+T2	Drug 10 20	paroxetine
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,6 @@
+T1	Disease_Symptom 679 692	neurotoxicity
+A1	Polarity T1 Polarity
+N1	Reference T1 Concepts:C0235032	Neurotoxicity Syndromes
+T2	Drug 737 750	carbamazepine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2554	Carbamazepine

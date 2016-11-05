@@ -1,0 +1,8 @@
+T1	Drug 265 274	melphalan
+A1	Person T1 3rd
+A2	Status T1 Complete
+N1	Reference T1 Concepts:4053	Melphalan
+T2	Disease 45 58	neuroblastoma
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C0027819	Neuroblastoma
+R1	Reason-to-use Arg1:T2 Arg2:T1

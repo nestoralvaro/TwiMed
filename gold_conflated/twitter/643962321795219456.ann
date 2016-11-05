@@ -1,0 +1,12 @@
+T1	Disease_Symptom 90 96	#manic
+N1	Reference T1 Concepts:C0338831	Manic
+T2	Disease_Symptom 74 82	#bipolar
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Disease_Symptom 83 89	#mania
+N3	Reference T3 Concepts:C0235165	Mania acute
+T4	Drug 52 59	zyprexa
+A1	Person T4 1st
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T2 Arg2:T4

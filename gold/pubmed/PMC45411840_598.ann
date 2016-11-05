@@ -1,0 +1,7 @@
+T1	Symptom 90 109	prolonged analgesia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0030193	Pain
+T2	Drug 12 25	Buprenorphine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2476	Buprenorphine
+R1	Reason-to-use Arg1:T1 Arg2:T2

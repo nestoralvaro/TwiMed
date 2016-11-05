@@ -1,0 +1,8 @@
+T1	Drug 70 80	prednisone
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Disease 95 111	multiple myeloma
+N2	Reference T2 Concepts:C0026764	Multiple Myeloma
+T3	Drug 56 65	melphalan
+N3	Reference T3 Concepts:4053	Melphalan
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

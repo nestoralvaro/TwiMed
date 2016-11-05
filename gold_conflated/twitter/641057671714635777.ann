@@ -1,0 +1,6 @@
+T1	Disease_Symptom 19 28	psychosis
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C2363722	Steroid psychosis
+T2	Drug 55 65	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

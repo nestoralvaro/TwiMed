@@ -1,0 +1,12 @@
+T1	Drug 134 144	citalopram
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Disease_Symptom 70 96	neuropathic pain syndromes
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1963916 Vs. C0030193
+T3	Drug 120 130	fluoxetine
+N3	Reference T3 Concepts:3386	Fluoxetine
+T4	Drug 13 24	venlafaxine
+A2	Modality T4 Generic
+N4	Reference T4 Concepts:5656	Venlafaxine
+R1	Benefit Arg1:T2 Arg2:T4

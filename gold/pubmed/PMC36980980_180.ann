@@ -1,0 +1,14 @@
+T1	Drug 163 173	duloxetine
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease 38 57	depressive disorder
+A1	Person T2 3rd
+N2	Reference T2 Concepts:C0011581	Depressive disorder
+T3	Drug 110 120	duloxetine
+N3	Reference T3 Concepts:60834	Duloxetine
+T4	Symptom 19 31	chronic pain
+A2	Person T4 3rd
+N4	Reference T4 Concepts:C0150055	Chronic pain
+R1	Reason-to-use Arg1:T4 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3
+R3	Reason-to-use Arg1:T2 Arg2:T1
+R4	Reason-to-use Arg1:T4 Arg2:T3

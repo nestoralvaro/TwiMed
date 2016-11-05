@@ -1,0 +1,12 @@
+T1	Disease_Symptom 100 120	my mood is improving
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0233479	Elevated mood
+T2	Drug 142 150	seroquel
+A3	Person T2 1st
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Drug 24 32	seroquel
+A5	Person T3 1st
+A6	Sentiment T3 Positive
+N3	Reference T3 Concepts:5002	Quetiapine

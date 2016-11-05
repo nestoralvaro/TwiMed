@@ -1,0 +1,12 @@
+T1	Symptom 8 16	headache
+A1	Person T1 1st
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0018681	Headache
+T2	Symptom 34 50	shoulder in pain
+A3	Person T2 1st
+N2	Reference T2 Concepts:C0037011	Shoulder Pain
+T3	Drug 105 114	cortisone
+A4	Person T3 1st
+A5	Duration T3 Irregular
+N3	Reference T3 Concepts:222786	Cortisone
+R1	Reason-to-use Arg1:T2 Arg2:T3

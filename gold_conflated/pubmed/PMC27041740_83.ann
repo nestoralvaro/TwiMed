@@ -1,0 +1,18 @@
+T1	Disease_Symptom 80 126	attention-deficit/hyperactivity disorder (ADHD
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 41 44	LDX
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+T3	Disease_Symptom 80 120	attention-deficit/hyperactivity disorder
+A4	Person T3 3rd
+A5	Modality T3 Generic
+N3	Reference T3 Concepts:C1263846	Attention deficit hyperactivity disorder
+T4	Drug 12 39	Lisdexamfetamine dimesylate
+A6	Modality T4 Generic
+N4	Reference T4 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Benefit Arg1:T1 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T3 Arg2:T4
+R4	Benefit Arg1:T1 Arg2:T2

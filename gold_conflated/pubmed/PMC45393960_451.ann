@@ -1,0 +1,5 @@
+T1	Drug 163 173	sertraline
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Disease_Symptom 107 120	social phobia
+N2	Reference T2 Concepts:C0031572	Phobia, Social
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,13 @@
+T1	Symptom 38 54	urge to do stuff
+A1	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0917801 Vs. C0455769
+T2	Symptom 0 14	Eyes wide open
+A2	Exemplification T2 Exemplification
+N2	Reference T2 Concepts:C0917801	Sleeplessness
+T3	Symptom 21 26	sleep
+N3	Reference T3 Concepts:C0917801	Sleeplessness
+T4	Drug 55 63	#Ritalin
+N4	Reference T4 Concepts:4158	Methylphenidate
+R1	Outcome-negative Arg1:T4 Arg2:T3
+R2	Outcome-negative Arg1:T4 Arg2:T2

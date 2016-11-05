@@ -1,0 +1,6 @@
+T1	Drug 90 103	carbamazepine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Disease_Symptom 55 75	trigeminal neuralgia
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0040997	Trigeminal Neuralgia

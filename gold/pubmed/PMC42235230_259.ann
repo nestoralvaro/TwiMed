@@ -1,0 +1,15 @@
+T1	Symptom 139 142	SWS
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0037317 Vs. C0877792
+T2	Disease 179 189	depression
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Symptom 91 115	changes in sleep quality
+N3	Reference T3 Concepts:C1262141	Poor quality sleep
+T4	Drug 154 164	olanzapine
+A3	Modality T4 Generic
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T2 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4
+R3	Reason-to-use Arg1:T1 Arg2:T4

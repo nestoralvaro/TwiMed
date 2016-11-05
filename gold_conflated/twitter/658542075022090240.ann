@@ -1,0 +1,12 @@
+T1	Disease_Symptom 49 60	scar tissue
+A1	Person T1 1st
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0178298 Vs. C0263978
+T2	Disease_Symptom 91 109	decrease cartilage
+A3	Modality T2 Hypothetical
+N2	Reference T2 Concepts:C0007302	Cartilage Diseases
+T3	Drug 16 23	Kenalog
+A4	Person T3 1st
+N3	Reference T3 Concepts:5544	Triamcinolone
+R1	Outcome-negative Arg1:T3 Arg2:T2

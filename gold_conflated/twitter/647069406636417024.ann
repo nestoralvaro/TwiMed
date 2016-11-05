@@ -1,0 +1,7 @@
+T1	Drug 46 54	adderall
+A1	Person T1 2nd
+N1	Reference T1 Concepts:3007	Amphetamine
+T2	Disease_Symptom 13 23	exhaustion
+A2	Person T2 2nd
+N2	Reference T2 Concepts:C0392674	Exhaustion
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,7 @@
+T1	Disease_Symptom 127 133	#lupus
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0409974 Vs. C0919715
+T2	Drug 36 46	prednisone
+A1	Sentiment T2 Negative
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T2

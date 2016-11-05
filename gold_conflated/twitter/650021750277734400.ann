@@ -1,0 +1,8 @@
+T1	Disease_Symptom 68 75	bulimia
+N1	Reference T1 Concepts:C0006370	Bulimia
+T2	Disease_Symptom 115 123	anorexia
+N2	Reference T2 Concepts:C0003123	Anorexia
+T3	Drug 20 30	Topiramate
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T3 Arg2:T2

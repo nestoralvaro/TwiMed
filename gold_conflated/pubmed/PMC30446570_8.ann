@@ -1,0 +1,11 @@
+T1	Drug 50 61	Venlafaxine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Disease_Symptom 70 95	Major Depressive Disorder
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+T3	Drug 35 45	Duloxetine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

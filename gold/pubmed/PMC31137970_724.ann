@@ -1,0 +1,18 @@
+T1	Symptom 164 186	metabolic disturbances
+N1	Reference T1 Concepts:C0025517	Metabolic Diseases
+T2	Drug 213 223	olanzapine
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine
+T3	Symptom 129 140	hyperphagia
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:C0020505	Hyperphagia
+T4	Symptom 142 153	weight gain
+A3	Modality T4 Generic
+N4	Reference T4 Concepts:C0043094	Weight Gain
+T5	Disease 61 74	schizophrenia
+A4	Modality T5 Generic
+N5	Reference T5 Concepts:C0036341	Schizophrenia
+R1	Outcome-negative Arg1:T2 Arg2:T3
+R2	Reason-to-use Arg1:T5 Arg2:T2
+R3	Outcome-negative Arg1:T2 Arg2:T1
+R4	Outcome-negative Arg1:T2 Arg2:T4

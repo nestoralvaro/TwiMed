@@ -1,0 +1,7 @@
+T1	Drug 176 187	venlafaxine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Disease_Symptom 87 97	depression
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C1386135	Acute depression
+R1	Benefit Arg1:T2 Arg2:T1

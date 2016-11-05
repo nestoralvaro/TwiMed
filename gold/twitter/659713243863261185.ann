@@ -1,0 +1,5 @@
+T1	Disease 120 136	#bipolardisorder
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Drug 28 39	#quetiapine
+N2	Reference T2 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

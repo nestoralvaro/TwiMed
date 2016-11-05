@@ -1,0 +1,18 @@
+T1	Disease 106 116	depression
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Symptom 129 133	pain
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Disease 64 76	fibromyalgia
+A2	Modality T3 Generic
+A3	Severity T3 Severe
+N3	Reference T3 Concepts:C0016053	Fibromyalgia
+T4	Symptom 87 100	sleep quality
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C1262141	Poor quality sleep
+T5	Drug 24 33	trazodone
+N5	Reference T5 Concepts:5533	Trazodone
+R1	Reason-to-use Arg1:T2 Arg2:T5
+R2	Reason-to-use Arg1:T3 Arg2:T5
+R3	Reason-to-use Arg1:T4 Arg2:T5
+R4	Reason-to-use Arg1:T1 Arg2:T5

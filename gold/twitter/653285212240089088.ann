@@ -1,0 +1,7 @@
+T1	Disease 131 140	#ADHDlife
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 11 18	Ritalin
+A1	Person T2 1st
+A2	Sentiment T2 Positive
+N2	Reference T2 Concepts:4158	Methylphenidate
+R1	Reason-to-use Arg1:T1 Arg2:T2

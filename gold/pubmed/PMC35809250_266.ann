@@ -1,0 +1,5 @@
+T1	Symptom 78 89	neutropenia
+N1	Reference T1 Concepts:C0027947	Neutropenia
+T2	Drug 38 48	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T1 Arg2:T2

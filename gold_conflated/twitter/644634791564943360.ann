@@ -1,0 +1,7 @@
+T1	Disease_Symptom 144 154	depression
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1386135 Vs. C0005587
+T2	Drug 81 92	#paroxetine
+N2	Reference T2 Concepts:4691	Paroxetine

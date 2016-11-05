@@ -1,0 +1,5 @@
+T1	Symptom 88 99	wakefulness
+N1	Reference T1 Concepts:C0043012	Wakefulness
+T2	Drug 12 22	duloxetine
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

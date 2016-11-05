@@ -1,0 +1,5 @@
+T1	Disease_Symptom 63 71	bleeding
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:C1458140	Bleeding tendency
+T2	Drug 88 101	Carbamazepine
+N2	Reference T2 Concepts:2554	Carbamazepine

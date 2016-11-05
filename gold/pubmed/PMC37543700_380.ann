@@ -1,0 +1,9 @@
+T1	Symptom 86 93	keloids
+N1	Reference T1 Concepts:C0022548	Keloid
+T2	Symptom 98 116	hypertrophic scars
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0151717 Vs. -1
+T3	Drug 42 55	triamcinolone
+N3	Reference T3 Concepts:5544	Triamcinolone
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

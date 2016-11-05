@@ -1,0 +1,5 @@
+T1	Drug 70 75	paxil
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 37 47	depression
+N2	Reference T2 Concepts:C1386135	Acute depression
+R1	Benefit Arg1:T2 Arg2:T1

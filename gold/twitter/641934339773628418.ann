@@ -1,0 +1,16 @@
+T1	Symptom 42 60	intrusive thoughts
+A1	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0233632 Vs. C0344315
+T2	Symptom 93 111	#intrusivethoughts
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0233632 Vs. C0344315
+T3	Symptom 112 117	#pain
+N3	Reference T3 Concepts:C0030193	Pain
+T4	Drug 72 80	#zyprexa
+N4	Reference T4 Concepts:4585	Olanzapine
+T5	Drug 20 27	Zyprexa
+N5	Reference T5 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T2 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4
+R3	Reason-to-use Arg1:T1 Arg2:T5

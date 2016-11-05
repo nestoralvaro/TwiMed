@@ -1,0 +1,19 @@
+T1	Disease 59 70	#depression
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1386135 Vs. C0005587
+T2	Drug 20 32	#venlafaxine
+A2	Person T2 1st
+N2	Reference T2 Concepts:5656	Venlafaxine
+T3	Disease 33 37	#bpd
+A3	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0005586 Vs. C0031212
+T4	Symptom 9 14	sleep
+A4	Polarity T4 Polarity
+A5	Person T4 1st
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T4	Disagreement in concept ID: C2830004 Vs. C0917801
+R1	Reason-to-use Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T2 Arg2:T4
+R3	Reason-to-use Arg1:T3 Arg2:T2

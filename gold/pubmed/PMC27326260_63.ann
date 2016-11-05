@@ -1,0 +1,14 @@
+T1	Symptom 83 88	sleep
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1262141 Vs. C0851578
+T2	Drug 75 78	LDX
+A1	Person T2 3rd
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+T3	Disease 112 116	ADHD
+A2	Person T3 3rd
+N3	Reference T3 Concepts:C1263846	Attention deficit hyperactivity disorder
+T4	Drug 46 73	lisdexamfetamine dimesylate
+A3	Person T4 3rd
+N4	Reference T4 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Reason-to-use Arg1:T3 Arg2:T2
+R2	Reason-to-use Arg1:T3 Arg2:T4

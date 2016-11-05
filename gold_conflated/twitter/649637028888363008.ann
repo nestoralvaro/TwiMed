@@ -1,0 +1,13 @@
+T1	Disease_Symptom 38 51	hair fall out
+A1	Person T1 1st
+A2	Modality T1 Hedged
+A3	Status T1 Continuing
+A4	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0235807 Vs. -
+T2	Drug 12 23	lamotrigine
+A5	Person T2 1st
+A6	Modality T2 Hedged
+A7	Sentiment T2 Negative
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,29 @@
+T1	Disease_Symptom 344 353	pneumonia
+A1	Person T1 3rd
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0032285	Pneumonia
+T2	Disease_Symptom 177 186	contusion
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C0009938	Contusions
+T3	Disease_Symptom 263 282	cerebral infarction
+A4	Person T3 3rd
+N3	Reference T3 Concepts:C0007785	Cerebral Infarction
+T4	Disease_Symptom 313 332	pulmonary emphysema
+A5	Person T4 3rd
+N4	Reference T4 Concepts:C0034067	Pulmonary Emphysema
+T5	Disease_Symptom 212 218	sepsis
+A6	Person T5 3rd
+N5	Reference T5 Concepts:C0243026	Sepsis
+T6	Disease_Symptom 222 236	pyelonephritis
+A7	Person T6 3rd
+N6	Reference T6 Concepts:C0034186	Pyelonephritis
+T7	Disease_Symptom 492 500	delirium
+A8	Person T7 3rd
+N7	Reference T7 Concepts:C0011206	Delirium
+T8	Disease_Symptom 143 166	subarachnoid hemorrhage
+A9	Person T8 3rd
+N8	Reference T8 Concepts:C0038525	Subarachnoid Hemorrhage
+T9	Drug 446 457	fluvoxamine
+A10	Person T9 3rd
+N9	Reference T9 Concepts:3404	Fluvoxamine
+R1	Benefit Arg1:T7 Arg2:T9

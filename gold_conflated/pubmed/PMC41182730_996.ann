@@ -1,0 +1,19 @@
+T1	Disease_Symptom 380 387	anxiety
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Disease_Symptom 392 413	personality disorders
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0031212	Personality Disorders
+T3	Disease_Symptom 348 355;364 369	alcohol abuse
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0085762	Alcohol abuse
+T4	Disease_Symptom 359 369	drug abuse
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0013146	Drug abuse
+T5	Disease_Symptom 169 194	major depressive disorder
+A5	Person T5 3rd
+N5	Reference T5 Concepts:C1269683	Major Depressive Disorder
+T6	Drug 140 151	fluvoxamine
+A6	Person T6 3rd
+N6	Reference T6 Concepts:3404	Fluvoxamine
+R1	Benefit Arg1:T5 Arg2:T6

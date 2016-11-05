@@ -1,0 +1,7 @@
+T1	Disease_Symptom 98 115	bowel perforation
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0021845	Intestinal Perforation
+T2	Drug 72 79	Avastin
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

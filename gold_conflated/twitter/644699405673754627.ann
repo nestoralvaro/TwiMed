@@ -1,0 +1,15 @@
+T1	Disease_Symptom 83 93	withdrawal
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0152128	Drug withdrawal syndrome
+T2	Disease_Symptom 61 69	cravings
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0556446 Vs. C0003469
+T3	Drug 0 10	Suboxone i
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:2476	Buprenorphine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

@@ -1,0 +1,5 @@
+T1	Disease_Symptom 69 75	tumors
+N1	Reference T1 Concepts:C0007095	Carcinoid Tumor
+T2	Drug 39 50	bevacizumab
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

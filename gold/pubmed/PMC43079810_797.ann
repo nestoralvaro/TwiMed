@@ -1,0 +1,15 @@
+T1	Drug 67 77	prednisone
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Disease 106 154	metastatic castration refractory prostate cancer
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1328504 Vs. C0936223
+T3	Drug 52 61	docetaxel
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:3143	Docetaxel
+R1	Reason-to-use Arg1:T2 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T1

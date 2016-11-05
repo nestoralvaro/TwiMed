@@ -1,0 +1,8 @@
+T1	Symptom 49 59	withdrawal
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Drug 71 76	paxil
+N2	Reference T2 Concepts:4691	Paroxetine
+T3	Drug 20 27	effexor
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T1

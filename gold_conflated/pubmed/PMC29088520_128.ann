@@ -1,0 +1,5 @@
+T1	Disease_Symptom 89 102	macular edema
+N1	Reference T1 Concepts:C0024440	Macular Edema, Cystoid
+T2	Drug 52 65	triamcinolone
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

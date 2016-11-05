@@ -1,0 +1,7 @@
+T1	Symptom 38 53	Achilles tendon
+A1	Person T1 2nd
+N1	Reference T1 Concepts:C0151937	Tendon rupture
+T2	Drug 10 23	Ciprofloxacin
+A2	Person T2 2nd
+N2	Reference T2 Concepts:2764	Ciprofloxacin
+R1	Outcome-negative Arg1:T2 Arg2:T1

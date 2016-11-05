@@ -1,0 +1,6 @@
+T1	Disease_Symptom 90 102	bronchospasm
+N1	Reference T1 Concepts:C0015263	Bronchospasm, Exercise-Induced
+T2	Drug 44 55	montelukast
+A1	Duration T2 Regular
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	Disease 209 221	fibromyalgia
+N1	Reference T1 Concepts:C0016053	Fibromyalgia
+T2	Drug 62 72	duloxetine
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,9 @@
+T1	Disease 12 18	asthma
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Symptom 30 47	de-age your brain
+A1	Person T2 2nd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: -1 Vs. C0262405
+T3	Drug 0 11	Montelukast
+N3	Reference T3 Concepts:4248	Montelukast
+R1	Reason-to-use Arg1:T1 Arg2:T3

@@ -1,0 +1,4 @@
+T1	Drug 49 59	prednisone
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:4900	Prednisone

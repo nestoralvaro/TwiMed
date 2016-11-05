@@ -1,0 +1,5 @@
+T1	Drug 36 46	prednisone
+A1	Person T1 1st
+A2	Duration T1 Intermitent
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:4900	Prednisone

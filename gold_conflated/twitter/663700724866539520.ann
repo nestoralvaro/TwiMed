@@ -1,0 +1,4 @@
+T1	Disease_Symptom 102 122	trigeminal neuralgia
+N1	Reference T1 Concepts:C0040997	Trigeminal Neuralgia
+T2	Drug 28 41	carbamazepine
+N2	Reference T2 Concepts:2554	Carbamazepine

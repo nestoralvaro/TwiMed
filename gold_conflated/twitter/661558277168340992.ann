@@ -1,0 +1,17 @@
+T1	Disease_Symptom 64 88	feel like i have the flu
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0004093 Vs. C0087169
+T2	Disease_Symptom 89 95	am ill
+A4	Person T2 1st
+A5	Exemplification T2 Exemplification
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0221423 Vs. C0087169
+T3	Drug 24 31	Effexor
+A7	Person T3 1st
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

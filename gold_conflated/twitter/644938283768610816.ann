@@ -1,0 +1,5 @@
+T1	Disease_Symptom 45 54	calm down
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: -1 Vs. C0235194
+T2	Drug 9 22	Buprenorphine
+N2	Reference T2 Concepts:2476	Buprenorphine

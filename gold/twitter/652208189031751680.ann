@@ -1,0 +1,5 @@
+T1	Drug 31 38	zyprexa
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Drug 13 21	lamictal
+A1	Person T2 1st
+N2	Reference T2 Concepts:3878	Lamotrigine

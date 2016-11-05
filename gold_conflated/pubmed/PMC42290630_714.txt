@@ -1,0 +1,1 @@
+RESULTS: Among __number__ patients who developed delirium, __number__ patients received antipsychotics, such as risperidone ( __number__ %), quetiapine ( __number__ %), and parenteral haloperidol ( __number__ %), for delirium.

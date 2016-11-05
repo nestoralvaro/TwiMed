@@ -1,0 +1,11 @@
+T1	Disease_Symptom 134 141	anxiety
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Disease_Symptom 146 156	depression
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Drug 61 71	paroxetine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4691	Paroxetine
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3

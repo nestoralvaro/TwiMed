@@ -1,0 +1,6 @@
+T1	Disease 103 120	#depressionisreal
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 37 48	#citalopram
+A1	Person T2 3rd
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Reason-to-use Arg1:T1 Arg2:T2

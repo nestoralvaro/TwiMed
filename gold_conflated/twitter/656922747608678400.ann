@@ -1,0 +1,5 @@
+T1	Disease_Symptom 74 98	discontinuation syndrome
+N1	Reference T1 Concepts:C0152128	Drug withdrawal syndrome
+T2	Drug 65 73	cymbalta
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

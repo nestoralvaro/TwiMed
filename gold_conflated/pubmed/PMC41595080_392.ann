@@ -1,0 +1,30 @@
+T1	Disease_Symptom 161 174	manic episode
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0349208	Manic episode
+T2	Disease_Symptom 153 160	bipolar
+A2	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0349208 Vs. C0005586
+T3	Drug 188 198	quetiapine
+A3	Person T3 3rd
+A4	Duration T3 Regular
+N3	Reference T3 Concepts:5002	Quetiapine
+T4	Drug 188 198	quetiapine
+A5	Person T4 3rd
+A6	Duration T4 Regular
+N4	Reference T4 Concepts:5002	Quetiapine
+T5	Disease_Symptom 161 174	manic episode
+A7	Person T5 3rd
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T5	Disagreement in concept ID: C0005586 Vs. C0349208
+T6	Disease_Symptom 153 160	bipolar
+A8	Person T6 3rd
+N6	Reference T6 Concepts:C0005586	Bipolar Disorder
+R1	Benefit Arg1:T6 Arg2:T4
+R2	Benefit Arg1:T6 Arg2:T4
+R3	Benefit Arg1:T6 Arg2:T4
+R4	Benefit Arg1:T6 Arg2:T4
+R5	Benefit Arg1:T2 Arg2:T4
+R6	Benefit Arg1:T2 Arg2:T4
+R7	Benefit Arg1:T2 Arg2:T4
+R8	Benefit Arg1:T2 Arg2:T4

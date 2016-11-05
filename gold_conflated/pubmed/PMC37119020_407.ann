@@ -1,0 +1,9 @@
+T1	Disease_Symptom 38 60	pulmonary inflammation
+N1	Reference T1 Concepts:C0021368	Inflammation
+T2	Disease_Symptom 38 47	pulmonary
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0034069 Vs. C0021368
+T3	Drug 0 10	Rupatadine
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3

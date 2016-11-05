@@ -1,0 +1,9 @@
+T1	Symptom 35 39	yawn
+A1	Person T1 1st
+A2	Duration T1 Regular
+A3	Status T1 Complete
+N1	Reference T1 Concepts:C0043387	Yawning
+T2	Drug 16 26	citalopram
+A4	Person T2 1st
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T2 Arg2:T1

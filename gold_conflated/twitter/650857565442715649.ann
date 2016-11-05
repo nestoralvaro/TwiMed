@@ -1,0 +1,11 @@
+T1	Disease_Symptom 44 55	cold-turkey
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Disease_Symptom 115 134	withdrawal symptoms
+A1	Severity T2 Severe
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0087169	Withdrawal Symptoms
+T3	Drug 21 32	Venlafaxine
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

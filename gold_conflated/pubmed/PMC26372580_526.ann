@@ -1,0 +1,14 @@
+T1	Drug 81 91	citalopram
+A1	Person T1 3rd
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Disease_Symptom 22 35	acute glaucom
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0281773	Acute glaucoma
+T3	Disease_Symptom 42 50	migraine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0149931	Migraine Disorders
+T4	Drug 0 10	Topiramate
+A4	Person T4 3rd
+N4	Reference T4 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T4

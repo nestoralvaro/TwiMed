@@ -1,0 +1,8 @@
+T1	Drug 35 40	Paxil
+A1	Modality T1 Generic
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Drug 23 33	paroxetine
+A3	Modality T2 Generic
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:4691	Paroxetine

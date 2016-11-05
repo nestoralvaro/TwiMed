@@ -1,0 +1,9 @@
+T1	Disease_Symptom 67 72	sleep
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Drug 17 27	quetiapine
+A3	Person T2 1st
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

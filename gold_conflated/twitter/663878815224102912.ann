@@ -1,0 +1,8 @@
+T1	Drug 18 26	Cymbalta
+A1	Sentiment T1 Positive
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease_Symptom 0 10	Depression
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0086132
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,19 @@
+T1	Drug 186 196	lisinopril
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3937	Lisinopril
+T2	Symptom 114 125	esophagitis
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0014868	Esophagitis
+T3	Symptom 76 83	malaise
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0231218	Malaise
+T4	Symptom 89 97	anorexia
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0003123	Anorexia
+T5	Symptom 63 74	weight loss
+A5	Person T5 3rd
+N5	Reference T5 Concepts:C0043096	Body Weight decreased
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T1 Arg2:T5
+R3	Outcome-negative Arg1:T1 Arg2:T2
+R4	Outcome-negative Arg1:T1 Arg2:T4

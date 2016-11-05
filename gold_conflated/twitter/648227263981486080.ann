@@ -1,0 +1,5 @@
+T1	Disease_Symptom 102 126	metastatic breast cancer
+N1	Reference T1 Concepts:C3495917	Advanced breast cancer
+T2	Drug 0 9	Tamoxifen
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T1	Disease_Symptom 68 84	#macularproblems
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0024437	Macular degeneration
+T2	Drug 59 67	#avastin
+A2	Person T2 1st
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

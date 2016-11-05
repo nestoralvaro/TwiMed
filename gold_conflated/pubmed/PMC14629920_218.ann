@@ -1,0 +1,13 @@
+T1	Drug 232 240	Concerta
+A1	Person T1 3rd
+A2	Status T1 Complete
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Drug 289 304	methylphenidate
+A3	Person T2 3rd
+A4	Status T2 Complete
+N2	Reference T2 Concepts:4158	Methylphenidate
+T3	Disease_Symptom 128 132	ADHD
+A5	Person T3 3rd
+N3	Reference T3 Concepts:C1263846	Attention deficit hyperactivity disorder
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T1

@@ -1,0 +1,8 @@
+T1	Disease_Symptom 85 91	wheeze
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0043144	Wheezing
+T2	Drug 13 24	montelukast
+A2	Person T2 3rd
+A3	Duration T2 Intermitent
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,11 @@
+T1	Disease_Symptom 61 67	nausea
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0027497	Nausea
+T2	Disease_Symptom 28 31	OCD
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0028768	Obsessive-Compulsive Disorder
+T3	Drug 156 166	fluoxetine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:3386	Fluoxetine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

@@ -1,0 +1,7 @@
+T1	Disease_Symptom 5 33	working for __number__ hours
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0917801 Vs. C0455769
+T2	Drug 55 64	modafinil
+A1	Sentiment T2 Positive
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Benefit Arg1:T1 Arg2:T2

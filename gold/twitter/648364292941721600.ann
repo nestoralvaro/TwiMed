@@ -1,0 +1,7 @@
+T1	Symptom 92 101	migraines
+A1	Modality T1 Hedged
+N1	Reference T1 Concepts:C0149931	Migraine Disorders
+T2	Drug 62 73	Lamotrigine
+A2	Modality T2 Hedged
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Reason-to-use Arg1:T1 Arg2:T2

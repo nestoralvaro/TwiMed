@@ -1,0 +1,19 @@
+T1	Drug 214 225	ziprasidone
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Disease_Symptom 258 269	acute mania
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0235165	Mania acute
+T3	Drug 190 200	olanzapine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4585	Olanzapine
+T4	Drug 202 212	quetiapine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:5002	Quetiapine
+T5	Drug 110 123	carbamazepine
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:2554	Carbamazepine
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T2 Arg2:T1
+R3	Benefit Arg1:T2 Arg2:T5
+R4	Benefit Arg1:T2 Arg2:T3

@@ -1,0 +1,8 @@
+T1	Disease 158 172	ovarian cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: -1 Vs. C0029925
+T2	Drug 136 143	Avastin
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T1 Arg2:T2

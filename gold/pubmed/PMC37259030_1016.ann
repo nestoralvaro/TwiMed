@@ -1,0 +1,8 @@
+T1	Disease 102 131	obsessive-compulsive disorder
+A1	Modality T1 Generic
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0028768	Obsessive-Compulsive Disorder
+T2	Drug 0 11	Lamotrigine
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Reason-to-use Arg1:T1 Arg2:T2

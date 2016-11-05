@@ -1,0 +1,1 @@
+METHODS: The sample included __number__ patients, affected by anxiety and/or mood disorders with or without comorbidity, who had been taken Duloxetine for at least __number__ month.

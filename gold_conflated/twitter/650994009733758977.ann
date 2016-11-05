@@ -1,0 +1,9 @@
+T1	Disease_Symptom 94 114	personality disorder
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0031212	Personality Disorders
+T2	Drug 40 51	lamotrigine
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,10 @@
+T1	Disease_Symptom 23 47	Wegener's granulomatosis
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0042384 Vs. -1
+T2	Drug 114 124	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+T3	Disease_Symptom 23 47	Wegener's granulomatosis
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0015397 Vs. -1
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

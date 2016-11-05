@@ -1,0 +1,17 @@
+T1	Disease_Symptom 41 75	makes me sick when I think of food
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0027497 Vs. -1
+T2	Disease_Symptom 20 28	starving
+A3	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0232461 Vs. C0020175
+T3	Drug 33 40	adderal
+A4	Person T3 1st
+N3	Reference T3 Concepts:3007	Amphetamine
+T4	Drug 0 10	Prednisone
+A5	Person T4 1st
+N4	Reference T4 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

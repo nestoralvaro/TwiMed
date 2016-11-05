@@ -1,0 +1,18 @@
+T1	Symptom 70 77	seasick
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0012833	Dizziness
+T2	Symptom 34 39	tired
+A2	Person T2 1st
+A3	Severity T2 Severe
+N2	Reference T2 Concepts:C0392674	Exhaustion
+T3	Symptom 41 60	hands still shaking
+A4	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0028643 Vs. C0040822
+T4	Drug 0 11	#Citalopram
+A5	Person T4 1st
+A6	Sentiment T4 Negative
+N4	Reference T4 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

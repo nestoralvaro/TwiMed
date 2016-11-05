@@ -1,0 +1,22 @@
+T1	Disease_Symptom 372 376	ADHD
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 328 331	LDX
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+T3	Drug 230 245	methylphenidate
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:4158	Methylphenidate
+T4	Disease_Symptom 123 163	attention-deficit/hyperactivity disorder
+A7	Person T4 3rd
+A8	Modality T4 Generic
+N4	Reference T4 Concepts:C1263846	Attention deficit hyperactivity disorder
+T5	Drug 38 65	lisdexamfetamine dimesylate
+A9	Person T5 3rd
+A10	Modality T5 Generic
+N5	Reference T5 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T4 Arg2:T5

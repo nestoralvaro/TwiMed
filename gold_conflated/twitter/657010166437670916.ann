@@ -1,0 +1,7 @@
+T1	Drug 31 41	prednisone
+A1	Person T1 1st
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Disease_Symptom 55 73	bonesosteonecrosis
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0029445	Bone necrosis
+R1	Outcome-negative Arg1:T1 Arg2:T2

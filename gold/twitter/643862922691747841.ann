@@ -1,0 +1,9 @@
+T1	Symptom 75 92	eyelids are itchy
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0022281 Vs. C0851578
+T2	Drug 14 24	Quetiapine
+A3	Person T2 1st
+A4	Duration T2 Irregular
+N2	Reference T2 Concepts:5002	Quetiapine

@@ -1,0 +1,6 @@
+T1	Disease_Symptom 95 103	Diabetes
+N1	Reference T1 Concepts:C0011849	Diabetes Mellitus
+T2	Drug 38 45	Zyprexa
+A1	Person T2 1st
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

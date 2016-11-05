@@ -1,0 +1,11 @@
+T1	Drug 203 214	lamotrigine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Drug 188 201	carbamazepine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:2554	Carbamazepine
+T3	Symptom 58 66	seizures
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0036572	Seizures
+R1	Reason-to-use Arg1:T3 Arg2:T1
+R2	Reason-to-use Arg1:T3 Arg2:T2

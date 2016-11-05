@@ -1,0 +1,13 @@
+T1	Drug 88 96	lamictal
+A1	Person T1 1st
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 103 109	Hungry
+A2	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0043096 Vs. C0020175
+T3	Disease 55 65	depression
+A3	Person T3 1st
+A4	Status T3 Complete
+N3	Reference T3 Concepts:C1386135	Acute depression
+R1	Reason-to-use Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T1 Arg2:T2

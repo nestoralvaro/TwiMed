@@ -1,0 +1,13 @@
+T1	Disease_Symptom 87 115	metastatic colorectal cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1384494 Vs. C0007097
+T2	Drug 34 45	bevacizumab
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Disease_Symptom 87 115	metastatic colorectal cancer
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0034882 Vs. C0007097
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

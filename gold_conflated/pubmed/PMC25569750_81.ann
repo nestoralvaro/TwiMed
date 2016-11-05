@@ -1,0 +1,6 @@
+T1	Disease_Symptom 88 99	retinopathy
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0035309 Vs. -1
+T2	Drug 0 13	Triamcinolone
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

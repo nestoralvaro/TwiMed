@@ -1,0 +1,18 @@
+T1	Drug 203 214	lamotrigine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Disease_Symptom 86 109	ventricular tachycardia
+A2	Person T2 3rd
+A3	Severity T2 Severe
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0750197 Vs. C0042514
+T3	Drug 188 201	carbamazepine
+A4	Person T3 3rd
+N3	Reference T3 Concepts:2554	Carbamazepine
+T4	Disease_Symptom 58 66	seizures
+A5	Person T4 3rd
+N4	Reference T4 Concepts:C0036572	Seizures
+R1	Benefit Arg1:T4 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T4 Arg2:T3
+R4	Outcome-negative Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T1	Disease_Symptom 58 78	appetite suppressant
+A1	Severity T1 Severe
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:C1971624	Loss of appetite (finding)
+T2	Drug 29 38	Modafinil
+A3	Sentiment T2 Positive
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Outcome-negative Arg1:T2 Arg2:T1

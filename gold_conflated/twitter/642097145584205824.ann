@@ -1,0 +1,12 @@
+T1	Disease_Symptom 96 103	anxiety
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0003467 Vs. C0003469
+T2	Disease_Symptom 85 88	ocd
+A2	Modality T2 Hypothetical
+N2	Reference T2 Concepts:C0028768	Obsessive-Compulsive Disorder
+T3	Drug 56 64	tegretol
+A3	Modality T3 Hypothetical
+N3	Reference T3 Concepts:2554	Carbamazepine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

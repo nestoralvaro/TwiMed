@@ -1,0 +1,7 @@
+T1	Disease_Symptom 85 98	shoulder pain
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0037011	Shoulder Pain
+T2	Drug 46 53	Kenalog
+A2	Person T2 1st
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

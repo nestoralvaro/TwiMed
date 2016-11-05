@@ -1,0 +1,4 @@
+T1	Symptom 39 43	Pain
+N1	Reference T1 Concepts:C0030193	Pain
+T2	Drug 16 25	#seroquel
+N2	Reference T2 Concepts:5002	Quetiapine

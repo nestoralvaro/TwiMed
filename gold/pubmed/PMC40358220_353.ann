@@ -1,0 +1,6 @@
+T1	Drug 90 101	lamotrigine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Drug 9 19	Olanzapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine

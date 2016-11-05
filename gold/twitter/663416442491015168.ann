@@ -1,0 +1,7 @@
+T1	Disease 23 33	depression
+A1	Person T1 1st
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 7 15	cymbalta
+A2	Person T2 1st
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

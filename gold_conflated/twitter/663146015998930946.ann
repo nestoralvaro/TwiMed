@@ -1,0 +1,8 @@
+T1	Disease_Symptom 91 95	#SAD
+N1	Reference T1 Concepts:C3536794	Sad mood
+T2	Disease_Symptom 122 139	#depressionisreal
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Drug 82 89	effexor
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3

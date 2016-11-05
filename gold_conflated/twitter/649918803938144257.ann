@@ -1,0 +1,13 @@
+T1	Drug 35 40	Paxil
+A1	Modality T1 Generic
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 90 100	depression
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Drug 23 33	paroxetine
+A4	Modality T3 Generic
+A5	Sentiment T3 Negative
+N3	Reference T3 Concepts:4691	Paroxetine
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

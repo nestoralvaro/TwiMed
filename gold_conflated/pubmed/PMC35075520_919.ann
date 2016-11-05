@@ -1,0 +1,12 @@
+T1	Disease_Symptom 98 102	wake
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0043012	Wakefulness
+T2	Disease_Symptom 107 126	reduced total sleep
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0037317 Vs. C1262141
+T3	Drug 77 87	duloxetine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

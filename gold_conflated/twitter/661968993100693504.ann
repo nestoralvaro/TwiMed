@@ -1,0 +1,9 @@
+T1	Disease_Symptom 94 101	anxious
+A1	Person T1 1st
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Drug 104 114	#tamoxifen
+N2	Reference T2 Concepts:5376	Tamoxifen
+T3	Disease_Symptom 3 17	blood pressure
+A3	Person T3 1st
+N3	Reference T3 Concepts:C0497247	Increase in blood pressure

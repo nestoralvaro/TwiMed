@@ -1,0 +1,9 @@
+T1	Symptom 24 56	prolongation of the corrected QT
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: -1 Vs. C0600125
+T2	Drug 106 117	ziprasidone
+N2	Reference T2 Concepts:60853	Ziprasidone
+T3	Symptom 0 9	Akathisia
+N3	Reference T3 Concepts:C0392156	Akathisia
+R1	Outcome-negative Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T2 Arg2:T3

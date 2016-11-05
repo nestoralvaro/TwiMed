@@ -1,0 +1,2252 @@
+-1	name:Name:Unknown Concept ID
+0	name:Name:Disagreement in Concept ID
+3937	name:Name:Lisinopril	name:Also known as:Zestril	name:Also known as:Zestroretic	name:Also known as:Prinzide	name:Also known as:Prinivil	name:Also known as:Tensopril
+4900	name:Name:Prednisone
+4248	name:Name:Montelukast	name:Also known as:Singulair	name:Also known as:Pluralair	name:Also known as:Montecarolo-10	name:Also known as:Montecarloflo	name:Also known as:Lovetas
+5544	name:Name:Triamcinolone	name:Also known as:Kenalog	name:Also known as:Volon A
+5514	name:Name:Topiramate	name:Also known as:Topamax
+222786	name:Name:Cortisone	name:Also known as:Cortisone
+5656	name:Name:Venlafaxine	name:Also known as:Effexor	name:Also known as:Trevilor
+2476	name:Name:Buprenorphine	name:Also known as:Suboxone	name:Also known as:Cizdol	name:Also known as:Subutex	name:Also known as:Zubsolv	name:Also known as:Bunavail	name:Also known as:Temgesic	name:Also known as:Buprenex	name:Also known as:Norspan	name:Also known as:Butrans
+5203	name:Name:Sertraline	name:Also known as:Zoloft	name:Also known as:Lustral
+3007	name:Name:Amphetamine	name:Also known as:Adderall
+4158	name:Name:Methylphenidate	name:Also known as:Ritalin	name:Also known as:Concerta	name:Also known as:Methylin	name:Also known as:Medikinet	name:Also known as:Equasym	name:Also known as:Daytrana	name:Also known as:Phenida	name:Also known as:Attenta	name:Also known as:Hynidate	name:Also known as:Focalin
+4236	name:Name:Modafinil	name:Also known as:Modafinil	name:Also known as:Alertec	name:Also known as:Modavigil	name:Also known as:Provigil
+2771	name:Name:Citalopram	name:Also known as:Citalopram	name:Also known as:celexa	name:Also known as:cipramil
+4691	name:Name:Paroxetine	name:Also known as:Paroxetine	name:Also known as:paxil
+3386	name:Name:Fluoxetine	name:Also known as:Fluoxetine	name:Also known as:prozac
+3404	name:Name:Fluvoxamine	name:Also known as:Faverin	name:Also known as:Fevarin	name:Also known as:Floxyfral	name:Also known as:Luvox
+2554	name:Name:Carbamazepine	name:Also known as:Tegretol
+4585	name:Name:Olanzapine	name:Also known as:Zyprexa	name:Also known as:Zypadhera	name:Also known as:Lanzek
+5533	name:Name:Trazodone	name:Also known as:Depyrel	name:Also known as:Desyrel	name:Also known as:Mesyrel	name:Also known as:Molipaxin	name:Also known as:Oleptro	name:Also known as:Trazodil	name:Also known as:Trazorel	name:Also known as:Trialodine	name:Also known as:Trittico
+60853	name:Name:Ziprasidone	name:Also known as:Geodon	name:Also known as:Zeldox	name:Also known as:Zipwell
+2764	name:Name:Ciprofloxacin	name:Also known as:Ciprofloxacin
+4583	name:Name:ofloxacin	name:Also known as:Levaquin	name:Also known as:Tavanic
+4259	name:Name:moxifloxacin	name:Also known as:Avelox	name:Also known as:Avalox	name:Also known as:Avelon	name:Also known as:Vigamox	name:Also known as:Moxeza
+5002	name:Name:Quetiapine	name:Also known as:Seroquel
+4053	name:Name:Melphalan	name:Also known as:Alkeran	name:Also known as:Sarcolysin
+5376	name:Name:Tamoxifen	name:Also known as:Nolvadex	name:Also known as:Istubal	name:Also known as:Valodex	name:Also known as:Genox
+3143	name:Name:Docetaxel	name:Also known as:Taxotere
+3878	name:Name:Lamotrigine	name:Also known as:Lamictal
+60834	name:Name:Duloxetine	name:Also known as:Cymbalta
+11597697	name:Name:lisdexamfetamine dimesylate	name:Also known as:Vyvanse	name:Also known as:Venvanse	name:Also known as:Elvanse	name:Also known as:Tyvense
+C0274714	name:Name:Adrenergic syndrome
+C0018772	name:Name:Hearing Loss, Partial
+C0041466	name:Name:Typhoid Fever
+C0684249	name:Name:Carcinoma of lung
+C0032961	name:Name:Pregnancy
+C0947912	name:Name:Myasthenias
+C0003578	name:Name:Apnea
+C1328504	name:Name:Hormone-refractory prostate cancer
+C0332601	name:Name:Cushingoid facies
+C0027726	name:Name:Nephrotic Syndrome
+C0600125	name:Name:Electrocardiogram PR prolongation
+C0027720	name:Name:Nephrosis
+C0043352	name:Name:Xerostomia
+C0393761	name:Name:Middle insomnia
+C0236826	name:Name:Expressive language disorder
+C0231835	name:Name:Tachypnea
+C0740425	name:Name:Altered Taste
+C0232831	name:Name:Hyposthenuria
+C0854530	name:Name:Human herpesvirus 6 infection
+C0080274	name:Name:Urinary Retention
+C0271298	name:Name:Chemosis
+C0012359	name:Name:Pathological Dilatation
+C0271051	name:Name:Macular retinal edema
+C1320474	name:Name:Nuchal Rigidity
+C0235240	name:Name:Pounding heart
+C0027651	name:Name:Neoplasms
+C0002170	name:Name:Alopecia
+C0428977	name:Name:Bradycardia
+C0852388	name:Name:Visual colour distortions
+C0032781	name:Name:Posterior rhinorrhea
+C1527407	name:Name:Eosinophilic Pneumonia
+C0151934	name:Name:Hypogeusia
+C0009443	name:Name:Common Cold
+C0151936	name:Name:Tendon disorder
+C0151937	name:Name:Tendon rupture
+C0038454	name:Name:Cerebrovascular accident
+C0038450	name:Name:Stridor
+C0151752	name:Name:FEMALE LACTATION
+C0035258	name:Name:Restless Legs Syndrome
+C0151205	name:Name:Periorbital oedema
+C0031190	name:Name:Persistent Fetal Circulation Syndrome
+C3665418	name:Name:Labile hypertension
+C0041601	name:Name:Ulna Fractures
+C0235025	name:Name:Peripheral motor neuropathy
+C0023434	name:Name:Chronic Lymphocytic Leukemia
+C0856623	name:Name:Orofacial oedema
+C0151686	name:Name:Growth retardation
+C1527311	name:Name:Brain Edema
+C0151689	name:Name:Hair discoloration
+C0235750	name:Name:Hypertension worsened
+C0011849	name:Name:Diabetes Mellitus
+C0006277	name:Name:Bronchitis
+C0085740	name:Name:Mendelson Syndrome
+C0016053	name:Name:Fibromyalgia
+C0278106	name:Name:Ejaculation failure
+C0020569	name:Name:Salivary gland enlargement
+C0233973	name:Name:Painful erection
+C0020564	name:Name:Hypertrophy
+C0948807	name:Name:Hepatic impairment
+C0848309	name:Name:Rhinitis perennial
+C0038587	name:Name:Substance Withdrawal Syndrome
+C0233407	name:Name:Disorientation
+C0233401	name:Name:Psychiatric symptom
+C0003028	name:Name:Anhidrosis
+C0027080	name:Name:Myoglobinuria
+C0855227	name:Name:Purging
+C0427108	name:Name:General unsteadiness
+C1112709	name:Name:Non-gonococcal urethritis (NGU)
+C0085692	name:Name:Cystitis haemorrhagic
+C1956346	name:Name:Coronary Artery Disease
+C0546947	name:Name:Choking sensation
+C0030552	name:Name:Paresis
+C0424109	name:Name:Weepiness
+C0030554	name:Name:Paresthesia
+C0278079	name:Name:Dependence psychological
+C0037672	name:Name:Somnambulism
+C0854069	name:Name:Tumor pain
+C0149756	name:Name:Fasciitis, Plantar
+C3203661	name:Name:Bilirubin total low
+C0086981	name:Name:Sicca Syndrome
+C0233571	name:Name:Excitement emotion
+C0023890	name:Name:Liver Cirrhosis
+C0023895	name:Name:Liver diseases
+C0221423	name:Name:Illness (finding)
+C0030486	name:Name:Paraplegia
+C0234376	name:Name:Action Tremor
+C0040896	name:Name:Trichinellosis
+C0541832	name:Name:Chromaturia
+C0423153	name:Name:Lacrimation
+C0235807	name:Name:Hair texture abnormal
+C0851341	name:Name:Infestation
+C0549209	name:Name:Feeling jittery
+C0019557	name:Name:Hip Fractures
+C0030318	name:Name:Panic
+C0030319	name:Name:Panic Disorder
+C0575090	name:Name:Equilibration disorder
+C0030312	name:Name:Pancytopenia
+C0751295	name:Name:Memory Loss
+C1257843	name:Name:Pseudomembranous colitis
+C0011206	name:Name:Delirium
+C0021167	name:Name:Incontinence
+C0233754	name:Name:Derealization
+C0340238	name:Name:Infectious disorder of bronchus
+C0854082	name:Name:Blood prolactin increased
+C0024440	name:Name:Macular Edema, Cystoid
+C0020701	name:Name:Hysteria
+C0000727	name:Name:Abdomen, Acute
+C0262405	name:Name:Brain dysfunction
+C0000729	name:Name:Abdominal Cramps
+C0522172	name:Name:Feeling drunk
+C0024282	name:Name:Lymphocytosis
+C0231837	name:Name:Respiratory rate decreased
+C0005758	name:Name:Bulla
+C0235939	name:Name:Crying abnormal
+C0349410	name:Name:Organ failure
+C0019158	name:Name:Hepatitis
+C0854303	name:Name:Limb discomfort
+C0549250	name:Name:Jaw stiffness
+C0549253	name:Name:Bladder dilatation
+C0549259	name:Name:Anxiety aggravated
+C0019156	name:Name:Hepatic Veno-Occlusive Disease
+C0042256	name:Name:Vaginal itching
+C0743300	name:Name:Urine drug screen positive
+C0041296	name:Name:Tuberculosis
+C0002962	name:Name:Angina Pectoris
+C0027531	name:Name:Neck Injuries
+C0002965	name:Name:Angina, Unstable
+C0033575	name:Name:Prostatic Diseases
+C0276141	name:Name:Bronchitis viral
+C0549336	name:Name:Asthma aggravated
+C0015695	name:Name:Fatty Liver
+C0043037	name:Name:Common wart
+C0728936	name:Name:Unspecified circulatory system disorder
+C0037320	name:Name:Night Terrors
+C0042035	name:Name:Urination Disorders
+C0154731	name:Name:Glossopharyngeal Neuralgia
+C0311468	name:Name:Increased bilirubin level (finding)
+C0262578	name:Name:Night cramps
+C0010038	name:Name:Corneal Opacity
+C0853714	name:Name:Application site pruritus
+C0853711	name:Name:Sperm count decreased
+C0259972	name:Name:Ketogenic Diet
+C1263960	name:Name:Diabetes with coma (disorder)
+C0015967	name:Name:Fever
+C0001418	name:Name:Adenocarcinoma
+C0236051	name:Name:Tolerance development
+C0558489	name:Name:Renal pain
+C0241863	name:Name:Diabetic
+C0497201	name:Name:Abnormal sensation in eye
+C0008728	name:Name:Churg-Strauss Syndrome
+C0033774	name:Name:Pruritus
+C0162848	name:Name:Lichenoid Eruptions
+C0852711	name:Name:Sickle Cell Dactylitis
+C0033771	name:Name:Prurigo
+C0042109	name:Name:Urticaria
+C0033778	name:Name:Pruritus Vulvae
+C0003813	name:Name:Sinus Arrhythmia
+C0003811	name:Name:Cardiac Arrhythmia
+C0153690	name:Name:Bone cancer metastatic
+C1306577	name:Name:Death (finding)
+C0018991	name:Name:Hemiplegia
+C0438717	name:Name:Transaminases increased
+C0017086	name:Name:Gangrene
+C0003486	name:Name:Aortic Aneurysm
+C0857980	name:Name:Serum prolactin increased
+C0240327	name:Name:Taste, Metallic
+C0040213	name:Name:Tietze's Syndrome
+C0521495	name:Name:Application site rash
+C0521490	name:Name:Application site irritation
+C0521491	name:Name:Application site pain
+C0001511	name:Name:Tissue Adhesions
+C0600139	name:Name:Prostate carcinoma
+C0206669	name:Name:Hepatocellular Adenoma
+C0234975	name:Name:Convulsions aggravated
+C0206063	name:Name:Radiation Pneumonitis
+C0206062	name:Name:Lung Diseases, Interstitial
+C0206061	name:Name:Pneumonia, Interstitial
+C0032227	name:Name:Pleural effusion disorder
+C0003962	name:Name:Ascites
+C1264613	name:Name:Gastrointestinal infection
+C0232807	name:Name:Function kidney decreased
+C2939420	name:Name:Metastatic Neoplasm
+C0037822	name:Name:Speech Disorders
+C0009760	name:Name:Conjunctival haemorrhage
+C0003708	name:Name:Arachnoiditis
+C1536459	name:Name:Nettle rash
+C0231230	name:Name:Fatigability
+C0235234	name:Name:Dry throat
+C0009450	name:Name:Communicable Diseases
+C0012833	name:Name:Dizziness
+C0428974	name:Name:Supraventricular arrhythmia
+C0852911	name:Name:Blood alkaline phosphatase increased
+C0852913	name:Name:Blood amylase increased
+C0600228	name:Name:Cardiopulmonary Arrest
+C0035243	name:Name:Respiratory Tract Infections
+C1291077	name:Name:Abdominal bloating
+C1291078	name:Name:Epigastric discomfort
+C0151740	name:Name:Intracranial Hypertension
+C0151746	name:Name:Kidney function abnormal
+C0151744	name:Name:Myocardial Ischemia
+C0013298	name:Name:Duodenitis
+C0029442	name:Name:Osteomalacia
+C0029443	name:Name:Osteomyelitis
+C0029445	name:Name:Bone necrosis
+C0003635	name:Name:Apraxias
+C0006285	name:Name:Bronchopneumonia
+C0006846	name:Name:Cutaneous Candidiasis
+C0151691	name:Name:High density lipoprotein decreased
+C0151692	name:Name:Impaired healing
+C0151694	name:Name:Hemorrhage of colon
+C1325847	name:Name:Sensitisation
+C0235347	name:Name:Black hairy tongue
+C2242583	name:Name:Acute liver injury
+C0007642	name:Name:Cellulitis
+C0876994	name:Name:Cardiotoxicity
+C0007398	name:Name:Catatonia
+C0006266	name:Name:Bronchial Spasm
+C0427008	name:Name:Stiffness
+C0011053	name:Name:Deafness
+C0040409	name:Name:Tongue Diseases
+C0029191	name:Name:Orchitis
+C0151541	name:Name:Capillary fragility increased
+C0520893	name:Name:Localized desquamation
+C0520459	name:Name:Enterocolitis, Necrotizing
+C0858899	name:Name:Attention concentration difficulty
+C0149922	name:Name:Lichen Simplex Chronicus
+C0855217	name:Name:Lack of spontaneous speech
+C0014547	name:Name:Epilepsies, Partial
+C0041105	name:Name:Trismus
+C0027092	name:Name:Myopia
+C0235165	name:Name:Mania acute
+C0344320	name:Name:Vivid dreams
+C0235168	name:Name:Nervous tremulousness
+C0235169	name:Name:Excitability
+C0242362	name:Name:Disk, Herniated
+C2363722	name:Name:Steroid psychosis
+C0034074	name:Name:Pulmonary Infarction
+C0151754	name:Name:Lactic dehydrogenase activity increased
+C0034040	name:Name:Puerperal Disorders
+C0424448	name:Name:Mask-like facies
+C0149725	name:Name:Lower respiratory tract infection
+C0278008	name:Name:Change of bowel habit
+C0031542	name:Name:Phlebitis
+C0392185	name:Name:Verbal repetition
+C0085641	name:Name:Pustular rash
+C0233697	name:Name:Obsessions
+C0750197	name:Name:Sustained ventricular tachycardia
+C0029261	name:Name:Orgasmic Disorder
+C0343863	name:Name:Genital candidiasis
+C0020175	name:Name:Hunger
+C0234369	name:Name:Trembling
+C0235763	name:Name:Psoriasis flare-up
+C0235761	name:Name:Perforation of nasal septum
+C0162565	name:Name:Acute intermittent porphyria
+C0541820	name:Name:Carbohydrate tolerance decreased
+C0235834	name:Name:Upper motor neurone lesion
+C0851353	name:Name:Blood and lymphatic system disorders
+C0860703	name:Name:Serum total protein decreased
+C0851354	name:Name:Ear and labyrinth disorders
+C0030305	name:Name:Pancreatitis
+C0876973	name:Name:Lung infection
+C0876975	name:Name:Pruritus NEC
+C0442886	name:Name:Secondary Infections
+C0027697	name:Name:Nephritis
+C0000731	name:Name:Abdomen distended
+C0000737	name:Name:Abdominal Pain
+C0270736	name:Name:Essential Tremor
+C0004610	name:Name:Bacteremia
+C0429097	name:Name:QRS complex
+C0036689	name:Name:Pharyngitis streptococcal
+C0036337	name:Name:Schizoaffective Disorder
+C0853891	name:Name:Tumour flare
+C0235901	name:Name:Lacrimation abnormal
+C0152009	name:Name:WBC abnormal
+C0039520	name:Name:Tenosynovitis
+C0877237	name:Name:Traumatic fracture
+C0549249	name:Name:Depressed Level of Consciousness
+C1868709	name:Name:Activation syndrome
+C0041912	name:Name:Upper Respiratory Infections
+C1956089	name:Name:Osteophyte
+C0155067	name:Name:Corneal ulcer marginal
+C0392162	name:Name:Clammy skin
+C0392163	name:Name:Corneal erosion
+C0015371	name:Name:Extrapyramidal Disorders
+C0234987	name:Name:Dizziness postural
+C0015376	name:Name:Extravasation
+C0242979	name:Name:Muscle Fatigue
+C0240182	name:Name:Leukonychia
+C0036202	name:Name:Sarcoidosis
+C0001396	name:Name:Adams-Stokes Syndrome
+C0522178	name:Name:Self-injurious ideation
+C0522179	name:Name:Fear of death
+C0438235	name:Name:Liver function test normal
+C0242225	name:Name:Color blindness
+C0042029	name:Name:Urinary tract infection
+C0277890	name:Name:Decreased diastolic arterial pressure
+C0038325	name:Name:Stevens-Johnson Syndrome
+C0026857	name:Name:Musculoskeletal Diseases
+C0042024	name:Name:Urinary Incontinence
+C0042023	name:Name:Increased frequency of micturition
+C0541799	name:Name:Bad taste
+C0541798	name:Name:Early Awakening
+C0005741	name:Name:Blepharitis
+C0024121	name:Name:Lung Neoplasms
+C0005747	name:Name:Blepharospasm
+C0577559	name:Name:Mass of body structure
+C0013687	name:Name:Effusion
+C0018188	name:Name:Granuloma
+C0021845	name:Name:Intestinal Perforation
+C0021843	name:Name:Intestinal Obstruction
+C0236024	name:Name:Pharyngeal oedema
+C0234930	name:Name:Skin odour abnormal
+C2607914	name:Name:Allergic rhinitis (disorder)
+C0236023	name:Name:Periodontal destruction
+C3248383	name:Name:Logorrhoea
+C0232744	name:Name:Function liver decreased
+C0263540	name:Name:Onychomadesis
+C0036117	name:Name:Salmonella infections
+C0577730	name:Name:Family stress
+C0205204	name:Name:Scab
+C0853879	name:Name:Invasive Breast Carcinoma
+C1519353	name:Name:Skin Papule
+C0877167	name:Name:Psychomotor skills impaired
+C0008049	name:Name:Chickenpox
+C0151723	name:Name:Hypomagnesaemia
+C0022548	name:Name:Keloid
+C0858603	name:Name:Wave slowing
+C0022893	name:Name:Labyrinthitis
+C0022890	name:Name:Labyrinthine disorder
+C0858357	name:Name:Oesophageal stenosis acquired
+C1565662	name:Name:Acute Kidney Insufficiency
+C0936223	name:Name:Prostate cancer metastatic
+C1140680	name:Name:Malignant neoplasm of ovary
+C0518988	name:Name:Tooth abscess
+C0178829	name:Name:Reproductive system disorder
+C0026650	name:Name:Movement Disorders
+C0409974	name:Name:Lupus Erythematosus
+C0877792	name:Name:Sleep Disorders, Circadian Rhythm
+C0234967	name:Name:Choreoathetoid movements
+C0522351	name:Name:Positional Vertigo
+C0032231	name:Name:Pleurisy
+C0032541	name:Name:Polyneuritis
+C0334246	name:Name:Metastatic squamous cell carcinoma
+C0038814	name:Name:Sunburn
+C0262431	name:Name:Spinal compression fracture
+C0151598	name:Name:Drug level decreased
+C0151599	name:Name:Drug level increased
+C0028850	name:Name:Ocular Motility Disorders
+C0151596	name:Name:Tongue discolouration
+C0151594	name:Name:Diarrhoea haemorrhagic
+C0455204	name:Name:Homicidal ideation
+C0002390	name:Name:Extrinsic allergic alveolitis
+C0085624	name:Name:Burning sensation
+C0002395	name:Name:Alzheimer's Disease
+C0011848	name:Name:Diabetes Insipidus
+C1760428	name:Name:Suicidal behaviour
+C0009421	name:Name:Comatose
+C0017672	name:Name:Glossalgia
+C0151629	name:Name:Fixed eruption
+C0151911	name:Name:Generalized Spasms
+C0013537	name:Name:Eclampsia
+C0035309	name:Name:Retinal Diseases
+C0877225	name:Name:Bone density decreased
+C0231218	name:Name:Malaise
+C0151779	name:Name:Cutaneous Melanoma
+C0151775	name:Name:Injection site mass
+C0151772	name:Name:Manic psychosis
+C0151773	name:Name:Bone marrow depression
+C0029453	name:Name:Osteopenia
+C0854467	name:Name:Myelosuppression
+C0029456	name:Name:Osteoporosis
+C1269683	name:Name:Major Depressive Disorder
+C0030807	name:Name:Pemphigus
+C0241060	name:Name:Cyst of skin
+C0030805	name:Name:Bullous pemphigoid
+C0023418	name:Name:Leukemia
+C0235353	name:Name:Tooth caries aggravated
+C0235351	name:Name:Ulcer on tongue
+C0919924	name:Name:Pulmonary toxicity
+C0009088	name:Name:Cluster Headache
+C2225524	name:Name:Macromastia
+C0031046	name:Name:Pericarditis
+C0159321	name:Name:Facial bones fracture
+C0007384	name:Name:Cataplexy
+C0030794	name:Name:Pelvic Pain
+C0020542	name:Name:Pulmonary Hypertension
+C0012797	name:Name:Diuresis
+C0016034	name:Name:Breast Fibrocystic Disease
+C0020546	name:Name:Hypertensive crisis
+C0040479	name:Name:Torsades de Pointes
+C0020545	name:Name:Hypertension, Renovascular
+C0392171	name:Name:Influenza-like symptoms
+C0003044	name:Name:Animal bite
+C0393760	name:Name:Initial insomnia
+C0027066	name:Name:Myoclonus
+C0006384	name:Name:Bundle-Branch Block
+C0149931	name:Name:Migraine Disorders
+C0520463	name:Name:Chronic active hepatitis
+C0751901	name:Name:Tic, Vocal
+C0751900	name:Name:Tic, Motor
+C1696943	name:Name:Hypoaesthesia facial
+C0332575	name:Name:Redness
+C0016927	name:Name:Gagging
+C0034065	name:Name:Pulmonary Embolism
+C2363731	name:Name:Oropharyngeal pain
+C0860661	name:Name:Oppositional
+C1740801	name:Name:Exaggerated startle response
+C1145670	name:Name:Respiratory Failure
+C0221392	name:Name:Atrophic Vaginitis
+C0392197	name:Name:Physiologic warmth
+C0149732	name:Name:Muscle rupture
+C0029077	name:Name:Ophthalmia, Sympathetic
+C0085655	name:Name:Polymyositis
+C0264907	name:Name:Mobitz type I incomplete atrioventricular block
+C0221150	name:Name:Odynophagia
+C0423791	name:Name:Rash maculo-papular
+C0221155	name:Name:Systolic hypertension
+C0423798	name:Name:Increased tendency to bruise
+C0233514	name:Name:Abnormal behavior
+C0423006	name:Name:Discharge from eye
+C0853084	name:Name:High density lipoprotein increased
+C0558919	name:Name:Stress at work
+C0235774	name:Name:Somnolence neonatal
+C0011860	name:Name:Diabetes Mellitus, Non-Insulin-Dependent
+C0160390	name:Name:Liver injury
+C0235827	name:Name:Therapeutic response decreased
+C0234428	name:Name:Consciousness abnormal
+C0027849	name:Name:Neuroleptic Malignant Syndrome
+C0423773	name:Name:Skin scaly
+C0036439	name:Name:Scoliosis, unspecified
+C0039446	name:Name:Telangiectasis
+C0542351	name:Name:Battery (assault)
+C2129214	name:Name:Loose stool
+C2945586	name:Name:Bladder irritability
+C0278701	name:Name:Gastric Adenocarcinoma
+C0021141	name:Name:Inappropriate ADH Syndrome
+C1442903	name:Name:Exostoses
+C0221714	name:Name:Injection site infection
+C0406479	name:Name:Steroid acne
+C0521839	name:Name:Influenza like illness
+C0235919	name:Name:Nerve root lesion
+C0424091	name:Name:Decreased interest
+C0004601	name:Name:Back Injuries
+C0041834	name:Name:Erythema
+C0699744	name:Name:Infection of ear
+C0004604	name:Name:Back Pain
+C0428196	name:Name:Bicarbonate level
+C1321905	name:Name:Minimal Brain Dysfunction
+C1956415	name:Name:Paroxysmal nocturnal dyspnea
+C0030201	name:Name:Pain, Postoperative
+C0027819	name:Name:Neuroblastoma
+C0580493	name:Name:Serum albumin low result
+C0004936	name:Name:Mental disorders
+C0549475	name:Name:Lipase increased
+C0877221	name:Name:Decreased erythroid precursor production
+C0020039	name:Name:Hostility
+C0574960	name:Name:Sacroiliitis
+C0392176	name:Name:Gastric irritation
+C0015300	name:Name:Exophthalmos
+C0002940	name:Name:Aneurysm
+C0001546	name:Name:Adjustment Disorders
+C0281963	name:Name:Red cell aplasia
+C0404521	name:Name:Infective vaginitis
+C0010034	name:Name:Corneal Diseases
+C0025287	name:Name:Meningism
+C0025281	name:Name:Meniere Disease
+C0349506	name:Name:Photosensitivity of skin
+C0025289	name:Name:Meningitis
+C0242172	name:Name:Pelvic Inflammatory Disease
+C0042345	name:Name:Varicosity
+C0152459	name:Name:Linear atrophy
+C0036690	name:Name:Septicemia
+C0877359	name:Name:Raised liver function tests
+C0024137	name:Name:Lupus Erythematosus, Cutaneous
+C0025517	name:Name:Metabolic Diseases
+C0019917	name:Name:Hordeolum
+C0085136	name:Name:Central Nervous System Neoplasms
+C0587246	name:Name:Limb paresis
+C0948216	name:Name:Ovarian adenocarcinoma
+C0036104	name:Name:Secretion of saliva
+C0311220	name:Name:Lymphocytoma cutis
+C0156369	name:Name:Uterine Polyp
+C0042164	name:Name:Uveitis
+C0555724	name:Name:On examination - dry lips
+C0042167	name:Name:Uveitis, Posterior
+C0520878	name:Name:Electrocardiogram PR shortened
+C0747979	name:Name:Increased prolactin level
+C0033046	name:Name:Premenstrual syndrome
+C0853644	name:Name:Eosinophil count abnormal
+C0019825	name:Name:Hoarseness
+C0162533	name:Name:Porphyrias, Hepatic
+C0019048	name:Name:Hemoglobinuria
+C1260880	name:Name:Rhinorrhea
+C0028734	name:Name:Nocturia
+C1168401	name:Name:Squamous cell carcinoma of the head and neck
+C0018081	name:Name:Gonorrhea
+C0028738	name:Name:Nystagmus
+C0013781	name:Name:Shock from electric current
+C0231686	name:Name:Gait, Unsteady
+C1456865	name:Name:Ureteral Calculi
+C0847631	name:Name:Dry scalp
+C2937358	name:Name:Cerebral Hemorrhage
+C0263449	name:Name:Perioral Dermatitis
+C0022081	name:Name:Iritis
+C2937350	name:Name:Abnormal ejaculation
+C2973529	name:Name:Leukocytoclastic vasculitis
+C0015726	name:Name:Fear (Mental Process)
+C0042769	name:Name:Virus Diseases
+C0232487	name:Name:Abdominal discomfort
+C3495917	name:Name:Advanced breast cancer
+C0151588	name:Name:Transitory deafness
+C0240211	name:Name:Lip swelling
+C0032064	name:Name:Plague
+C0151586	name:Name:Partial permanent deafness
+C0151580	name:Name:Crystalluria calcium
+C3160887	name:Name:Node-positive breast cancer
+C3160889	name:Name:Node-negative breast cancer
+C3160888	name:Name:Metastatic gastric adenocarcinoma
+C0151908	name:Name:Dry skin
+C0847033	name:Name:Allergic oedema
+C0041582	name:Name:Ulcer
+C0235218	name:Name:Skin warm
+C0151905	name:Name:Alanine aminotransferase increased
+C0027609	name:Name:Neonatal Abstinence Syndrome
+C0151907	name:Name:Discoloration of skin
+C0238111	name:Name:Lennox-Gastaut syndrome
+C0035317	name:Name:Retinal Hemorrhage
+C0948011	name:Name:Cervix haemorrhage uterine
+C0040485	name:Name:Torticollis
+C0852932	name:Name:Arthropod sting
+C0003834	name:Name:Arterial insufficiency
+C0030528	name:Name:Paratyphoid Fever
+C0151763	name:Name:Liver damage
+C0729552	name:Name:Genital infection
+C0151765	name:Name:Liver fatty deposition
+C0184567	name:Name:Acute onset pain
+C0151766	name:Name:Liver function tests abnormal finding
+C1112209	name:Name:Intraabdominal Infections
+C0268000	name:Name:Fluid retention
+C1142034	name:Name:Tandem gait test abnormal
+C0042907	name:Name:Vitreous Detachment
+C0029464	name:Name:Osteosclerosis
+C0003615	name:Name:Appendicitis
+C0162835	name:Name:Hypopigmentation disorder
+C0039338	name:Name:Taste Disorders
+C1258215	name:Name:Ileus
+C0260662	name:Name:Hearing problem
+C0031039	name:Name:Pericardial effusion
+C0235369	name:Name:Hepatitis granulomatous
+C0869523	name:Name:Carditis
+C0011071	name:Name:Sudden death
+C0919591	name:Name:Urogenital haemorrhage
+C0848377	name:Name:Trauma to the abdomen
+C0030781	name:Name:Peliosis Hepatis
+C0020555	name:Name:Hypertrichosis
+C0020557	name:Name:Hypertriglyceridemia
+C0020550	name:Name:Hyperthyroidism
+C0242292	name:Name:McCune-Albright Syndrome
+C0029882	name:Name:Otitis Media
+C0040147	name:Name:Thyroiditis
+C0040460	name:Name:Toothache
+C0235146	name:Name:Euphoric mood
+C0271240	name:Name:Blindness of one eye (disorder)
+C0280100	name:Name:Solid tumour
+C0271710	name:Name:Reactive hypoglycemia
+C0240671	name:Name:Partial thromboplastin time increased (finding)
+C0036416	name:Name:Scleritis
+C0006663	name:Name:Calcinosis
+C0040997	name:Name:Trigeminal Neuralgia
+C0007820	name:Name:Cerebrovascular Disorders
+C0699828	name:Name:Serotonin Syndrome
+C0030567	name:Name:Parkinson Disease
+C1112573	name:Name:Delayed orgasm
+C0007286	name:Name:Carpal Tunnel Syndrome
+C0151757	name:Name:Lenticular pigmentation
+C0149707	name:Name:Hemospermia
+C0854097	name:Name:Hypoesthesia eye
+C0333291	name:Name:Ulcer haemorrhage
+C0085669	name:Name:Acute leukemia
+C0919661	name:Name:Heart alternation
+C0085660	name:Name:Aseptic necrosis
+C0085661	name:Name:Onycholysis
+C0233523	name:Name:Antisocial behavior
+C0151818	name:Name:Opisthotonus
+C0040517	name:Name:Gilles de la Tourette syndrome
+C1262036	name:Name:Ocular toxicity
+C1369037	name:Name:FInding of estrangement
+C0020488	name:Name:Hypernatremia
+C0155866	name:Name:Inhalational anthrax
+C0497156	name:Name:Lymphadenopathy
+C0155862	name:Name:Streptococcal pneumonia
+C0267596	name:Name:Rectal hemorrhage
+C0026986	name:Name:Dysmyelopoietic Syndromes
+C0011253	name:Name:Delusions
+C0019559	name:Name:Coxalgia
+C0221706	name:Name:Traffic accident on public road
+C0234238	name:Name:Ache
+C0234233	name:Name:Sore to touch
+C0155919	name:Name:Acute pulmonary oedema
+C0860654	name:Name:Reduced interest in usual activities
+C0015468	name:Name:Facial Pain
+C1608954	name:Name:Infusion site extravasation
+C0340865	name:Name:Anaphylactoid reaction
+C0235969	name:Name:Ejaculation disorder
+C0701810	name:Name:Long-term memory loss
+C0235966	name:Name:Dreaming excessive
+C0019693	name:Name:HIV Infections
+C0702266	name:Name:Basophilia
+C0920063	name:Name:Uric acid high
+C0038013	name:Name:Ankylosing spondylitis
+C0025218	name:Name:Chloasma
+C0549264	name:Name:Sensation of blood flow
+C0008449	name:Name:Chondrodystrophy
+C0743668	name:Name:Limb injury
+C0857751	name:Name:Erythema multiforme minor
+C0024419	name:Name:Waldenstrom Macroglobulinemia
+C0392386	name:Name:Decreased platelet count
+C0162532	name:Name:Variegate Porphyria
+C0024031	name:Name:Low Back Pain
+C0034735	name:Name:Raynaud Phenomenon
+C0859023	name:Name:Talkativeness
+C0155003	name:Name:Blindness, Transient
+C0233651	name:Name:Perseveration
+C1141893	name:Name:Muscle enzyme increased
+C0424790	name:Name:Rigor - Temperature-associated observation
+C0001577	name:Name:Adnexitis
+C3495440	name:Name:Break-through bleeding (finding)
+C0025290	name:Name:Aseptic Meningitis
+C0042594	name:Name:Vestibular Diseases
+C0856081	name:Name:Restlessness aggravated
+C0277889	name:Name:Blood pressure diastolic increased
+C0019214	name:Name:Hepatosplenomegaly
+C0152115	name:Name:Lingual-Facial-Buccal Dyskinesia
+C0578687	name:Name:Sore eye
+C0857353	name:Name:Hypotensive
+C0155713	name:Name:Papillary muscle rupture
+C0277885	name:Name:Blood pressure systolic decreased
+C0277884	name:Name:Blood pressure systolic increased
+C0025500	name:Name:Mesothelioma
+C0015408	name:Name:Eye Injuries
+C0014130	name:Name:Endocrine System Diseases
+C0151885	name:Name:Reaction aggravation
+C0015403	name:Name:Eye Infections
+C0015402	name:Name:Eye Hemorrhage
+C0042571	name:Name:Vertigo
+C0234894	name:Name:Dermatitis acneiform
+C0040264	name:Name:Tinnitus
+C0236000	name:Name:Jaw pain
+C0237849	name:Name:Peeling of skin
+C0349208	name:Name:Manic episode
+C0019079	name:Name:Hemoptysis
+C0014553	name:Name:Absence Epilepsy
+C0014550	name:Name:Epilepsies, Myoclonic
+C0520886	name:Name:ST segment elevation (finding)
+C0520888	name:Name:Inverted T wave
+C0025345	name:Name:Menstruation Disturbances
+C0018099	name:Name:Gout
+C1861172	name:Name:Venous Thromboembolism
+C0022346	name:Name:Icterus
+C1260899	name:Name:Anemia, Diamond-Blackfan
+C0003537	name:Name:Aphasia
+C0860700	name:Name:Prothrombin level abnormal
+C0687713	name:Name:Gastrointestinal pain
+C0152936	name:Name:Plague, Septicemic
+C0428886	name:Name:Mean blood pressure
+C0853692	name:Name:Blood triglycerides increased
+C0853697	name:Name:Neutrophil count decreased
+C0239340	name:Name:Edema of lower extremities
+C0152169	name:Name:Renal Colic
+C0232498	name:Name:Abdominal tenderness
+C0232495	name:Name:Abdominal pain lower
+C0262988	name:Name:Cutaneous vasculitis
+C0232492	name:Name:Abdominal pain upper
+C0151571	name:Name:Corneal lesion
+C0039231	name:Name:Tachycardia
+C0151574	name:Name:Cough decreased
+C0151576	name:Name:Creatine phosphokinase increased
+C0151577	name:Name:Creatinine renal clearance decreased
+C0151578	name:Name:Creatinine increased
+C0151579	name:Name:Crystalluria
+C0039239	name:Name:Sinus Tachycardia
+C0231441	name:Name:Immobile
+C0346156	name:Name:Benign neoplasm of breast
+C0032584	name:Name:Polyps
+C0521591	name:Name:Paraesthesia oral
+C0521592	name:Name:Hypoaesthesia oral
+C0040046	name:Name:Thrombophlebitis
+C0231274	name:Name:Intolerant of heat
+C0001627	name:Name:Congenital adrenal hyperplasia
+C1384494	name:Name:Metastatic Carcinoma
+C0151970	name:Name:Ulcer of esophagus
+C0001623	name:Name:Adrenal gland hypofunction
+C0547030	name:Name:Visual disturbance
+C0338831	name:Name:Manic
+C0151714	name:Name:Hypermagnesemia
+C0151717	name:Name:Skin hypertrophy
+C0031154	name:Name:Peritonitis
+C0035457	name:Name:Rhinitis, Allergic, Perennial
+C0035455	name:Name:Rhinitis
+C0151718	name:Name:Hypocholesterolemia
+C0151480	name:Name:Antinuclear antibody positive
+C0302295	name:Name:Eruptions
+C0235378	name:Name:Hepatotoxicity
+C0271650	name:Name:Impaired glucose tolerance
+C0029877	name:Name:Ear Inflammation
+C0231303	name:Name:Distress
+C0035078	name:Name:Kidney Failure
+C1527358	name:Name:Phototoxicity
+C0029878	name:Name:Otitis Externa
+C0002886	name:Name:Anemia, Macrocytic
+C0542203	name:Name:Water retention (finding)
+C0333355	name:Name:Mucositis
+C0409497	name:Name:Joint injury
+C0235013	name:Name:Hypervigilance
+C0151622	name:Name:Endometrial disorder
+C0151625	name:Name:Enzyme abnormality
+C0151626	name:Name:Necrolysis epidermal
+C0085702	name:Name:Monocytosis
+C0085096	name:Name:Peripheral Vascular Diseases
+C0012691	name:Name:Dislocations
+C0242350	name:Name:Erectile dysfunction
+C0026884	name:Name:Mutism
+C0009376	name:Name:Colonic Polyps
+C1458140	name:Name:Bleeding tendency
+C0031572	name:Name:Phobia, Social
+C0085679	name:Name:Hyperchloraemia
+C0035854	name:Name:Rosacea
+C0158350	name:Name:Tendinous contracture
+C1262006	name:Name:Sinusitis bacterial
+C0221170	name:Name:Muscular stiffness
+C0025162	name:Name:Megacolon, Toxic
+C0858970	name:Name:Carcinogenicity
+C0740394	name:Name:Hyperuricemia
+C0011882	name:Name:Diabetic Neuropathies
+C0011881	name:Name:Diabetic Nephropathy
+C0011880	name:Name:Diabetic Ketoacidosis
+C1112369	name:Name:Paranasal sinus hypersecretion
+C0034186	name:Name:Pyelonephritis
+C0751495	name:Name:Seizures, Focal
+C0751494	name:Name:Convulsive Seizures
+C0027822	name:Name:Neurodermatitis
+C0020507	name:Name:Hyperplasia
+C0030353	name:Name:Papilledema
+C0026896	name:Name:Myasthenia Gravis
+C0497364	name:Name:Localized rash
+C0497365	name:Name:Rash generalised
+C0231246	name:Name:Failure to gain weight
+C0340279	name:Name:Ventricular hypertrophy
+C0542571	name:Name:Facial edema
+C0030193	name:Name:Pain
+C0233794	name:Name:Memory impairment
+C0030196	name:Name:Pain in limb
+C0025874	name:Name:Metrorrhagia
+C0580531	name:Name:White blood cell count abnormal
+C0041327	name:Name:Tuberculosis, Pulmonary
+C1504494	name:Name:Tingling of extremity
+C0221776	name:Name:Oral pain
+C0002171	name:Name:Alopecia Areata
+C0020580	name:Name:Hypesthesia
+C0008350	name:Name:Cholelithiasis
+C0850149	name:Name:Dry cough
+C0036346	name:Name:Schizophrenia, Childhood
+C0858635	name:Name:Pharyngolaryngeal pain
+C0036341	name:Name:Schizophrenia
+C0333641	name:Name:Atrophic
+C0037290	name:Name:Skin Pigmentation
+C0549297	name:Name:Auricular swelling
+C0010200	name:Name:Coughing
+C0857501	name:Name:Acute schizophrenia
+C0162429	name:Name:Malnutrition
+C0877203	name:Name:Respiratory tract infection viral
+C0019112	name:Name:Hemorrhoids
+C0021053	name:Name:Immune System Diseases
+C0549453	name:Name:Traumatic haematoma
+C0004134	name:Name:Ataxia
+C0392156	name:Name:Akathisia
+C0860864	name:Name:Albumin low
+C0004245	name:Name:Atrioventricular Block
+C0860866	name:Name:Potassium low
+C0001364	name:Name:Massive Hepatic Necrosis
+C0424740	name:Name:Cold hands
+C0424741	name:Name:Cold feet
+C0019209	name:Name:Hepatomegaly
+C0016382	name:Name:Flushing
+C0022408	name:Name:Arthropathy
+C0155709	name:Name:Atrial fibrillation and flutter
+C0024115	name:Name:Lung diseases
+C0024117	name:Name:Chronic Obstructive Airway Disease
+C0025193	name:Name:Melancholia
+C0004623	name:Name:Bacterial Infections
+C0012813	name:Name:Diverticulitis
+C0152128	name:Name:Drug withdrawal syndrome
+C0043096	name:Name:Body Weight decreased
+C0027441	name:Name:Nasopharyngitis
+C0040053	name:Name:Thrombosis
+C0022568	name:Name:Keratitis
+C0853193	name:Name:Bipolar I disorder
+C0863093	name:Name:Cold symptoms
+C0522035	name:Name:Upper limb oedema
+C0004691	name:Name:Balanoposthitis
+C0236018	name:Name:Aura
+C0022578	name:Name:Keratoconus
+C0019065	name:Name:Hemoperitoneum
+C0022573	name:Name:Keratoconjunctivitis
+C0022575	name:Name:Keratoconjunctivitis Sicca
+C0877153	name:Name:Neutropenic sepsis
+C0018794	name:Name:Heart Block
+C0014544	name:Name:Epilepsy
+C1510497	name:Name:Lens Opacities
+C0018790	name:Name:Cardiac Arrest
+C0014236	name:Name:Endophthalmitis
+C0014549	name:Name:Tonic-Clonic Epilepsy
+C0018799	name:Name:Heart Diseases
+C0038999	name:Name:Swelling
+C0022354	name:Name:Jaundice, Obstructive
+C0038990	name:Name:Sweating
+C1609512	name:Name:Vulvovaginal mycotic infection
+C0853336	name:Name:Corneal infiltrates
+C1510472	name:Name:Drug Dependence
+C2267227	name:Name:Bulimia Nervosa
+C1153706	name:Name:Endometrial adenocarcinoma
+C0013491	name:Name:Ecchymosis
+C0700031	name:Name:Anxiety attack
+C0234933	name:Name:Erythema multiforme severe
+C0232461	name:Name:Increased appetite (finding)
+C0232462	name:Name:Decrease in appetite
+C0853813	name:Name:Local reaction
+C0014431	name:Name:Enzyme Induction
+C0277589	name:Name:Found dead (cause undetermined)
+C0038525	name:Name:Subarachnoid Hemorrhage
+C0520679	name:Name:Sleep Apnea, Obstructive
+C0151564	name:Name:Cogwheel Rigidity
+C0520676	name:Name:Premenstrual dysphoric disorder
+C0741494	name:Name:Bilirubin total increased
+C0002453	name:Name:Amenorrhea
+C0006852	name:Name:Candidiasis of vagina
+C0033845	name:Name:Pseudotumor Cerebri
+C0033844	name:Name:Pseudotumor
+C0040034	name:Name:Thrombocytopenia
+C0151767	name:Name:Liver tenderness
+C0040038	name:Name:Thromboembolism
+C0032463	name:Name:Polycythemia Vera
+C0032461	name:Name:Polycythemia
+C1142239	name:Name:Call-Fleming syndrome
+C0232208	name:Name:Atrioventricular junctional rhythm
+C0003850	name:Name:Arteriosclerosis
+C3665444	name:Name:Neutrophilia (disorder)
+C0029408	name:Name:Degenerative polyarthritis
+C0151702	name:Name:Muscle hemorrhage
+C0151701	name:Name:Pulmonary hemorrhage
+C0475858	name:Name:Pruritus generalised
+C1142011	name:Name:Orchitis noninfective
+C0042963	name:Name:Vomiting
+C0018939	name:Name:Hematological Disease
+C0018932	name:Name:Hematochezia
+C0235097	name:Name:Withdrawal seizures
+C2363980	name:Name:Cross resistance
+C0235309	name:Name:Upset stomach
+C0423757	name:Name:Skin thinness
+C0347390	name:Name:Skin Papilloma
+C1527344	name:Name:Dysphonia
+C0035067	name:Name:Renal Artery Stenosis
+C0220981	name:Name:Metabolic acidosis
+C0220982	name:Name:Ketoacidosis
+C0220983	name:Name:Metabolic alkalosis
+C0024236	name:Name:Lymphedema
+C0700345	name:Name:Candidiasis, Vulvovaginal
+C0151639	name:Name:Fertility female decreased
+C0235522	name:Name:Vein disorder
+C0016579	name:Name:Formication
+C0151632	name:Name:Red blood cell sedimentation rate increased
+C0034882	name:Name:Rectal Diseases
+C0151636	name:Name:Premature ventricular contractions
+C0034880	name:Name:Hyperacusis
+C0027059	name:Name:Myocarditis
+C0003079	name:Name:Anisocoria
+C0151436	name:Name:Vasculitis, Leukocytoclastic, Cutaneous
+C0017551	name:Name:Gilbert Disease (disorder)
+C0027051	name:Name:Myocardial Infarction
+C0271738	name:Name:Secondary adrenocortical insufficiency
+C0241705	name:Name:Difficulty passing urine
+C1142492	name:Name:Postinfarction angina
+C0234144	name:Name:Dysgraphia
+C0235416	name:Name:Blood uric acid increased
+C0235639	name:Name:Urine abnormality
+C1458155	name:Name:Mammary Neoplasms
+C0302809	name:Name:Hepatitis fulminant
+C0542101	name:Name:Nasal burning
+C0006826	name:Name:Malignant Neoplasms
+C0270996	name:Name:Eye swelling
+C0270994	name:Name:Steroid myopathy
+C3257803	name:Name:Watery eyes
+C0085605	name:Name:Liver Failure
+C0085606	name:Name:Urgency of micturition
+C0085602	name:Name:Polydipsia
+C1262013	name:Name:Recall phenomenon
+C0392702	name:Name:Abnormal involuntary movements
+C0221166	name:Name:Paraparesis
+C0007193	name:Name:Cardiomyopathy, Dilated
+C0007194	name:Name:Hypertrophic Cardiomyopathy
+C0855329	name:Name:Electrocardiogram change
+C1167791	name:Name:Skin toxicity
+C0241633	name:Name:Vaginal dryness
+C0149871	name:Name:Deep Vein Thrombosis
+C0037195	name:Name:Sinus headache
+C0860745	name:Name:Blood monocytes increased
+C0037199	name:Name:Sinusitis
+C0236788	name:Name:Bipolar II disorder
+C0234458	name:Name:Abnormal dreams
+C0242656	name:Name:Disease Progression
+C0751265	name:Name:Learning Disabilities
+C0034150	name:Name:Purpura
+C0034152	name:Name:Henoch-Schoenlein Purpura
+C0016204	name:Name:Flatulence
+C0034155	name:Name:Purpura, Thrombotic Thrombocytopenic
+C1261473	name:Name:Sarcoma
+C0029132	name:Name:Disorder of the optic nerve
+C0029134	name:Name:Optic Neuritis
+C0041318	name:Name:Tuberculosis, Meningeal
+C0234215	name:Name:Sensory Discomfort
+C0020598	name:Name:Hypocalcemia
+C0233494	name:Name:Tension
+C0004093	name:Name:Asthenia
+C0004096	name:Name:Asthma
+C0037287	name:Name:Skin nodule
+C0004095	name:Name:Asthenopia
+C0036572	name:Name:Seizures
+C0030232	name:Name:Pallor
+C0333650	name:Name:Adipose Tissue Atrophy
+C0920163	name:Name:Idiopathic thrombocytopenia
+C0549447	name:Name:Urine odour foul
+C0041956	name:Name:Ureteral obstruction
+C0221345	name:Name:Nail discoloration
+C0036974	name:Name:Shock
+C0007773	name:Name:Cerebral arteritis
+C0010692	name:Name:Cystitis
+C0036973	name:Name:Shivering
+C0267158	name:Name:Reflux gastritis
+C1302752	name:Name:Abrasion
+C0016412	name:Name:Folic Acid Deficiency
+C0038367	name:Name:Ulcerative stomatitis
+C0038363	name:Name:Aphthous Stomatitis
+C0038362	name:Name:Stomatitis
+C0033775	name:Name:Pruritus Ani
+C0235896	name:Name:Lung infiltration
+C0235890	name:Name:Migraine aggravated
+C0235893	name:Name:Allergy aggravated
+C0086132	name:Name:Depressive Symptoms
+C0042373	name:Name:Vascular Diseases
+C0427144	name:Name:Toe walking
+C0019270	name:Name:Hernia
+C0033777	name:Name:Pruritus genital
+C0042376	name:Name:Vascular Headaches
+C2240374	name:Name:Eosinophil count raised (finding)
+C0021400	name:Name:Influenza
+C1318520	name:Name:Vasculitis necrotising
+C0008370	name:Name:Cholestasis
+C0239295	name:Name:Oesophageal candidiasis
+C0677500	name:Name:Stinging Sensation
+C0233844	name:Name:Clumsiness
+C0036396	name:Name:Sciatica
+C0018784	name:Name:Sensorineural Hearing Loss (disorder)
+C0021313	name:Name:Infection of kidney
+C0039584	name:Name:Testicular Diseases
+C0376297	name:Name:Cardiac Death
+C0038986	name:Name:Sweat Gland Diseases
+C0600142	name:Name:Hot flushes
+C0596240	name:Name:Cancer pain
+C0014848	name:Name:Esophageal Achalasia
+C0014591	name:Name:Epistaxis
+C0343387	name:Name:Enterocolitis, Neutropenic
+C0013447	name:Name:Ear Diseases
+C0014118	name:Name:Endocarditis
+C0042790	name:Name:Vision Disorders
+C0043094	name:Name:Weight Gain
+C0028077	name:Name:Night Blindness
+C0032019	name:Name:Pituitary Neoplasms
+C0151559	name:Name:Central nervous system depression (disorder)
+C0003467	name:Name:Anxiety
+C0024902	name:Name:Mastodynia
+C0003460	name:Name:Anuria
+C1260922	name:Name:Respiration abnormal
+C0003469	name:Name:Anxiety Disorders
+C0240322	name:Name:Menstruation delayed
+C0151951	name:Name:Thromboplastin decreased
+C0857807	name:Name:Accidental ingestion
+C0231528	name:Name:Myalgia
+C0003862	name:Name:Arthralgia
+C0003860	name:Name:Arteritis
+C0003864	name:Name:Arthritis
+C0003868	name:Name:Arthritis, Gouty
+C0683278	name:Name:Mental Suffering
+C0035127	name:Name:Cumulative Trauma Disorders
+C0035436	name:Name:Rheumatic Fever
+C0032708	name:Name:Disorders of Porphyrin Metabolism
+C0035439	name:Name:Rheumatic Heart Disease
+C0741553	name:Name:Hemorrhage abnormal
+C0520575	name:Name:Acute pyelonephritis
+C0235086	name:Name:Muscle contractions involuntary
+C0018926	name:Name:Hematemesis
+C0017675	name:Name:Glossitis
+C0027121	name:Name:Myositis
+C0239233	name:Name:Early satiety
+C0947999	name:Name:Blood urine present
+C0151826	name:Name:Retrosternal pain
+C0151827	name:Name:Eye pain
+C0151824	name:Name:Biliary Colic
+C0151825	name:Name:Bone pain
+C0151821	name:Name:Accidental overdose
+C0151828	name:Name:Injection site pain
+C1565489	name:Name:Renal Insufficiency
+C0009917	name:Name:Contracture
+C0085271	name:Name:Self-Injurious Behavior
+C0151605	name:Name:Injection site swelling
+C0017566	name:Name:Gingival Hyperplasia
+C0151603	name:Name:Anasarca
+C0151601	name:Name:Conjunctival oedema
+C0028259	name:Name:Nodule
+C0085074	name:Name:Granuloma Annulare
+C0855242	name:Name:Disturbance in sexual arousal
+C0270611	name:Name:Brain Injuries
+C1963916	name:Name:Diabetic peripheral neuropathic pain
+C0234133	name:Name:Extrapyramidal symptoms
+C0006107	name:Name:Brain Concussion
+C0151738	name:Name:Large intestine perforation
+C0235409	name:Name:Increased insulin requirement
+C0151736	name:Name:Accidental injury
+C0151737	name:Name:Intentional injury
+C0151734	name:Name:Injection site inflammation
+C0151735	name:Name:Injection site reaction
+C0234974	name:Name:Simple Partial Seizures
+C0242422	name:Name:Parkinsonian Disorders
+C0085615	name:Name:Right bundle branch block
+C0085614	name:Name:First degree atrioventricular block
+C0085612	name:Name:Ventricular arrhythmia
+C0085611	name:Name:Atrial arrhythmia
+C0085610	name:Name:Sinus bradycardia
+C1262064	name:Name:Oculogyration
+C0242429	name:Name:Sore Throat
+C0085619	name:Name:Orthopnea
+C0855333	name:Name:Electrocardiogram QT corrected interval prolonged
+C0020453	name:Name:Hyperesthesia
+C0020456	name:Name:Hyperglycemia
+C0039103	name:Name:Synovitis
+C0020458	name:Name:Hyperhidrosis disorder
+C0027339	name:Name:Nail Diseases
+C0043349	name:Name:Xerophthalmia
+C0427055	name:Name:Facial Paresis
+C0240735	name:Name:Personality change
+C1761609	name:Name:Aspiration pneumonitis
+C0694549	name:Name:Community acquired pneumonia
+C0031350	name:Name:Pharyngitis
+C0546817	name:Name:Fluid overload
+C0007166	name:Name:Low Cardiac Output
+C0037763	name:Name:Spasm
+C0012739	name:Name:Disseminated Intravascular Coagulation
+C0085298	name:Name:Sudden Cardiac Death
+C0270769	name:Name:Radiation myelopathy
+C0024228	name:Name:Lymphatic Diseases
+C0024225	name:Name:Lymphangitis
+C0014335	name:Name:Enteritis
+C0027932	name:Name:Neurotic Disorders
+C0233488	name:Name:Feeling despair
+C0730362	name:Name:Maculopathy
+C1611174	name:Name:Post-traumatic pain
+C0235957	name:Name:Muscle necrosis
+C0162316	name:Name:Iron deficiency anemia
+C0151565	name:Name:Hemorrhagic colitis
+C0149512	name:Name:Acute sinusitis
+C0149514	name:Name:Acute bronchitis
+C0750876	name:Name:Phlebitis superficial
+C0029925	name:Name:Ovarian Carcinoma
+C0549433	name:Name:Surgical intervention (finding)
+C0541854	name:Name:Daytime sleepiness
+C0221333	name:Name:Hypouricaemia
+C0001824	name:Name:Agranulocytosis
+C0020672	name:Name:Hypothermia, natural
+C0279563	name:Name:Lobular carcinoma in situ of breast
+C0007760	name:Name:Cerebellar Diseases
+C0020676	name:Name:Hypothyroidism
+C0021099	name:Name:Impetigo
+C0029928	name:Name:Ovarian Diseases
+C0858093	name:Name:Plasma calcium decreased
+C0744727	name:Name:Hematocrit decreased
+C0474395	name:Name:Behavior showing increased motor activity
+C0021092	name:Name:Impacted cerumen
+C0860803	name:Name:Glucose increased
+C0241558	name:Name:Hemorrhage of urethra
+C0860801	name:Name:Glucose low
+C0037383	name:Name:Sneezing
+C0037384	name:Name:Snoring
+C0311394	name:Name:Difficulty walking
+C0038358	name:Name:Gastric ulcer
+C0235886	name:Name:Leg edema
+C0857496	name:Name:Thromboembolic event
+C0857494	name:Name:Unresponsive to stimuli
+C0039971	name:Name:Thirst
+C0686347	name:Name:Tardive Dyskinesia
+C1704212	name:Name:Embolus
+C0424295	name:Name:Hyperactive behavior
+C0857305	name:Name:Thrombocytopenic purpura
+C0259799	name:Name:Punctate keratitis
+C0221242	name:Name:Fixed drug eruption
+C0410256	name:Name:Muscle injury
+C0001127	name:Name:Acidosis, Respiratory
+C0001126	name:Name:Renal tubular acidosis
+C0001122	name:Name:Acidosis
+C0338113	name:Name:Uterine Corpus Sarcoma
+C0156394	name:Name:Enlarged clitoris
+C1704373	name:Name:Compulsive Personality Disorder
+C0019080	name:Name:Hemorrhage
+C0038220	name:Name:Status Epilepticus
+C0242891	name:Name:Tooth Injuries
+C0043145	name:Name:Whiplash Injuries
+C0043144	name:Name:Wheezing
+C0021308	name:Name:Infarction
+C0877406	name:Name:Performance status decreased
+C0973461	name:Name:Dysphasia
+C0178298	name:Name:Skin and subcutaneous tissue disorders
+C0039591	name:Name:Pain in testicle
+C2979982	name:Name:Vaginal Hemorrhage
+C0520933	name:Name:Spermatogenesis abnormal
+C0156404	name:Name:Menstruation irregular
+C0852792	name:Name:Blood cortisol decreased
+C0234913	name:Name:Rash erythematous
+C0239377	name:Name:Arm Pain
+C0014858	name:Name:Esophageal motility disorders
+C0234916	name:Name:Rash follicular
+C0000833	name:Name:Abscess
+C0232197	name:Name:Cardiac fibrillation
+C2981158	name:Name:Lack of libido
+C0853225	name:Name:International normalised ratio increased
+C0746883	name:Name:Febrile Neutropenia
+C0025222	name:Name:Melena
+C0023218	name:Name:Cramps of lower extremities
+C0746731	name:Name:Acute myocardial ischemia
+C0018681	name:Name:Headache
+C0017152	name:Name:Gastritis
+C0013456	name:Name:Earache
+C0856054	name:Name:Mental status changes
+C0033860	name:Name:Psoriasis
+C0175167	name:Name:Acneiform Eruptions
+C0151810	name:Name:Lack of drug effect
+C0426597	name:Name:Fluid intake reduced
+C0426596	name:Name:Fluid intake increased
+C0231530	name:Name:Muscle twitch
+C0151942	name:Name:Arterial thrombosis
+C0558401	name:Name:Skin laceration
+C0002878	name:Name:Anemia, Hemolytic
+C2609096	name:Name:Genital hypoaesthesia
+C0003873	name:Name:Rheumatoid Arthritis
+C0003872	name:Name:Arthritis, Psoriatic
+C0700184	name:Name:Throat irritation
+C0002871	name:Name:Anemia
+C0002874	name:Name:Aplastic Anemia
+C0856695	name:Name:Acute exacerbation of chronic bronchitis
+C0426732	name:Name:Prostatomegaly
+C1384606	name:Name:Dyspareunia
+C3495559	name:Name:Juvenile arthritis
+C0151838	name:Name:Circumoral paresthesia
+C0009768	name:Name:Bacterial conjunctivitis
+C0009766	name:Name:Allergic Conjunctivitis
+C0009763	name:Name:Conjunctivitis
+C0151836	name:Name:Paranoid reaction
+C0700361	name:Name:Emotional distress
+C0013295	name:Name:Duodenal Ulcer
+C0017979	name:Name:Glycosuria
+C1274594	name:Name:Lichenoid keratosis
+C0151544	name:Name:Gastrointestinal carcinoma
+C0151547	name:Name:Cataract specified
+C0151611	name:Name:Electroencephalogram abnormal
+C0151610	name:Name:Tongue oedema
+C0151613	name:Name:Electrolyte abnormality
+C0701836	name:Name:Thermal burn
+C0919715	name:Name:Lupus-like syndrome
+C0016512	name:Name:Foot pain
+C0017574	name:Name:Gingivitis
+C0011630	name:Name:Dermatomycoses
+C0011633	name:Name:Dermatomyositis
+C0085595	name:Name:Body odor
+C0085593	name:Name:Chills
+C0006118	name:Name:Brain Neoplasms
+C0028081	name:Name:Night sweats
+C0006114	name:Name:Cerebral Edema
+C0028084	name:Name:Nightmares
+C1455705	name:Name:Pulmonary Histiocytosis X
+C0235437	name:Name:Gravitational oedema
+C0494475	name:Name:Tonic - clonic seizures
+C0235431	name:Name:Blood creatinine increased
+C0151726	name:Name:Injection site hypersensitivity
+C0026858	name:Name:Musculoskeletal Pain
+C0235439	name:Name:Ankle edema (finding)
+C0006370	name:Name:Bulimia
+C0085628	name:Name:Stupor
+C0023798	name:Name:Lipoma
+C0085623	name:Name:Akinesia
+C0851578	name:Name:Sleep Disorders
+C0016199	name:Name:Flank Pain
+C0008677	name:Name:Bronchitis, Chronic
+C0221100	name:Name:Hangover from any Alcohol or Other Drugs substance
+C0020443	name:Name:Hypercholesterolemia
+C0013928	name:Name:Fat embolism (disorder)
+C0023646	name:Name:Lichen Planus
+C0013922	name:Name:Embolism
+C0040822	name:Name:Tremor
+C1761613	name:Name:Conjunctival hyperemia
+C1112442	name:Name:Female sexual dysfunction
+C1112443	name:Name:Male sexual dysfunction
+C0010346	name:Name:Crohn Disease
+C0740447	name:Name:Diabetic peripheral neuropathy
+C0038826	name:Name:Superinfection
+C0423729	name:Name:Painful respiration
+C0007971	name:Name:Cheilitis
+C1268766	name:Name:Blood pressure alteration (finding)
+C0427086	name:Name:Involuntary Movements
+C0242073	name:Name:Pulmonary congestion
+C2364164	name:Name:Actual Impaired Fluid Volume
+C0854100	name:Name:Nitrogen balance negative
+C0029118	name:Name:Opportunistic Infections
+C0221742	name:Name:Serum sickness-like reaction
+C0155626	name:Name:Acute myocardial infarction
+C1167686	name:Name:Nail toxicity
+C0233471	name:Name:Flat affect
+C0233472	name:Name:Affect lability
+C0860160	name:Name:Diabetes mellitus inadequate control
+C0581912	name:Name:Sensation of heaviness
+C0233477	name:Name:Dysphoria
+C0233479	name:Name:Elevated mood
+C0151699	name:Name:Intracranial Hemorrhages
+C0041981	name:Name:Uric acid level increased
+C0030252	name:Name:Palpitations
+C0149526	name:Name:Allergic urticaria
+C0333472	name:Name:Epidermolysis
+C0426576	name:Name:Gastrointestinal symptom
+C0149523	name:Name:Acute cystitis
+C0011168	name:Name:Deglutition Disorders
+C0041976	name:Name:Urethritis
+C0018798	name:Name:Congenital Heart Defects
+C0278080	name:Name:Dependence physiological
+C0232288	name:Name:Chest pain exertional
+C0423232	name:Name:Corneal epithelial staining pattern
+C0423234	name:Name:Punctate epithelial erosion
+C0027813	name:Name:Neuritis
+C0474381	name:Name:Chromatopsia
+C0001339	name:Name:Pancreatitis acute
+C0920289	name:Name:Sluggishness
+C0877322	name:Name:Muscle tightness
+C0019521	name:Name:Hiccup
+C0454643	name:Name:Word finding difficulty (disorder)
+C0024141	name:Name:Lupus Erythematosus, Systemic
+C2242621	name:Name:Erection prolonged
+C0589616	name:Name:Genitourinary chlamydia infection
+C0152002	name:Name:Renal vasculitis
+C0001807	name:Name:Aggressive behavior
+C0553548	name:Name:Necrotizing Arteritis
+C0541936	name:Name:Enteritis ulcerative
+C0239819	name:Name:Edema hands
+C0853149	name:Name:Blood lactate dehydrogenase increased
+C0239816	name:Name:Hand dermatitis
+C0522063	name:Name:Impaired gastric emptying
+C0035412	name:Name:Rhabdomyosarcoma
+C0004690	name:Name:Balanitis
+C0262385	name:Name:Autonomic nervous system imbalance
+C0442874	name:Name:Neuropathy
+C0005587	name:Name:Depression, Bipolar
+C0005586	name:Name:Bipolar Disorder
+C0162566	name:Name:Porphyria Cutanea Tarda
+C0042401	name:Name:Vasodilation
+C0033075	name:Name:Presbyopia
+C0877430	name:Name:Asthma chronic
+C0853034	name:Name:Blood creatine phosphokinase increased
+C0425481	name:Name:Respiratory sighs
+C0747256	name:Name:Parasitic infection
+C0014866	name:Name:Esophageal Stenosis
+C0234909	name:Name:Nail changes
+C0014863	name:Name:Esophageal spasm
+C0014868	name:Name:Esophagitis
+C0014869	name:Name:Peptic Esophagitis
+C0232459	name:Name:Abnormal digestive tract function
+C0863129	name:Name:AGEP
+C0549386	name:Name:Sensation of warmth
+C0549385	name:Name:Feeling of body temperature change
+C0085635	name:Name:Photopsia
+C3536794	name:Name:Sad mood
+C0043049	name:Name:Water Intoxication
+C0877055	name:Name:Acute Generalized Exanthematous Pustulosis
+C0017160	name:Name:Gastroenteritis
+C0227791	name:Name:Vaginal Discharge
+C0458631	name:Name:Performance anxiety
+C0017168	name:Name:Gastroesophageal reflux disease
+C0014488	name:Name:Epicondylitis
+C0853760	name:Name:Blood potassium increased
+C0235567	name:Name:Excessive bronchial secretion
+C0086692	name:Name:Benign Neoplasm
+C0340464	name:Name:Premature Cardiac Complex
+C0027497	name:Name:Nausea
+C0013595	name:Name:Eczema
+C0232981	name:Name:Arrest of spermatogenesis
+C0022658	name:Name:Kidney Diseases
+C0043167	name:Name:Pertussis
+C0022650	name:Name:Kidney Calculi
+C0029927	name:Name:Ovarian Cysts
+C0151998	name:Name:Uterine spasm
+C0151996	name:Name:Uterine fibroids enlarged
+C0020578	name:Name:Hyperventilation
+C0852361	name:Name:Skin hemorrhages
+C0017658	name:Name:Glomerulonephritis
+C0238033	name:Name:Carcinoma of Male Breast
+C0086769	name:Name:Panic Attacks
+C0151849	name:Name:Alkaline phosphatase raised
+C0743680	name:Name:Eye oedema
+C0151538	name:Name:Buccoglossal syndrome
+C0151539	name:Name:Blood urea increased
+C0086565	name:Name:Liver Dysfunction
+C2609445	name:Name:Infusion site reactions (HT)
+C0151664	name:Name:Gastrointestinal perforation
+C0264893	name:Name:Nodal arrhythmia
+C0151662	name:Name:Gamma-glutamyltransferase increased
+C0038506	name:Name:Stuttering
+C0011991	name:Name:Diarrhea
+C0151669	name:Name:Gamma globulins increased
+C0235198	name:Name:Unable to concentrate
+C0085584	name:Name:Encephalopathies
+C0085583	name:Name:Choreoathetosis
+C0085580	name:Name:Essential Hypertension
+C0235195	name:Name:Sedated state
+C0235194	name:Name:Tranquillisation excessive
+C0235196	name:Name:Suicidal tendency
+C0026848	name:Name:Myopathy
+C0026846	name:Name:Muscular Atrophy
+C0016167	name:Name:Anal Fissure
+C0031117	name:Name:Peripheral Neuropathy
+C0035410	name:Name:Rhabdomyolysis
+C0700225	name:Name:Serum creatinine increased
+C0549634	name:Name:Lipids abnormal
+C0009806	name:Name:Constipation
+C0085637	name:Name:Oculogyric crisis
+C0085636	name:Name:Photophobia
+C0085631	name:Name:Agitation
+C0016436	name:Name:Folliculitis
+C0085633	name:Name:Mood swings
+C0085632	name:Name:Indifferent mood
+C1096444	name:Name:Altered visual depth perception
+C0038436	name:Name:Post-Traumatic Stress Disorder
+C0038435	name:Name:Stress
+C0553731	name:Name:PRL increased
+C0020473	name:Name:Hyperlipidemia
+C0425945	name:Name:Prolonged menses
+C0694563	name:Name:Excessive daytime somnolence
+C2242996	name:Name:Has tingling sensation
+C0009938	name:Name:Contusions
+C1261981	name:Name:Urticaria localised
+C0009241	name:Name:Cognition Disorders
+C0497327	name:Name:Dementia
+C0595885	name:Name:Serum potassium decreased
+C0595883	name:Name:Blood glucose decreased
+C0011570	name:Name:Mental Depression
+C0392025	name:Name:Enlargement abdomen
+C0024205	name:Name:Lymphadenitis
+C0267940	name:Name:Pancreatitis haemorrhagic
+C0007097	name:Name:Carcinoma
+C0476280	name:Name:Musculoskeletal chest pain
+C0476281	name:Name:Non-cardiac chest pain
+C0332563	name:Name:Papule
+C1112214	name:Name:Vulvovaginal pruritus
+C0233469	name:Name:Blunted affect
+C2364082	name:Name:Hyposmia
+C0000786	name:Name:Spontaneous abortion
+C0239978	name:Name:Frequent bowel movements
+C2748060	name:Name:Hypopnea syndrome
+C0851989	name:Name:Bone and joint infections
+C0427546	name:Name:Atypical lymphocyte observed
+C0549418	name:Name:Urine flow decreased
+C0424166	name:Name:Social fear
+C0750857	name:Name:Alkaline phosphatase serum increased
+C0001925	name:Name:Albuminuria
+C1608945	name:Name:Exfoliative rash
+C0010481	name:Name:Cushing Syndrome
+C0267834	name:Name:Hepatic cyst
+C0011175	name:Name:Dehydration
+C0007780	name:Name:Cerebral Embolism
+C0007787	name:Name:Transient Ischemic Attack
+C0020877	name:Name:Ileitis
+C0007785	name:Name:Cerebral Infarction
+C0040580	name:Name:Tracheal Diseases
+C0040584	name:Name:Tracheitis
+C0240802	name:Name:Pregnancy test positive
+C0020651	name:Name:Hypotension, Orthostatic
+C0580413	name:Name:Prothrombin time shortened
+C0206160	name:Name:Reticulocytosis
+C0580417	name:Name:International normalised ratio abnormal
+C0026205	name:Name:Miosis disorder
+C0162285	name:Name:Edema of eyelid
+C1720798	name:Name:Radiation Recall Dermatitis
+C0162281	name:Name:Corneal deposits
+C0001818	name:Name:Agoraphobia
+C0085649	name:Name:Peripheral edema
+C0338656	name:Name:Impaired cognition
+C0549567	name:Name:Pigmentation Disorders
+C2711227	name:Name:Steatohepatitis
+C0748023	name:Name:Bacterial prostatitis
+C0221269	name:Name:Pseudolymphoma
+C0036830	name:Name:Serum Sickness
+C0541947	name:Name:Excitation cerebral
+C1611157	name:Name:Hepatic infiltration eosinophilic
+C0008325	name:Name:Cholecystitis
+C0005138	name:Name:Berylliosis
+C0429029	name:Name:Electrocardiogram ST segment
+C0586553	name:Name:Thyrotropin high
+C0262397	name:Name:Breast tenderness
+C0085932	name:Name:Skin Diseases, Bullous
+C0235996	name:Name:Hepatic enzyme increased
+C0262662	name:Name:Ventricular bigeminy
+C0853026	name:Name:Porphyria non-acute
+C0027796	name:Name:Neuralgia
+C0033246	name:Name:Proctitis
+C0162820	name:Name:Dermatitis, Allergic Contact
+C0008031	name:Name:Chest Pain
+C0008035	name:Name:Chest wall pain
+C0239150	name:Name:Creatinine low
+C0549399	name:Name:Low density lipoprotein increased
+C0549397	name:Name:Nasal septum deviation
+C0549391	name:Name:Bladder discomfort
+C0549393	name:Name:Alcohol problem
+C0153567	name:Name:Uterine Cancer
+C0877048	name:Name:Oral fungal infection
+C0025209	name:Name:Melanosis
+C0524662	name:Name:Opiate Addiction
+C0038395	name:Name:Streptococcal Infections
+C0025202	name:Name:Melanoma
+C0005959	name:Name:Marrow hyperplasia
+C0032827	name:Name:Potassium Deficiency
+C0028643	name:Name:Numbness
+C0032285	name:Name:Pneumonia
+C0275524	name:Name:Coinfection
+C0002418	name:Name:Amblyopia
+C0948525	name:Name:Musculoskeletal stiffness
+C0018378	name:Name:Guillain-Barre Syndrome
+C0018379	name:Name:Guilt
+C0040261	name:Name:Onychomycosis
+C0268732	name:Name:Nephritic syndrome
+C1332166	name:Name:Adenocarcinoma of the gastroesophageal junction
+C0852192	name:Name:Asthenic conditions
+C0271412	name:Name:Ear haemorrhage
+C1739422	name:Name:Opioid naive
+C1457883	name:Name:Aggressive reaction
+C0151854	name:Name:Abnormal platelets
+C0017178	name:Name:Gastrointestinal Diseases
+C0151529	name:Name:Bleeding time prolonged
+C0849918	name:Name:Eyelids pruritus
+C0151526	name:Name:Premature Birth
+C0151521	name:Name:Overgrowth bacterial
+C0011616	name:Name:Contact Dermatitis
+C0151671	name:Name:Glucose tolerance decreased
+C0011615	name:Name:Dermatitis, Atopic
+C0035579	name:Name:Rickets
+C1096616	name:Name:Contralateral breast cancer
+C0018800	name:Name:Cardiomegaly
+C0018801	name:Name:Heart failure
+C0018802	name:Name:Congestive heart failure
+C0023067	name:Name:Laryngitis
+C0080203	name:Name:Tachyarrhythmia
+C0860210	name:Name:Granulomatous liver disease
+C0026838	name:Name:Muscle Spasticity
+C0041747	name:Name:Unplanned pregnancy
+C0026837	name:Name:Muscle Rigidity
+C0392445	name:Name:Necrobiosis Lipoidica Diabeticorum
+C0235453	name:Name:Steroid withdrawal syndrome
+C0009326	name:Name:Collagen Diseases
+C0009324	name:Name:Ulcerative Colitis
+C0220650	name:Name:Metastatic malignant neoplasm to brain
+C0235293	name:Name:Taste peculiar
+C0235290	name:Name:Taste bitter
+C0235295	name:Name:Abdominal distress
+C0451641	name:Name:Urolithiasis
+C0343886	name:Name:Gastrointestinal candidiasis
+C0265110	name:Name:Cerebral Vasospasm
+C0549622	name:Name:Sexual Dysfunction
+C0339916	name:Name:Viral upper respiratory tract infection
+C0031256	name:Name:Petechiae
+C0032326	name:Name:Pneumothorax
+C0020461	name:Name:Hyperkalemia
+C1096272	name:Name:Vanishing bile duct syndrome
+C0037011	name:Name:Shoulder Pain
+C0003123	name:Name:Anorexia
+C0003126	name:Name:Anosmia
+C0026946	name:Name:Mycoses
+C0023467	name:Name:Leukemia, Myelocytic, Acute
+C0026948	name:Name:Mycosis Fungoides
+C0235074	name:Name:Tongue paralysis
+C0220994	name:Name:Hyperammonemia
+C0264886	name:Name:Conduction disorder of the heart
+C0007137	name:Name:Squamous cell carcinoma
+C0007131	name:Name:Non-Small Cell Lung Carcinoma
+C1167779	name:Name:Neutropenic infection
+C0242698	name:Name:Ventricular Dysfunction, Left
+C0235706	name:Name:Back distress
+C0038354	name:Name:Stomach Diseases
+C0016242	name:Name:Vitreous floaters
+C0221016	name:Name:Red blood cell disorders
+C0039621	name:Name:Tetany
+C0392699	name:Name:Dysesthesia
+C0031212	name:Name:Personality Disorders
+C0278151	name:Name:Facial muscle spasm
+C0027947	name:Name:Neutropenia
+C0007222	name:Name:Cardiovascular Diseases
+C0851536	name:Name:Administration site reaction
+C0233459	name:Name:Emotional disorder
+C0851444	name:Name:Allergic conditions
+C0221785	name:Name:Ache wrists
+C0239940	name:Name:Glycosylated haemoglobin increased
+C0151602	name:Name:Swelling face
+C0011644	name:Name:Scleroderma
+C0162529	name:Name:Colitis, Ischemic
+C0272195	name:Name:Eosinopenia
+C1956391	name:Name:Temporal Arteritis
+C0159056	name:Name:Abnormal chest sounds
+C0017565	name:Name:Gingival Hemorrhage
+C0314719	name:Name:Dryness of eye
+C0010709	name:Name:Cyst
+C0008301	name:Name:Choking
+C0233632	name:Name:Disturbance in thinking
+C0233633	name:Name:Thought retardation
+C0038663	name:Name:Suicide attempt
+C0038661	name:Name:Suicide
+C0023518	name:Name:Leukocytosis
+C0002957	name:Name:Anger
+C0020649	name:Name:Hypotension
+C0870082	name:Name:Hyperkeratosis
+C1443060	name:Name:Feeling abnormal
+C0541881	name:Name:Difficulty focusing eyes
+C0162298	name:Name:Joint stiffness
+C0162297	name:Name:Respiratory arrest
+C0034628	name:Name:Radius Fractures
+C0236720	name:Name:Hallucinogen Persisting Perception Disorder
+C0008513	name:Name:Chorioretinitis
+C3251821	name:Name:Catatonic reaction
+C0555971	name:Name:Oral infection
+C0221278	name:Name:Anisocytosis
+C2732728	name:Name:Body height decreased
+C0014394	name:Name:Enuresis
+C0152198	name:Name:Accommodation disorder
+C0015263	name:Name:Bronchospasm, Exercise-Induced
+C0391839	name:Name:Partial pressure CO2 result
+C0239833	name:Name:Hand pain
+C0728899	name:Name:Intoxication
+C0424000	name:Name:Feeling suicidal (finding)
+C1704321	name:Name:Nephrotic Syndrome, Minimal Change
+C0019348	name:Name:Herpes Simplex Infections
+C0043117	name:Name:Purpura, Thrombocytopenic, Idiopathic
+C0042420	name:Name:Vasovagal syncope
+C0019340	name:Name:Herpes
+C0025320	name:Name:Menopause
+C0025323	name:Name:Menorrhagia
+C0553690	name:Name:Reversible ischemic neurologic deficit (R.I.N.D.) syndrome
+C0152517	name:Name:Viral diarrhoea
+C0004238	name:Name:Atrial Fibrillation
+C0004239	name:Name:Atrial Flutter
+C0332534	name:Name:Induration
+C0079102	name:Name:Cerebral Thrombosis
+C0853019	name:Name:Blood thyroid stimulating hormone increased
+C0021359	name:Name:Infertility
+C0276680	name:Name:Candida albicans infection
+C0002064	name:Name:Alkalosis, Respiratory
+C0002063	name:Name:Alkalosis
+C0410198	name:Name:Proximal myopathy
+C0162830	name:Name:Dermatitis, Phototoxic
+C0856882	name:Name:Potassium increased
+C0520806	name:Name:Sudden death, cause unknown
+C0162834	name:Name:Hyperpigmentation
+C0027540	name:Name:Necrosis
+C0403673	name:Name:Retrograde ejaculation
+C0085819	name:Name:Antibiotic-Associated Colitis
+C0231749	name:Name:Knee pain
+C0013604	name:Name:Edema
+C0235401	name:Name:Glucose tolerance abnormal
+C0232431	name:Name:Cold sweat
+C1609496	name:Name:Eyelid exfoliation
+C0687133	name:Name:Drug Interactions
+C0005944	name:Name:Metabolic Bone Disorder
+C0015469	name:Name:Facial paralysis
+C0334082	name:Name:NEVUS, EPIDERMAL (disorder)
+C0005940	name:Name:Bone Diseases
+C0042514	name:Name:Tachycardia, Ventricular
+C0159877	name:Name:Ankle Fractures
+C0521509	name:Name:Injection site induration
+C0853908	name:Name:Oropharyngeal swelling
+C0042510	name:Name:Ventricular Fibrillation
+C0032290	name:Name:Aspiration Pneumonia
+C2939147	name:Name:Feels hot
+C0022073	name:Name:Iridocyclitis
+C0577115	name:Name:Soft stool (finding)
+C0014733	name:Name:Erysipelas
+C0013428	name:Name:Dysuria
+C1456784	name:Name:Paranoia
+C0522224	name:Name:Paralysed
+C0002792	name:Name:Anaphylaxis
+C0087169	name:Name:Withdrawal Symptoms
+C0043241	name:Name:Wound Infection
+C0853348	name:Name:Arthropod bite
+C0002880	name:Name:Autoimmune hemolytic anemia
+C0232726	name:Name:Rectal tenesmus
+C0002884	name:Name:Hypochromic anemia
+C0002888	name:Name:Anemia, Megaloblastic
+C0151467	name:Name:Addisonian crisis
+C0151463	name:Name:Breast abscess
+C0232943	name:Name:Menometrorrhagia
+C0878544	name:Name:Cardiomyopathies
+C0022104	name:Name:Irritable Bowel Syndrome
+C0007095	name:Name:Carcinoid Tumor
+C0022107	name:Name:Irritable Mood
+C0018965	name:Name:Hematuria
+C1696701	name:Name:Dermatillomania
+C0595929	name:Name:Cholesterol serum elevated
+C0024894	name:Name:Mastitis
+C0022661	name:Name:Kidney Failure, Chronic
+C0027769	name:Name:Nervousness
+C0238051	name:Name:Cerebral Angiitis
+C0231365	name:Name:Alteration in patterns of urinary elimination
+C0027765	name:Name:Nervous system disorder
+C0151510	name:Name:Adrenal cortex atrophy
+C0151511	name:Name:Atrophy of breast
+C0849907	name:Name:Ear pruritus
+C0151517	name:Name:Complete atrioventricular block
+C0151514	name:Name:Atrophic condition of skin
+C0013132	name:Name:Drooling
+C0086543	name:Name:Cataract
+C0151888	name:Name:Hyporeflexia
+C0151889	name:Name:Hyperreflexia
+C0011606	name:Name:Exfoliative dermatitis
+C0011603	name:Name:Dermatitis
+C1306341	name:Name:Mental handicap
+C0151882	name:Name:Purpuric rash
+C0151883	name:Name:Vesiculobullous rash
+C0011609	name:Name:Drug Eruptions
+C3203358	name:Name:Hypoventilation
+C0544618	name:Name:Orthostatic hypertension
+C0346647	name:Name:Malignant neoplasm of pancreas
+C0877854	name:Name:Cerebral Arteriosclerosis
+C0018813	name:Name:Myocardial rupture
+C0006142	name:Name:Malignant neoplasm of breast
+C0860207	name:Name:Drug-Induced Liver Injury
+C0009319	name:Name:Colitis
+C0006147	name:Name:Breast Feeding
+C0006145	name:Name:Breast Diseases
+C0026827	name:Name:Muscle hypotonia
+C0026826	name:Name:Muscle Hypertonia
+C0026821	name:Name:Muscle Cramp
+C0948266	name:Name:Latent tetany
+C3665347	name:Name:Visual Impairment
+C1096282	name:Name:Medication residue
+C0018418	name:Name:Gynecomastia
+C0235280	name:Name:Ototoxicity
+C0700200	name:Name:Presyncope
+C0235667	name:Name:Mastitis acute female
+C1320835	name:Name:Drug fever
+C0235660	name:Name:Galactorrhea not associated with childbirth
+C0919659	name:Name:Oropharyngeal candidiasis
+C0948281	name:Name:Malignant syndrome
+C0042998	name:Name:Vulvovaginitis
+C0520573	name:Name:Buffalo hump
+C0270549	name:Name:Generalized Anxiety Disorder
+C0007302	name:Name:Cartilage Diseases
+C0476254	name:Name:Dyslexia
+C0235063	name:Name:Respiratory Depression
+C0235068	name:Name:Scotoma, Scintillating
+C0007124	name:Name:Noninfiltrating Intraductal Carcinoma
+C0243026	name:Name:Sepsis
+C0235710	name:Name:Chest discomfort
+C0011551	name:Name:Depersonalization
+C0020452	name:Name:Hyperemia
+C0010828	name:Name:Cytopenia
+C0041349	name:Name:Nephritis, Tubulointerstitial
+C0730328	name:Name:Central Serous Chorioretinopathy
+C0155616	name:Name:Secondary hypertension
+C0029163	name:Name:Oral Hemorrhage
+C0233414	name:Name:Disturbance in attention
+C0020255	name:Name:Hydrocephalus
+C0392684	name:Name:Pulse irregular
+C0541941	name:Name:Erection increased
+C0281774	name:Name:Acute psychosis
+C0281773	name:Name:Acute glaucoma
+C0006325	name:Name:Bruxism
+C0025637	name:Name:Methemoglobinemia
+C0423602	name:Name:Sensation of foreign body
+C0234533	name:Name:Generalized seizures
+C0234535	name:Name:Seizures, Clonic
+C1262535	name:Name:Jaundice hepatocellular
+C0037036	name:Name:Sialorrhea
+C0162119	name:Name:Haemoglobin decreased
+C0349231	name:Name:Phobic anxiety disorder
+C0595930	name:Name:Blood cholesterol increased
+C0024312	name:Name:Lymphopenia
+C0341742	name:Name:Acute retention of urine
+C0020639	name:Name:Hypoproteinemia
+C1735647	name:Name:Mixed liver injury
+C0234047	name:Name:Ejaculation delayed
+C0036980	name:Name:Shock, Cardiogenic
+C0036454	name:Name:Scotoma
+C0235848	name:Name:Skin cold clammy
+C0008526	name:Name:Choroiditis
+C0034634	name:Name:Rage
+C0238106	name:Name:Clostridium difficile colitis
+C0149866	name:Name:Chemical conjunctivitis
+C0476089	name:Name:Endometrial Carcinoma
+C0155169	name:Name:Ocular hyperemia
+C0233715	name:Name:Speech impairment
+C0221201	name:Name:Macular rash
+C0233718	name:Name:Pressure of speech
+C0522055	name:Name:Electrocardiogram abnormal
+C0520966	name:Name:Abnormal coordination
+C0520962	name:Name:Pain localised
+C0553732	name:Name:Prothrombin level decreased
+C0857121	name:Name:Hypertensive (finding)
+C0015256	name:Name:Excoriation
+C0001622	name:Name:Adrenal Gland Hyperfunction
+C0522058	name:Name:Carbohydrate craving
+C0851710	name:Name:Exfoliative conditions
+C2830004	name:Name:Somnolence
+C0010043	name:Name:Corneal Ulcer
+C0236663	name:Name:Alcohol withdrawal syndrome
+C0085166	name:Name:Bacterial Vaginosis
+C0272774	name:Name:Foot fracture
+C0239488	name:Name:Erythema facial
+C0221512	name:Name:Stomach ache
+C0178416	name:Name:Hypoplastic anemia
+C0178417	name:Name:Anhedonia
+C0015672	name:Name:Fatigue
+C0877664	name:Name:Gastrointestinal cramps
+C1510410	name:Name:Sense of smell altered
+C0151830	name:Name:Pain in urethra
+C0236124	name:Name:Gastrointestinal obstruction
+C0858589	name:Name:Coordination disturbance
+C0549376	name:Name:Plasma osmolality decreased
+C0549374	name:Name:Lumbar disc lesion
+C0281825	name:Name:Dysequilibrium
+C0042075	name:Name:Urologic Diseases
+C0948294	name:Name:Eyelid margin crusting
+C0342257	name:Name:Complications of Diabetes Mellitus
+C0014724	name:Name:Eructation
+C0013384	name:Name:Dyskinetic syndrome
+C0032519	name:Name:Polymenorrhea
+C0151898	name:Name:Schizophrenic reaction
+C0853755	name:Name:Blood osmolarity decreased
+C0015923	name:Name:Fetal Alcohol Syndrome
+C0015927	name:Name:Fetal Death
+C0600041	name:Name:Infective cystitis
+C0149745	name:Name:Oral Ulcer
+C0241310	name:Name:Suprapubic pain
+C0035459	name:Name:Rhinitis, Atrophic
+C0043251	name:Name:Wounds and Injuries
+C0043250	name:Name:Injury wounds
+C0917798	name:Name:Cerebral Ischemia
+C0917799	name:Name:Hypersomnia
+C0274435	name:Name:Transfusion Reaction
+C0022660	name:Name:Kidney Failure, Acute
+C0022665	name:Name:Kidney Neoplasm
+C0272426	name:Name:Mouth injury
+C0017601	name:Name:Glaucoma
+C0017605	name:Name:Angle Closure Glaucoma
+C0022116	name:Name:Ischemia
+C0028754	name:Name:Obesity
+C0151872	name:Name:Prothrombin level increased
+C0151878	name:Name:Electrocardiogram QT prolonged
+C0151505	name:Name:Application site reaction
+C0231170	name:Name:Disability
+C0151500	name:Name:Anticholinergic Syndrome
+C0013144	name:Name:Drowsiness
+C0150055	name:Name:Chronic pain
+C0013146	name:Name:Drug abuse
+C0854114	name:Name:Corneal epithelium defect
+C0151899	name:Name:Syndrome screaming
+C0009782	name:Name:Connective Tissue Diseases
+C0026764	name:Name:Multiple Myeloma
+C0026766	name:Name:Multiple Organ Failure
+C0006152	name:Name:Breast swelling
+C0026769	name:Name:Multiple Sclerosis
+C0151479	name:Name:Amylase increased
+C0151478	name:Name:Neurotransmitter level altered
+C0231710	name:Name:Pain in buttock
+C1522133	name:Name:Hypercholesterolemia result
+C0600260	name:Name:Lung Diseases, Obstructive
+C0032776	name:Name:Postmenopausal haemorrhage
+C0151474	name:Name:Alcohol intolerance
+C0151477	name:Name:Hormone level abnormal
+C0009492	name:Name:Compartment syndromes
+C0750426	name:Name:White blood cell count increased (lab result)
+C0917801	name:Name:Sleeplessness
+C0235490	name:Name:Peripheral ischaemia
+C0242459	name:Name:Simple Pulmonary Eosinophilia
+C0035204	name:Name:Respiration Disorders
+C0574002	name:Name:Edema of foot (finding)
+C0948296	name:Name:Ear discomfort
+C1096250	name:Name:Gastrointestinal discomfort
+C0034359	name:Name:Pyuria
+C0694536	name:Name:Drug seeking behavior
+C0028173	name:Name:Nitrogen, non-protein, increased level result
+C0235475	name:Name:Electrocardiogram QRS complex prolonged
+C0041657	name:Name:Unconscious State
+C0525045	name:Name:Mood Disorders
+C3544214	name:Name:Reversible cerebral vasoconstriction syndrome
+C0026961	name:Name:Mydriasis
+C0234632	name:Name:Visual acuity reduced
+C0270846	name:Name:Atonic seizures
+C0007682	name:Name:CNS disorder
+C0542052	name:Name:Coronary artery insufficiency
+C0339807	name:Name:House dust allergy
+C0748726	name:Name:Allergic sinusitis
+C0278134	name:Name:Absence of sensation
+C0744130	name:Name:Diabetic foot infection
+C0702166	name:Name:Acne
+C0238309	name:Name:Ischaemic neuropathy
+C0242528	name:Name:Azotemia
+C0476273	name:Name:Respiratory distress
+C0235270	name:Name:Keratopathy
+C0392674	name:Name:Exhaustion
+C0392676	name:Name:Hyperpyrexia
+C0948856	name:Name:Orgasmic sensation decreased
+C0023222	name:Name:Pain in lower limb
+C0854382	name:Name:Libido disorder
+C0854381	name:Name:Genital hemorrhage
+C0020538	name:Name:Hypertensive disease
+C0338908	name:Name:Anxiety depression
+C0271429	name:Name:Otitis media acute
+C0235653	name:Name:Malignant neoplasm of female breast
+C0234708	name:Name:Intraocular pressure increased
+C1619712	name:Name:Procedural pain
+C0037023	name:Name:Sialadenitis
+C0542476	name:Name:Forgetfulness
+C1145628	name:Name:Autonomic nervous system disorders
+C0585186	name:Name:Cutaneous hypersensitivity
+C0011124	name:Name:Decreased Libido
+C0542184	name:Name:Reaction gastrointestinal
+C1386135	name:Name:Acute depression
+C0595928	name:Name:Serum calcium increased
+C0020625	name:Name:Hyponatremia
+C0020624	name:Name:Hypomenorrhea
+C0020621	name:Name:Hypokalemia
+C0020620	name:Name:Hypohidrosis
+C0023532	name:Name:Leukoplakia, Oral
+C0023533	name:Name:Leukorrhea
+C0023530	name:Name:Leukopenia
+C0744403	name:Name:Gingival infection
+C0004144	name:Name:Atelectasis
+C0151904	name:Name:Aspartate aminotransferase increased
+C0239725	name:Name:Genital pain
+C0235876	name:Name:Depression aggravated
+C0920171	name:Name:Foreign body sensation in eyes
+C0235874	name:Name:Disease Exacerbation
+C0548823	name:Name:Distress gastrointestinal
+C0034642	name:Name:Rales
+C0024437	name:Name:Macular degeneration
+C0233767	name:Name:Hallucinations, Tactile
+C0233762	name:Name:Hallucinations, Auditory
+C0233763	name:Name:Hallucinations, Visual
+C0434437	name:Name:Joint sprain
+C0860942	name:Name:Creatine increased
+C0553721	name:Name:Sweating decreased
+C0034212	name:Name:Pyoderma
+C0038273	name:Name:Stereotypic Movement Disorder
+C0232849	name:Name:Bladder pain
+C0019360	name:Name:Herpes zoster disease
+C0033036	name:Name:Atrial Premature Complexes
+C0019364	name:Name:Herpes Zoster Ophthalmicus
+C0015397	name:Name:Disorder of eye
+C0033038	name:Name:Premature Ejaculation
+C0041948	name:Name:Uremia
+C0015393	name:Name:Eye Abnormalities
+C0011263	name:Name:Multi-infarct dementia
+C0877046	name:Name:Tooth infection
+C0015663	name:Name:Fasting
+C0267797	name:Name:Hepatitis acute
+C0014534	name:Name:Epididymitis
+C0853619	name:Name:Local swelling
+C0033581	name:Name:Prostatitis
+C1960870	name:Name:Transformed migraine
+C0015806	name:Name:Femoral Neck Fractures
+C1263846	name:Name:Attention deficit hyperactivity disorder
+C0239454	name:Name:Erythema of eyelid
+C0035305	name:Name:Retinal Detachment
+C0549346	name:Name:Ischial neuralgia
+C0022904	name:Name:Lacrimal Apparatus Diseases
+C0022906	name:Name:Lacrimal Duct Obstruction
+C0237938	name:Name:Gastrointestinal ulcer
+C1971624	name:Name:Loss of appetite (finding)
+C0877014	name:Name:Sympathomimetic Effect
+C0042063	name:Name:Urogenital Abnormalities
+C0025274	name:Name:Menarche
+C0152227	name:Name:Excessive tearing
+C0221727	name:Name:Pain in esophagus (finding)
+C0008311	name:Name:Cholangitis
+C0028960	name:Name:Oligospermia
+C0028961	name:Name:Oliguria
+C0003910	name:Name:Articulation Disorders
+C0156543	name:Name:Unspecified Abortion
+C0013395	name:Name:Dyspepsia
+C0013390	name:Name:Dysmenorrhea
+C3665346	name:Name:Unspecified visual loss
+C0949083	name:Name:Nosocomial pneumonia
+C0236068	name:Name:Swollen tongue
+C0947858	name:Name:Anaphylactic responses
+C0836924	name:Name:Thrombocytosis
+C0032617	name:Name:Polyuria
+C0018818	name:Name:Ventricular Septal Defects
+C1959622	name:Name:Vein engorged (finding)
+C0948594	name:Name:Musculoskeletal discomfort
+C0948595	name:Name:Ocular discomfort
+C0018944	name:Name:Hematoma
+C0018946	name:Name:Hematoma, Subdural
+C0040137	name:Name:Thyroid Nodule
+C0027707	name:Name:Nephritis, Interstitial
+C0028768	name:Name:Obsessive-Compulsive Disorder
+C0856171	name:Name:Coronary artery disease aggravated
+C0948441	name:Name:Venoocclusive disease
+C0948447	name:Name:Chromosomal mutation
+C0410158	name:Name:Muscle damage
+C0024138	name:Name:Lupus Erythematosus, Discoid
+C0519030	name:Name:Pneumonia due to Klebsiella pneumoniae
+C0013404	name:Name:Dyspnea
+C0151313	name:Name:Sensory neuropathy
+C0151315	name:Name:Neck stiffness
+C1096668	name:Name:Instillation site irritation
+C0031085	name:Name:Periodontal Abscess
+C0026265	name:Name:Diseases of mitral valve
+C0016658	name:Name:Fracture
+C0600104	name:Name:Obsessive compulsive behavior
+C0232841	name:Name:Bladder dysfunction
+C0036916	name:Name:Sexually Transmitted Diseases
+C0270327	name:Name:Bedwetting
+C0023051	name:Name:Laryngeal Diseases
+C0018834	name:Name:Heartburn
+C0023052	name:Name:Laryngeal Edema
+C0241157	name:Name:Pustule
+C0476414	name:Name:Thyroid function test abnormal
+C0151798	name:Name:Hepatic necrosis
+C0151799	name:Name:Skin necrosis
+C2939186	name:Name:Disturbance in mood
+C0034902	name:Name:Pure Red-Cell Aplasia
+C0235267	name:Name:Redness of eye
+C0235266	name:Name:Eye irritation
+C0700590	name:Name:Increased sweating
+C0206277	name:Name:Fatal Outcome
+C0344315	name:Name:Depressed mood
+C0242339	name:Name:Dyslipidemias
+C0206504	name:Name:Tympanic Membrane Perforation
+C0016479	name:Name:Food Poisoning
+C0020433	name:Name:Hyperbilirubinemia
+C0020437	name:Name:Hypercalcemia
+C3665386	name:Name:Abnormal vision
+C0020438	name:Name:Hypercalciuria
+C0017412	name:Name:Genital Diseases, Male
+C0017411	name:Name:Female Genital Diseases
+C0234022	name:Name:Anorgasmia
+C0003175	name:Name:Anthrax disease
+C0041667	name:Name:Underweight
+C0026975	name:Name:Myelitis
+C0392525	name:Name:Nephrolithiasis
+C0678222	name:Name:Breast Carcinoma
+C0030846	name:Name:Penile Diseases
+C0235002	name:Name:Head discomfort
+C0240557	name:Name:Nasal irritation
+C0035522	name:Name:Rib Fractures
+C2364111	name:Name:Actual Inability To Taste
+C1167709	name:Name:Epidermal necrosis
+C0521845	name:Name:Drug effect decreased
+C0341164	name:Name:Bleeding gastric ulcer
+C0085762	name:Name:Alcohol abuse
+C0155365	name:Name:Vitreous disorder
+C0521161	name:Name:Vasculitic rash
+C0020505	name:Name:Hyperphagia
+C0040434	name:Name:Tooth Discoloration
+C0040435	name:Name:Tooth Diseases
+C0040436	name:Name:Tooth Erosion
+C0270458	name:Name:Psychotic depression
+C0039070	name:Name:Syncope
+C0271454	name:Name:Chronic suppurative otitis media
+C0424296	name:Name:Social disinhibition
+C0427160	name:Name:Parkinsonian gait
+C0033893	name:Name:Tension Headache
+C0270922	name:Name:Demyelinating polyneuropathy
+C0265122	name:Name:Disorder of pericardium
+C0234518	name:Name:Slurred speech
+C0007078	name:Name:Carbuncle
+C0036508	name:Name:Seborrheic dermatitis
+C0034013	name:Name:Precocious Puberty
+C0149778	name:Name:Soft Tissue Infections
+C0349217	name:Name:Depressive episode, unspecified
+C0277585	name:Name:Drug intolerance
+C0007859	name:Name:Neck Pain
+C0595916	name:Name:Nephropathy toxic
+C3203646	name:Name:Bilirubin total decreased
+C0015644	name:Name:Muscular fasciculation
+C0020615	name:Name:Hypoglycemia
+C0154301	name:Name:Secondary thrombocytopenia
+C0241442	name:Name:Protrusion tongue
+C0042267	name:Name:Vaginitis
+C0233558	name:Name:Temper tantrum
+C1321898	name:Name:Blood in stool
+C0239739	name:Name:Tenderness of gums
+C0424230	name:Name:Motor retardation
+C0542313	name:Name:Sleep Talking
+C0019572	name:Name:Hirsutism
+C0338614	name:Name:Psychotic episode
+C0155789	name:Name:Bleeding esophageal varices
+C0079043	name:Name:Bronchoconstriction
+C0017181	name:Name:Gastrointestinal Hemorrhage
+C0042384	name:Name:Vasculitis
+C0015230	name:Name:Exanthema
+C0005778	name:Name:Blood coagulation
+C0005779	name:Name:Blood Coagulation Disorders
+C0037274	name:Name:Dermatologic disorders
+C0403723	name:Name:Candiduria
+C0038045	name:Name:Sprain
+C0151713	name:Name:Hyperchlorhydria
+C0021368	name:Name:Inflammation
+C0021364	name:Name:Male infertility
+C0037278	name:Name:Skin Diseases, Infectious
+C0152030	name:Name:Skin irritation
+C0152031	name:Name:Joint swelling
+C0152032	name:Name:Urinary hesitation
+C0025061	name:Name:Mediastinal Diseases
+C0024517	name:Name:Major depressive disorder, single episode
+C2607947	name:Name:Unilateral deafness
+C0553668	name:Name:Labored breathing
+C0241934	name:Name:Hypomania
+C0042485	name:Name:Venous Insufficiency
+C0043387	name:Name:Yawning
+C0277925	name:Name:Peripheral coldness
+C0549356	name:Name:Inflicted injury
+C0018621	name:Name:Hay fever
+C0858259	name:Name:Nasal discomfort
+C0410740	name:Name:Acquired deformity of finger
+C0043012	name:Name:Wakefulness
+C0033117	name:Name:Priapism
+C0376356	name:Name:Premenstrual Tension
+C0376358	name:Name:Malignant neoplasm of prostate
+C0435001	name:Name:Ligament injury
+C0877009	name:Name:Muscle fibrosis
+C0013362	name:Name:Dysarthria
+C0014743	name:Name:Erythema Nodosum
+C0014742	name:Name:Erythema Multiforme
+C0263978	name:Name:Soft tissue disorder
+C0013369	name:Name:Dysentery
+C0022281	name:Name:Itching of eye
+C0235222	name:Name:Diastolic hypertension
+C0027424	name:Name:Nasal congestion (finding)
+C0033687	name:Name:Proteinuria
+C0232286	name:Name:Precordial pain
+C0220870	name:Name:Lightheadedness
+C0948002	name:Name:Crystal urine present
+C0236071	name:Name:Throat tightness
+C0026113	name:Name:Miliaria
+C0236075	name:Name:Menopausal symptoms
+C0001430	name:Name:Adenoma
+C0852909	name:Name:Blood bicarbonate decreased
+C0156312	name:Name:Testicular atrophy
+C0018021	name:Name:Goiter
+C0852733	name:Name:Completed Suicide
+C0028778	name:Name:Obstruction
+C0232910	name:Name:Teratogenesis
+C1384666	name:Name:Hearing impairment
+C1579838	name:Name:Sore mouth
+C0920108	name:Name:Fasting blood glucose increased
+C0033975	name:Name:Psychotic Disorders
+C1536075	name:Name:Sudden unexplained death in epilepsy
+C0026603	name:Name:Motion Sickness
+C0232602	name:Name:Retching
+C0085576	name:Name:Iron-Refractory Iron Deficiency Anemia
+C0085577	name:Name:Normocytic anemia
+C0231807	name:Name:Dyspnea on exertion
+C0016663	name:Name:Pathological fracture
+C0085570	name:Name:Hypokalemic alkalosis
+C0012569	name:Name:Diplopia
+C0740411	name:Name:Delayed gastric emptying
+C0556446	name:Name:Drug craving
+C0039240	name:Name:Supraventricular tachycardia
+C0018843	name:Name:Heat Stroke
+C0013182	name:Name:Drug Allergy
+C0851362	name:Name:General disorders and administration site conditions
+C0553713	name:Name:BREAST PAIN FEMALE
+C0034933	name:Name:Reflex, Abnormal
+C0009676	name:Name:Confusion
+C0038534	name:Name:Subconjunctival hemorrhage
+C0240417	name:Name:Muscle mass
+C0151786	name:Name:Muscle Weakness
+C0456909	name:Name:Blind Vision
+C0031099	name:Name:Periodontitis
+C0038160	name:Name:Staphylococcal Infections
+C0027404	name:Name:Narcolepsy
+C0016867	name:Name:Furunculosis
+C0235259	name:Name:Cataract subcapsular
+C0035220	name:Name:Respiratory Distress Syndrome, Newborn
+C0035222	name:Name:Respiratory Distress Syndrome, Adult
+C0006625	name:Name:Cachexia
+C0242301	name:Name:Furuncle
+C0035229	name:Name:Respiratory Insufficiency
+C0750394	name:Name:White blood cell count decreased
+C1963951	name:Name:Acute overdose
+C0027343	name:Name:Nails, Ingrown
+C0574067	name:Name:Cough increased
+C0000768	name:Name:Congenital Abnormality
+C0020429	name:Name:Hyperalgesia
+C0278045	name:Name:Urine odour abnormal
+C0041671	name:Name:Attention Deficit Disorder
+C0018808	name:Name:Heart murmur
+C0015732	name:Name:Fecal Incontinence
+C0235032	name:Name:Neurotoxicity Syndromes
+C0543698	name:Name:Hypersensitive syndrome
+C0023380	name:Name:Lethargy
+C0006444	name:Name:Bursitis
+C0011581	name:Name:Depressive disorder
+C0010520	name:Name:Cyanosis
+C0232493	name:Name:Epigastric pain
+C0344232	name:Name:Blurred vision
+C1096340	name:Name:Dysphemia
+C1096343	name:Name:Infusion site reaction
+C0020514	name:Name:Hyperprolactinemia
+C0020517	name:Name:Hypersensitivity
+C0242785	name:Name:Food-Drug Interactions
+C1262141	name:Name:Poor quality sleep
+C0858814	name:Name:Hepatitis symptom
+C0040427	name:Name:Tooth Abnormalities
+C0040425	name:Name:Tonsillitis
+C0233415	name:Name:Distractibility
+C0497247	name:Name:Increase in blood pressure
+C0030583	name:Name:Parotitis
+C0149904	name:Name:Hepatitis cholestatic
+C1619733	name:Name:Gout flare
+C0085688	name:Name:Breast engorgement
+C0085684	name:Name:Footdrop
+C0023066	name:Name:Laryngismus
+C0085680	name:Name:Hypochloremia (disorder)
+C0085681	name:Name:Hyperphosphatemia (disorder)
+C0085682	name:Name:Hypophosphatemia
+C0018995	name:Name:Hemochromatosis
+C0423273	name:Name:Scleral thinning
+C0546959	name:Name:Atrial tachycardia
+C0546956	name:Name:Trachyonychia
+C0007867	name:Name:Cervix Diseases
+C0006849	name:Name:Oral candidiasis
+C0034067	name:Name:Pulmonary Emphysema
+C0007860	name:Name:Uterine Cervicitis
+C0034063	name:Name:Pulmonary Edema
+C0006840	name:Name:Candidiasis
+C0034068	name:Name:Pulmonary Eosinophilia
+C0034069	name:Name:Pulmonary Fibrosis
+C0149741	name:Name:Nipple discharge
+C0455769	name:Name:Energy increased
+C0422980	name:Name:Oscillopsia
+C0278061	name:Name:Abnormal mental state
+C0020604	name:Name:Hypochondriasis
+C0235592	name:Name:Lymphadenopathy cervical
+C0554976	name:Name:Bradyphrenia
+C0030920	name:Name:Peptic Ulcer
+C0233565	name:Name:Bradykinesia
+C0242151	name:Name:Violent
+C0851664	name:Name:Bullous conditions
+C0006905	name:Name:Capillary Fragility
+C0235818	name:Name:Bullous eruption
+C0004161	name:Name:Athletic Injuries
+C0010674	name:Name:Cystic Fibrosis
+C0595877	name:Name:Blood glucose increased
+C0575081	name:Name:Gait abnormality
+C0021177	name:Name:Increased Libido
+C0267792	name:Name:Hepatobiliary disease
+C0024299	name:Name:Lymphoma
+C0020903	name:Name:Illusions
+C0155428	name:Name:Otosalpingitis
+C0596170	name:Name:Binge eating disorder
+C0001883	name:Name:Airway Obstruction
+C0021390	name:Name:Inflammatory Bowel Diseases
+C0039503	name:Name:Tendinitis
+C0278488	name:Name:Carcinoma breast stage IV
+C0161479	name:Name:Nerve injury
+C0019147	name:Name:Hepatic Coma
+C0152027	name:Name:Sensory Disorders
+C0425669	name:Name:Abdominal aortic bruit
+C0152025	name:Name:Polyneuropathy
+C0085616	name:Name:Vasospasm
+C0152029	name:Name:Sinus congestion
+C3263723	name:Name:Traumatic injury
+C0857576	name:Name:Thyroid function abnormal
+C0002994	name:Name:Angioedema
+C0002624	name:Name:Retrograde amnesia
+C0002622	name:Name:Amnesia
+C0014518	name:Name:Toxic Epidermal Necrolysis
+C0086438	name:Name:Hypogammaglobulinemia
+C2586050	name:Name:Ulcerative esophagitis
+C0312422	name:Name:Blackout - symptom
+C0438215	name:Name:Laboratory test abnormal
+C0085569	name:Name:Acidosis hyperchloraemic
+C0037317	name:Name:Sleep disturbances
+C0037315	name:Name:Sleep Apnea Syndromes
+C0877035	name:Name:Estrogen Effect
+C0018524	name:Name:Hallucinations
+C0162275	name:Name:Ketonuria
+C0014356	name:Name:Enterocolitis
+C0553704	name:Name:Serum potassium increased
+C0037299	name:Name:Skin Ulcer
+C0015734	name:Name:Fecal Impaction
+C0014179	name:Name:Endometritis
+C0853700	name:Name:Application site erythema
+C0013378	name:Name:Dysgeusia
+C0014175	name:Name:Endometriosis
+C0028949	name:Name:Oligomenorrhea
+C0014457	name:Name:Eosinophilia
+C0027430	name:Name:Nasal Polyps
+C0232292	name:Name:Chest tightness
+C0011334	name:Name:Dental caries
+C0022638	name:Name:Ketosis
+C0853226	name:Name:International normalised ratio decreased
+C0036130	name:Name:Salpingitis
+C0232766	name:Name:Asterixis
+C0236048	name:Name:Polyposis, Gastric
+C0086439	name:Name:Hypokinesia
+C0042138	name:Name:Uterine Neoplasms
+C0018520	name:Name:Halitosis
+C0042133	name:Name:Uterine Fibroids
+C0439857	name:Name:Dependence
+C0042134	name:Name:Uterine hemorrhage

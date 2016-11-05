@@ -1,0 +1,9 @@
+T1	Disease_Symptom 195 214	depressive symptoms
+N1	Reference T1 Concepts:C0086132	Depressive Symptoms
+T2	Drug 116 126	quetiapine
+A1	Modality T2 Hedged
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Disease_Symptom 6 16	depression
+N3	Reference T3 Concepts:C1386135	Acute depression
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	Disease_Symptom 129 146	allergic rhinitis
+N1	Reference T1 Concepts:C2607914	Allergic rhinitis (disorder)
+T2	Drug 59 69	rupatadine
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

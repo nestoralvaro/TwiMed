@@ -1,0 +1,16 @@
+T1	Disease_Symptom 61 73	#chronicpain
+N1	Reference T1 Concepts:C0150055	Chronic pain
+T2	Disease_Symptom 41 53	chronic pain
+A1	Person T2 3rd
+A2	Modality T2 Hypothetical
+N2	Reference T2 Concepts:C0150055	Chronic pain
+T3	Disease_Symptom 55 61	#lupus
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0409974 Vs. C0919715
+T4	Drug 23 30	Butrans
+A3	Person T4 3rd
+A4	Modality T4 Hypothetical
+N4	Reference T4 Concepts:2476	Buprenorphine
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T1 Arg2:T4
+R3	Benefit Arg1:T3 Arg2:T4

@@ -1,0 +1,47 @@
+T1	Drug 189 202	carbamazepine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Drug 224 234	lisinopril
+N2	Reference T2 Concepts:3937	Lisinopril
+T3	Disease_Symptom 26 40	DRESS syndrome
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0497365 Vs. C0014457
+T4	Disease_Symptom 26 40	DRESS syndrome
+N4	Reference T4 Concepts:C0497365	Rash generalised
+T5	Disease_Symptom 26 40	DRESS syndrome
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T5	Disagreement in concept ID: C0497365 Vs. -1
+T6	Disease_Symptom 26 40	DRESS syndrome
+N6	Reference T6 Concepts:C0014457	Eosinophilia
+T7	Disease_Symptom 26 40	DRESS syndrome
+N7	Reference T7 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T7	Disagreement in concept ID: C0014457 Vs. C0497365
+T8	Disease_Symptom 26 40	DRESS syndrome
+N8	Reference T8 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T8	Disagreement in concept ID: C0014457 Vs. -1
+T9	Disease_Symptom 26 40	DRESS syndrome
+N9	Reference T9 Concepts:0	Disagreement in Concept ID
+#5	AnnotatorNotes T9	Disagreement in concept ID: -1 Vs. C0014457
+T10	Disease_Symptom 26 40	DRESS syndrome
+N10	Reference T10 Concepts:0	Disagreement in Concept ID
+#6	AnnotatorNotes T10	Disagreement in concept ID: -1 Vs. C0497365
+T11	Disease_Symptom 26 40	DRESS syndrome
+N11	Reference T11 Concepts:-1	Unknown Concept ID
+R1	Outcome-negative Arg1:T1 Arg2:T11
+R2	Outcome-negative Arg1:T1 Arg2:T11
+R3	Outcome-negative Arg1:T1 Arg2:T11
+R4	Outcome-negative Arg1:T1 Arg2:T8
+R5	Outcome-negative Arg1:T1 Arg2:T8
+R6	Outcome-negative Arg1:T1 Arg2:T8
+R7	Outcome-negative Arg1:T1 Arg2:T5
+R8	Outcome-negative Arg1:T1 Arg2:T5
+R9	Outcome-negative Arg1:T1 Arg2:T5
+R10	Outcome-negative Arg1:T2 Arg2:T11
+R11	Outcome-negative Arg1:T2 Arg2:T11
+R12	Outcome-negative Arg1:T2 Arg2:T11
+R13	Outcome-negative Arg1:T2 Arg2:T5
+R14	Outcome-negative Arg1:T2 Arg2:T5
+R15	Outcome-negative Arg1:T2 Arg2:T5
+R16	Outcome-negative Arg1:T2 Arg2:T8
+R17	Outcome-negative Arg1:T2 Arg2:T8
+R18	Outcome-negative Arg1:T2 Arg2:T8

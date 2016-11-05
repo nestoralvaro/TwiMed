@@ -1,0 +1,18 @@
+T1	Disease_Symptom 93 107	be up til late
+A1	Person T1 1st
+A2	Duration T1 Irregular
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Disease_Symptom 33 37;52 61	play all night
+A4	Person T2 1st
+A5	Exemplification T2 Exemplification
+A6	Duration T2 Irregular
+A7	Status T2 Continuing
+N2	Reference T2 Concepts:C0917801	Sleeplessness
+T3	Drug 21 29	adderall
+A8	Person T3 1st
+A9	Duration T3 Irregular
+A10	Status T3 Continuing
+N3	Reference T3 Concepts:3007	Amphetamine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

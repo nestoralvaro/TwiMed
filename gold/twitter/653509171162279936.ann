@@ -1,0 +1,13 @@
+T1	Drug 77 83	Celexa
+A1	Person T1 3rd
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Symptom 124 136	fuzzy headed
+A2	Person T2 1st
+A3	Severity T2 Severe
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0087169 Vs. C0012833
+T3	Drug 66 76	Citalopram
+A4	Modality T3 Hypothetical
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T2

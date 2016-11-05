@@ -1,0 +1,15 @@
+T1	Drug 164 174	quetiapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 85 89	pain
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Disease_Symptom 94 104	depression
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C1386135	Acute depression
+T4	Disease_Symptom 74 83	arthritis
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0003864	Arthritis
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T1
+R3	Benefit Arg1:T4 Arg2:T1

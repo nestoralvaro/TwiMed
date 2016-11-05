@@ -1,0 +1,15 @@
+T1	Disease_Symptom 17 22	Sleep
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Disease_Symptom 106 115	#insomnia
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0393761 Vs. C0393760
+T3	Disease_Symptom 38 45	#zombie
+N3	Reference T3 Concepts:C0013144	Drowsiness
+T4	Drug 91 98	#prozac
+N4	Reference T4 Concepts:3386	Fluoxetine
+T5	Disease_Symptom 99 105	#sleep
+N5	Reference T5 Concepts:C2830004	Somnolence
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T1
+R3	Outcome-negative Arg1:T4 Arg2:T3
+R4	Outcome-negative Arg1:T4 Arg2:T5

@@ -1,0 +1,5 @@
+T1	Disease_Symptom 0 27	Neuroleptic malign syndrome
+N1	Reference T1 Concepts:C0027849	Neuroleptic Malignant Syndrome
+T2	Drug 76 86	quetiapine
+A1	Modality T2 Hedged
+N2	Reference T2 Concepts:5002	Quetiapine

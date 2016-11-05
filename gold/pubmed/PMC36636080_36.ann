@@ -1,0 +1,5 @@
+T1	Disease 57 70	schizophrenia
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Drug 0 11	Ziprasidone
+N2	Reference T2 Concepts:60853	Ziprasidone
+R1	Reason-to-use Arg1:T1 Arg2:T2

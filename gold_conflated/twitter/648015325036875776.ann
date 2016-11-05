@@ -1,0 +1,8 @@
+T1	Disease_Symptom 102 111	depressed
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1386135 Vs. C0011581
+T2	Drug 65 70	Paxil
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Disease_Symptom 105 108	sad
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C3536794	Sad mood
+T2	Drug 0 6	zoloft
+A3	Person T2 1st
+N2	Reference T2 Concepts:5203	Sertraline

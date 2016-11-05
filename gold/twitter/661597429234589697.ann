@@ -1,0 +1,7 @@
+T1	Disease 105 123	endometrial cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0476089	Endometrial Carcinoma
+T2	Drug 48 57	tamoxifen
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Reason-to-use Arg1:T1 Arg2:T2

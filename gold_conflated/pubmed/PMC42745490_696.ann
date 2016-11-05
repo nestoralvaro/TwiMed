@@ -1,0 +1,8 @@
+T1	Disease_Symptom 99 118	morphine dependence
+N1	Reference T1 Concepts:C1510472	Drug Dependence
+T2	Disease_Symptom 123 127	pain
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Drug 80 91	venlafaxine
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

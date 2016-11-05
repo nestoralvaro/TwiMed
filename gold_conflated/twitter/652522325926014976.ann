@@ -1,0 +1,16 @@
+T1	Disease_Symptom 122 127	#PTSD
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0038436	Post-Traumatic Stress Disorder
+T2	Drug 44 53	#Seroquel
+A2	Status T2 Continuing
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Disease_Symptom 113 121	#bipolar
+A3	Person T3 1st
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+T4	Drug 27 34	#Geodon
+A4	Status T4 Continuing
+N4	Reference T4 Concepts:60853	Ziprasidone
+R1	Benefit Arg1:T3 Arg2:T4
+R2	Benefit Arg1:T1 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T2
+R4	Benefit Arg1:T3 Arg2:T4

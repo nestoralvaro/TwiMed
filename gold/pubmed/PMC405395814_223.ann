@@ -1,0 +1,7 @@
+T1	Drug 134 144	citalopram
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Drug 120 130	fluoxetine
+N2	Reference T2 Concepts:3386	Fluoxetine
+T3	Drug 13 24	venlafaxine
+A1	Modality T3 Generic
+N3	Reference T3 Concepts:5656	Venlafaxine

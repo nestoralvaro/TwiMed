@@ -1,0 +1,8 @@
+T1	Symptom 48 57	psychosis
+N1	Reference T1 Concepts:C0281774	Acute psychosis
+T2	Disease 61 80	Parkinson's disease
+N2	Reference T2 Concepts:C0030567	Parkinson Disease
+T3	Drug 33 43	quetiapine
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

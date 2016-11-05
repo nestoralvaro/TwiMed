@@ -1,0 +1,7 @@
+T1	Drug 200 207	Ritalin
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Disease_Symptom 158 172	abdominal pain
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C0000737	Abdominal Pain

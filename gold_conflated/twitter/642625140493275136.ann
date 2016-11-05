@@ -1,0 +1,9 @@
+T1	Drug 26 36	prednisone
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Disease_Symptom 7 17	bronchitis
+A3	Person T2 1st
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0006277	Bronchitis
+R1	Benefit Arg1:T2 Arg2:T1

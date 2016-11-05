@@ -1,0 +1,7 @@
+T1	Drug 42 52	duloxetine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease_Symptom 0 12	Hyponatremia
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0020625	Hyponatremia
+R1	Outcome-negative Arg1:T1 Arg2:T2

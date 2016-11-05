@@ -1,0 +1,18 @@
+T1	Disease_Symptom 358 376	tardive dyskinesia
+N1	Reference T1 Concepts:C0686347	Tardive Dyskinesia
+T2	Drug 211 222	ziprasidone
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:60853	Ziprasidone
+T3	Disease_Symptom 331 353	cardiac adverse events
+A2	Polarity T3 Polarity
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0018799 Vs. C0003811
+T4	Disease_Symptom 107 115	dementia
+A3	Modality T4 Generic
+N4	Reference T4 Concepts:C0497327	Dementia
+T5	Disease_Symptom 124 133	psychosis
+A4	Modality T5 Generic
+N5	Reference T5 Concepts:C0281774	Acute psychosis
+T6	Drug 34 45	ziprasidone
+A5	Modality T6 Generic
+N6	Reference T6 Concepts:60853	Ziprasidone

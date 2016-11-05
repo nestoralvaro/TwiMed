@@ -1,0 +1,3 @@
+T1	Drug 18 26	Cymbalta
+A1	Sentiment T1 Positive
+N1	Reference T1 Concepts:60834	Duloxetine

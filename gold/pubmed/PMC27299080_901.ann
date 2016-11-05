@@ -1,0 +1,62 @@
+T1	Symptom 218 223	DRESS
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0497365	Rash generalised
+T2	Symptom 218 223	DRESS
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0497365 Vs. -1
+T3	Symptom 218 223	DRESS
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0497365 Vs. C0014457
+T4	Symptom 218 223	DRESS
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T4	Disagreement in concept ID: C0014457 Vs. C0497365
+T5	Symptom 218 223	DRESS
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T5	Disagreement in concept ID: C0014457 Vs. -1
+T6	Symptom 218 223	DRESS
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:C0014457	Eosinophilia
+T7	Drug 227 240	carbamazepine
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:2554	Carbamazepine
+T8	Symptom 63 77	DRESS syndrome
+A8	Modality T8 Generic
+N8	Reference T8 Concepts:C0014457	Eosinophilia
+T9	Symptom 63 77	DRESS syndrome
+A9	Modality T9 Generic
+N9	Reference T9 Concepts:0	Disagreement in Concept ID
+#5	AnnotatorNotes T9	Disagreement in concept ID: C0014457 Vs. C0497365
+T10	Symptom 63 77	DRESS syndrome
+A10	Modality T10 Generic
+N10	Reference T10 Concepts:0	Disagreement in Concept ID
+#6	AnnotatorNotes T10	Disagreement in concept ID: C0014457 Vs. -1
+T11	Drug 149 162	carbamazepine
+A11	Modality T11 Generic
+N11	Reference T11 Concepts:2554	Carbamazepine
+T12	Symptom 63 77	DRESS syndrome
+A12	Modality T12 Generic
+N12	Reference T12 Concepts:0	Disagreement in Concept ID
+#7	AnnotatorNotes T12	Disagreement in concept ID: C0497365 Vs. C0014457
+T13	Symptom 63 77	DRESS syndrome
+A13	Modality T13 Generic
+N13	Reference T13 Concepts:C0497365	Rash generalised
+T14	Symptom 63 77	DRESS syndrome
+A14	Modality T14 Generic
+N14	Reference T14 Concepts:0	Disagreement in Concept ID
+#8	AnnotatorNotes T14	Disagreement in concept ID: C0497365 Vs. -1
+R1	Outcome-negative Arg1:T7 Arg2:T3
+R2	Outcome-negative Arg1:T7 Arg2:T3
+R3	Outcome-negative Arg1:T7 Arg2:T3
+R4	Outcome-negative Arg1:T7 Arg2:T6
+R5	Outcome-negative Arg1:T7 Arg2:T6
+R6	Outcome-negative Arg1:T7 Arg2:T6
+R7	Outcome-negative Arg1:T11 Arg2:T14
+R8	Outcome-negative Arg1:T11 Arg2:T14
+R9	Outcome-negative Arg1:T11 Arg2:T14
+R10	Outcome-negative Arg1:T11 Arg2:T10
+R11	Outcome-negative Arg1:T11 Arg2:T10
+R12	Outcome-negative Arg1:T11 Arg2:T10

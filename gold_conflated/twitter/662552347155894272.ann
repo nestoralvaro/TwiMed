@@ -1,0 +1,9 @@
+T1	Disease_Symptom 6 14	insomnia
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0393761 Vs. C0393760
+T2	Drug 16 25	Trazodone
+N2	Reference T2 Concepts:5533	Trazodone
+T3	Disease_Symptom 0 4	Pain
+N3	Reference T3 Concepts:C0030193	Pain
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T2

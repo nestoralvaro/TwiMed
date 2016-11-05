@@ -1,0 +1,10 @@
+T1	Drug 0 11	Bevacizumab
+A1	Person T1 3rd
+A2	Status T1 Complete
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease_Symptom 78 83	NSCLC
+A4	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0007131 Vs. -1
+R1	Benefit Arg1:T2 Arg2:T1

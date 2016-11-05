@@ -1,0 +1,22 @@
+T1	Disease_Symptom 76 83	anxiety
+A1	Person T1 1st
+A2	Duration T1 Irregular
+A3	Severity T1 Severe
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Disease_Symptom 129 140	#weightgain
+A4	Person T2 1st
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0043094	Weight Gain
+T3	Disease_Symptom 58 63	tears
+A6	Person T3 1st
+A7	Exemplification T3 Exemplification
+A8	Duration T3 Irregular
+A9	Severity T3 Severe
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0152227 Vs. C3536794
+T4	Drug 85 95	Olanzapine
+A10	Status T4 Continuing
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

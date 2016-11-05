@@ -1,0 +1,15 @@
+T1	Disease_Symptom 160 188	improvement of concentration
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0858899	Attention concentration difficulty
+T2	Disease_Symptom 190 199	alertness
+N2	Reference T2 Concepts:C0917801	Sleeplessness
+T3	Drug 69 76	Ritalin
+A2	Person T3 3rd
+N3	Reference T3 Concepts:4158	Methylphenidate
+T4	Drug 47 62	methylphenidate
+A3	Person T4 3rd
+N4	Reference T4 Concepts:4158	Methylphenidate
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3
+R3	Benefit Arg1:T1 Arg2:T4
+R4	Benefit Arg1:T1 Arg2:T4

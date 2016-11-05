@@ -1,0 +1,5 @@
+T1	Disease_Symptom 55 73	multiple sclerosis
+N1	Reference T1 Concepts:C0026769	Multiple Sclerosis
+T2	Drug 14 24	fluoxetine
+N2	Reference T2 Concepts:3386	Fluoxetine
+R1	Benefit Arg1:T1 Arg2:T2

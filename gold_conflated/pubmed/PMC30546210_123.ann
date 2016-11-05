@@ -1,0 +1,6 @@
+T1	Drug 124 133	melphalan
+N1	Reference T1 Concepts:4053	Melphalan
+T2	Drug 153 163	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+T3	Disease_Symptom 29 45	pleural effusion
+N3	Reference T3 Concepts:C0032227	Pleural effusion disorder

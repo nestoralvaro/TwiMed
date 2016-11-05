@@ -1,0 +1,10 @@
+T1	Drug 112 122	quetiapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Symptom 127 141	hallucinations
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0018524	Hallucinations
+T3	Disease 69 88	Parkinson's disease
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0030567	Parkinson Disease
+R1	Reason-to-use Arg1:T2 Arg2:T1

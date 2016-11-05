@@ -1,0 +1,15 @@
+T1	Disease_Symptom 163 175	mood episode
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0525045	Mood Disorders
+T2	Drug 24 35	lamotrigine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease_Symptom 48 53	mania
+N3	Reference T3 Concepts:C0235165	Mania acute
+T4	Drug 9 19	olanzapine
+A3	Modality T4 Generic
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T3 Arg2:T4
+R4	Benefit Arg1:T1 Arg2:T2

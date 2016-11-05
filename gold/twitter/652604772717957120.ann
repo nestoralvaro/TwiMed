@@ -1,0 +1,8 @@
+T1	Symptom 0 11	withdrawals
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Drug 124 131	effexor
+A3	Person T2 1st
+N2	Reference T2 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T2 Arg2:T1

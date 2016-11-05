@@ -1,0 +1,13 @@
+T1	Disease 174 189	prostate cancer
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0600139 Vs. C0936223
+T2	Drug 270 279	docetaxel
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3143	Docetaxel
+T3	Disease 37 53	prostate cancers
+A3	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0600139 Vs. C0936223
+R1	Reason-to-use Arg1:T3 Arg2:T2
+R2	Reason-to-use Arg1:T1 Arg2:T2

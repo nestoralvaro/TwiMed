@@ -1,0 +1,14 @@
+T1	Disease 80 95	#sinusinfection
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0037199 Vs. C0149512
+T2	Symptom 38 48	huge bitch
+A1	Person T2 1st
+A2	Duration T2 Irregular
+A3	Severity T2 Severe
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0022107 Vs. -1
+T3	Drug 12 22	prednisone
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T3 Arg2:T2

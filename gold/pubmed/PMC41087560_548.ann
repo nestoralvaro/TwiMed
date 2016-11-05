@@ -1,0 +1,7 @@
+T1	Drug 25 36	montelukast
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4248	Montelukast
+T2	Symptom 0 14	Hepatotoxicity
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0235378	Hepatotoxicity
+R1	Outcome-negative Arg1:T1 Arg2:T2

@@ -1,0 +1,9 @@
+T1	Drug 59 67	Lamictal
+A1	Sentiment T1 Negative
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Disease_Symptom 19 26	stomach
+A2	Person T2 1st
+A3	Status T2 Continuing
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0221512	Stomach ache
+R1	Outcome-negative Arg1:T1 Arg2:T2

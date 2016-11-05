@@ -1,0 +1,9 @@
+T1	Drug 34 42	lamictal
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Drug 51 59	cymbalta
+N2	Reference T2 Concepts:60834	Duloxetine
+T3	Disease_Symptom 16 32	anti-depressants
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C1386135 Vs. C0005587
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T2

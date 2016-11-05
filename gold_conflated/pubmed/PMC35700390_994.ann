@@ -1,0 +1,5 @@
+T1	Disease_Symptom 55 65	dyskinesia
+N1	Reference T1 Concepts:C0686347	Tardive Dyskinesia
+T2	Drug 84 97	carbamazepine
+N2	Reference T2 Concepts:2554	Carbamazepine
+R1	Benefit Arg1:T1 Arg2:T2

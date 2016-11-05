@@ -1,0 +1,7 @@
+T1	Drug 105 116	fluvoxamine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3404	Fluvoxamine
+T2	Disease_Symptom 69 88	Alzheimer's disease
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0002395	Alzheimer's Disease
+R1	Benefit Arg1:T2 Arg2:T1

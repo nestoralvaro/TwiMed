@@ -1,0 +1,6 @@
+T1	Symptom 102 125	neuroprotective actions
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Drug 25 38	buprenorphine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2476	Buprenorphine

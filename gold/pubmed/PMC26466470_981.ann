@@ -1,0 +1,15 @@
+T1	Symptom 130 139	agitation
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0085631	Agitation
+T2	Disease 40 53	schizophrenia
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0036341	Schizophrenia
+T3	Disease 55 71	bipolar disorder
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+T4	Drug 0 10	Quetiapine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T2 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4
+R3	Reason-to-use Arg1:T1 Arg2:T4

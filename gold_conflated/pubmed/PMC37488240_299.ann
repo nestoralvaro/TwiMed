@@ -1,0 +1,21 @@
+T1	Disease_Symptom 190 200	depression
+A1	Person T1 3rd
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Disease_Symptom 190 200	depression
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Disease_Symptom 190 200	depression
+A4	Person T3 3rd
+N3	Reference T3 Concepts:C1386135	Acute depression
+T4	Disease_Symptom 190 200	depression
+A5	Person T4 3rd
+A6	Severity T4 Mild
+N4	Reference T4 Concepts:C1386135	Acute depression
+T5	Drug 121 131	fluoxetine
+A7	Person T5 3rd
+N5	Reference T5 Concepts:3386	Fluoxetine
+R1	Benefit Arg1:T2 Arg2:T5
+R2	Benefit Arg1:T2 Arg2:T5
+R3	Benefit Arg1:T4 Arg2:T5
+R4	Benefit Arg1:T4 Arg2:T5

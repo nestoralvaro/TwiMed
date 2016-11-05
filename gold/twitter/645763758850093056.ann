@@ -1,0 +1,12 @@
+T1	Symptom 48 52	pain
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0030193	Pain
+T2	Symptom 65 73	insanity
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: -1 Vs. C0233514
+T3	Drug 0 11	Lamotrigine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

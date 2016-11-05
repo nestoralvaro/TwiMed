@@ -1,0 +1,11 @@
+T1	Disease_Symptom 76 89	macular edema
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0024440	Macular Edema, Cystoid
+T2	Drug 95 106	bevacizumab
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Drug 0 13	Triamcinolone
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T3

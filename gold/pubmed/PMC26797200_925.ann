@@ -1,0 +1,15 @@
+T1	Disease 195 208	schizophrenia
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Drug 119 129	quetiapine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Drug 131 142	ziprasidone
+A3	Person T3 3rd
+N3	Reference T3 Concepts:60853	Ziprasidone
+T4	Drug 51 61	olanzapine
+A4	Person T4 3rd
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T1 Arg2:T2
+R3	Reason-to-use Arg1:T1 Arg2:T4

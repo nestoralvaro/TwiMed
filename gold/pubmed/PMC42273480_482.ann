@@ -1,0 +1,7 @@
+T1	Drug 122 132	sertraline
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Disease 54 73	depressive disorder
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0011581	Depressive disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

@@ -1,0 +1,6 @@
+T1	Disease_Symptom 69 80	Alcoholismo
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085762 Vs. C0236663
+T2	Drug 46 56	Citalopram
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,7 @@
+T1	Disease 133 139	asthma
+A1	Severity T1 Mild
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Drug 50 61	montelukast
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Reason-to-use Arg1:T1 Arg2:T2

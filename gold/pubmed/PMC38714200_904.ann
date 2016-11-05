@@ -1,0 +1,11 @@
+T1	Disease 244 271	Duchenne muscular dystrophy
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0026846	Muscular Atrophy
+T2	Disease 211 225	cardiomyopathy
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0878544	Cardiomyopathies
+T3	Drug 125 135	lisinopril
+A3	Person T3 3rd
+N3	Reference T3 Concepts:3937	Lisinopril
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

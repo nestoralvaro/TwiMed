@@ -1,0 +1,11 @@
+T1	Disease_Symptom 51 75	metastatic rectal cancer
+N1	Reference T1 Concepts:C0007097	Carcinoma
+T2	Drug 93 104	bevacizumab
+A1	Person T2 3rd
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Disease_Symptom 51 75	metastatic rectal cancer
+A2	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0034882 Vs. C0007097
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

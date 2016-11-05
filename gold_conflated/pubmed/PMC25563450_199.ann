@@ -1,0 +1,6 @@
+T1	Disease_Symptom 81 93	tennis elbow
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0014488 Vs. -1
+T2	Drug 12 22	Duloxetine
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,14 @@
+T1	Disease 239 251	parkinsonism
+N1	Reference T1 Concepts:C0242422	Parkinsonian Disorders
+T2	Drug 316 326	olanzapine
+A1	Person T2 3rd
+A2	Duration T2 Regular
+N2	Reference T2 Concepts:4585	Olanzapine
+T3	Symptom 165 188	extrapyramidal reaction
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0234133	Extrapyramidal symptoms
+T4	Disease 43 55	tuberculosis
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0041296	Tuberculosis
+R1	Outcome-negative Arg1:T2 Arg2:T3
+R2	Outcome-negative Arg1:T2 Arg2:T1

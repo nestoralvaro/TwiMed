@@ -1,0 +1,14 @@
+T1	Disease_Symptom 114 122	cogitate
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0013144 Vs. C0338656
+T2	Disease_Symptom 84 92	migraine
+A3	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0149931 Vs. C0235890
+T3	Drug 67 75	Tegretol
+A4	Person T3 1st
+N3	Reference T3 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

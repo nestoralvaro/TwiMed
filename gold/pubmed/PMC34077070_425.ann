@@ -1,0 +1,6 @@
+T1	Drug 101 108	Ritalin
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Drug 89 96	Ritalin
+A2	Person T2 3rd
+N2	Reference T2 Concepts:4158	Methylphenidate

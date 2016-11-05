@@ -1,0 +1,10 @@
+T1	Drug 226 235	trazodone
+N1	Reference T1 Concepts:5533	Trazodone
+T2	Drug 153 163	citalopram
+N2	Reference T2 Concepts:2771	Citalopram
+T3	Drug 165 176	venlafaxine
+N3	Reference T3 Concepts:5656	Venlafaxine
+T4	Disease_Symptom 31 48	attempted suicide
+N4	Reference T4 Concepts:C0038663	Suicide attempt
+R1	Outcome-negative Arg1:T3 Arg2:T4
+R2	Outcome-negative Arg1:T2 Arg2:T4

@@ -1,0 +1,7 @@
+T1	Drug 103 112	Docetaxel
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease_Symptom 54 59	Nsclc
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0007131	Non-Small Cell Lung Carcinoma
+R1	Benefit Arg1:T2 Arg2:T1

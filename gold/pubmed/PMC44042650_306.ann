@@ -1,0 +1,16 @@
+T1	Symptom 231 239	dementia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0497327	Dementia
+T2	Symptom 177 202	neuropsychiatric symptoms
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0233401	Psychiatric symptom
+T3	Drug 113 124	ziprasidone
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:60853	Ziprasidone
+T4	Drug 75 85	olanzapine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T2 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T4
+R3	Reason-to-use Arg1:T1 Arg2:T4
+R4	Reason-to-use Arg1:T1 Arg2:T3

@@ -1,0 +1,17 @@
+T1	Symptom 111 115;99 103	neck sore
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0007859	Neck Pain
+T2	Symptom 83 97	aching muscles
+A2	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0026858 Vs. C0030193
+T3	Symptom 99 110	sore throat
+A3	Person T3 1st
+N3	Reference T3 Concepts:C0242429	Sore Throat
+T4	Drug 18 28	citalopram
+A4	Person T4 1st
+A5	Duration T4 Regular
+N4	Reference T4 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

@@ -1,0 +1,8 @@
+T1	Drug 75 81	Prozac
+N1	Reference T1 Concepts:3386	Fluoxetine
+T2	Disease_Symptom 21 31	depression
+A1	Status T2 Continuing
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0005587
+R1	Benefit Arg1:T2 Arg2:T1

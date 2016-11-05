@@ -1,0 +1,13 @@
+T1	Symptom 177 186	contusion
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0009938	Contusions
+T2	Symptom 492 500	delirium
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0011206	Delirium
+T3	Symptom 143 166	subarachnoid hemorrhage
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0038525	Subarachnoid Hemorrhage
+T4	Drug 446 457	fluvoxamine
+A4	Person T4 3rd
+N4	Reference T4 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T2 Arg2:T4

@@ -1,0 +1,8 @@
+T1	Symptom 85 104	pressura on my ches
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0008031 Vs. C0232292
+T2	Drug 78 84	celexa
+A2	Person T2 1st
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T2 Arg2:T1

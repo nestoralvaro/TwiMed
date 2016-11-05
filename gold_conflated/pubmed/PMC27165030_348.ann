@@ -1,0 +1,8 @@
+T1	Drug 153 162	tamoxifen
+A1	Duration T1 Regular
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease_Symptom 112 125	breast cancer
+A2	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0678222 Vs. C3495917
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,15 @@
+T1	Disease_Symptom 174 180;198 205	tendon rupture
+N1	Reference T1 Concepts:C0151937	Tendon rupture
+T2	Disease_Symptom 174 180	tendon
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0151937 Vs. C0151936
+T3	Disease_Symptom 174 180	tendon
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0151936 Vs. C0151937
+T4	Disease_Symptom 174 193	tendon degeneration
+N4	Reference T4 Concepts:C0151936	Tendon disorder
+T5	Disease_Symptom 128 140	tendinopathy
+N5	Reference T5 Concepts:C0151936	Tendon disorder
+T6	Drug 87 100	triamcinolone
+N6	Reference T6 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T5 Arg2:T6

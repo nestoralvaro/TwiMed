@@ -1,0 +1,7 @@
+T1	Symptom 114 138	congestive heart failure
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0018802	Congestive heart failure
+T2	Drug 0 10	Lisinopril
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3937	Lisinopril
+R1	Reason-to-use Arg1:T1 Arg2:T2

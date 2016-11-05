@@ -1,0 +1,8 @@
+T1	Drug 97 106	tamoxifen
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease 55 72	pancreatic cancer
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0346647 Vs. C0007097
+R1	Reason-to-use Arg1:T2 Arg2:T1

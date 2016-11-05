@@ -1,0 +1,5 @@
+T1	Symptom 99 110	tachycardia
+N1	Reference T1 Concepts:C0039231	Tachycardia
+T2	Drug 71 80	trazodone
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Outcome-negative Arg1:T2 Arg2:T1

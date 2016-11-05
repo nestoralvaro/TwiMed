@@ -1,0 +1,7 @@
+T1	Disease_Symptom 52 60	epilepsy
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0014544	Epilepsy
+T2	Drug 18 31	carbamazepine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2554	Carbamazepine
+R1	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,12 @@
+T1	Disease 166 205	non-inflammatory neurological disorders
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0027765 Vs. -1
+T2	Drug 128 139	lamotrigine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease 79 83	SPMS
+A3	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0026769 Vs. -1
+R1	Reason-to-use Arg1:T3 Arg2:T2

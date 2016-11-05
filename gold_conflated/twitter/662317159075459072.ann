@@ -1,0 +1,23 @@
+T1	Drug 67 78	venlafaxine
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Disease_Symptom 36 45	tiredness
+A3	Person T2 1st
+A4	Severity T2 Severe
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0013144 Vs. C0392674
+T3	Disease_Symptom 46 56	sleepiness
+A6	Person T3 1st
+A7	Severity T3 Severe
+A8	Sentiment T3 Negative
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C2830004 Vs. C0013144
+T4	Disease_Symptom 25 35	exhaustion
+A9	Severity T4 Severe
+A10	Sentiment T4 Negative
+N4	Reference T4 Concepts:C0392674	Exhaustion
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T1 Arg2:T2
+R3	Outcome-negative Arg1:T1 Arg2:T4

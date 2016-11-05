@@ -1,0 +1,16 @@
+T1	Disease_Symptom 176 187	acute mania
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0235165 Vs. C0241934
+T2	Drug 114 124	quetiapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Drug 126 137	ziprasidone
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:60853	Ziprasidone
+T4	Drug 89 99	olanzapine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T2
+R3	Benefit Arg1:T1 Arg2:T4

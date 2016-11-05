@@ -1,0 +1,7 @@
+T1	Disease_Symptom 85 91	cancer
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0007097	Carcinoma
+T2	Drug 46 56	olanzapine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T2

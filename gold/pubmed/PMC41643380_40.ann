@@ -1,0 +1,16 @@
+T1	Disease 237 241	ADHD
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 106 121	methylphenidate
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:4158	Methylphenidate
+T3	Drug 123 135	amphetamines
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:3007	Amphetamine
+T4	Drug 77 104	lisdexamfetamine dimesylate
+A7	Person T4 3rd
+A8	Modality T4 Generic
+N4	Reference T4 Concepts:11597697	lisdexamfetamine dimesylate

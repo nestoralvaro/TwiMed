@@ -1,0 +1,23 @@
+T1	Symptom 119 130	lose weight
+A1	Person T1 2nd
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0043096	Body Weight decreased
+T2	Drug 94 101	adderal
+A3	Person T2 2nd
+N2	Reference T2 Concepts:3007	Amphetamine
+T3	Symptom 12 19	trouble
+A4	Person T3 2nd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0233414 Vs. C0041671
+T4	Drug 64 71	vyvanse
+A5	Person T4 2nd
+A6	Sentiment T4 Positive
+N4	Reference T4 Concepts:11597697	lisdexamfetamine dimesylate
+T5	Symptom 12 36	trouble paying attention
+A7	Person T5 2nd
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T5	Disagreement in concept ID: C0233414 Vs. C0041671
+R1	Reason-to-use Arg1:T3 Arg2:T2
+R2	Reason-to-use Arg1:T5 Arg2:T2
+R3	Reason-to-use Arg1:T3 Arg2:T4
+R4	Reason-to-use Arg1:T5 Arg2:T4

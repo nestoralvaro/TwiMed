@@ -1,0 +1,7 @@
+T1	Disease_Symptom 35 42	anxiety
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Drug 21 26	Paxil
+A2	Person T2 1st
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Benefit Arg1:T1 Arg2:T2

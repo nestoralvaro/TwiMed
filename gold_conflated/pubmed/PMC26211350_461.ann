@@ -1,0 +1,9 @@
+T1	Disease_Symptom 108 128	rheumatoid arthritis
+N1	Reference T1 Concepts:C0003873	Rheumatoid Arthritis
+T2	Disease_Symptom 61 68	disease
+N2	Reference T2 Concepts:C0022658	Kidney Diseases
+T3	Drug 175 185	prednisone
+A1	Duration T3 Regular
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

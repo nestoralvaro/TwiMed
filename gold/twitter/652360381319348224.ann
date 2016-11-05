@@ -1,0 +1,4 @@
+T1	Drug 37 43	Avelox
+N1	Reference T1 Concepts:4259	moxifloxacin
+T2	Drug 27 35	Levaquin
+N2	Reference T2 Concepts:4583	ofloxacin

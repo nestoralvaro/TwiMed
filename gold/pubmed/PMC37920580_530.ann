@@ -1,0 +1,17 @@
+T1	Symptom 232 241	tolerance
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0236051 Vs. -1
+T2	Symptom 161 165	pain
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Symptom 189 205	gastrointestinal
+A3	Modality T3 Generic
+A4	Severity T3 Mild
+N3	Reference T3 Concepts:C0426576	Gastrointestinal symptom
+T4	Drug 0 10	Duloxetine
+A5	Modality T4 Generic
+N4	Reference T4 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T2 Arg2:T4
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

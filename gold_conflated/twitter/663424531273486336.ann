@@ -1,0 +1,14 @@
+T1	Drug 5 15	prednisone
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Disease_Symptom 40 44	skin
+A3	Person T2 1st
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0011603 Vs. C0152030
+T3	Disease_Symptom 71 80	#migraine
+A5	Person T3 1st
+N3	Reference T3 Concepts:C0149931	Migraine Disorders
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T1 Arg2:T2

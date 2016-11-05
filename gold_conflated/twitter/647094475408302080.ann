@@ -1,0 +1,6 @@
+T1	Disease_Symptom 60 77	Opiate Dependence
+N1	Reference T1 Concepts:C0524662	Opiate Addiction
+T2	Drug 26 39	Buprenorphine
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:2476	Buprenorphine
+R1	Benefit Arg1:T1 Arg2:T2

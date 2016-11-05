@@ -1,0 +1,5 @@
+T1	Drug 12 21	Singulair
+N1	Reference T1 Concepts:4248	Montelukast
+T2	Disease 0 6	Asthma
+N2	Reference T2 Concepts:C0004096	Asthma
+R1	Reason-to-use Arg1:T2 Arg2:T1

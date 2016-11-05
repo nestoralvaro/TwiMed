@@ -1,0 +1,8 @@
+T1	Symptom 41 52	climacteric
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0236075 Vs. C0032776
+T2	Drug 15 26	fluvoxamine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T1 Arg2:T2

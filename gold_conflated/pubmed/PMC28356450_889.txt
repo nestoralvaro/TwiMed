@@ -1,0 +1,1 @@
+BACKGROUND: Combinations of trastuzumab with either docetaxel or vinorelbine are considered valuable treatment options for HER __number__ -positive metastatic breast cancer patients.

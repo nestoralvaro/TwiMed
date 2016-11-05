@@ -1,0 +1,17 @@
+T1	Disease 221 231	depression
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1386135 Vs. C0011570
+T2	Symptom 235 242	anxiety
+N2	Reference T2 Concepts:C0003467	Anxiety
+T3	Drug 192 202	citalopram
+N3	Reference T3 Concepts:2771	Citalopram
+T4	Drug 166 176	fluoxetine
+N4	Reference T4 Concepts:3386	Fluoxetine
+T5	Drug 63 74	venlafaxine
+N5	Reference T5 Concepts:5656	Venlafaxine
+R1	Reason-to-use Arg1:T2 Arg2:T5
+R2	Reason-to-use Arg1:T1 Arg2:T5
+R3	Reason-to-use Arg1:T2 Arg2:T4
+R4	Reason-to-use Arg1:T1 Arg2:T4
+R5	Reason-to-use Arg1:T2 Arg2:T3
+R6	Reason-to-use Arg1:T1 Arg2:T3

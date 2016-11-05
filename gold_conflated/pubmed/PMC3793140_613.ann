@@ -1,0 +1,20 @@
+T1	Disease_Symptom 263 271	dementia
+N1	Reference T1 Concepts:C0497327	Dementia
+T2	Disease_Symptom 276 292	memory disorders
+N2	Reference T2 Concepts:C0233794	Memory impairment
+T3	Disease_Symptom 242 258	bipolar disorder
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+T4	Drug 121 131	quetiapine
+N4	Reference T4 Concepts:5002	Quetiapine
+T5	Disease_Symptom 197 210	schizophrenia
+N5	Reference T5 Concepts:C0036341	Schizophrenia
+T6	Drug 106 116	olanzapine
+N6	Reference T6 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T6
+R3	Benefit Arg1:T3 Arg2:T4
+R4	Benefit Arg1:T2 Arg2:T6
+R5	Benefit Arg1:T2 Arg2:T4
+R6	Benefit Arg1:T1 Arg2:T6
+R7	Benefit Arg1:T5 Arg2:T6
+R8	Benefit Arg1:T5 Arg2:T4

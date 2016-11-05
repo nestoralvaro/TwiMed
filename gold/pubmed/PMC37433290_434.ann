@@ -1,0 +1,7 @@
+T1	Symptom 97 113	partial seizures
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0234974	Simple Partial Seizures
+T2	Drug 12 25	Carbamazepine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2554	Carbamazepine
+R1	Reason-to-use Arg1:T1 Arg2:T2

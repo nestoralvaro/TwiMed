@@ -1,0 +1,7 @@
+T1	Drug 120 130	Lisinopril
+A1	Person T1 1st
+N1	Reference T1 Concepts:3937	Lisinopril
+T2	Symptom 81 87	stress
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0038435	Stress
+R1	Reason-to-use Arg1:T2 Arg2:T1

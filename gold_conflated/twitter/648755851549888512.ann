@@ -1,0 +1,11 @@
+T1	Disease_Symptom 130 146	#BipolarDisorder
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Disease_Symptom 38 55	folic acid levels
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0016412	Folic Acid Deficiency
+T3	Drug 74 85	lamotrigine
+A3	Person T3 1st
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T3 Arg2:T2

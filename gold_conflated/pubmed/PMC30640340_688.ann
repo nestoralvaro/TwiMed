@@ -1,0 +1,8 @@
+T1	Disease_Symptom 68 87	diabetic neuropathy
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0011882 Vs. C1963916
+T2	Drug 46 56	duloxetine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T2

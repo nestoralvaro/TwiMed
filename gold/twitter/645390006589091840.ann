@@ -1,0 +1,17 @@
+T1	Symptom 102 108	crying
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Status T1 Continuing
+A4	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0344315 Vs. C0235939
+T2	Symptom 15 26	cold turkey
+A5	Person T2 1st
+A6	Exemplification T2 Exemplification
+N2	Reference T2 Concepts:C0087169	Withdrawal Symptoms
+T3	Drug 7 14	Effexor
+A7	Person T3 1st
+A8	Status T3 Complete
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

@@ -1,0 +1,6 @@
+T1	Drug 160 171	ziprasidone
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Disease_Symptom 45 60	pulse decreased
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0277885 Vs. C0392684
+R1	Outcome-negative Arg1:T1 Arg2:T2

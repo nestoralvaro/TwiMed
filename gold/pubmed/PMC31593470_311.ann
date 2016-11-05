@@ -1,0 +1,8 @@
+T1	Drug 120 130	topiramate
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Symptom 147 151	pain
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Drug 104 115	lamotrigine
+N3	Reference T3 Concepts:3878	Lamotrigine
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

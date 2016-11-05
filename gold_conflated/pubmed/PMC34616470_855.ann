@@ -1,0 +1,4 @@
+T1	Disease_Symptom 65 73	headache
+N1	Reference T1 Concepts:C0018681	Headache
+T2	Drug 99 110	lamotrigine
+N2	Reference T2 Concepts:3878	Lamotrigine

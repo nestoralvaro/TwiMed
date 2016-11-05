@@ -1,0 +1,8 @@
+T1	Disease_Symptom 103 112	menopause
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0025320	Menopause
+T2	Drug 9 19	paroxetine
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:4691	Paroxetine

@@ -1,0 +1,4 @@
+T1	Drug 6 15	cortisone
+A1	Person T1 1st
+A2	Duration T1 Irregular
+N1	Reference T1 Concepts:222786	Cortisone

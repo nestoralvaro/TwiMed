@@ -1,0 +1,11 @@
+T1	Disease_Symptom 129 141	inflammation
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0021368	Inflammation
+T2	Drug 156 169	triamcinolone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5544	Triamcinolone
+T3	Disease_Symptom 98 102	pain
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0030193	Pain
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T2

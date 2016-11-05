@@ -1,0 +1,15 @@
+T1	Symptom 195 207	heart murmur
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0018808	Heart murmur
+T2	Drug 130 142	levofloxacin
+A2	Person T2 3rd
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Disease 101 110	pneumonia
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0032285	Pneumonia
+T4	Symptom 73 78	fever
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0015967	Fever
+R1	Outcome-negative Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T4 Arg2:T2
+R3	Reason-to-use Arg1:T3 Arg2:T2

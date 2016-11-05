@@ -1,0 +1,8 @@
+T1	Symptom 90 111	to calm their anxiety
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0003467 Vs. C0700031
+T2	Drug 58 66	cymbalta
+A2	Person T2 3rd
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

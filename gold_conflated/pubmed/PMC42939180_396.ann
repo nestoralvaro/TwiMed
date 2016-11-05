@@ -1,0 +1,13 @@
+T1	Disease_Symptom 146 166	diabetic retinopathy
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0241863 Vs. C0740447
+T2	Drug 106 117	bevacizumab
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Disease_Symptom 146 166	diabetic retinopathy
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0035309 Vs. C0740447
+T4	Disease_Symptom 37 55	retinal detachment
+N4	Reference T4 Concepts:C0035305	Retinal Detachment
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2
+R3	Benefit Arg1:T4 Arg2:T2

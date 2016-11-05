@@ -1,0 +1,9 @@
+T1	Drug 43 50	zyprexa
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Symptom 13 34	Physical Debilitation
+A1	Person T2 1st
+A2	Status T2 Continuing
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0151786 Vs. C0242979
+R1	Outcome-negative Arg1:T1 Arg2:T2

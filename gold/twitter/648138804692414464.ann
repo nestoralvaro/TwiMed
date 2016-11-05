@@ -1,0 +1,5 @@
+T1	Symptom 73 85	weird dreams
+N1	Reference T1 Concepts:C0234458	Abnormal dreams
+T2	Drug 34 43	singulair
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Outcome-negative Arg1:T2 Arg2:T1

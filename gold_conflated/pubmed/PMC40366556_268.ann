@@ -1,0 +1,11 @@
+T1	Disease_Symptom 102 118	partial seizures
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0014547 Vs. C0234974
+T2	Disease_Symptom 110 118	seizures
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0014553 Vs. C0234974
+T3	Disease_Symptom 110 118	seizures
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T3	Disagreement in concept ID: C0014550 Vs. C0234974
+T4	Drug 15 26	lamotrigine
+N4	Reference T4 Concepts:3878	Lamotrigine

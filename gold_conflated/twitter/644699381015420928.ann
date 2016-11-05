@@ -1,0 +1,10 @@
+T1	Disease_Symptom 68 75	seizure
+A1	Person T1 3rd
+A2	Duration T1 Irregular
+A3	Status T1 Complete
+N1	Reference T1 Concepts:C0036572	Seizures
+T2	Drug 125 133	Seroquel
+A4	Person T2 3rd
+A5	Status T2 Complete
+N2	Reference T2 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

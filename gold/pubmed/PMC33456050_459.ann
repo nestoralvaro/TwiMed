@@ -1,0 +1,11 @@
+T1	Drug 162 172	topiramate
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Drug 134 145	lamotrigine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease 0 10	Epilepsies
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0014544	Epilepsy
+R1	Reason-to-use Arg1:T3 Arg2:T1
+R2	Reason-to-use Arg1:T3 Arg2:T2

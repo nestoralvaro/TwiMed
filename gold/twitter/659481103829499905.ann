@@ -1,0 +1,11 @@
+T1	Drug 12 23	Montelukast
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4248	Montelukast
+T2	Symptom 39 61	de-age the human brain
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: -1 Vs. C0262405
+T3	Disease 0 6	Asthma
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0004096	Asthma
+R1	Reason-to-use Arg1:T3 Arg2:T1

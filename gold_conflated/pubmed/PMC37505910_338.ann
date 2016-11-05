@@ -1,0 +1,10 @@
+T1	Disease_Symptom 43 65	ocular chemical injury
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0015397 Vs. C0948595
+T2	Disease_Symptom 13 39	corneal neovascularization
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0015397 Vs. C0151571
+T3	Drug 107 118	bevacizumab
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

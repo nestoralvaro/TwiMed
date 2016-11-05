@@ -1,0 +1,11 @@
+T1	Drug 12 18	Prozac
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3386	Fluoxetine
+T2	Disease_Symptom 68 78	depression
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1386135	Acute depression
+T3	Drug 0 10	Fluoxetine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3386	Fluoxetine
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3

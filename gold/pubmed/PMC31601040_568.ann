@@ -1,0 +1,8 @@
+T1	Symptom 59 71	galactorrhea
+N1	Reference T1 Concepts:C0235660	Galactorrhea not associated with childbirth
+T2	Symptom 21 42	neuritis nervi optici
+N2	Reference T2 Concepts:C0029134	Optic Neuritis
+T3	Drug 82 92	citalopram
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

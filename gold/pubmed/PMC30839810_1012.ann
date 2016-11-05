@@ -1,0 +1,7 @@
+T1	Disease 96 112	bipolar disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Drug 12 23	ziprasidone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:60853	Ziprasidone
+R1	Reason-to-use Arg1:T1 Arg2:T2

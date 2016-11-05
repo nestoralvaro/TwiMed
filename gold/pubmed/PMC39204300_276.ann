@@ -1,0 +1,11 @@
+T1	Disease 22 46	interstitial pneumonitis
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0206061	Pneumonia, Interstitial
+T2	Symptom 67 88	hypogammaglobulinemia
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0086438	Hypogammaglobulinemia
+T3	Drug 0 13	Carbamazepine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

@@ -1,0 +1,14 @@
+T1	Symptom 27 39	FIX MY BRAIN
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0262405	Brain dysfunction
+T2	Symptom 48 66	HURTING MY STOMACH
+A2	Person T2 1st
+A3	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0221512 Vs. C0235309
+T3	Drug 4 11	TOPAMAX
+A4	Person T3 1st
+A5	Sentiment T3 Negative
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T3 Arg2:T2

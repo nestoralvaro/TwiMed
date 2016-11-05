@@ -1,0 +1,7 @@
+T1	Symptom 88 96	delirium
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0011206	Delirium
+T2	Drug 101 107	Zoloft
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T2 Arg2:T1

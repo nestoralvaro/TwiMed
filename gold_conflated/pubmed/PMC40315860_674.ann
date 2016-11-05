@@ -1,0 +1,13 @@
+T1	Drug 196 206	olanzapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Disease_Symptom 143 148	mania
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0235165	Mania acute
+T3	Disease_Symptom 152 170	depressive episode
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0349217	Depressive episode, unspecified
+T4	Disease_Symptom 44 60	bipolar disorder
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0005586	Bipolar Disorder
+R1	Benefit Arg1:T4 Arg2:T1

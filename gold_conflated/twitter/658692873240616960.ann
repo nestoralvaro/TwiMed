@@ -1,0 +1,9 @@
+T1	Disease_Symptom 20 31	cold turkey
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0152128
+T2	Drug 9 19	citalopram
+A3	Person T2 1st
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,6 @@
+T1	Disease_Symptom 34 42	Glaucoma
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0017605 Vs. C0017601
+T2	Drug 50 60	Topiramate
+N2	Reference T2 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T2 Arg2:T1

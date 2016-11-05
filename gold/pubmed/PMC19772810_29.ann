@@ -1,0 +1,7 @@
+T1	Drug 112 121	melphalan
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4053	Melphalan
+T2	Symptom 83 108	gastrointestinal toxicity
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0017178	Gastrointestinal Diseases
+R1	Outcome-negative Arg1:T1 Arg2:T2

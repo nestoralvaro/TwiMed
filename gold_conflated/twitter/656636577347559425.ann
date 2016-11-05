@@ -1,0 +1,6 @@
+T1	Drug 20 30	Lisinopril
+N1	Reference T1 Concepts:3937	Lisinopril
+T2	Disease_Symptom 40 68	Reductionofhighbloodpressure
+N2	Reference T2 Concepts:C0277885	Blood pressure systolic decreased
+T3	Drug 12 19	Zestril
+N3	Reference T3 Concepts:3937	Lisinopril

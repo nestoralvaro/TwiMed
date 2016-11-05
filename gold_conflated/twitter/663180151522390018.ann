@@ -1,0 +1,8 @@
+T1	Disease_Symptom 33 50	stay up all night
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 76 84	adderall
+A3	Person T2 1st
+N2	Reference T2 Concepts:3007	Amphetamine
+R1	Benefit Arg1:T1 Arg2:T2

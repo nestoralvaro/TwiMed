@@ -1,0 +1,42 @@
+T1	Drug 188 198	sertraline
+A1	Person T1 3rd
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Symptom 151 149;160 164	 rash
+A3	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0234913 Vs. C0033774
+T3	Symptom 137 135;160 164	 rash
+A4	Person T3 3rd
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0234913 Vs. C0423791
+T4	Symptom 137 149;160 164	erythematous rash
+A5	Person T4 3rd
+N4	Reference T4 Concepts:C0234913	Rash erythematous
+T5	Symptom 151 159	pruritic
+A6	Person T5 3rd
+N5	Reference T5 Concepts:C0033774	Pruritus
+T6	Symptom 151 135;160 164	 rash
+A7	Person T6 3rd
+N6	Reference T6 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T6	Disagreement in concept ID: C0423791 Vs. C0033774
+T7	Symptom 122 135;160 164	maculopapular rash
+A8	Person T7 3rd
+N7	Reference T7 Concepts:C0423791	Rash maculo-papular
+T8	Symptom 137 135;160 164	 rash
+A9	Person T8 3rd
+N8	Reference T8 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T8	Disagreement in concept ID: C0423791 Vs. C0234913
+T9	Drug 38 48	paroxetine
+A10	Person T9 3rd
+N9	Reference T9 Concepts:4691	Paroxetine
+T10	Drug 53 63	sertraline
+A11	Person T10 3rd
+N10	Reference T10 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T1 Arg2:T8
+R2	Outcome-negative Arg1:T1 Arg2:T8
+R3	Outcome-negative Arg1:T1 Arg2:T8
+R4	Outcome-negative Arg1:T1 Arg2:T4
+R5	Outcome-negative Arg1:T1 Arg2:T4
+R6	Outcome-negative Arg1:T1 Arg2:T4
+R7	Outcome-negative Arg1:T1 Arg2:T5

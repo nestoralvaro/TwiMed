@@ -1,0 +1,10 @@
+T1	Disease_Symptom 64 69	awake
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0043012 Vs. C0917801
+T2	Disease_Symptom 102 113	#narcolepsy
+N2	Reference T2 Concepts:C0027404	Narcolepsy
+T3	Drug 45 52	ritalin
+A2	Person T3 1st
+N3	Reference T3 Concepts:4158	Methylphenidate
+R1	Benefit Arg1:T2 Arg2:T3

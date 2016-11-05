@@ -1,0 +1,4 @@
+T1	Drug 35 43	#topamax
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Drug 14 23	#lamictal
+N2	Reference T2 Concepts:3878	Lamotrigine

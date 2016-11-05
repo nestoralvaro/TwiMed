@@ -1,0 +1,9 @@
+T1	Disease 148 156	melanoma
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0025202	Melanoma
+T2	Drug 53 64	bevacizumab
+A2	Person T2 3rd
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Drug 25 38	triamcinolone
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5544	Triamcinolone

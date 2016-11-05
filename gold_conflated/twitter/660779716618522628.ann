@@ -1,0 +1,9 @@
+T1	Drug 75 83	seroquel
+A1	Person T1 1st
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 37 42	awake
+A2	Person T2 1st
+A3	Severity T2 Severe
+A4	Status T2 Continuing
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0043012	Wakefulness

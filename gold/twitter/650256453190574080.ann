@@ -1,0 +1,6 @@
+T1	Symptom 49 67	Endometrium cancer
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0153567 Vs. C0476089
+T2	Drug 10 19	tamoxifen
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Outcome-negative Arg1:T2 Arg2:T1

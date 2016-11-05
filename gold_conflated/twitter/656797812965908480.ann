@@ -1,0 +1,7 @@
+T1	Disease_Symptom 64 82	epileptic seizures
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0036572 Vs. C0751494
+T2	Drug 26 34	Lamictal
+A1	Sentiment T2 Negative
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T2

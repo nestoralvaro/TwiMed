@@ -1,0 +1,5 @@
+T1	Disease_Symptom 81 92	acute mania
+N1	Reference T1 Concepts:C0235165	Mania acute
+T2	Drug 48 61	carbamazepine
+N2	Reference T2 Concepts:2554	Carbamazepine
+R1	Benefit Arg1:T1 Arg2:T2

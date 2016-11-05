@@ -1,0 +1,7 @@
+T1	Drug 51 62	ziprasidone
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Disease 20 33	schizophrenia
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0036341	Schizophrenia
+R1	Reason-to-use Arg1:T2 Arg2:T1

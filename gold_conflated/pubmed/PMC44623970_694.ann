@@ -1,0 +1,8 @@
+T1	Disease_Symptom 94 122	metastatic esophageal cancer
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1384494 Vs. C0007097
+T2	Drug 39 48	docetaxel
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Benefit Arg1:T1 Arg2:T2

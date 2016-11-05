@@ -1,0 +1,7 @@
+T1	Drug 141 149	#Avastin
+A1	Person T1 3rd
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease_Symptom 121 135	ovarian cancer
+A2	Person T2 3rd
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T2 Arg2:T1

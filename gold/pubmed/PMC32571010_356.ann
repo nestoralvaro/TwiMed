@@ -1,0 +1,6 @@
+T1	Symptom 117 134	hyperpigmentation
+N1	Reference T1 Concepts:C0162834	Hyperpigmentation
+T2	Drug 26 35	trazodone
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Reason-to-use Arg1:T1 Arg2:T2

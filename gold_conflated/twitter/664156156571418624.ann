@@ -1,0 +1,8 @@
+T1	Disease_Symptom 61 68	allergy
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0149526	Allergic urticaria
+T2	Drug 29 36	kenalog
+A3	Person T2 1st
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

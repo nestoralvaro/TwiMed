@@ -1,0 +1,6 @@
+T1	Disease 103 143	attention-deficit/hyperactivity disorder
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 46 73	lisdexamfetamine dimesylate
+A1	Person T2 3rd
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Reason-to-use Arg1:T1 Arg2:T2

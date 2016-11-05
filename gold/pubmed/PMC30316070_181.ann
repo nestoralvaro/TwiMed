@@ -1,0 +1,10 @@
+T1	Symptom 136 147	wakefulness
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0043012	Wakefulness
+T2	Symptom 120 131	body weight
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0043096	Body Weight decreased
+T3	Drug 28 38	fluoxetine
+N3	Reference T3 Concepts:3386	Fluoxetine
+R1	Reason-to-use Arg1:T2 Arg2:T3
+R2	Reason-to-use Arg1:T1 Arg2:T3

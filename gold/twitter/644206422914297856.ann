@@ -1,0 +1,9 @@
+T1	Drug 77 84	vyvanse
+A1	Person T1 1st
+A2	Status T1 Complete
+N1	Reference T1 Concepts:11597697	lisdexamfetamine dimesylate
+T2	Symptom 19 31	panic attack
+A3	Person T2 1st
+A4	Status T2 Complete
+N2	Reference T2 Concepts:C0086769	Panic Attacks
+R1	Outcome-negative Arg1:T1 Arg2:T2

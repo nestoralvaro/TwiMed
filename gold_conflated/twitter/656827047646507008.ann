@@ -1,0 +1,5 @@
+T1	Drug 90 99	Docetaxel
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease_Symptom 60 71	Lung Cancer
+N2	Reference T2 Concepts:C0007131	Non-Small Cell Lung Carcinoma
+R1	Benefit Arg1:T2 Arg2:T1

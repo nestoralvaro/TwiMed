@@ -1,0 +1,9 @@
+T1	Symptom 19 25	dreams
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Severity T1 Severe
+N1	Reference T1 Concepts:C0234458	Abnormal dreams
+T2	Drug 0 9	trazodone
+A4	Person T2 1st
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Outcome-negative Arg1:T2 Arg2:T1

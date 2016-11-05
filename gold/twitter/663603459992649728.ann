@@ -1,0 +1,5 @@
+T1	Drug 90 98	seroquel
+A1	Modality T1 Hypothetical
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Symptom 75 83	sleeping
+N2	Reference T2 Concepts:C2830004	Somnolence

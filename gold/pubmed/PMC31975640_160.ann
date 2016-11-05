@@ -1,0 +1,7 @@
+T1	Disease 112 130	psychotic disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0033975	Psychotic Disorders
+T2	Drug 12 23	Fluvoxamine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T1 Arg2:T2

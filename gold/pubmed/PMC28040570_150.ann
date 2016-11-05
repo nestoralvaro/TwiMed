@@ -1,0 +1,15 @@
+T1	Symptom 131 141	somnolence
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Symptom 147 160	hyperglycemia
+N2	Reference T2 Concepts:C0020456	Hyperglycemia
+T3	Symptom 98 109	tachycardia
+N3	Reference T3 Concepts:C0039231	Tachycardia
+T4	Symptom 111 129	QT(c)-prolongation
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T4	Disagreement in concept ID: -1 Vs. C0600125
+T5	Drug 63 73	quetiapine
+N5	Reference T5 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T5 Arg2:T2
+R2	Outcome-negative Arg1:T5 Arg2:T3
+R3	Outcome-negative Arg1:T5 Arg2:T4
+R4	Outcome-negative Arg1:T5 Arg2:T1

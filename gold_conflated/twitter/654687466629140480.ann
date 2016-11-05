@@ -1,0 +1,8 @@
+T1	Disease_Symptom 100 114	attention span
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0233414 Vs. C0858899
+T2	Drug 59 66	Ritalin
+A2	Person T2 3rd
+N2	Reference T2 Concepts:4158	Methylphenidate
+R1	Benefit Arg1:T1 Arg2:T2

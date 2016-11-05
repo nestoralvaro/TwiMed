@@ -1,0 +1,6 @@
+T1	Drug 78 88	paroxetine
+A1	Duration T1 Regular
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 41 55	panic disorder
+N2	Reference T2 Concepts:C0030319	Panic Disorder
+R1	Benefit Arg1:T2 Arg2:T1

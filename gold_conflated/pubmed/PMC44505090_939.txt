@@ -1,0 +1,1 @@
+BACKGROUND: This pilot study, conducted on a __number__ / __number__ th representative sample of French claims data, prepared a project to assess the effectiveness of Montelukast (MTL __number__ ) as add-on therapy for asthma in infants ( __number__ months) compared to inhaled corticosteroids (ICS), based on real-world data.

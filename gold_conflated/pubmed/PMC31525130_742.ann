@@ -1,0 +1,16 @@
+T1	Disease_Symptom 129 140	acute manic
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0235165 Vs. C0338831
+T2	Disease_Symptom 65 84	depressive symptoms
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0086132	Depressive Symptoms
+T3	Disease_Symptom 88 106	bipolar I disorder
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0853193	Bipolar I disorder
+T4	Drug 217 227	olanzapine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

@@ -1,0 +1,8 @@
+T1	Symptom 118 130	inflammation
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0021368	Inflammation
+T2	Drug 80 90	prednisone
+A2	Person T2 3rd
+A3	Status T2 Complete
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T1 Arg2:T2

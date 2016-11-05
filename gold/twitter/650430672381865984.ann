@@ -1,0 +1,4 @@
+T1	Disease 44 53	Psychosis
+N1	Reference T1 Concepts:C0281774	Acute psychosis
+T2	Drug 0 5	Luvox
+N2	Reference T2 Concepts:3404	Fluvoxamine

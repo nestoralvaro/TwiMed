@@ -1,0 +1,12 @@
+T1	Drug 178 188	quetiapine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Symptom 207 226	depressive symptoms
+A2	Person T2 3rd
+A3	Modality T2 Generic
+N2	Reference T2 Concepts:C0086132	Depressive Symptoms
+T3	Disease 76 83	bipolar
+A4	Person T3 3rd
+N3	Reference T3 Concepts:C0005586	Bipolar Disorder
+R1	Reason-to-use Arg1:T3 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T1

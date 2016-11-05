@@ -1,0 +1,9 @@
+T1	Drug 114 125	montelukast
+N1	Reference T1 Concepts:4248	Montelukast
+T2	Disease_Symptom 0 6	Asthma
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:C0004096	Asthma
+T3	Disease_Symptom 18 42	rejuvenate ageing brains
+A2	Modality T3 Hedged
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T2 Arg2:T1

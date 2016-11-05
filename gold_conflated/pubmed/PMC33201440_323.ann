@@ -1,0 +1,10 @@
+T1	Disease_Symptom 64 77	muscle twitch
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0231530	Muscle twitch
+T2	Disease_Symptom 89 101	tetanic fade
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0948266 Vs. -1
+T3	Drug 0 11	Lamotrigine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:3878	Lamotrigine

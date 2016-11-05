@@ -1,0 +1,12 @@
+T1	Drug 91 102	lamotrigine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 16 22	weight
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0043094 Vs. C0043096
+T3	Drug 76 89	carbamazepine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T2

@@ -1,0 +1,17 @@
+T1	Disease_Symptom 91 108	thrombotic events
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0040053 Vs. C0857496
+T2	Disease_Symptom 54 66	hypertension
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0085580 Vs. C0020538
+T3	Disease_Symptom 68 76	bleeding
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C1458140	Bleeding tendency
+T4	Drug 34 45	bevacizumab
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:-1	Unknown Concept ID
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T1

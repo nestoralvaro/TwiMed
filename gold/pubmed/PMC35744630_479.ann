@@ -1,0 +1,12 @@
+T1	Disease 56 65	depressed
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1386135 Vs. C0011581
+T2	Drug 112 123	fluvoxamine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3404	Fluvoxamine
+T3	Symptom 40 50	dyskinesia
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0686347	Tardive Dyskinesia
+R1	Reason-to-use Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T2 Arg2:T3

@@ -1,0 +1,11 @@
+T1	Symptom 89 96	breathe
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:C0553668	Labored breathing
+T2	Drug 59 68	singulair
+A4	Person T2 1st
+A5	Duration T2 Regular
+A6	Status T2 Continuing
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Reason-to-use Arg1:T1 Arg2:T2

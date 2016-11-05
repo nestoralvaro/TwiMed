@@ -1,0 +1,6 @@
+T1	Disease_Symptom 77 89	liver injury
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0160390 Vs. C2242583
+T2	Drug 18 26	Adderall
+N2	Reference T2 Concepts:3007	Amphetamine
+R1	Outcome-negative Arg1:T2 Arg2:T1

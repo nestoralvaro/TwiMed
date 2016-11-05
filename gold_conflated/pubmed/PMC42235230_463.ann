@@ -1,0 +1,17 @@
+T1	Disease_Symptom 73 76	SWS
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0037317 Vs. C0877792
+T2	Disease_Symptom 93 109	sleep continuity
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0037317 Vs. C1262141
+T3	Disease_Symptom 114 124	depression
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C1386135	Acute depression
+T4	Drug 13 23	Olanzapine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

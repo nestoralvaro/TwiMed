@@ -1,0 +1,7 @@
+T1	Symptom 100 121	tonic-clonic seizures
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0494475	Tonic - clonic seizures
+T2	Drug 37 48	lamotrigine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Reason-to-use Arg1:T1 Arg2:T2

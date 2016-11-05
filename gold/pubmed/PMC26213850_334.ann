@@ -1,0 +1,16 @@
+T1	Disease 171 195	schizoaffective disorder
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0036337	Schizoaffective Disorder
+T2	Disease 154 167	schizophrenia
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0036341	Schizophrenia
+T3	Drug 106 116	quetiapine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5002	Quetiapine
+T4	Drug 75 85	olanzapine
+A4	Person T4 3rd
+N4	Reference T4 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T2 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T4
+R3	Reason-to-use Arg1:T1 Arg2:T3
+R4	Reason-to-use Arg1:T1 Arg2:T4

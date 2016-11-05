@@ -1,0 +1,1 @@
+Candidate predictors included age, race, sex, initial Beck Depression Inventory (iBDI) score, treatment received (sertraline or bupropion), family history of depression, extant diabetes complications (eDC), and A __number__ C level.

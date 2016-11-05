@@ -1,0 +1,14 @@
+T1	Drug 37 44	avastin
+N1	Reference T1 Concepts:-1	Unknown Concept ID
+T2	Disease_Symptom 93 105	nerve damage
+A1	Person T2 1st
+N2	Reference T2 Concepts:C0161479	Nerve injury
+T3	Disease_Symptom 135 142	tinetus
+A2	Polarity T3 Polarity
+A3	Person T3 1st
+A4	Status T3 Continuing
+A5	Sentiment T3 Negative
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0040264 Vs. -1
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T1

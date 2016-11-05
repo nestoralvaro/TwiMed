@@ -1,0 +1,10 @@
+T1	Drug 118 126	Cymbalta
+A1	Person T1 1st
+A2	Modality T1 Hypothetical
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Disease_Symptom 84 93	depressed
+A3	Person T2 1st
+A4	Modality T2 Hypothetical
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0011581
+R1	Benefit Arg1:T2 Arg2:T1

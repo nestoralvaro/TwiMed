@@ -1,0 +1,12 @@
+T1	Symptom 96 104	insomnia
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0393761 Vs. C0393760
+T2	Drug 169 179	fluoxetine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3386	Fluoxetine
+T3	Symptom 72 91	sexual side effects
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0549622	Sexual Dysfunction
+R1	Outcome-negative Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T2 Arg2:T3

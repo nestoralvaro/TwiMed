@@ -1,0 +1,13 @@
+T1	Disease 201 241	attention deficit hyperactivity disorder
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 168 183	methylphenidate
+A2	Person T2 3rd
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:4158	Methylphenidate
+T3	Drug 185 192	Ritalin
+A4	Person T3 3rd
+A5	Duration T3 Regular
+N3	Reference T3 Concepts:4158	Methylphenidate
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T1 Arg2:T2

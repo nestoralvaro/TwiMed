@@ -1,0 +1,11 @@
+T1	Drug 34 44	topiramate
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Disease_Symptom 48 68	alcohol de-addiction
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0085762	Alcohol abuse
+T3	Disease_Symptom 0 8	Glaucoma
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0017601	Glaucoma
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T1 Arg2:T3

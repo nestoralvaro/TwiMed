@@ -1,0 +1,9 @@
+T1	Drug 114 124	quetiapine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Drug 126 137	ziprasidone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:60853	Ziprasidone
+T3	Drug 89 99	olanzapine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4585	Olanzapine

@@ -1,0 +1,11 @@
+T1	Drug 26 37	lamotrigine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Disease 59 77	bipolar depression
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0005587	Depression, Bipolar
+T3	Drug 0 10	Olanzapine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

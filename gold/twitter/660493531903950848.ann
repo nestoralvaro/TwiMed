@@ -1,0 +1,17 @@
+T1	Symptom 55 59	ache
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0008031 Vs. C0234238
+T2	Disease 135 141	asthma
+A3	Person T2 1st
+N2	Reference T2 Concepts:C0004096	Asthma
+T3	Symptom 20 41	tightness in my chest
+A4	Person T3 1st
+N3	Reference T3 Concepts:C0232292	Chest tightness
+T4	Drug 113 122	Singulair
+A5	Person T4 1st
+A6	Sentiment T4 Positive
+N4	Reference T4 Concepts:4248	Montelukast
+R1	Reason-to-use Arg1:T2 Arg2:T4
+R2	Outcome-positive Arg1:T4 Arg2:T1

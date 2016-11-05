@@ -1,0 +1,6 @@
+T1	Disease_Symptom 187 201	retinoblastoma
+N1	Reference T1 Concepts:C0035309	Retinal Diseases
+T2	Drug 42 51	melphalan
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:4053	Melphalan
+R1	Benefit Arg1:T1 Arg2:T2

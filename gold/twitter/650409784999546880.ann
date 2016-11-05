@@ -1,0 +1,9 @@
+T1	Drug 34 45	lamotrigine
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 0 5	Tired
+A3	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0013144 Vs. C0392674
+R1	Outcome-negative Arg1:T1 Arg2:T2

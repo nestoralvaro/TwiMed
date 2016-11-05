@@ -1,0 +1,15 @@
+T1	Drug 144 154	sertraline
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Drug 105 115	duloxetine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:60834	Duloxetine
+T3	Drug 130 139	trazodone
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5533	Trazodone
+T4	Disease_Symptom 52 70	sexual dysfunction
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0549622	Sexual Dysfunction
+R1	Outcome-negative Arg1:T2 Arg2:T4
+R2	Outcome-negative Arg1:T3 Arg2:T4
+R3	Outcome-negative Arg1:T1 Arg2:T4

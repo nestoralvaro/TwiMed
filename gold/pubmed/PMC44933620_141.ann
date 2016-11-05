@@ -1,0 +1,11 @@
+T1	Drug 105 116	lamotrigine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:3878	Lamotrigine
+T2	Symptom 149 164	hepatic failure
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0948807	Hepatic impairment
+T3	Disease 67 91	Stevens-Johnson syndrome
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0038325	Stevens-Johnson Syndrome
+R1	Outcome-negative Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T1 Arg2:T3

@@ -1,0 +1,6 @@
+T1	Symptom 33 56	systolic blood pressure
+N1	Reference T1 Concepts:C0277885	Blood pressure systolic decreased
+T2	Drug 202 212	lisinopril
+A1	Duration T2 Regular
+N2	Reference T2 Concepts:3937	Lisinopril
+R1	Outcome-positive Arg1:T2 Arg2:T1

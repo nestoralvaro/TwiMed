@@ -1,0 +1,7 @@
+T1	Disease 90 100	depression
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 58 68	duloxetine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,5 @@
+T1	Symptom 21 30	limb pain
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0030196 Vs. C0030193
+T2	Drug 83 93	paroxetine
+N2	Reference T2 Concepts:4691	Paroxetine

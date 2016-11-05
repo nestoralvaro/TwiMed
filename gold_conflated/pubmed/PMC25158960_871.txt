@@ -1,0 +1,1 @@
+__number__ patients with a DSM IV diagnosis of dysphoric mania were randomized to three groups comprising gapbapentin, lamotrogine or carbamazepine and followed for __number__ weeks.

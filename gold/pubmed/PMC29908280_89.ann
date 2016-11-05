@@ -1,0 +1,8 @@
+T1	Symptom 39 60	cognitive impairments
+N1	Reference T1 Concepts:C0338656	Impaired cognition
+T2	Disease 84 92	epilepsy
+N2	Reference T2 Concepts:C0014544	Epilepsy
+T3	Drug 20 30	topiramate
+N3	Reference T3 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

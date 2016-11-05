@@ -1,0 +1,7 @@
+T1	Symptom 125 134	self-harm
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085271 Vs. C1760428
+T2	Symptom 138 155	suicidal behavior
+N2	Reference T2 Concepts:C1760428	Suicidal behaviour
+T3	Drug 35 46	lamotrigine
+N3	Reference T3 Concepts:3878	Lamotrigine

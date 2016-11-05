@@ -1,0 +1,8 @@
+T1	Disease_Symptom 46 58	tennis elbow
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0014488 Vs. -1
+T2	Drug 0 10	Duloxetine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T2

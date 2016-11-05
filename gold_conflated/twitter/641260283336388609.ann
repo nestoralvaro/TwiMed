@@ -1,0 +1,12 @@
+T1	Disease_Symptom 102 108	Energy
+A1	Status T1 Continuing
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0455769	Energy increased
+T2	Disease_Symptom 133 146	#breastcancer
+N2	Reference T2 Concepts:C3495917	Advanced breast cancer
+T3	Drug 14 23	Tamoxifen
+A3	Person T3 1st
+A4	Duration T3 Regular
+A5	Status T3 Complete
+N3	Reference T3 Concepts:5376	Tamoxifen
+R1	Benefit Arg1:T2 Arg2:T3

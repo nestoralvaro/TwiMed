@@ -1,0 +1,16 @@
+T1	Disease_Symptom 120 140	trigeminal neuralgia
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0040997	Trigeminal Neuralgia
+T2	Drug 59 70	lamotrigine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+T3	Disease_Symptom 99 115	neuropathic pain
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C1963916	Diabetic peripheral neuropathic pain
+T4	Drug 33 46	carbamazepine
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:2554	Carbamazepine
+R1	Benefit Arg1:T1 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T2
+R3	Benefit Arg1:T3 Arg2:T4
+R4	Benefit Arg1:T1 Arg2:T2

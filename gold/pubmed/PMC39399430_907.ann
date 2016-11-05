@@ -1,0 +1,5 @@
+T1	Drug 46 56	olanzapine
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Symptom 17 29	somnambulism
+N2	Reference T2 Concepts:C0037672	Somnambulism
+R1	Outcome-negative Arg1:T1 Arg2:T2

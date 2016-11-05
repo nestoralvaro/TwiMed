@@ -1,0 +1,5 @@
+T1	Disease_Symptom 22 46	Stevens-Johnson Syndrome
+N1	Reference T1 Concepts:C0038325	Stevens-Johnson Syndrome
+T2	Drug 0 13	Carbamazepine
+N2	Reference T2 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T2 Arg2:T1

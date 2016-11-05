@@ -1,0 +1,3 @@
+T1	Drug 64 75	lamotrigine
+A1	Sentiment T1 Negative
+N1	Reference T1 Concepts:3878	Lamotrigine

@@ -1,0 +1,22 @@
+T1	Disease_Symptom 271 293	retinal vein occlusion
+N1	Reference T1 Concepts:C0035309	Retinal Diseases
+T2	Disease_Symptom 220 242	diabetic macular edema
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:C0024440	Macular Edema, Cystoid
+T3	Disease_Symptom 244 247	DME
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:C0024440	Macular Edema, Cystoid
+T4	Disease_Symptom 189 209	macular degeneration
+A3	Modality T4 Generic
+N4	Reference T4 Concepts:C0024437	Macular degeneration
+T5	Disease_Symptom 211 214	AMD
+A4	Modality T5 Generic
+N5	Reference T5 Concepts:C0024437	Macular degeneration
+T6	Drug 117 128	bevacizumab
+A5	Modality T6 Generic
+N6	Reference T6 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T3 Arg2:T6
+R2	Benefit Arg1:T1 Arg2:T6
+R3	Benefit Arg1:T4 Arg2:T6
+R4	Benefit Arg1:T5 Arg2:T6
+R5	Benefit Arg1:T2 Arg2:T6

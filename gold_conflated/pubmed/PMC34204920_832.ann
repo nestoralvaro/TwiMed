@@ -1,0 +1,15 @@
+T1	Disease_Symptom 148 157	sinusitis
+A1	Person T1 3rd
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0037199	Sinusitis
+T2	Disease_Symptom 82 87	mania
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C0235165	Mania acute
+T3	Drug 111 121	prednisone
+A4	Person T3 3rd
+N3	Reference T3 Concepts:4900	Prednisone
+T4	Disease_Symptom 21 28	bipolar
+A5	Person T4 3rd
+N4	Reference T4 Concepts:C0005586	Bipolar Disorder
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T3

@@ -1,0 +1,14 @@
+T1	Drug 43 51	Cymbalta
+A1	Status T1 Continuing
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Symptom 88 96	sleeping
+A2	Person T2 1st
+A3	Severity T2 Severe
+A4	Status T2 Continuing
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0917801 Vs. C1262141
+T3	Drug 14 21	Ritalin
+A6	Status T3 Continuing
+N3	Reference T3 Concepts:4158	Methylphenidate
+R1	Reason-to-use Arg1:T2 Arg2:T1

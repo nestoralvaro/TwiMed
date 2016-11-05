@@ -1,0 +1,12 @@
+T1	Symptom 48 53	tired
+A1	Person T1 1st
+A2	Duration T1 Regular
+A3	Severity T1 Severe
+A4	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0541854 Vs. -1
+T2	Drug 17 24	Topamax
+A5	Person T2 1st
+A6	Duration T2 Regular
+N2	Reference T2 Concepts:5514	Topiramate
+R1	Outcome-negative Arg1:T2 Arg2:T1

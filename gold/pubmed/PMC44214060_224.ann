@@ -1,0 +1,5 @@
+T1	Symptom 42 54	hyponatremia
+N1	Reference T1 Concepts:C0020625	Hyponatremia
+T2	Drug 26 36	duloxetine
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,13 @@
+T1	Drug 33 43	#Modafinil
+N1	Reference T1 Concepts:4236	Modafinil
+T2	Disease_Symptom 8 13	awake
+N2	Reference T2 Concepts:C0043012	Wakefulness
+T3	Disease_Symptom 15 27	enthusiastic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0235146 Vs. C0233479
+T4	Disease_Symptom 1 6	Alive
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T4	Disagreement in concept ID: -1 Vs. C0233479
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T2
+R3	Benefit Arg1:T1 Arg2:T4

@@ -1,0 +1,8 @@
+T1	Drug 42 50	seroquel
+A1	Person T1 1st
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Symptom 32 38	asleep
+A2	Polarity T2 Polarity
+A3	Person T2 1st
+N2	Reference T2 Concepts:C2830004	Somnolence
+R1	Outcome-negative Arg1:T1 Arg2:T2

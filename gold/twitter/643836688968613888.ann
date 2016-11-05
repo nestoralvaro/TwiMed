@@ -1,0 +1,9 @@
+T1	Symptom 59 64	slept
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 33 40	zyprexa
+A3	Person T2 1st
+A4	Status T2 Complete
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

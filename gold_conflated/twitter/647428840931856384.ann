@@ -1,0 +1,15 @@
+T1	Drug 131 139	Seroquel
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 81 91	depression
+A1	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0005587
+T3	Drug 122 128	Prozac
+N3	Reference T3 Concepts:3386	Fluoxetine
+T4	Disease_Symptom 62 69	anxiety
+A2	Person T4 1st
+N4	Reference T4 Concepts:C0003467	Anxiety
+R1	Benefit Arg1:T4 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3
+R3	Benefit Arg1:T2 Arg2:T1
+R4	Benefit Arg1:T4 Arg2:T3

@@ -1,0 +1,12 @@
+T1	Disease_Symptom 55 60	manic
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0338831	Manic
+T2	Disease_Symptom 71 78	bipolar
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0036337 Vs. C0005586
+T3	Drug 20 31	venlafaxine
+A5	Person T3 3rd
+N3	Reference T3 Concepts:5656	Venlafaxine

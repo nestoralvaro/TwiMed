@@ -1,0 +1,10 @@
+T1	Disease 123 151	metastatic colorectal cancer
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0034882 Vs. C0007097
+T2	Drug 63 74	bevacizumab
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T1 Arg2:T2

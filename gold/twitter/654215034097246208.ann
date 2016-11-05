@@ -1,0 +1,7 @@
+T1	Symptom 0 11	Teratogenic
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0232910	Teratogenesis
+T2	Drug 45 58	Carbamazepine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T2 Arg2:T1

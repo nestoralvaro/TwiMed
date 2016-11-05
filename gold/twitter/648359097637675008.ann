@@ -1,0 +1,7 @@
+T1	Symptom 15 22	focused
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0917801 Vs. C0455769
+T2	Drug 74 82	#vyvanse
+A2	Person T2 3rd
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate

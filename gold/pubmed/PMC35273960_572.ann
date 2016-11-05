@@ -1,0 +1,26 @@
+T1	Disease 99 145	Attention Deficit Hyperactivity Disorder (ADHD
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 54 62	Concerta
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4158	Methylphenidate
+T3	Disease 99 139	Attention Deficit Hyperactivity Disorder
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C1263846	Attention deficit hyperactivity disorder
+T4	Drug 17 20	MPH
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:4158	Methylphenidate
+T5	Drug 43 50	Ritalin
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:4158	Methylphenidate
+T6	Drug 0 15	Methylphenidate
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:4158	Methylphenidate
+R1	Reason-to-use Arg1:T3 Arg2:T5
+R2	Reason-to-use Arg1:T1 Arg2:T4
+R3	Reason-to-use Arg1:T3 Arg2:T4
+R4	Reason-to-use Arg1:T1 Arg2:T6
+R5	Reason-to-use Arg1:T1 Arg2:T2
+R6	Reason-to-use Arg1:T3 Arg2:T2
+R7	Reason-to-use Arg1:T1 Arg2:T5
+R8	Reason-to-use Arg1:T3 Arg2:T6

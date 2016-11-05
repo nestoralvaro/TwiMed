@@ -1,0 +1,6 @@
+T1	Disease_Symptom 134 139	NSCLC
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0007131 Vs. -1
+T2	Drug 91 98	Avastin
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

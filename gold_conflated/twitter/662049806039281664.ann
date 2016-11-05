@@ -1,0 +1,16 @@
+T1	Disease_Symptom 58 67	psychosis
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:C0281774	Acute psychosis
+T2	Disease_Symptom 81 89	addicted
+A3	Person T2 1st
+A4	Status T2 Continuing
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1510472 Vs. -1
+T3	Drug 27 37	olanzapine
+A6	Person T3 1st
+A7	Status T3 Continuing
+A8	Sentiment T3 Negative
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T3

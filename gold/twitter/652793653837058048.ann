@@ -1,0 +1,15 @@
+T1	Drug 36 46	Sertraline
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Symptom 68 83	feel a lot less
+A3	Person T2 1st
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0085632 Vs. C1443060
+T3	Drug 23 33	Citalopram
+A5	Person T3 1st
+A6	Sentiment T3 Negative
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T2

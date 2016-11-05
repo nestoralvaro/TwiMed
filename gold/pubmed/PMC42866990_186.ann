@@ -1,0 +1,5 @@
+T1	Disease 128 140	tendinopathy
+N1	Reference T1 Concepts:C0151936	Tendon disorder
+T2	Drug 87 100	triamcinolone
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Reason-to-use Arg1:T1 Arg2:T2

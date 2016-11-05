@@ -1,0 +1,7 @@
+T1	Symptom 32 43	weight gain
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0043094	Weight Gain
+T2	Drug 13 23	Olanzapine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

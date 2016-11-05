@@ -1,0 +1,7 @@
+T1	Disease 51 75	Stevens Johnson Syndrome
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0038325	Stevens-Johnson Syndrome
+T2	Drug 139 150	lamotrigine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T2 Arg2:T1

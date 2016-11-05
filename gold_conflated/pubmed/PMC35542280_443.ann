@@ -1,0 +1,7 @@
+T1	Disease_Symptom 121 137	bipolar disorder
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Drug 106 117	lamotrigine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Benefit Arg1:T1 Arg2:T2

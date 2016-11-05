@@ -1,0 +1,5 @@
+T1	Symptom 194 210	loss of appetite
+N1	Reference T1 Concepts:C1971624	Loss of appetite (finding)
+T2	Drug 42 50	Adderall
+N2	Reference T2 Concepts:3007	Amphetamine
+R1	Outcome-negative Arg1:T2 Arg2:T1

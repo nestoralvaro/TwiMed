@@ -1,0 +1,11 @@
+T1	Disease_Symptom 146 149	MDD
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C1269683	Major Depressive Disorder
+T2	Drug 279 290	venlafaxine
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5656	Venlafaxine
+T3	Disease_Symptom 119 144	major depressive disorder
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C1269683	Major Depressive Disorder
+R1	Benefit Arg1:T1 Arg2:T2
+R2	Benefit Arg1:T3 Arg2:T2

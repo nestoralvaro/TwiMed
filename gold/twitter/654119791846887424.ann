@@ -1,0 +1,8 @@
+T1	Symptom 96 115	feel highs and lows
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0085633	Mood swings
+T2	Drug 23 29	Zoloft
+A3	Person T2 1st
+N2	Reference T2 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T2 Arg2:T1

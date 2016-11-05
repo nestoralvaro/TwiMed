@@ -1,0 +1,7 @@
+T1	Drug 164 177	triamcinolone
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5544	Triamcinolone
+T2	Disease_Symptom 52 69	Behcet's syndrome
+A2	Person T2 3rd
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,15 @@
+T1	Disease_Symptom 91 99	#anxiety
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0270549 Vs. C0003467
+T2	Disease_Symptom 100 105	#pain
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Drug 68 74	#Paxil
+N3	Reference T3 Concepts:4691	Paroxetine
+T4	Disease_Symptom 84 90	#panic
+N4	Reference T4 Concepts:C0030318	Panic
+T5	Disease_Symptom 60 64	pain
+N5	Reference T5 Concepts:C0030193	Pain
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T3 Arg2:T5
+R3	Outcome-negative Arg1:T3 Arg2:T2
+R4	Benefit Arg1:T4 Arg2:T3

@@ -1,0 +1,8 @@
+T1	Drug 134 143	tamoxifen
+N1	Reference T1 Concepts:5376	Tamoxifen
+T2	Disease 187 200	breast cancer
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C3495917 Vs. C0678222
+T3	Drug 59 68	tamoxifen
+N3	Reference T3 Concepts:5376	Tamoxifen
+R1	Reason-to-use Arg1:T2 Arg2:T1

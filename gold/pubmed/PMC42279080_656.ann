@@ -1,0 +1,12 @@
+T1	Symptom 136 141	falls
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085684 Vs. C0087169
+T2	Symptom 120 134	hallucinations
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0018524	Hallucinations
+T3	Drug 40 53	buprenorphine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:2476	Buprenorphine
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

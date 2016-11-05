@@ -1,0 +1,11 @@
+T1	Drug 35 45	Sertraline
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Disease 118 143	Unipolar Major Depression
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+T3	Drug 20 30	Citalopram
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

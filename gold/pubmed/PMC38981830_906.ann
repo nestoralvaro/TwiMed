@@ -1,0 +1,4 @@
+T1	Symptom 103 114	arrhythmias
+N1	Reference T1 Concepts:C0003811	Cardiac Arrhythmia
+T2	Drug 71 82	montelukast
+N2	Reference T2 Concepts:4248	Montelukast

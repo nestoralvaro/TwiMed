@@ -1,0 +1,1 @@
+METHODS/DESIGN: A two parallel-arm, placebo controlled randomized trial of usual care plus either lamotrigine or an inert placebo for people aged over __number__ who are using mental health services and meet diagnostic criteria for BPD.

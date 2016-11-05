@@ -1,0 +1,7 @@
+T1	Disease_Symptom 106 111	#adhd
+A1	Status T1 Continuing
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 60 67	Ritalin
+A2	Status T2 Continuing
+N2	Reference T2 Concepts:4158	Methylphenidate
+R1	Benefit Arg1:T1 Arg2:T2

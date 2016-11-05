@@ -1,0 +1,11 @@
+T1	Disease_Symptom 6 11	dizzy
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0012833	Dizziness
+T2	Disease_Symptom 12 20	nauseous
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0027497	Nausea
+T3	Drug 77 84	effexor
+A3	Person T3 1st
+N3	Reference T3 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

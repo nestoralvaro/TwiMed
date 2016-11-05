@@ -1,0 +1,4 @@
+T1	Disease_Symptom 48 58	amenorrhea
+N1	Reference T1 Concepts:C0002453	Amenorrhea
+T2	Drug 13 23	quetiapine
+N2	Reference T2 Concepts:5002	Quetiapine

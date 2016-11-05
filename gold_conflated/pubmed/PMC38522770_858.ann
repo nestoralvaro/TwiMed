@@ -1,0 +1,20 @@
+T1	Drug 309 324	methylphenidate
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Disease_Symptom 340 344	ADHD
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+T3	Drug 276 283	Equasym
+N3	Reference T3 Concepts:4158	Methylphenidate
+T4	Disease_Symptom 291 295	ADHD
+N4	Reference T4 Concepts:C1263846	Attention deficit hyperactivity disorder
+T5	Drug 238 245	Ritalin
+N5	Reference T5 Concepts:4158	Methylphenidate
+T6	Disease_Symptom 259 263	ADHD
+N6	Reference T6 Concepts:C1263846	Attention deficit hyperactivity disorder
+T7	Drug 180 195	methylphenidate
+N7	Reference T7 Concepts:4158	Methylphenidate
+T8	Drug 228 236	Concerta
+N8	Reference T8 Concepts:4158	Methylphenidate
+T9	Disease_Symptom 120 165	attention deficit disorder with hyperactivity
+N9	Reference T9 Concepts:C1263846	Attention deficit hyperactivity disorder
+T10	Drug 356 371	methylphenidate
+N10	Reference T10 Concepts:4158	Methylphenidate

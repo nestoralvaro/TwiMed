@@ -1,0 +1,9 @@
+T1	Drug 8 16	Seroquel
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 23 29	Zombie
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C2830004 Vs. C0013144
+T3	Drug 0 7	Zyprexa
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T1 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T2

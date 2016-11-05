@@ -1,0 +1,12 @@
+T1	Disease_Symptom 82 90	#bipolar
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Drug 29 35	Geodon
+A1	Person T2 1st
+N2	Reference T2 Concepts:60853	Ziprasidone
+T3	Disease_Symptom 6 11	manic
+A2	Person T3 1st
+A3	Duration T3 Regular
+A4	Status T3 Continuing
+N3	Reference T3 Concepts:C0338831	Manic
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

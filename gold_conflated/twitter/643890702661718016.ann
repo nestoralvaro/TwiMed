@@ -1,0 +1,11 @@
+T1	Disease_Symptom 38 42	pain
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0030193	Pain
+T2	Disease_Symptom 48 68	#trigeminalneuralgia
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0040997	Trigeminal Neuralgia
+T3	Drug 0 14	#carbamazepine
+A3	Sentiment T3 Positive
+N3	Reference T3 Concepts:2554	Carbamazepine
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3

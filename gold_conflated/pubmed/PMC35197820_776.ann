@@ -1,0 +1,6 @@
+T1	Drug 59 69	topiramate
+A1	Person T1 3rd
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Disease_Symptom 99 107	epilepsy
+N2	Reference T2 Concepts:C0014544	Epilepsy
+R1	Benefit Arg1:T2 Arg2:T1

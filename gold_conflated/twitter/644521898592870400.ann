@@ -1,0 +1,11 @@
+T1	Disease_Symptom 54 78	I wake up stupidly early
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0541798 Vs. C1262141
+T2	Drug 25 35	quetiapine
+A4	Person T2 1st
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:5002	Quetiapine
+R1	Outcome-negative Arg1:T2 Arg2:T1

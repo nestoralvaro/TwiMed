@@ -1,0 +1,7 @@
+T1	Disease_Symptom 170 195	major depressive disorder
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C1269683	Major Depressive Disorder
+T2	Drug 96 110	desvenlafaxine
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5656	Venlafaxine
+R1	Benefit Arg1:T1 Arg2:T2

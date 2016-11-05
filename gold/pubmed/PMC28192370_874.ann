@@ -1,0 +1,6 @@
+T1	Disease 124 143	Alzheimer's disease
+N1	Reference T1 Concepts:C0002395	Alzheimer's Disease
+T2	Drug 41 52	fluvoxamine
+A1	Modality T2 Hedged
+N2	Reference T2 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T1 Arg2:T2

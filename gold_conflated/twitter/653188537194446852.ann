@@ -1,0 +1,12 @@
+T1	Disease_Symptom 110 121	#fuckasthma
+A1	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Drug 53 64	Montelukast
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:4248	Montelukast
+T3	Disease_Symptom 95 109	#allergiessuck
+A3	Sentiment T3 Negative
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0851444 Vs. C0748726
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

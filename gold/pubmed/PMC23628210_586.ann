@@ -1,0 +1,9 @@
+T1	Disease 47 60	breast cancer
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C3495917	Advanced breast cancer
+T2	Drug 33 42	tamoxifen
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Reason-to-use Arg1:T1 Arg2:T2

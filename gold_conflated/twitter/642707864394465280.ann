@@ -1,0 +1,11 @@
+T1	Disease_Symptom 31 45	hours of sleep
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Severity T1 Severe
+A4	Status T1 Complete
+A5	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0851578	Sleep Disorders
+T2	Drug 55 64	Trazodone
+A6	Sentiment T2 Positive
+N2	Reference T2 Concepts:5533	Trazodone
+R1	Benefit Arg1:T1 Arg2:T2

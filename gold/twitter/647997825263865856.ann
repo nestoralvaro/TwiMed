@@ -1,0 +1,5 @@
+T1	Drug 103 109	Zoloft
+A1	Sentiment T1 Positive
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Disease 111 120	#diabetes
+N2	Reference T2 Concepts:C0011849	Diabetes Mellitus

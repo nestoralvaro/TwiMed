@@ -1,0 +1,7 @@
+T1	Symptom 17 29	falls asleep
+A1	Status T1 Complete
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0541854 Vs. C0851578
+T2	Drug 7 14	vyvanse
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate

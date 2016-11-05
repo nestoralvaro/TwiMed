@@ -1,0 +1,7 @@
+T1	Symptom 38 44	asleep
+A1	Person T1 1st
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Drug 80 87	vyvanse
+A2	Person T2 1st
+A3	Status T2 Complete
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate

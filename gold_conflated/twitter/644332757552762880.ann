@@ -1,0 +1,13 @@
+T1	Disease_Symptom 42 45	PMT
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0033046 Vs. C0376356
+T2	Disease_Symptom 73 86	gained weight
+A2	Person T2 1st
+A3	Status T2 Complete
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0043094	Weight Gain
+T3	Drug 5 15	Citalopram
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T3 Arg2:T2

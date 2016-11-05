@@ -1,0 +1,16 @@
+T1	Disease_Symptom 40 55	feel like death
+A1	Person T1 1st
+A2	Exemplification T1 Exemplification
+A3	Status T1 Continuing
+A4	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Disease_Symptom 0 11	withdrawing
+A5	Status T2 Continuing
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0087169 Vs. C0152128
+T3	Drug 17 22	paxil
+A6	Status T3 Continuing
+A7	Sentiment T3 Negative
+N3	Reference T3 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

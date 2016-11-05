@@ -1,0 +1,13 @@
+T1	Symptom 139 163	diastolic blood pressure
+N1	Reference T1 Concepts:C0277889	Blood pressure diastolic increased
+T2	Drug 236 247	venlafaxine
+N2	Reference T2 Concepts:5656	Venlafaxine
+T3	Drug 63 74	venlafaxine
+N3	Reference T3 Concepts:5656	Venlafaxine
+T4	Disease 119 131	hypertension
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T4	Disagreement in concept ID: C0085580 Vs. C0020538
+R1	Outcome-negative Arg1:T3 Arg2:T4
+R2	Outcome-negative Arg1:T3 Arg2:T1
+R3	Outcome-negative Arg1:T2 Arg2:T1
+R4	Outcome-negative Arg1:T2 Arg2:T4

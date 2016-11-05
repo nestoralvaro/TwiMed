@@ -1,0 +1,7 @@
+T1	Disease 32 37	#ADHD
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 14 22	Provigil
+A1	Person T2 1st
+A2	Duration T2 Intermitent
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Reason-to-use Arg1:T1 Arg2:T2

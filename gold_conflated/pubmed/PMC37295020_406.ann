@@ -1,0 +1,5 @@
+T1	Disease_Symptom 190 197	cluster
+N1	Reference T1 Concepts:C0009088	Cluster Headache
+T2	Drug 55 65	prednisone
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Benefit Arg1:T1 Arg2:T2

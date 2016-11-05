@@ -1,0 +1,10 @@
+T1	Drug 44 55	venlafaxine
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Disease 126 135	depressed
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C1386135 Vs. C0011581
+T3	Drug 29 39	duloxetine
+N3	Reference T3 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

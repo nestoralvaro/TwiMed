@@ -1,0 +1,7 @@
+T1	Disease_Symptom 151 166	alopecia areata
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0002171	Alopecia Areata
+T2	Drug 76 89	triamcinolone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

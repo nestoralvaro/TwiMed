@@ -1,0 +1,7 @@
+T1	Disease 96 110	Anti-Psychotic
+N1	Reference T1 Concepts:C0033975	Psychotic Disorders
+T2	Drug 81 91	Olanzapine
+A1	Person T2 1st
+A2	Status T2 Continuing
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

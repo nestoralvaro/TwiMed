@@ -1,0 +1,8 @@
+T1	Drug 123 133	paroxetine
+A1	Person T1 3rd
+A2	Modality T1 Hedged
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease 32 35	MDD
+A3	Person T2 3rd
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

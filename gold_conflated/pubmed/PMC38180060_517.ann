@@ -1,0 +1,10 @@
+T1	Disease_Symptom 110 121	weight gain
+N1	Reference T1 Concepts:C0043094	Weight Gain
+T2	Disease_Symptom 137 155	metabolic syndrome
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0025517 Vs. -1
+T3	Drug 91 101	olanzapine
+A1	Modality T3 Hedged
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

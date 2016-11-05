@@ -1,0 +1,10 @@
+T1	Disease_Symptom 37 45	unstable
+A1	Person T1 1st
+A2	Duration T1 Regular
+A3	Status T1 Continuing
+A4	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0085633	Mood swings
+T2	Drug 67 72	paxil
+A5	Person T2 1st
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

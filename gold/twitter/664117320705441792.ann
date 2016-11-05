@@ -1,0 +1,10 @@
+T1	Symptom 64 67	eat
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0020175	Hunger
+T2	Drug 41 48	Ritalin
+A4	Person T2 1st
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:4158	Methylphenidate
+R1	Outcome-negative Arg1:T2 Arg2:T1

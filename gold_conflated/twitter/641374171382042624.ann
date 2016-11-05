@@ -1,0 +1,21 @@
+T1	Disease_Symptom 71 78	zzombie
+A1	Person T1 1st
+A2	Duration T1 Irregular
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0013144 Vs. C0541854
+T2	Disease_Symptom 37 45	insomnia
+A4	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0393761 Vs. C0393760
+T3	Disease_Symptom 22 32	depression
+A5	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T3	Disagreement in concept ID: C0011570 Vs. C0011581
+T4	Drug 8 17	trazodone
+A6	Person T4 1st
+A7	Status T4 Continuing
+N4	Reference T4 Concepts:5533	Trazodone
+R1	Benefit Arg1:T3 Arg2:T4
+R2	Benefit Arg1:T2 Arg2:T4
+R3	Outcome-negative Arg1:T4 Arg2:T1

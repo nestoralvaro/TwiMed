@@ -1,0 +1,8 @@
+T1	Disease_Symptom 58 74	Toddler's asthma
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Drug 107 118	montelukast
+N2	Reference T2 Concepts:4248	Montelukast
+T3	Disease_Symptom 45 53	wheezing
+N3	Reference T3 Concepts:C0043144	Wheezing
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

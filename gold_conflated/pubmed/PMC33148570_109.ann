@@ -1,0 +1,10 @@
+T1	Drug 15 25	paroxetine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 84 107	antinociceptive effects
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0030193 Vs. -1
+T3	Drug 0 10	Citalopram
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:2771	Citalopram

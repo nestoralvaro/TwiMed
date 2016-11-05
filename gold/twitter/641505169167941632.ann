@@ -1,0 +1,9 @@
+T1	Drug 33 38	Paxil
+A1	Person T1 2nd
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Symptom 46 57	withdrawals
+A2	Person T2 2nd
+N2	Reference T2 Concepts:C0087169	Withdrawal Symptoms
+T3	Drug 22 28	Zoloft
+A3	Person T3 2nd
+N3	Reference T3 Concepts:5203	Sertraline

@@ -1,0 +1,8 @@
+T1	Disease_Symptom 35 40	hyper
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0020546 Vs. C0235146
+T2	Drug 24 31	vyvanse
+A1	Polarity T2 Polarity
+A2	Person T2 1st
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate

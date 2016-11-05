@@ -1,0 +1,6 @@
+T1	Disease_Symptom 141 154	rectal cancer
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0034882 Vs. C0007097
+T2	Drug 65 76	bevacizumab
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

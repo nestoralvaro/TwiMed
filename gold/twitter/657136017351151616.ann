@@ -1,0 +1,9 @@
+T1	Symptom 117 118	#
+N1	Reference T1 Concepts:C0393761	Middle insomnia
+T2	Symptom 117 122	#pain
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0030193 Vs. C0393761
+T3	Drug 74 84	prednisone
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

@@ -1,0 +1,12 @@
+T1	Drug 74 84	citalopram
+A1	Person T1 1st
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Symptom 97 104	anxiety
+A2	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0003467 Vs. C0003469
+T3	Drug 26 36	prednisone
+A3	Person T3 1st
+A4	Status T3 Complete
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T2 Arg2:T1

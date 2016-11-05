@@ -1,0 +1,7 @@
+T1	Drug 35 43	#topamax
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Disease_Symptom 55 74	diabetic neuropathy
+A1	Person T2 1st
+N2	Reference T2 Concepts:C0011882	Diabetic Neuropathies
+T3	Drug 14 23	#lamictal
+N3	Reference T3 Concepts:3878	Lamotrigine

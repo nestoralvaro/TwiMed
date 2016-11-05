@@ -1,0 +1,11 @@
+T1	Symptom 65 84	depressive symptoms
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0086132	Depressive Symptoms
+T2	Disease 88 106	bipolar I disorder
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0853193	Bipolar I disorder
+T3	Drug 217 227	olanzapine
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

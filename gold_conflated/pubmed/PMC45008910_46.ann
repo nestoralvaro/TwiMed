@@ -1,0 +1,12 @@
+T1	Drug 201 209	Adderall
+A1	Person T1 3rd
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:3007	Amphetamine
+T2	Disease_Symptom 4 22	vivid "bad dreams"
+A3	Person T2 3rd
+A4	Exemplification T2 Exemplification
+A5	Duration T2 Regular
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0234458 Vs. C0344320
+R1	Outcome-negative Arg1:T1 Arg2:T2

@@ -1,0 +1,8 @@
+T1	Disease_Symptom 120 125	study
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 99 108	Modafinil
+A2	Person T2 1st
+A3	Modality T2 Hypothetical
+N2	Reference T2 Concepts:4236	Modafinil
+R1	Benefit Arg1:T1 Arg2:T2

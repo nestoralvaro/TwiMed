@@ -1,0 +1,15 @@
+T1	Symptom 45 78	making my stomach literally growl
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0020175	Hunger
+T2	Symptom 121 134	#alwayshungry
+A3	Person T2 1st
+A4	Duration T2 Regular
+A5	Status T2 Continuing
+N2	Reference T2 Concepts:C0020175	Hunger
+T3	Drug 31 41	prednisone
+A6	Person T3 1st
+A7	Status T3 Continuing
+N3	Reference T3 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T3 Arg2:T1
+R2	Outcome-negative Arg1:T3 Arg2:T2

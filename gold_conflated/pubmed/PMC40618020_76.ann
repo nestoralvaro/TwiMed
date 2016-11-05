@@ -1,0 +1,15 @@
+T1	Drug 147 150	MPH
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Drug 152 159	Ritalin
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4158	Methylphenidate
+T3	Drug 130 145	methylphenidate
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4158	Methylphenidate
+T4	Disease_Symptom 17 57	Attention Deficit Hyperactivity Disorder
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:C1263846	Attention deficit hyperactivity disorder
+R1	Benefit Arg1:T4 Arg2:T3
+R2	Benefit Arg1:T4 Arg2:T1
+R3	Benefit Arg1:T4 Arg2:T2

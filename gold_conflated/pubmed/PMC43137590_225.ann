@@ -1,0 +1,5 @@
+T1	Drug 158 168	lisinopril
+N1	Reference T1 Concepts:3937	Lisinopril
+T2	Disease_Symptom 88 99	hypotension
+N2	Reference T2 Concepts:C0020649	Hypotension
+R1	Outcome-negative Arg1:T1 Arg2:T2

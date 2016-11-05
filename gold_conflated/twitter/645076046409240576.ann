@@ -1,0 +1,8 @@
+T1	Disease_Symptom 101 117	bipolar disorder
+A1	Person T1 3rd
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Drug 82 92	olanzapine
+A3	Person T2 3rd
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T2

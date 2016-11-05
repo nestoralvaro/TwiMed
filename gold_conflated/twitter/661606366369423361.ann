@@ -1,0 +1,8 @@
+T1	Disease_Symptom 81 97	mental breakdown
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0086132 Vs. C0278061
+T2	Drug 48 54	Zoloft
+A2	Person T2 1st
+A3	Status T2 Complete
+N2	Reference T2 Concepts:5203	Sertraline

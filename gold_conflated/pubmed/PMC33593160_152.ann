@@ -1,0 +1,7 @@
+T1	Disease_Symptom 83 103	reducing body weight
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0043096	Body Weight decreased
+T2	Drug 0 10	Topiramate
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5514	Topiramate
+R1	Benefit Arg1:T2 Arg2:T1

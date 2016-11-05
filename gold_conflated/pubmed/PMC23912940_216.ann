@@ -1,0 +1,6 @@
+T1	Drug 236 246	fluoxetine
+N1	Reference T1 Concepts:3386	Fluoxetine
+T2	Disease_Symptom 127 130	MDD
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:C1269683	Major Depressive Disorder
+R1	Benefit Arg1:T2 Arg2:T1

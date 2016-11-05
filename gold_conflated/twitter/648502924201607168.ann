@@ -1,0 +1,11 @@
+T1	Drug 39 44	Paxil
+A1	Person T1 1st
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 146 155	psychosis
+N2	Reference T2 Concepts:C0281774	Acute psychosis
+T3	Disease_Symptom 26 30	PTSD
+A2	Person T3 1st
+A3	Status T3 Complete
+N3	Reference T3 Concepts:C0038436	Post-Traumatic Stress Disorder
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T1

@@ -1,0 +1,5 @@
+T1	Disease_Symptom 78 107	retinal vein branch occlusion
+N1	Reference T1 Concepts:C0035309	Retinal Diseases
+T2	Drug 25 36	bevacizumab
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T1 Arg2:T2

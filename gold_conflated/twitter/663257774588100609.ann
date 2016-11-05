@@ -1,0 +1,12 @@
+T1	Disease_Symptom 63 68	sleep
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Drug 45 54	Trazodone
+A3	Person T2 1st
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:5533	Trazodone
+T3	Drug 7 16	Trazodone
+A5	Person T3 1st
+A6	Sentiment T3 Positive
+N3	Reference T3 Concepts:5533	Trazodone

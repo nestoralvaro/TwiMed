@@ -1,0 +1,15 @@
+T1	Symptom 81 128	feelin' super high all the time without smoking
+A1	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0233479 Vs. C0087169
+T2	Symptom 15 20	tired
+A2	Duration T2 Regular
+A3	Severity T2 Severe
+N2	Reference T2 Concepts:C0392674	Exhaustion
+T3	Symptom 41 46	tired
+A4	Severity T3 Severe
+N3	Reference T3 Concepts:C0392674	Exhaustion
+T4	Drug 0 6	Zoloft
+N4	Reference T4 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3

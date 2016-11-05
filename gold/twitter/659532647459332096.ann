@@ -1,0 +1,16 @@
+T1	Symptom 97 109	#anxietyfree
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Symptom 51 64	#sleepatnight
+A2	Person T2 1st
+N2	Reference T2 Concepts:C2830004	Somnolence
+T3	Symptom 64 80	#sedatedintheday
+A3	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0235195 Vs. C0541854
+T4	Drug 0 10	Quetiapine
+A4	Person T4 1st
+A5	Sentiment T4 Positive
+N4	Reference T4 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T1 Arg2:T4
+R2	Outcome-positive Arg1:T4 Arg2:T2

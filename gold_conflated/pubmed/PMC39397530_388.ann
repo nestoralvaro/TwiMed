@@ -1,0 +1,13 @@
+T1	Disease_Symptom 180 193	Eales disease
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0042373 Vs. C0035309
+T2	Disease_Symptom 152 172	vitreous haemorrhage
+A2	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0035317 Vs. C0015402
+T3	Drug 13 24	bevacizumab
+A3	Person T3 3rd
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3

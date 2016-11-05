@@ -1,0 +1,26 @@
+T1	Disease_Symptom 37 43	crying
+A1	Person T1 1st
+A2	Severity T1 Severe
+A3	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C3536794 Vs. C0344315
+T2	Disease_Symptom 45 70	Everything is going wrong
+A4	Exemplification T2 Exemplification
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0233632 Vs. C0344315
+T3	Disease_Symptom 124 137	sleep forever
+A6	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T3	Disagreement in concept ID: C0424000 Vs. C0344315
+T4	Disease_Symptom 7 15	stressed
+A7	Person T4 1st
+A8	Severity T4 Severe
+A9	Status T4 Continuing
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T4	Disagreement in concept ID: C0038435 Vs. C0344315
+T5	Drug 104 113	trazodone
+N5	Reference T5 Concepts:5533	Trazodone
+R1	Benefit Arg1:T2 Arg2:T5
+R2	Benefit Arg1:T4 Arg2:T5
+R3	Benefit Arg1:T1 Arg2:T5

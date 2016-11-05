@@ -1,0 +1,9 @@
+T1	Drug 114 124	topiramate
+A1	Modality T1 Hedged
+N1	Reference T1 Concepts:5514	Topiramate
+T2	Disease_Symptom 155 166	weight loss
+N2	Reference T2 Concepts:C0043096	Body Weight decreased
+T3	Disease_Symptom 70 77	obesity
+N3	Reference T3 Concepts:C0028754	Obesity
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T1 Arg2:T2

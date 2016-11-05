@@ -1,0 +1,6 @@
+T1	Drug 107 116	docetaxel
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Disease_Symptom 58 71	breast cancer
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0678222 Vs. C3495917
+R1	Benefit Arg1:T2 Arg2:T1

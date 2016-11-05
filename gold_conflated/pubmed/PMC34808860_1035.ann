@@ -1,0 +1,15 @@
+T1	Drug 127 138	ziprasidone
+A1	Person T1 3rd
+N1	Reference T1 Concepts:60853	Ziprasidone
+T2	Disease_Symptom 71 87	bipolar disorder
+N2	Reference T2 Concepts:C0005586	Bipolar Disorder
+T3	Drug 112 122	quetiapine
+A2	Person T3 3rd
+N3	Reference T3 Concepts:5002	Quetiapine
+T4	Disease_Symptom 54 67	schizophrenia
+A3	Person T4 3rd
+N4	Reference T4 Concepts:C0036341	Schizophrenia
+R1	Benefit Arg1:T4 Arg2:T1
+R2	Benefit Arg1:T2 Arg2:T3
+R3	Benefit Arg1:T2 Arg2:T1
+R4	Benefit Arg1:T4 Arg2:T3

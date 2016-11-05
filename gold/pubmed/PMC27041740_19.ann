@@ -1,0 +1,11 @@
+T1	Drug 203 230	Lisdexamfetamine Dimesylate
+A1	Person T1 3rd
+N1	Reference T1 Concepts:11597697	lisdexamfetamine dimesylate
+T2	Disease 275 315	Attention-Deficit/Hyperactivity Disorder
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+T3	Drug 194 201	Vyvanse
+A3	Person T3 3rd
+N3	Reference T3 Concepts:11597697	lisdexamfetamine dimesylate
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

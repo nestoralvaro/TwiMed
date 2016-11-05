@@ -1,0 +1,6 @@
+T1	Disease_Symptom 33 46	canaliculitis
+N1	Reference T1 Concepts:C0015408	Eye Injuries
+T2	Drug 110 123	ciprofloxacin
+A1	Person T2 3rd
+N2	Reference T2 Concepts:2764	Ciprofloxacin
+R1	Benefit Arg1:T1 Arg2:T2

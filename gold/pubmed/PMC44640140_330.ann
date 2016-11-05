@@ -1,0 +1,8 @@
+T1	Drug 35 44	Trazodone
+N1	Reference T1 Concepts:5533	Trazodone
+T2	Drug 49 59	Duloxetine
+N2	Reference T2 Concepts:60834	Duloxetine
+T3	Disease 0 18	Serotonin Syndrome
+N3	Reference T3 Concepts:C0699828	Serotonin Syndrome
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T2 Arg2:T3

@@ -1,0 +1,8 @@
+T1	Symptom 358 376	tardive dyskinesia
+N1	Reference T1 Concepts:C0686347	Tardive Dyskinesia
+T2	Drug 211 222	ziprasidone
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:60853	Ziprasidone
+T3	Drug 34 45	ziprasidone
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:60853	Ziprasidone

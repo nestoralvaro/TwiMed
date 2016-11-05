@@ -1,0 +1,5 @@
+T1	Disease_Symptom 166 170	PTSD
+N1	Reference T1 Concepts:C0038436	Post-Traumatic Stress Disorder
+T2	Drug 78 92	hydrocortisone
+N2	Reference T2 Concepts:222786	Cortisone
+R1	Benefit Arg1:T1 Arg2:T2

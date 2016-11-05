@@ -1,0 +1,10 @@
+T1	Drug 42 50	Cymbalta
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Symptom 51 61	withdrawal
+A3	Person T2 1st
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0087169 Vs. C0152128
+R1	Outcome-negative Arg1:T1 Arg2:T2

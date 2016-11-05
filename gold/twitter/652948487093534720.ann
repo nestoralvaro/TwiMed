@@ -1,0 +1,6 @@
+T1	Symptom 56 60	rash
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0497364	Localized rash
+T2	Drug 31 41	prednisone
+A2	Person T2 1st
+N2	Reference T2 Concepts:4900	Prednisone

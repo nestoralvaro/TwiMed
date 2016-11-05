@@ -1,0 +1,7 @@
+T1	Disease_Symptom 135 161	gastrointestinal disorders
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0017178	Gastrointestinal Diseases
+T2	Drug 77 88	Montelukast
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4248	Montelukast
+R1	Benefit Arg1:T1 Arg2:T2

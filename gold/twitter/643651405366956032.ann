@@ -1,0 +1,6 @@
+T1	Symptom 86 90	pain
+A1	Duration T1 Irregular
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0030193	Pain
+T2	Drug 24 33	trazodone
+N2	Reference T2 Concepts:5533	Trazodone

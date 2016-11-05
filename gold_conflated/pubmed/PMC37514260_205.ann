@@ -1,0 +1,9 @@
+T1	Drug 100 115	methylphenidate
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Disease_Symptom 131 171	attention-deficit hyperactivity disorder
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+T3	Drug 40 56	lisdexamfetamine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:11597697	lisdexamfetamine dimesylate

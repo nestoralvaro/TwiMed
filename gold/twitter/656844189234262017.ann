@@ -1,0 +1,10 @@
+T1	Disease 46 59	#fibromyalgia
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0016053	Fibromyalgia
+T2	Drug 60 71	#duloxetine
+A2	Person T2 1st
+N2	Reference T2 Concepts:60834	Duloxetine
+T3	Symptom 10 18	headache
+A3	Person T3 1st
+N3	Reference T3 Concepts:C0018681	Headache
+R1	Reason-to-use Arg1:T1 Arg2:T2

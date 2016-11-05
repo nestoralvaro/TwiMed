@@ -1,0 +1,5 @@
+T1	Disease_Symptom 50 58	delirium
+N1	Reference T1 Concepts:C0011206	Delirium
+T2	Drug 34 45	fluvoxamine
+N2	Reference T2 Concepts:3404	Fluvoxamine
+R1	Benefit Arg1:T1 Arg2:T2

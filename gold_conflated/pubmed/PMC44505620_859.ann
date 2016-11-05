@@ -1,0 +1,21 @@
+T1	Disease_Symptom 239 251	parkinsonism
+N1	Reference T1 Concepts:C0242422	Parkinsonian Disorders
+T2	Drug 316 326	olanzapine
+A1	Person T2 3rd
+A2	Duration T2 Regular
+N2	Reference T2 Concepts:4585	Olanzapine
+T3	Disease_Symptom 165 188	extrapyramidal reaction
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0234133	Extrapyramidal symptoms
+T4	Disease_Symptom 190 220	neuroleptic malignant syndrome
+A4	Person T4 3rd
+N4	Reference T4 Concepts:C0027849	Neuroleptic Malignant Syndrome
+T5	Disease_Symptom 104 113	psychosis
+A5	Person T5 3rd
+N5	Reference T5 Concepts:C0281774	Acute psychosis
+T6	Disease_Symptom 43 55	tuberculosis
+A6	Person T6 3rd
+N6	Reference T6 Concepts:C0041296	Tuberculosis
+R1	Outcome-negative Arg1:T2 Arg2:T3
+R2	Outcome-negative Arg1:T2 Arg2:T4
+R3	Outcome-negative Arg1:T2 Arg2:T1

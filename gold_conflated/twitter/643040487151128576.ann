@@ -1,0 +1,7 @@
+T1	Disease_Symptom 0 11	Fatty Liver
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0015695	Fatty Liver
+T2	Drug 127 136	tamoxifen
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5376	Tamoxifen
+R1	Outcome-negative Arg1:T2 Arg2:T1

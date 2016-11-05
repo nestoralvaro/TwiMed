@@ -1,0 +1,7 @@
+T1	Disease_Symptom 30 41	withdrawals
+A1	Severity T1 Severe
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Drug 19 29	paroxetine
+N2	Reference T2 Concepts:4691	Paroxetine
+R1	Outcome-negative Arg1:T2 Arg2:T1

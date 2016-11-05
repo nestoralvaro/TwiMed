@@ -1,0 +1,15 @@
+T1	Drug 78 85	Ritalin
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Disease_Symptom 50 64	placid as shit
+A1	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0085632 Vs. -1
+T3	Disease_Symptom 67 76	withdrawn
+A2	Person T3 1st
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0085632 Vs. -1
+T4	Drug 32 40	Concerta
+A3	Person T4 1st
+N4	Reference T4 Concepts:4158	Methylphenidate
+R1	Outcome-negative Arg1:T4 Arg2:T2
+R2	Outcome-negative Arg1:T4 Arg2:T3

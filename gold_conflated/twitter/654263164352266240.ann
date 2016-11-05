@@ -1,0 +1,14 @@
+T1	Disease_Symptom 106 118	disconnected
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0087169 Vs. C0013144
+T2	Disease_Symptom 88 93	dizzy
+A3	Person T2 1st
+A4	Status T2 Continuing
+N2	Reference T2 Concepts:C0012833	Dizziness
+T3	Drug 30 40	Citalopram
+A5	Person T3 1st
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

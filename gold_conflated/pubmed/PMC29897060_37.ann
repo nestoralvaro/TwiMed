@@ -1,0 +1,11 @@
+T1	Disease_Symptom 41 48	bullous
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0235818	Bullous eruption
+T2	Disease_Symptom 89 107	glomerulonephritis
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0017658	Glomerulonephritis
+T3	Drug 311 324	carbamazepine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:2554	Carbamazepine
+R1	Outcome-negative Arg1:T3 Arg2:T2
+R2	Outcome-negative Arg1:T3 Arg2:T1

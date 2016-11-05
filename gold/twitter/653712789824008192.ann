@@ -1,0 +1,6 @@
+T1	Drug 59 68	Trazadone
+A1	Person T1 1st
+N1	Reference T1 Concepts:5533	Trazodone
+T2	Drug 18 26	Lamictal
+A2	Person T2 1st
+N2	Reference T2 Concepts:3878	Lamotrigine

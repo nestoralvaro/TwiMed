@@ -1,0 +1,17 @@
+T1	Disease_Symptom 126 133	ALLERGY
+A1	Polarity T1 Polarity
+A2	Person T1 3rd
+N1	Reference T1 Concepts:C0013182	Drug Allergy
+T2	Drug 37 47	Lisinopril
+A3	Person T2 3rd
+N2	Reference T2 Concepts:3937	Lisinopril
+T3	Disease_Symptom 69 74	Cough
+A4	Person T3 3rd
+N3	Reference T3 Concepts:C0010200	Coughing
+T4	Disease_Symptom 26 33	allergy
+A5	Person T4 3rd
+A6	Modality T4 Hypothetical
+N4	Reference T4 Concepts:C0013182	Drug Allergy
+R1	Outcome-negative Arg1:T2 Arg2:T4
+R2	Outcome-negative Arg1:T2 Arg2:T3
+R3	Outcome-negative Arg1:T2 Arg2:T1

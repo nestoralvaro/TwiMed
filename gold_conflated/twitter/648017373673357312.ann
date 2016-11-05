@@ -1,0 +1,6 @@
+T1	Disease_Symptom 34 47	itchy my eyes
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0022281	Itching of eye
+T2	Drug 50 64	#ciprofloxacin
+N2	Reference T2 Concepts:2764	Ciprofloxacin

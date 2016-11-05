@@ -1,0 +1,8 @@
+T1	Disease 94 113	acute schizophrenia
+N1	Reference T1 Concepts:C0857501	Acute schizophrenia
+T2	Disease 118 129	acute mania
+N2	Reference T2 Concepts:C0235165	Mania acute
+T3	Drug 80 90	Olanzapine
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

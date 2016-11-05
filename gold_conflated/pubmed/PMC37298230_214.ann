@@ -1,0 +1,8 @@
+T1	Disease_Symptom 61 71	bacteremia
+N1	Reference T1 Concepts:C0004610	Bacteremia
+T2	Drug 157 170	ciprofloxacin
+N2	Reference T2 Concepts:2764	Ciprofloxacin
+T3	Disease_Symptom 40 59	febrile neutropenia
+N3	Reference T3 Concepts:C0746883	Febrile Neutropenia
+R1	Benefit Arg1:T3 Arg2:T2
+R2	Benefit Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T1	Disease_Symptom 23 36	help me study
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 81 89	adderall
+N2	Reference T2 Concepts:3007	Amphetamine
+R1	Benefit Arg1:T1 Arg2:T2

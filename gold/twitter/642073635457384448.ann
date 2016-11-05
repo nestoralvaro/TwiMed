@@ -1,0 +1,5 @@
+T1	Drug 52 65	Carbamazepine
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Disease 36 50	DRESS syndrome
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+R1	Outcome-negative Arg1:T1 Arg2:T2

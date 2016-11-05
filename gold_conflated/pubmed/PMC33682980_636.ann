@@ -1,0 +1,5 @@
+T1	Drug 57 67	citalopram
+N1	Reference T1 Concepts:2771	Citalopram
+T2	Disease_Symptom 19 37	serotonin syndrome
+N2	Reference T2 Concepts:C0699828	Serotonin Syndrome
+R1	Outcome-negative Arg1:T1 Arg2:T2

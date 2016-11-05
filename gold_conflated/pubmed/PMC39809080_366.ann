@@ -1,0 +1,6 @@
+T1	Disease_Symptom 191 200	agitation
+N1	Reference T1 Concepts:C0085631	Agitation
+T2	Disease_Symptom 205 215	aggression
+N2	Reference T2 Concepts:C0001807	Aggressive behavior
+T3	Drug 160 169	trazodone
+N3	Reference T3 Concepts:5533	Trazodone

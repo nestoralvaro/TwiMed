@@ -1,0 +1,5 @@
+T1	Drug 29 35	prozac
+N1	Reference T1 Concepts:3386	Fluoxetine
+T2	Symptom 36 53	#goalzeroemotions
+N2	Reference T2 Concepts:C0085632	Indifferent mood
+R1	Outcome-negative Arg1:T1 Arg2:T2

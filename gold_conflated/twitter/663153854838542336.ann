@@ -1,0 +1,8 @@
+T1	Drug 35 45	prednisone
+A1	Person T1 1st
+N1	Reference T1 Concepts:4900	Prednisone
+T2	Disease_Symptom 17 31	gaining weight
+A2	Person T2 1st
+A3	Sentiment T2 Positive
+N2	Reference T2 Concepts:C0043094	Weight Gain
+R1	Outcome-negative Arg1:T1 Arg2:T2

@@ -1,0 +1,6 @@
+T1	Disease_Symptom 182 186	ADHD
+N1	Reference T1 Concepts:C1263846	Attention deficit hyperactivity disorder
+T2	Drug 0 15	Methylphenidate
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:4158	Methylphenidate
+R1	Benefit Arg1:T1 Arg2:T2

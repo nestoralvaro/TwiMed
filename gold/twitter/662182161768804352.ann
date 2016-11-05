@@ -1,0 +1,13 @@
+T1	Symptom 81 98	**sleeping_face**
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Symptom 54 62	knockedd
+A1	Person T2 1st
+A2	Severity T2 Severe
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C2830004 Vs. C0013144
+T3	Symptom 63 80	**sleeping_face**
+N3	Reference T3 Concepts:C2830004	Somnolence
+T4	Drug 23 32	Trazodone
+A3	Person T4 1st
+A4	Status T4 Complete
+N4	Reference T4 Concepts:5533	Trazodone

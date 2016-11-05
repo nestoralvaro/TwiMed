@@ -1,0 +1,9 @@
+T1	Drug 25 35	quetiapine
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 76 85	agitation
+N2	Reference T2 Concepts:C0085631	Agitation
+T3	Disease_Symptom 0 8	Sedation
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0013144 Vs. C2830004
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Outcome-negative Arg1:T1 Arg2:T3

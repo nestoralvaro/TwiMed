@@ -1,0 +1,11 @@
+T1	Symptom 333 355	retinal vein occlusion
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0035309	Retinal Diseases
+T2	Drug 198 211	triamcinolone
+A2	Person T2 3rd
+N2	Reference T2 Concepts:5544	Triamcinolone
+T3	Drug 130 141	bevacizumab
+A3	Person T3 3rd
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T1 Arg2:T2

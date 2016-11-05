@@ -1,0 +1,9 @@
+T1	Drug 75 87	#venlafaxine
+A1	Person T1 1st
+N1	Reference T1 Concepts:5656	Venlafaxine
+T2	Symptom 27 35	insomnia
+A2	Person T2 1st
+A3	Severity T2 Severe
+A4	Status T2 Continuing
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0393761	Middle insomnia

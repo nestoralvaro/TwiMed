@@ -1,0 +1,7 @@
+T1	Disease 33 39	Asthma
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0004096	Asthma
+T2	Drug 18 28	Prednisone
+A2	Person T2 1st
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Reason-to-use Arg1:T1 Arg2:T2

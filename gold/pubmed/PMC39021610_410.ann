@@ -1,0 +1,14 @@
+T1	Disease 120 133	schizophrenia
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Symptom 62 80	tardive dyskinesia
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C0686347	Tardive Dyskinesia
+T3	Symptom 93 102	akathisia
+A3	Person T3 3rd
+N3	Reference T3 Concepts:C0392156	Akathisia
+T4	Drug 46 57	fluvoxamine
+N4	Reference T4 Concepts:3404	Fluvoxamine
+R1	Reason-to-use Arg1:T1 Arg2:T4
+R2	Reason-to-use Arg1:T3 Arg2:T4
+R3	Reason-to-use Arg1:T2 Arg2:T4

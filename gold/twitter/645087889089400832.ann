@@ -1,0 +1,8 @@
+T1	Drug 35 44	modafinil
+N1	Reference T1 Concepts:4236	Modafinil
+T2	Symptom 21 28	fatigue
+A1	Severity T2 Severe
+A2	Status T2 Continuing
+A3	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0015672	Fatigue
+R1	Reason-to-use Arg1:T2 Arg2:T1

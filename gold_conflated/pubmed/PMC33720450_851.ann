@@ -1,0 +1,10 @@
+T1	Disease_Symptom 93 108	aphthous ulcers
+N1	Reference T1 Concepts:C0149745	Oral Ulcer
+T2	Disease_Symptom 126 143	Behcet's syndrome
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:-1	Unknown Concept ID
+T3	Drug 33 46	triamcinolone
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T3
+R2	Benefit Arg1:T2 Arg2:T3

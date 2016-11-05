@@ -1,0 +1,9 @@
+T1	Drug 150 159	#Cymbalta
+A1	Person T1 1st
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:60834	Duloxetine
+T2	Symptom 26 33	vertigo
+A3	Person T2 1st
+A4	Duration T2 Regular
+N2	Reference T2 Concepts:C0042571	Vertigo
+R1	Outcome-negative Arg1:T1 Arg2:T2

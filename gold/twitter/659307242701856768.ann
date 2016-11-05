@@ -1,0 +1,22 @@
+T1	Symptom 79 89	withdrawal
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:C0087169	Withdrawal Symptoms
+T2	Drug 71 78	effexor
+A3	Person T2 1st
+A4	Status T2 Complete
+A5	Sentiment T2 Negative
+N2	Reference T2 Concepts:5656	Venlafaxine
+T3	Symptom 38 48	head pains
+A6	Person T3 1st
+A7	Sentiment T3 Negative
+N3	Reference T3 Concepts:C0018681	Headache
+T4	Drug 58 70	venlafaxeine
+A8	Person T4 1st
+A9	Status T4 Complete
+A10	Sentiment T4 Negative
+N4	Reference T4 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T2 Arg2:T3
+R2	Outcome-negative Arg1:T2 Arg2:T1
+R3	Outcome-negative Arg1:T4 Arg2:T1
+R4	Outcome-negative Arg1:T4 Arg2:T3

@@ -1,0 +1,13 @@
+T1	Symptom 126 131	wheal
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0497364 Vs. C0031085
+T2	Symptom 136 141	flare
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: -1 Vs. C0031085
+T3	Drug 86 97	montelukast
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4248	Montelukast
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

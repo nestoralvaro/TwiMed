@@ -1,0 +1,11 @@
+T1	Symptom 53 57	numb
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0028643	Numbness
+T2	Drug 30 36	zoloft
+A3	Person T2 1st
+A4	Duration T2 Regular
+A5	Status T2 Continuing
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:5203	Sertraline
+R1	Outcome-negative Arg1:T2 Arg2:T1

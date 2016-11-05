@@ -1,0 +1,6 @@
+T1	Symptom 81 96	temper tantrums
+A1	Person T1 2nd
+N1	Reference T1 Concepts:C0233558	Temper tantrum
+T2	Drug 128 136	cymbalta
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

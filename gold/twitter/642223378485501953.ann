@@ -1,0 +1,10 @@
+T1	Symptom 108 121	deepest sleep
+A1	Person T1 1st
+A2	Modality T1 Hypothetical
+A3	Exemplification T1 Exemplification
+A4	Severity T1 Severe
+N1	Reference T1 Concepts:C0541854	Daytime sleepiness
+T2	Drug 31 40	trazodone
+A5	Person T2 1st
+A6	Modality T2 Hypothetical
+N2	Reference T2 Concepts:5533	Trazodone

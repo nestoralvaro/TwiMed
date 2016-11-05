@@ -1,0 +1,13 @@
+T1	Drug 25 33	seroquel
+A1	Person T1 1st
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Symptom 56 77	number__ hrs of sleep
+A2	Person T2 1st
+A3	Sentiment T2 Positive
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0013144 Vs. C0235966
+T3	Symptom 7 21	strange dreams
+A4	Person T3 1st
+N3	Reference T3 Concepts:C0234458	Abnormal dreams
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Outcome-positive Arg1:T1 Arg2:T2

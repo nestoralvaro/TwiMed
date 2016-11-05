@@ -1,0 +1,10 @@
+T1	Symptom 61 66	sleep
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1262141 Vs. C0851578
+T2	Drug 98 104	Geodon
+A3	Person T2 1st
+A4	Duration T2 Regular
+N2	Reference T2 Concepts:60853	Ziprasidone
+R1	Reason-to-use Arg1:T1 Arg2:T2

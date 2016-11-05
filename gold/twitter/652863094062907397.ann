@@ -1,0 +1,7 @@
+T1	Symptom 122 136	anxiety attack
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0700031	Anxiety attack
+T2	Drug 9 17	CYMBALTA
+A2	Person T2 1st
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:60834	Duloxetine

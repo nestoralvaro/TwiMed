@@ -1,0 +1,5 @@
+T1	Disease_Symptom 115 137	diabetic macular edema
+N1	Reference T1 Concepts:C0024440	Macular Edema, Cystoid
+T2	Drug 44 57	triamcinolone
+N2	Reference T2 Concepts:5544	Triamcinolone
+R1	Benefit Arg1:T1 Arg2:T2

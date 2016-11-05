@@ -1,0 +1,14 @@
+T1	Disease_Symptom 57 73	ovarian neoplasm
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1140680 Vs. C0029925
+T2	Disease_Symptom 30 43	endometriosis
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0014175 Vs. C0032584
+T3	Disease_Symptom 57 73	ovarian neoplasm
+A2	Modality T3 Generic
+N3	Reference T3 Concepts:C0029925	Ovarian Carcinoma
+T4	Drug 0 9	Tamoxifen
+A3	Modality T4 Generic
+N4	Reference T4 Concepts:5376	Tamoxifen
+R1	Outcome-negative Arg1:T4 Arg2:T2

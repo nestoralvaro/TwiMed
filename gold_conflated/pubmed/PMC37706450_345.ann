@@ -1,0 +1,9 @@
+T1	Disease_Symptom 153 166	schizophrenia
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0036341	Schizophrenia
+T2	Drug 85 95	olanzapine
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:4585	Olanzapine
+R1	Benefit Arg1:T1 Arg2:T2

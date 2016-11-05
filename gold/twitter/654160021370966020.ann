@@ -1,0 +1,10 @@
+T1	Symptom 81 88	anxiety
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Symptom 37 48	withdrawals
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0087169	Withdrawal Symptoms
+T3	Drug 54 64	Citalopram
+A3	Person T3 1st
+N3	Reference T3 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T3 Arg2:T2

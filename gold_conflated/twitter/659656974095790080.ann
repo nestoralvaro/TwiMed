@@ -1,0 +1,8 @@
+T1	Disease_Symptom 14 19	sleep
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Drug 23 33	Quetiapine
+A3	Person T2 1st
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:5002	Quetiapine

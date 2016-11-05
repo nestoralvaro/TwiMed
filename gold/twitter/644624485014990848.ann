@@ -1,0 +1,10 @@
+T1	Symptom 117 127	productive
+A1	Severity T1 Severe
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 19 26	Vyvanse
+N2	Reference T2 Concepts:11597697	lisdexamfetamine dimesylate
+T3	Drug 30 38	Adderall
+N3	Reference T3 Concepts:3007	Amphetamine
+T4	Drug 1 10	Modafinil
+N4	Reference T4 Concepts:4236	Modafinil

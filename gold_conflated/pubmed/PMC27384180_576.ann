@@ -1,0 +1,11 @@
+T1	Drug 35 45	sertraline
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:5203	Sertraline
+T2	Drug 47 56	trazodone
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:5533	Trazodone
+T3	Disease_Symptom 0 18	Serotonin syndrome
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0699828	Serotonin Syndrome
+R1	Outcome-negative Arg1:T1 Arg2:T3
+R2	Outcome-negative Arg1:T2 Arg2:T3

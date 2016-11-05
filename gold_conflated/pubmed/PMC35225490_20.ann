@@ -1,0 +1,9 @@
+T1	Disease_Symptom 3 17	ovarian cancer
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0029925	Ovarian Carcinoma
+T2	Drug 176 185	melphalan
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:4053	Melphalan
+R1	Benefit Arg1:T1 Arg2:T2

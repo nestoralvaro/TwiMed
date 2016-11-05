@@ -1,0 +1,9 @@
+T1	Disease_Symptom 37 51	falling asleep
+A1	Person T1 1st
+A2	Sentiment T1 Positive
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C2830004 Vs. C0851578
+T2	Drug 0 7	Topamax
+A3	Person T2 1st
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:5514	Topiramate

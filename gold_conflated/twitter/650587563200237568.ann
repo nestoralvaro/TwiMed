@@ -1,0 +1,15 @@
+T1	Disease_Symptom 96 128	be able to get up in the morning
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0013144 Vs. C0541854
+T2	Disease_Symptom 45 51	asleep
+A2	Polarity T2 Polarity
+A3	Person T2 1st
+A4	Sentiment T2 Negative
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C2830004 Vs. C0917801
+T3	Drug 56 65	trazodone
+A5	Person T3 1st
+N3	Reference T3 Concepts:5533	Trazodone
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Outcome-negative Arg1:T3 Arg2:T1

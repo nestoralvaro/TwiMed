@@ -1,0 +1,12 @@
+T1	Symptom 213 223;239 247	depressive symptoms
+A1	Person T1 3rd
+N1	Reference T1 Concepts:C0086132	Depressive Symptoms
+T2	Symptom 231 247	anxiety symptoms
+A2	Person T2 3rd
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0003467 Vs. C0003469
+T3	Drug 104 114	quetiapine
+A3	Person T3 3rd
+N3	Reference T3 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

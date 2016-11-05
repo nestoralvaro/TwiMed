@@ -1,0 +1,31 @@
+T1	Symptom 94 115	tonic-clonic seizures
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0494475 Vs. C0234533
+T2	Symptom 94 115	tonic-clonic seizures
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:C0494475	Tonic - clonic seizures
+T3	Symptom 94 115	tonic-clonic seizures
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T3	Disagreement in concept ID: C0494475 Vs. C0234974
+T4	Symptom 82 115	generalized tonic-clonic seizures
+A4	Modality T4 Generic
+N4	Reference T4 Concepts:0	Disagreement in Concept ID
+#3	AnnotatorNotes T4	Disagreement in concept ID: C0234974 Vs. C0234533
+T5	Symptom 94 115	tonic-clonic seizures
+A5	Modality T5 Generic
+N5	Reference T5 Concepts:0	Disagreement in Concept ID
+#4	AnnotatorNotes T5	Disagreement in concept ID: C0234974 Vs. C0494475
+T6	Symptom 107 115;64 71	seizures partial
+A6	Modality T6 Generic
+N6	Reference T6 Concepts:C0234974	Simple Partial Seizures
+T7	Drug 0 13	Carbamazepine
+A7	Modality T7 Generic
+N7	Reference T7 Concepts:2554	Carbamazepine
+R1	Reason-to-use Arg1:T3 Arg2:T7
+R2	Reason-to-use Arg1:T3 Arg2:T7
+R3	Reason-to-use Arg1:T3 Arg2:T7
+R4	Reason-to-use Arg1:T6 Arg2:T7
+R5	Reason-to-use Arg1:T6 Arg2:T7
+R6	Reason-to-use Arg1:T6 Arg2:T7

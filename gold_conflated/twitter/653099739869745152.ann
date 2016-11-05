@@ -1,0 +1,9 @@
+T1	Disease_Symptom 52 63	sore throat
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0242429	Sore Throat
+T2	Disease_Symptom 68 78	runny nose
+A2	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0027424 Vs. -1
+T3	Drug 26 36	fluoxetine
+N3	Reference T3 Concepts:3386	Fluoxetine

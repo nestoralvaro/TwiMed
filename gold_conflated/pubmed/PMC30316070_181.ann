@@ -1,0 +1,15 @@
+T1	Disease_Symptom 136 147	wakefulness
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:C0043012	Wakefulness
+T2	Disease_Symptom 99 118	depressive behavior
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0344315 Vs. C0011581
+T3	Disease_Symptom 120 131	body weight
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:C0043096	Body Weight decreased
+T4	Drug 28 38	fluoxetine
+N4	Reference T4 Concepts:3386	Fluoxetine
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

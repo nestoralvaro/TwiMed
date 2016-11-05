@@ -1,0 +1,5 @@
+T1	Disease_Symptom 113 129	#bipolardisorder
+N1	Reference T1 Concepts:C0005586	Bipolar Disorder
+T2	Drug 11 22	#Duloxetine
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T2

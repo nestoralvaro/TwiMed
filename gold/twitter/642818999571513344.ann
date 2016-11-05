@@ -1,0 +1,16 @@
+T1	Drug 36 44	seroquel
+A1	Person T1 1st
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Symptom 74 78	pain
+A3	Person T2 1st
+A4	Severity T2 Severe
+A5	Status T2 Continuing
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:C0030193	Pain
+T3	Drug 25 31	Zoloft
+A7	Person T3 1st
+A8	Sentiment T3 Negative
+N3	Reference T3 Concepts:5203	Sertraline
+R1	Reason-to-use Arg1:T2 Arg2:T1
+R2	Reason-to-use Arg1:T2 Arg2:T3

@@ -1,0 +1,15 @@
+T1	Drug 132 142	quetiapine
+A1	Person T1 1st
+N1	Reference T1 Concepts:5002	Quetiapine
+T2	Disease_Symptom 47 69	sleep cycle normalizes
+A2	Person T2 1st
+A3	Status T2 Continuing
+A4	Sentiment T2 Positive
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0877792 Vs. C0851578
+T3	Disease_Symptom 74 83	panicking
+A5	Person T3 1st
+A6	Sentiment T3 Positive
+N3	Reference T3 Concepts:C0030318	Panic
+R1	Benefit Arg1:T2 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T1

@@ -1,0 +1,8 @@
+T1	Drug 153 166	buprenorphine
+A1	Person T1 3rd
+N1	Reference T1 Concepts:2476	Buprenorphine
+T2	Symptom 105 120	hepatic failure
+A2	Person T2 3rd
+A3	Severity T2 Severe
+N2	Reference T2 Concepts:C0948807	Hepatic impairment
+R1	Outcome-negative Arg1:T1 Arg2:T2

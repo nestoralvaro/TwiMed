@@ -1,0 +1,9 @@
+T1	Disease_Symptom 88 100	fibromyalgia
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C0016053	Fibromyalgia
+T2	Drug 64 74	duloxetine
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T2

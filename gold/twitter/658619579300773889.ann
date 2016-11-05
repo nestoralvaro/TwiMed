@@ -1,0 +1,11 @@
+T1	Symptom 131 138	anxiety
+A1	Person T1 1st
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:C0003467	Anxiety
+T2	Drug 150 156	celexa
+A3	Person T2 1st
+N2	Reference T2 Concepts:2771	Citalopram
+T3	Symptom 0 7	Anxiety
+N3	Reference T3 Concepts:C0003467	Anxiety
+R1	Reason-to-use Arg1:T1 Arg2:T2
+R2	Reason-to-use Arg1:T3 Arg2:T2

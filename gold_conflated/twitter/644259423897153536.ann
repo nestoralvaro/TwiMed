@@ -1,0 +1,15 @@
+T1	Disease_Symptom 105 111	nausea
+A1	Person T1 2nd
+N1	Reference T1 Concepts:C0027497	Nausea
+T2	Disease_Symptom 77 91	hallucinations
+A2	Person T2 2nd
+N2	Reference T2 Concepts:C0018524	Hallucinations
+T3	Disease_Symptom 93 100	vertigo
+A3	Person T3 2nd
+N3	Reference T3 Concepts:C0042571	Vertigo
+T4	Drug 38 49	venlafaxine
+A4	Sentiment T4 Negative
+N4	Reference T4 Concepts:5656	Venlafaxine
+R1	Outcome-negative Arg1:T4 Arg2:T1
+R2	Outcome-negative Arg1:T4 Arg2:T3
+R3	Outcome-negative Arg1:T4 Arg2:T2

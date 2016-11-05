@@ -1,0 +1,13 @@
+T1	Drug 147 157	olanzapine
+A1	Person T1 3rd
+A2	Duration T1 Regular
+N1	Reference T1 Concepts:4585	Olanzapine
+T2	Drug 114 125	ziprasidone
+A3	Person T2 3rd
+A4	Duration T2 Regular
+N2	Reference T2 Concepts:60853	Ziprasidone
+T3	Disease_Symptom 28 41	schizophrenia
+A5	Person T3 3rd
+N3	Reference T3 Concepts:C0036341	Schizophrenia
+R1	Benefit Arg1:T3 Arg2:T1
+R2	Benefit Arg1:T3 Arg2:T2

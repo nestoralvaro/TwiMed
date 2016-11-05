@@ -1,0 +1,9 @@
+T1	Disease_Symptom 103 122	emotional breakdown
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0011570 Vs. C0700361
+T2	Drug 7 17	citalopram
+A2	Person T2 1st
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:2771	Citalopram
+R1	Outcome-negative Arg1:T2 Arg2:T1

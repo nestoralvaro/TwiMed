@@ -1,0 +1,7 @@
+T1	Disease_Symptom 24 50	impossible for me to sleep
+A1	Person T1 1st
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 0 10	prednisone
+A2	Person T2 1st
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

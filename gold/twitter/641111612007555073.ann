@@ -1,0 +1,9 @@
+T1	Symptom 61 66	sleep
+A1	Person T1 1st
+A2	Severity T1 Severe
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0393761 Vs. C1262141
+T2	Drug 25 33	seroquel
+A3	Person T2 1st
+N2	Reference T2 Concepts:5002	Quetiapine
+R1	Reason-to-use Arg1:T1 Arg2:T2

@@ -1,0 +1,4 @@
+T1	Drug 12 21	#cymbalta
+A1	Person T1 2nd
+A2	Sentiment T1 Negative
+N1	Reference T1 Concepts:60834	Duloxetine

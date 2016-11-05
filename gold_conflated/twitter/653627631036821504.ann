@@ -1,0 +1,6 @@
+T1	Disease_Symptom 80 90	Depression
+A1	Status T1 Continuing
+N1	Reference T1 Concepts:C1386135	Acute depression
+T2	Drug 124 132	Cymbalta
+N2	Reference T2 Concepts:60834	Duloxetine
+R1	Benefit Arg1:T1 Arg2:T2

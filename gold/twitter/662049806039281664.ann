@@ -1,0 +1,11 @@
+T1	Symptom 81 89	addicted
+A1	Person T1 1st
+A2	Status T1 Continuing
+A3	Sentiment T1 Negative
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C1510472 Vs. -1
+T2	Drug 27 37	olanzapine
+A4	Person T2 1st
+A5	Status T2 Continuing
+A6	Sentiment T2 Negative
+N2	Reference T2 Concepts:4585	Olanzapine

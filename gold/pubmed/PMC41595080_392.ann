@@ -1,0 +1,19 @@
+T1	Disease 153 160	bipolar
+A1	Person T1 3rd
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0349208 Vs. C0005586
+T2	Drug 188 198	quetiapine
+A2	Person T2 3rd
+A3	Duration T2 Regular
+N2	Reference T2 Concepts:5002	Quetiapine
+T3	Drug 188 198	quetiapine
+A4	Person T3 3rd
+A5	Duration T3 Regular
+N3	Reference T3 Concepts:5002	Quetiapine
+T4	Disease 153 160	bipolar
+A6	Person T4 3rd
+N4	Reference T4 Concepts:C0005586	Bipolar Disorder
+R1	Reason-to-use Arg1:T4 Arg2:T3
+R2	Reason-to-use Arg1:T4 Arg2:T3
+R3	Reason-to-use Arg1:T1 Arg2:T3
+R4	Reason-to-use Arg1:T1 Arg2:T3

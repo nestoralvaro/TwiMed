@@ -1,0 +1,7 @@
+T1	Drug 97 104	Equasym
+A1	Person T1 3rd
+N1	Reference T1 Concepts:4158	Methylphenidate
+T2	Disease 54 58	ADHD
+A2	Person T2 3rd
+N2	Reference T2 Concepts:C1263846	Attention deficit hyperactivity disorder
+R1	Reason-to-use Arg1:T2 Arg2:T1

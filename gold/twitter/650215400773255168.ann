@@ -1,0 +1,8 @@
+T1	Symptom 46 51	awake
+A1	Person T1 1st
+A2	Status T1 Continuing
+N1	Reference T1 Concepts:C0917801	Sleeplessness
+T2	Drug 70 80	prednisone
+A3	Person T2 1st
+N2	Reference T2 Concepts:4900	Prednisone
+R1	Outcome-negative Arg1:T2 Arg2:T1

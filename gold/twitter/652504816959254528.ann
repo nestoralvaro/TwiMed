@@ -1,0 +1,9 @@
+T1	Symptom 29 37	vomiting
+N1	Reference T1 Concepts:C0042963	Vomiting
+T2	Symptom 18 24	nausea
+N2	Reference T2 Concepts:C0027497	Nausea
+T3	Drug 43 53	olanzapine
+A1	Sentiment T3 Positive
+N3	Reference T3 Concepts:4585	Olanzapine
+R1	Reason-to-use Arg1:T1 Arg2:T3
+R2	Reason-to-use Arg1:T2 Arg2:T3

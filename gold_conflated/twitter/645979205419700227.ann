@@ -1,0 +1,13 @@
+T1	Disease_Symptom 31 35	dead
+A1	Person T1 1st
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0085632 Vs. C0233459
+T2	Disease_Symptom 40 51	emotionless
+A2	Person T2 1st
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#2	AnnotatorNotes T2	Disagreement in concept ID: C0085632 Vs. C0233459
+T3	Drug 19 26	vyvanse
+A3	Polarity T3 Polarity
+A4	Person T3 1st
+A5	Modality T3 Hypothetical
+N3	Reference T3 Concepts:11597697	lisdexamfetamine dimesylate

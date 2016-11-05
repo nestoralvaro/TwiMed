@@ -1,0 +1,7 @@
+T1	Disease_Symptom 87 92	sleep
+A1	Polarity T1 Polarity
+A2	Person T1 1st
+N1	Reference T1 Concepts:C2830004	Somnolence
+T2	Drug 0 8	Lamictal
+N2	Reference T2 Concepts:3878	Lamotrigine
+R1	Outcome-negative Arg1:T2 Arg2:T1

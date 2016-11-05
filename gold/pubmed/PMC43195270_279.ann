@@ -1,0 +1,15 @@
+T1	Drug 121 130	docetaxel
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:3143	Docetaxel
+T2	Symptom 233 249	myelosuppression
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:C0854467	Myelosuppression
+T3	Disease 4 19	prostate cancer
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T3	Disagreement in concept ID: C0600139 Vs. C0936223
+R1	Reason-to-use Arg1:T3 Arg2:T1
+R2	Outcome-positive Arg1:T1 Arg2:T2

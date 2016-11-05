@@ -1,0 +1,7 @@
+T1	Drug 90 98	tegretol
+A1	Person T1 1st
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Disease_Symptom 57 65	Epilepsy
+A2	Person T2 1st
+N2	Reference T2 Concepts:C0014544	Epilepsy
+R1	Benefit Arg1:T2 Arg2:T1

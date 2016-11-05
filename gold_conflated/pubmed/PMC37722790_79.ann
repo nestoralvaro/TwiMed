@@ -1,0 +1,12 @@
+T1	Disease_Symptom 168 185	cerebral ischemia
+N1	Reference T1 Concepts:C0917798	Cerebral Ischemia
+T2	Disease_Symptom 116 141	neuropsychiatric problems
+N2	Reference T2 Concepts:C0233401	Psychiatric symptom
+T3	Disease_Symptom 156 164	ischemia
+N3	Reference T3 Concepts:C0022116	Ischemia
+T4	Drug 50 60	quetiapine
+A1	Modality T4 Hedged
+N4	Reference T4 Concepts:5002	Quetiapine
+R1	Benefit Arg1:T2 Arg2:T4
+R2	Benefit Arg1:T3 Arg2:T4
+R3	Benefit Arg1:T1 Arg2:T4

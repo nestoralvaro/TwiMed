@@ -1,0 +1,15 @@
+T1	Disease_Symptom 108 125	allergic rhinitis
+A1	Person T1 3rd
+A2	Modality T1 Generic
+N1	Reference T1 Concepts:C2607914	Allergic rhinitis (disorder)
+T2	Disease_Symptom 130 139	urticaria
+A3	Person T2 3rd
+A4	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0149526 Vs. C0042109
+T3	Drug 42 53	Rrupatadine
+A5	Person T3 3rd
+A6	Modality T3 Generic
+N3	Reference T3 Concepts:-1	Unknown Concept ID
+R1	Benefit Arg1:T2 Arg2:T3
+R2	Benefit Arg1:T1 Arg2:T3

@@ -1,0 +1,6 @@
+T1	Disease 40 56	optic neuropathy
+N1	Reference T1 Concepts:C0442874	Neuropathy
+T2	Drug 12 21	Docetaxel
+A1	Modality T2 Generic
+N2	Reference T2 Concepts:3143	Docetaxel
+R1	Outcome-negative Arg1:T2 Arg2:T1

@@ -1,0 +1,11 @@
+T1	Symptom 89 103	ASTHMA ATTACKS
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T1	Disagreement in concept ID: C0004096 Vs. C0549336
+T2	Drug 48 57	SINGULAIR
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:4248	Montelukast
+T3	Drug 0 5	PAXIL
+A3	Modality T3 Generic
+N3	Reference T3 Concepts:4691	Paroxetine
+R1	Reason-to-use Arg1:T1 Arg2:T2

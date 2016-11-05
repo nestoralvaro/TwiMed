@@ -1,0 +1,8 @@
+T1	Drug 75 88	carbamazepine
+A1	Modality T1 Generic
+N1	Reference T1 Concepts:2554	Carbamazepine
+T2	Disease_Symptom 136 150	DRESS syndrome
+A2	Modality T2 Generic
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0014457 Vs. -1
+R1	Outcome-negative Arg1:T1 Arg2:T2

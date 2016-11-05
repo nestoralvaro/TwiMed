@@ -1,0 +1,6 @@
+T1	Drug 38 43	paxil
+N1	Reference T1 Concepts:4691	Paroxetine
+T2	Disease_Symptom 3 10	anxiety
+N2	Reference T2 Concepts:0	Disagreement in Concept ID
+#1	AnnotatorNotes T2	Disagreement in concept ID: C0003467 Vs. C0700031
+R1	Benefit Arg1:T2 Arg2:T1
