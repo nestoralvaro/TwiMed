@@ -1,7 +1,7 @@
 # Project
 
 ## Abstract
-Please, find here the full article titled [TwiMed: Twitter and PubMed Comparable Corpus of Drugs, Diseases, Symptoms, and Their Relations](http://publichealth.jmir.org/2017/2/e24/)
+Find here the full article: [TwiMed: Twitter and PubMed Comparable Corpus of Drugs, Diseases, Symptoms, and Their Relations](http://publichealth.jmir.org/2017/2/e24/)
 ### Background
 Work on pharmacovigilance systems using texts from PubMed and Twitter typically target at different elements and use different annotation guidelines resulting in a scenario where there is no comparable set of documents from both Twitter and PubMed annotated in the same manner.
 ### Objective
